@@ -2,13 +2,13 @@
   "personajes": [
     {
       "nombre": "Zoe",
-      "gif_idle": "../images/normal1.gif",
-      "gif_hablando": "../images/normal2.gif"
+      "gif_idle": "../../images/normal1.gif",
+      "gif_hablando": "../../images/normal2.gif"
     },
     {
       "nombre": "Zeus",
-      "gif_idle": "../images/ciencia/normal1.gif",
-      "gif_hablando": "../images/ciencia/normal2.gif"
+      "gif_idle": "../../images/ciencia/normal1.gif",
+      "gif_hablando": "../../images/ciencia/normal2.gif"
     }
   ],
   "conversacion": [

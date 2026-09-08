@@ -899,8 +899,8 @@ function cfgFeedback(tipo) {
     const fb = (gameConfig && gameConfig.feedback) || {};
     const item = fb[tipo] || {};
     const defaults = {
-        acierto: { texto: "¡Muy bien! Esa parte va ahí.", gif: "../images/correcto.gif" },
-        error: { texto: "¡Inténtalo otra vez! Observa dónde puede ir.", gif: "../images/incorrecto.gif" }
+        acierto: { texto: "¡Muy bien! Esa parte va ahí.", gif: "../../images/correcto.gif" },
+        error: { texto: "¡Inténtalo otra vez! Observa dónde puede ir.", gif: "../../images/incorrecto.gif" }
     };
     const def = defaults[tipo] || {};
     return {
@@ -1315,7 +1315,7 @@ function terminarJuego() {
     setTimeout(function () {
         $("#principal").fadeToggle(500);
         setTimeout(function () {
-            document.getElementById("final").style.backgroundImage = "url(../images/victoria.gif)";
+            document.getElementById("final").style.backgroundImage = "url(../../images/victoria.gif)";
             document.getElementById("texto_final").innerText = gameConfig.textos.cierre;
             $("#final").fadeToggle(1000);
         }, 500);
