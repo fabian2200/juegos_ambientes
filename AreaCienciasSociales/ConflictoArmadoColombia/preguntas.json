@@ -1,0 +1,362 @@
+[
+  {
+    "pregunta": "¿Cuál fue el acuerdo de paz firmado entre el gobierno colombiano y el M-19 en 1990?",
+    "opciones": [
+      ["Acuerdo de Paz de Caracas", false],
+      ["Acuerdo de Paz de Tlaxcala", false],
+      ["Acuerdo de Paz de Corinto", true],
+      ["Acuerdo de Paz de Santo Domingo", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes guerrillas se desmovilizó y se convirtió en partido político en 1991?",
+    "opciones": [
+      ["ELN", false],
+      ["MIR", false],
+      ["M-19", true],
+      ["ERP", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el año en que se creó el grupo paramilitar Autodefensas Unidas de Colombia (AUC)?",
+    "opciones": [
+      ["1982", false],
+      ["1997", true],
+      ["2000", false],
+      ["2005", false]
+    ]
+  },
+  {
+    "pregunta": "¿Qué presidente colombiano impulsó la Ley de Justicia y Paz en 2005 para desmovilizar a grupos paramilitares?",
+    "opciones": [
+      ["Álvaro Uribe Vélez", true],
+      ["Juan Manuel Santos", false],
+      ["Andrés Pastrana", false],
+      ["César Gaviria Trujillo", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del grupo paramilitar liderado por Carlos Castaño?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", false],
+      ["AUC", true],
+      ["M-19", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el año en que se desmovilizaron oficialmente las FARC?",
+    "opciones": [
+      ["2012", false],
+      ["2016", true],
+      ["2018", false],
+      ["2020", false]
+    ]
+  },
+  {
+    "pregunta": "¿Qué presidente colombiano implementó la política de Seguridad Democrática en respuesta al conflicto armado?",
+    "opciones": [
+      ["César Gaviria Trujillo", false],
+      ["Andrés Pastrana", false],
+      ["Álvaro Uribe Vélez", true],
+      ["Juan Manuel Santos", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del movimiento político fundado por exintegrantes de la guerrilla M-19?",
+    "opciones": [
+      ["Alianza Democrática M19", true],
+      ["Movimiento Nacionalista M19", false],
+      ["Alianza Social M19", false],
+      ["Alianza Verde", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el año en que se firmó el acuerdo de paz definitivo entre el gobierno colombiano y las FARC?",
+    "opciones": [
+      ["2014", false],
+      ["2016", true],
+      ["2018", false],
+      ["2020", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del partido político fundado por exintegrantes del grupo paramilitar AUC?",
+    "opciones": [
+      ["Partido Patriótico", false],
+      ["Partido de la Libertad", false],
+      ["Partido de la Reconciliación", false],
+      ["Partido de Integración Nacional(PIN)", true]
+    ]
+  },
+  {
+    "pregunta": "¿Qué organismo internacional supervisó el proceso de desarme de las FARC?",
+    "opciones": [
+      ["ONU", true],
+      ["OEA", false],
+      ["CICR", false],
+      ["UNESCO", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes causas no estuvo relacionada con el conflicto armado en Colombia?",
+    "opciones": [
+      ["Desigualdad social", false],
+      ["Narcotráfico", false],
+      ["Pobreza extrema", false],
+      ["Unificación de Corea", true]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del movimiento guerrillero fundado en 1965 como una escisión del Partido Comunista Colombiano?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", true],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes guerrillas fue fundada en 1967 y se autodenominó como el 'ejército del pueblo'?",
+    "opciones": [
+      ["FARC", true],
+      ["ELN", false],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del presidente colombiano que implementó el Plan Colombia en el año 2000?",
+    "opciones": [
+      ["Álvaro Uribe Vélez", false],
+      ["Andrés Pastrana Arango", true],
+      ["César Gaviria Trujillo", false],
+      ["Ernesto Samper", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre de la operación militar que llevó a la muerte de Pablo Escobar en 1993?",
+    "opciones": [
+      ["Operación Justicia Eterna", false],
+      ["Operación Panamá", false],
+      ["Operación Fénix", false],
+      ["Operación Cazador", true]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes organizaciones guerrilleras no se desmovilizó y continúa activa en la actualidad?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", true],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos paramilitares no estuvo involucrado en el conflicto armado en Colombia?",
+    "opciones": [
+      ["AUC", false],
+      ["M-19", true],
+      ["ERP", false],
+      ["ACCU", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del movimiento guerrillero que se desmovilizó y se convirtió en partido político en 1990?",
+    "opciones": [
+      ["M-19", true],
+      ["FARC", false],
+      ["ELN", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones no fue una estrategia utilizada en el conflicto armado en Colombia?",
+    "opciones": [
+      ["Atentados terroristas", false],
+      ["Secuestros", false],
+      ["Procesos de paz", true],
+      ["Desplazamiento forzado", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del cartel liderado por los hermanos Rodríguez Orejuela?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", false],
+      ["Cártel de Cali", true],
+      ["AUC",false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del movimiento guerrillero fundado en 1966 por una escisión del Partido Comunista Colombiano?",
+    "opciones": [
+      ["FARC", true],
+      ["ELN", false],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos paramilitares estuvo involucrado en la masacre de Mapiripán en 1997?",
+    "opciones": [
+      ["AUC", true],
+      ["FARC", false],
+      ["ELN", false],
+      ["M-19", false]
+    ]
+  },
+  {
+    "pregunta": "¿Qué año marcó el inicio de las negociaciones de paz entre el gobierno colombiano y las FARC en La Habana, Cuba?",
+    "opciones": [
+      ["2010", false],
+      ["2012", false],
+      ["2014", true],
+      ["2016", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones NO es una de las causas del conflicto armado en Colombia?",
+    "opciones": [
+      ["Desigualdad social", false],
+      ["Exclusión política", false],
+      ["Corrupción generalizada", false],
+      ["Desarme total", true]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del grupo guerrillero fundado en 1970 que se autodenominaba como 'Tendencia Leninista'?",
+    "opciones": [
+      ["FARC", true],
+      ["ELN", false],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Qué presidente colombiano impulsó la Ley de Justicia y Paz en 2005 para desmovilizar a grupos paramilitares?",
+    "opciones": [
+      ["Álvaro Uribe Vélez", true],
+      ["Juan Manuel Santos", false],
+      ["Andrés Pastrana", false],
+      ["César Gaviria Trujillo", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos paramilitares no estuvo involucrado en el conflicto armado en Colombia?",
+    "opciones": [
+      ["AUC", false],
+      ["FARC", true],
+      ["ELN", false],
+      ["M-19", false]
+    ]
+  },
+    {
+    "pregunta": "¿Cuál fue el año en que se firmó el acuerdo de paz definitivo entre el gobierno colombiano y las FARC?",
+    "opciones": [
+      ["2014", false],
+      ["2016", true],
+      ["2018", false],
+      ["2020", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones NO fue un actor involucrado en el conflicto armado en Colombia?",
+    "opciones": [
+      ["Fuerzas Armadas Revolucionarias de Bolivia", true],
+      ["Ejército de Liberación Nacional", false],
+      ["Movimiento 19 de Abril", false],
+      ["Autodefensas Unidas de Colombia", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del movimiento guerrillero fundado en 1964 que inicialmente luchaba por la reforma agraria?",
+    "opciones": [
+      ["FARC", true],
+      ["ELN", false],
+      ["M-19", false],
+      ["EPL", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones NO fue una estrategia utilizada por las FARC durante el conflicto armado?",
+    "opciones": [
+      ["Secuestros", false],
+      ["Atentados terroristas", false],
+      ["Participación política", true],
+      ["Financiamiento del narcotráfico", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos paramilitares fue liderado por Vicente Castaño?",
+    "opciones": [
+      ["AUC", true],
+      ["FARC", false],
+      ["ELN", false],
+      ["M-19", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el año en que se desmovilizó oficialmente el grupo guerrillero M-19?",
+    "opciones": [
+      ["1990", true],
+      ["1994", false],
+      ["1998", false],
+      ["2002", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones NO es una organización guerrillera en Colombia?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", false],
+      ["M-19", false],
+      ["ACLU", true]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál fue el nombre del grupo paramilitar liderado por Carlos Castaño?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", false],
+      ["AUC", true],
+      ["M-19", false]
+    ]
+  },
+  {
+    "pregunta": "¿Qué presidente colombiano implementó la política de Seguridad Democrática en respuesta al conflicto armado?",
+    "opciones": [
+      ["César Gaviria Trujillo", false],
+      ["Andrés Pastrana", false],
+      ["Álvaro Uribe Vélez", true],
+      ["Juan Manuel Santos", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes grupos guerrilleros se autodenominaba como 'Ejército Popular de Liberación'?",
+    "opciones": [
+      ["FARC", false],
+      ["ELN", false],
+      ["M-19", false],
+      ["EPL", true]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes presidentes colombianos recibió el Premio Nobel de la Paz por sus esfuerzos en el proceso de paz?",
+    "opciones": [
+      ["Álvaro Uribe Vélez", false],
+      ["Juan Manuel Santos", true],
+      ["Andrés Pastrana", false],
+      ["César Gaviria Trujillo", false]
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes opciones NO es una víctima del conflicto armado en Colombia?",
+    "opciones": [
+      ["Desplazados internos", false],
+      ["Combatientes desmovilizados", false],
+      ["Narcotraficantes extraditados", true],
+      ["Líderes sociales asesinados", false]
+    ]
+  }
+]

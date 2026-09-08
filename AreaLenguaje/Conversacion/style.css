@@ -1,0 +1,367 @@
+.borde {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  color: #fff;
+}
+
+body {
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-position: center center;
+  background-attachment: fixed;
+  color: #fff;
+  color: #262626;
+}
+
+body::before {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  z-index: -1;
+  content: url("img/1.png") url("img/2.png") url("img/3.png") url("img/4.png")
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.col-1 .btn-danger,
+.btn-warning {
+  width: 70px;
+  height: 70px;
+  font-size: 31px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-right: 9px;
+}
+
+.btn-warning {
+  border-color: #000;
+}
+
+.overlay {
+  background-image: url(../../images/normal1.gif);
+  background-size: 90% 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200px;
+  /* Empieza fuera de la pantalla */
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+.overlay::before {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  z-index: -1;
+  content: url("../../images/normal1.gif") url("../../images/normal2.gif")
+}
+
+@keyframes moverDerecha {
+  from {
+    left: -100%;
+    opacity: 0;
+  }
+
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes moverIzquierda {
+  from {
+    left: 0;
+    opacity: 1;
+  }
+
+  to {
+    left: -100%;
+    opacity: 0;
+  }
+}
+
+.borde2 {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff !important;
+  font-size: 19px;
+}
+
+#bienvenida {
+  width: 55%;
+  padding-left: 40pt;
+  font-size: 20px !important;
+  text-align: justify;
+}
+
+.nube {
+  background-image: url(../../images/nube.png);
+  background-size: 100% 100%;
+  width: 558pt;
+  height: 456pt;
+  position: absolute;
+  z-index: 1000;
+  bottom: -362pt;
+  left: 422pt;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  animation-duration: 2.8s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes moverArriba {
+  from {
+    bottom: -362pt;
+    opacity: 0;
+  }
+
+  to {
+    bottom: 147pt;
+    opacity: 1;
+  }
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+  from {
+    bottom: 147pt;
+    opacity: 1;
+  }
+
+  to {
+    bottom: -362pt;
+    opacity: 0;
+  }
+}
+
+.final {
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.904);
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+.swal2-html-container {
+  overflow: hidden;
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.swal2-modal {
+  width: 45% !important
+}
+
+.persona1 {
+  background-image: url('https://img.lovepik.com/free-png/20210919/lovepik-children-in-cartoon-opening-season-png-image_400415569_wh1200.png');
+  background-size: 175%;
+  top: 224pt;
+  width: 155pt;
+  height: 256pt;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200pt;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mover_persona_1 {
+  from {
+    left: -200pt;
+  }
+
+  to {
+    left: 10%;
+  }
+}
+
+@keyframes quitar_persona_1 {
+  from {
+    left: 10%;
+  }
+
+  to {
+    left: -200pt;
+  }
+}
+
+.persona2 {
+  background-image: url('https://img.lovepik.com/free-png/20210919/lovepik-children-in-cartoon-opening-season-png-image_400415569_wh1200.png');
+  background-size: 175%;
+  top: 224pt;
+  width: 155pt;
+  height: 256pt;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  right: -200pt;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mover_persona_2 {
+  from {
+    right: -200pt;
+  }
+
+  to {
+    right: 10%;
+  }
+}
+
+@keyframes quitar_persona_2 {
+  from {
+    right: 10%;
+  }
+
+  to {
+    right: -200pt;
+  }
+}
+
+.dialogo1 {
+  display: none;
+  width: 275pt;
+  height: 149pt;
+  position: relative;
+  top: -106pt;
+  left: 93pt;
+  background-image: url(img/nube.png);
+  background-position: center;
+  background-size: 106% 110%;
+  background-repeat: no-repeat;
+  padding: 20pt;
+  padding-bottom: 40pt;
+}
+
+.dialogo2 {
+  display: none;
+  width: 275pt;
+  height: 149pt;
+  position: relative;
+  top: -106pt;
+  right: 205pt;
+  background-image: url(img/nube2.png);
+  background-position: center;
+  background-size: 106% 110%;
+  background-repeat: no-repeat;
+  padding: 20pt;
+  padding-bottom: 40pt;
+}
+
+#parrafo1, #parrafo2 {
+  font-size: 17pt;
+  font-weight: bold;
+}
+
+.swal2-container.swal2-center>.swal2-popup {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
+  justify-self: center;
+  position: absolute;
+  bottom: 10pt !important;
+}
+
+.opcion {
+  cursor: pointer;
+}

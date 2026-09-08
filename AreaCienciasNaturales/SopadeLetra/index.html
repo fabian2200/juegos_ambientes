@@ -1,0 +1,279 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sopa de letras</title>
+
+  <link rel="stylesheet" type="text/css" href="style.css" media="all">
+  <link rel="stylesheet" type="text/css" href="jquery-ui.css">
+  <link href="jquery.tagit.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="wordfind.js"></script>
+  <script type="text/javascript" src="wordfindgame.js"></script>
+  <script type="text/javascript" src="jquery-ui.min.js"></script>
+  <script type="text/javascript" src="tag-it.js"></script>
+  <script src="../../bootstrap/sweetalert.js"></script>
+  <script src="../../bootstrap/jquery.min.js"></script>
+  <link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+
+
+</head>
+
+<body>
+  <style media="print">
+    .ocultar {
+      display: none;
+    }
+
+    .col-md-3 {
+      width: 25%;
+      float: left;
+    }
+
+    .col-md-9 {
+      width: 75%;
+      float: left;
+    }
+  </style>
+  <div style="display: none" class="overlay">
+    <div class="nube">
+      <p class="borde2" id="bienvenida"></p>
+    </div>
+    <div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+      <button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning"
+        style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: black;">Omitir <i
+          style="color: black" class="fa fa-forward" aria-hidden="true"></i></button>
+    </div>
+  </div>
+
+  <div
+    style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;"
+    id="fondo_blanco">
+
+  </div>
+
+  <div style="display: none; text-align: center;" id="final" class="final">
+    <h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+    <hr>
+    <div class="row">
+      <div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+        <h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+      </div>
+      <div class="col-3"></div>
+      <div class="col-3 text-center">
+        <button style="width: 80%;border-radius: 20pt; font-size: 23px;" onclick="window.location.reload(1)"
+          class="btn btn-success">Si, jugar</button>
+      </div>
+      <div class="col-3 text-center">
+        <button style="width: 80%; border-radius: 20pt; font-size: 23px;" onclick="history.back()"
+          class="btn btn-danger">No,
+          salir</button>
+      </div>
+      <div class="col-3"></div>
+    </div>
+  </div>
+  <div id="principal" class="container" style="overflow: hidden;">
+    <div class="row text-center">
+      <div style="margin-top: 30px; width: 100%;">
+        <div class="row">
+          <div class="panel panel-default" style="width: 100%; background-color: transparent; border-color: transparent; width: 1000pt;">
+            <hr>
+            <div style="margin-top: 35px" class="panel-body">
+              <div class="row" style="width: 98%;">
+                <div id="pal" class="col-2">
+                  <h3>Palabras</h3>
+                  <hr>
+                  <div id='Palabras'>
+
+                  </div>
+                </div>
+                <div class="col-7">
+                  <div id='juego' style="background-color: white"></div>
+                </div>
+                <div class="col-3">
+                  <div class="opciones text-center">
+                    <h3 style="color: black">Opciones</h3>
+                    <hr>
+                    <button onclick="elegir();" class="btn btn-success btn-lg"> Crear Juego</button>
+                    <br>
+                    <button id='solve' class="btn btn-warning btn-lg"> Resolver</button>
+                    <br>
+                    <button onclick="history.back();" class="btn btn-danger btn-lg"> Volver</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    var words = [];
+    var gamePuzzle;
+    $(document).ready(function () {
+      setTimeout(() => {
+        $('#principal').fadeToggle(1000);
+        $('#fondo_blanco').fadeToggle(3000);
+        setTimeout(() => {
+          const divAnimado = document.querySelector('.overlay');
+          divAnimado.style.animationName = 'moverDerecha';
+          divAnimado.style.animationDirection = 'normal';
+          divAnimado.style.display = 'block';
+          setTimeout(() => {
+            const divAnimado2 = document.querySelector('.nube');
+            divAnimado2.style.animationName = 'moverArriba';
+            divAnimado2.style.animationDirection = 'normal';
+            divAnimado2.style.display = 'block';
+            setTimeout(() => {
+              divAnimado.style.backgroundImage = "url(../../images/ciencia/normal2.gif)"
+              maquina2("bienvenida", 'Hola, soy Genio. <br> Selecciona una de las siguientes categorias para jugar, y luego busca las palabras en la sopa de letras. <br> ¡Tú Puedes!', 50, 1);
+            }, 3000)
+          }, 2000)
+        })
+      }, 200)
+    });
+
+    function maquina2(contenedor, texto, intervalo, n) {
+      var i = 0,
+        // Creamos el timer
+        timer = setInterval(function () {
+          if (i < texto.length) {
+            // Si NO hemos llegado al final del texto..
+            // Vamos añadiendo letra por letra y la _ al final.
+            $("#" + contenedor).html(texto.substr(0, i++) + "_");
+          } else {
+            // En caso contrario..
+            // Salimos del Timer y quitamos la barra baja (_)
+            clearInterval(timer);
+            $("#" + contenedor).html(texto);
+            if (!cerrardo) {
+              document.querySelector('#btnomitir').style.display = "none";
+              setTimeout(() => {
+                cerrar_anuncio();
+              }, 3000)
+            }
+            // Auto invocamos la rutina n veces (0 para infinito)
+            if (--n != 0) {
+              setTimeout(function () {
+                maquina2(contenedor, texto, intervalo, n);
+              }, 3600);
+            }
+          }
+        }, intervalo);
+    }
+
+    let cerrardo = false;
+    function cerrar_anuncio() {
+      if(!cerrardo){
+        let audio2 = new Audio("../../sounds/fondo.mp3");
+        audio2.play();
+        audio2.volume = 0.2;
+        cerrardo = true;
+        const divAnimado2 = document.querySelector('.nube');
+        divAnimado2.style.animationName = 'moverabajo';
+        const divAnimado = document.querySelector('.overlay');
+        divAnimado.style.backgroundImage = "url(../../images/ciencia/normal1.gif)";
+        $('#fondo_blanco').fadeToggle(3000);
+        setTimeout(function () {
+          divAnimado.style.animationName = 'moverIzquierda';
+          divAnimado.style.animationDirection = 'normal';
+          setTimeout(() => {
+            $('#principal').fadeToggle(1000);
+            elegir();
+          }, 2000)
+        }, 2000);
+      }
+    }
+
+    function elegir() {
+      Swal.fire({
+        title: 'Seleccione una Categoria...',
+        icon: 'info',
+        html: '<div style="padding-top: 20px"  class="row">' +
+          '<div class="col-3"><div><img onclick="seleccionar(this, 1)" class="imagen_Vocal" src="images/repro.png" alt=""></div></div>' +
+          '<div class="col-3"><div><img onclick="seleccionar(this, 2)"" class="imagen_Vocal" src="images/eco.png" alt=""></div></div>' +
+          '<div class="col-3"><div><img onclick="seleccionar(this, 3)"" class="imagen_Vocal" src="images/tabla.png" alt=""></div></div>' +
+          '<div class="col-3"><div><img onclick="seleccionar(this, 4)"" class="imagen_Vocal" src="images/medi.png" alt=""></div></div>' +
+          '</div>',
+        showCloseButton: false,
+        showCancelButton: false,
+        showConfirmButton: false,
+        allowOutsideClick: false,
+        focusConfirm: false,
+      });
+    }
+
+    function seleccionar(elemento, tipo) {
+
+      var base_preguntas = readText("datos.json");
+      interprete_bp = JSON.parse(base_preguntas);
+
+      var datos = [];
+      let tipo_letra = "";
+
+      switch (tipo) {
+        case 1:
+          datos = randomValueGenerator(interprete_bp[0]);
+          tipo_letra = "Reproducción de los seres vivos";
+          break;
+        case 2:
+          datos = randomValueGenerator(interprete_bp[1]);
+          tipo_letra = "Los ecosistemas";
+          break;
+        case 3:
+          datos = randomValueGenerator(interprete_bp[2]);
+          tipo_letra = "la tabla periódica y sus componentes";
+          break;
+        case 4:
+          datos = randomValueGenerator(interprete_bp[3]);
+          tipo_letra = "Unidades de medidas";
+          break;
+        default:
+          break;
+      }
+
+      elemento.classList.add("seleccionado");
+
+      setTimeout(() => {
+        swal.close();
+        
+        words = [];
+
+        for (i = 0; i < 10; i++) {
+          words.push(datos[i].palabra);
+        }
+
+        $('#Juegos').show();
+        gamePuzzle = wordfindgame.create(words, '#juego', '#Palabras');
+
+        setTimeout(function () {
+          let audio2 = new Audio('../../sounds/fondo.mp3');
+          audio2.play();
+        }, 100);
+      }, 1000)
+    }
+
+    function readText(ruta_local) {
+      var texto = null;
+      var xmlhttp = new XMLHttpRequest();
+      xmlhttp.open("GET", ruta_local, false);
+      xmlhttp.send();
+      if (xmlhttp.status == 200) {
+        texto = xmlhttp.responseText;
+      }
+      return texto;
+    }
+
+
+    function randomValueGenerator(vector) {
+      return vector.sort(function () { return Math.random() - 0.5 });
+    };
+
+    $('#solve').click(function () { wordfindgame.solve(gamePuzzle, words); });
+  </script>
+</body>
+
+</html>

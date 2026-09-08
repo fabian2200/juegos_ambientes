@@ -1,0 +1,604 @@
+.borde {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  color: #fff;
+}
+
+@media only screen and (max-width: 1360px) {
+  body {
+    width: 100%;
+    height: 70% !important;
+    background-image: url("fondo.png");
+    background-repeat: repeat-x;
+    animation: mover 10s linear infinite forwards;
+    background-size: 100% 617%;
+    background-position: 0 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+  }
+}
+
+body {
+  width: 100%;
+  height: 70% !important;
+  background-image: url("fondo.png");
+  background-repeat: repeat-x;
+  animation: mover 9s linear infinite forwards;
+  background-size: 100% 717%;
+  background-position: 0 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+
+
+@keyframes shake {
+  0% { transform: translate(0, 0); background-position: 0 0; }
+  10% { transform: translate(-10px, 0); background-position: -10px 0; }
+  20% { transform: translate(10px, 0); background-position: 10px 0; }
+  30% { transform: translate(-10px, 0); background-position: -10px 0; }
+  40% { transform: translate(10px, 0); background-position: 10px 0; }
+  50% { transform: translate(-10px, 0); background-position: -10px 0; }
+  60% { transform: translate(10px, 0); background-position: 10px 0; }
+  70% { transform: translate(-10px, 0); background-position: -10px 0; }
+  80% { transform: translate(10px, 0); background-position: 10px 0; }
+  90% { transform: translate(-10px, 0); background-position: -10px 0; }
+  100% { transform: translate(0, 0); background-position: 0 0; }
+}
+
+@keyframes mover {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -1600px 0;
+  }
+}
+
+@media only screen and (max-width: 1360px) {
+  @keyframes mover {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: -1350px 0;
+    }
+  }
+}
+
+
+.col-1 .btn-danger,
+.btn-warning {
+  width: 70px;
+  height: 70px;
+  font-size: 31px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-right: 9px;
+}
+
+.btn-warning {
+  border-color: #000;
+}
+
+.overlay {
+  background-image: url(../../images/normal1.gif);
+  background-size: 90% 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200px;
+  /* Empieza fuera de la pantalla */
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+.overlay::before {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  z-index: -1;
+  content: url("../../images/normal1.gif") url("../../images/normal2.gif")
+}
+
+@keyframes moverDerecha {
+  from {
+    left: -100%;
+    opacity: 0;
+  }
+
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+@keyframes moverIzquierda {
+  from {
+    left: 0;
+    opacity: 1;
+  }
+
+  to {
+    left: -100%;
+    opacity: 0;
+  }
+}
+
+.borde2 {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff !important;
+  font-size: 19px;
+}
+
+#bienvenida {
+  width: 55%;
+  padding-left: 40pt;
+  font-size: 20px !important;
+  text-align: justify;
+}
+
+.nube {
+  background-image: url(../../images/nube.png);
+  background-size: 100% 100%;
+  width: 558pt;
+  height: 456pt;
+  position: absolute;
+  z-index: 1000;
+  bottom: -362pt;
+  left: 422pt;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  animation-duration: 2.8s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes moverArriba {
+  from {
+    bottom: -362pt;
+    opacity: 0;
+  }
+
+  to {
+    bottom: 147pt;
+    opacity: 1;
+  }
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+  from {
+    bottom: 147pt;
+    opacity: 1;
+  }
+
+  to {
+    bottom: -362pt;
+    opacity: 0;
+  }
+}
+
+.final {
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.904);
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+.swal2-html-container {
+  overflow: hidden;
+}
+
+.swal2-modal {
+  width: 50% !important
+}
+
+.persona1 {
+  background-image: url('https://img.lovepik.com/free-png/20210919/lovepik-children-in-cartoon-opening-season-png-image_400415569_wh1200.png');
+  background-size: 175%;
+  top: 224pt;
+  width: 155pt;
+  height: 256pt;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200pt;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mover_persona_1 {
+  from {
+    left: -200pt;
+  }
+
+  to {
+    left: 10%;
+  }
+}
+
+.persona2 {
+  background-image: url('https://img.lovepik.com/free-png/20210919/lovepik-children-in-cartoon-opening-season-png-image_400415569_wh1200.png');
+  background-size: 175%;
+  top: 224pt;
+  width: 155pt;
+  height: 256pt;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  right: -200pt;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes mover_persona_2 {
+  from {
+    right: -200pt;
+  }
+
+  to {
+    right: 10%;
+  }
+}
+
+.dialogo1 {
+  display: none;
+  width: 275pt;
+  height: 149pt;
+  position: relative;
+  top: -106pt;
+  left: 93pt;
+  background-image: url(img/nube.png);
+  background-position: center;
+  background-size: 106% 110%;
+  background-repeat: no-repeat;
+  padding: 20pt;
+  padding-bottom: 40pt;
+}
+
+.dialogo2 {
+  display: none;
+  width: 275pt;
+  height: 149pt;
+  position: relative;
+  top: -106pt;
+  right: 205pt;
+  background-image: url(img/nube2.png);
+  background-position: center;
+  background-size: 106% 110%;
+  background-repeat: no-repeat;
+  padding: 20pt;
+  padding-bottom: 40pt;
+}
+
+#parrafo1, #parrafo2 {
+  font-size: 17pt;
+  font-weight: bold;
+}
+
+.swal2-modal {
+  width: 40% !important
+}
+
+.swal2-html-container {
+  overflow: hidden !important;
+}
+
+.eyes{
+  position: absolute;
+  top: 95%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+.eye{
+  width: 70%;
+  height: 300px;
+  display: inline-block;
+  margin: 40px;
+  position: relative;
+}
+
+.flecha{
+  position: absolute;
+  height: 200px;
+  top: 79%;
+  left: 49%;
+  transition-property: top, left;
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+  z-index: 10001;
+}
+
+.globos {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+.globo_1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 20%;
+  height: 100px;
+  width: 100px;
+  background-image: url(globo_1.png);
+  background-size: 73%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.globo_1::before{
+  position:absolute; 
+  width:0; 
+  height:0; 
+  overflow:hidden; 
+  z-index:-1;
+  content:url("globo_1.png")
+          url("globo_2.png")
+}
+
+.globo_2::before{
+  position:absolute; 
+  width:0; 
+  height:0; 
+  overflow:hidden; 
+  z-index:-1;
+  content:url("globo_1.png")
+          url("globo_2.png")
+}
+
+.globo_2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 20%;
+  height: 100px;
+  width: 100px;
+  background-image: url(globo_1.png);
+  background-size: 73%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+.arco {
+  position: absolute;
+  width: 439px;
+  top: 87%;
+  left: 36%;
+}
+
+.div_texto {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  display: flex;
+  top: 47%;
+}
+
+.miDiv {
+  position: absolute;
+  top: 100px;
+  width: 300px;
+  height: 100px;
+  background-image: url(nube.png);
+  background-size: 30% 50%;
+  background-position-x: right;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+#miObjeto {
+  position: absolute;
+    background-image: url(moto.gif);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 51%;
+    left: 56px;
+    width: 220px;
+    height: 190px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: transform 0.5s ease, top 2s ease;
+    display: flex;
+    justify-content: center;
+}
+
+#miObjeto::before{
+  position:absolute; 
+  width:0; 
+  height:0; 
+  overflow:hidden; 
+  z-index:-1;
+  content:url("moto.gif")
+          url("avion2.gif")
+          url("avion3.png")
+}
+
+@font-face {
+  font-family: Orbitron;
+  src: url(fuente_reloj.ttf);
+}
+
+.reloj {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+.collapse {
+  width: 60%;
+  height: 60%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.collapse p {
+  margin: 0;
+  line-height: 18px;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.progress-bar-container {
+  width: 200px !important;
+  background-color: #f2f2f2;
+  height: 40px;
+  border-radius: 30px;
+  border: 3px solid gray;
+  overflow: hidden;
+  margin-left: 20px;
+}
+
+.progress-bar {
+  height: 34px !important;
+  background-color: #4CAF50;
+  width: 100%;
+  transition: width 1s linear;
+  border-radius: 30px 0px 0px 30px;
+  height: 40px;
+}
+
+.direccion1 {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(128, 128, 128, 0.452);
+  border: 3px solid white;
+  border-radius: 20px;
+  position: absolute;
+  right: 100px;
+  bottom: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.direccion2 {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(128, 128, 128, 0.452);
+  border: 3px solid white;
+  border-radius: 20px;
+  position: absolute;
+  right: 100px;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+#llanta {
+  height: 20px;
+  width: 60%;
+  position: absolute;
+  bottom: 30px;
+}

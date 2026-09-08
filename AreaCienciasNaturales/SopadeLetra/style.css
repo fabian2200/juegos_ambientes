@@ -1,0 +1,350 @@
+/**
+* Wordfind.js 0.0.1
+* (c) 2012 Bill, BunKat LLC.
+* Wordfind is freely distributable under the MIT license.
+* For all details and documentation:
+*     http://github.com/bunkat/wordfind
+*/
+body{
+	background: url(../portadas/sopa_letras.png);
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	color: #fff;
+	height: 100vh;
+	text-align: center;
+	color: #262626;
+}
+
+p {
+  font: 22pt sans-serif;
+  margin: 20px 20px 0px 20px;
+}
+
+/**
+* Styles for the puzzle
+*/
+#juego {
+  border: 1px solid black;
+  padding: 20px;
+  float: left;
+  margin: 0px 20px;
+  border-radius: 10px !important;
+}
+
+#juego div {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* style for each square in the puzzle */
+#juego .puzzleSquare {
+  height: 36px;
+  width: 36px;
+  text-transform: uppercase;
+  background-color: white;
+  border: 0;
+  font: 1em sans-serif;
+  font-size: 25px;
+  border: 1px solid;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+/* indicates when a square has been selected */
+#juego .selected {
+  background-color: orange;
+}
+
+/* indicates that the square is part of a word that has been found */ 
+#juego .found {
+  background-color: #e83967;
+  color: white;
+}
+
+#juego .solved {
+  background-color: purple;
+  color: white;
+}
+
+/* indicates that all words have been found */
+#juego .complete {
+  background-color: green;
+}
+
+
+#Palabras {
+  padding-top: 10px;
+}
+#Palabras ul {
+  list-style-type: none;
+}
+
+#Palabras li {
+  padding: 3px 0;
+  font: 1em sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 22px;
+}
+
+/* indicates that the word has been found */
+#Palabras .wordFound {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.swal2-html-container {
+  overflow: hidden;
+}
+
+.col-md-6 {
+  padding-top: 10px;
+}
+
+.col-md-6 button {
+  width: 100% !important;
+}
+
+.opciones button {
+  width: 90%;
+  font-size: 20px !important;
+  padding: 5px !important;
+  margin-bottom: 6px !important;
+  border-radius: 20px !important;
+  border: 3px solid #fff;
+  font-weight: bold;
+}
+
+.opciones{
+  width: 100%;
+  padding: 19px;
+  padding-top: 10px !important;
+  background-color: #4494d0;
+  border-radius: 10px;
+}
+
+#pal{
+  padding: 19px;
+  padding-top: 10px !important;
+  background-color: #a7d165;
+  border-radius: 10px;
+  height: fit-content;
+}
+
+#Palabras ul {
+  padding-left: 0px;
+}
+
+.tit {
+  font-size: 35px;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-family: inherit;
+  color: rgb(255, 255, 255);
+}
+
+.swal2-modal {
+  width: 60% !important
+}
+
+.swal2-html-container {
+  overflow-x: hidden !important;
+  padding: 8px !important;
+}
+
+.swal2-styled.swal2-confirm {
+  border: 0;
+  border-radius: 0.25em;
+  background: initial;
+  background-color: #7066e0;
+  color: #fff;
+  font-size: 1.7em !important;
+}
+
+.imagen_Vocal {
+  width: 100%;
+  border: 2px dashed;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 14px;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.imagen_Vocal:hover{
+  transform: scale(1.05);
+}
+
+.col-4 {
+  padding: 0px !important;
+  text-align: center;
+}
+
+.col-4 div{
+  width: 90%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.seleccionado {
+  background-color: #85d928;
+}
+
+body{
+	background: url(images/fondo.png);
+  background-size: 100% 100%;
+	background-position: center center;
+	background-attachment: fixed;
+	color: #fff;
+	height: 100vh;
+}
+
+span.f {
+  color: red;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 1300px !important;
+}
+
+.borde {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+  1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+}
+
+.overlay {
+  background-image: url(../../images/ciencia/normal1.gif);
+  background-size: 90% 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200px; /* Empieza fuera de la pantalla */
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+.overlay::before{
+  position:absolute; 
+  width:0; 
+  height:0; 
+  overflow:hidden; 
+  z-index:-1;
+  content:url("../../images/ciencia/normal1.gif")
+          url("../../images/ciencia/normal2.gif")
+}
+
+@keyframes moverDerecha {
+  from { left: -100%; opacity: 0;}
+  to { left: 0; opacity: 1;}
+}
+
+@keyframes moverIzquierda {
+  from { left: 0; opacity: 1;}
+  to { left: -100%; opacity: 0;}
+}
+
+.borde2 {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+  1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff !important;
+  font-size: 19px;
+}
+
+#bienvenida {
+  width: 55%;
+  padding-left: 40pt;
+  font-size: 20px !important;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.nube {
+  background-image: url(../../images/nube.png);
+  background-size: 100% 100%;
+  width: 558pt;
+  height: 456pt;
+  position: absolute;
+  z-index: 1000;
+  bottom: -362pt;
+  left: 422pt;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  animation-duration: 2.8s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes moverArriba {
+  from { bottom: -362pt; opacity: 0;}
+  to { bottom: 147pt; opacity: 1;}
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+  from { bottom: 147pt; opacity: 1;}
+  to { bottom: -362pt; opacity: 0;}
+}
+
+.final {
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.904);
+}

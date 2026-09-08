@@ -1,0 +1,190 @@
+<!doctype html>
+<html
+    class="no-js" lang="en">
+    <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+        <link rel="stylesheet" href="../../bootstrap/all.css">
+        <link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+        <script src="../../bootstrap/jquery.min.js"></script>
+        <link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+        <script src="../../bootstrap/sweetalert.js"></script>
+        <link rel="stylesheet" href="css/style.css">
+
+    </head>
+
+
+    <body>
+
+        <div id="principal">
+            <div class="row">
+                <div class="col-10" style="display: flex;align-items: center;justify-content: center;">
+                    <h1 class="borde" id="categoria"></h1>
+                </div>
+                <div class="col-2">
+                    <button style="display: flex;align-items: center; justify-content: center;" onclick="history.back()" class="btn btn-danger">
+                        <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    </button>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-12 borde" style="text-align: center; border: white 3px solid; margin: 10px;">
+                    <h4 class="borde"  id="pregunta">Pregunta realizada de la parte de la nutrición</h4>
+                </div>
+            </div>
+
+            <div id="opcionAves" class="row" style="display: none;">
+                <div class="col-12 text-center">
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="nutricion">
+                                <div id="nutricionAve">
+                                    <div id="puntoAve1" data-id="Buche" class="puntoAve"></div>
+                                    <div id="puntoAve2" data-id="Ciego" class="puntoAve"></div>
+                                    <div id="puntoAve3" data-id="cloaca" class="puntoAve"></div>
+                                    <div id="puntoAve4" data-id="Conducto-Biliar" class="puntoAve"></div>
+                                    <div id="puntoAve5" data-id="Duodena" class="puntoAve"></div>
+                                    <div id="puntoAve6" data-id="Siringe" class="puntoAve"></div>
+                                    <div id="puntoAve7" data-id="Esófago" class="puntoAve"></div>
+                                    <div id="puntoAve8" data-id="Faringe" class="puntoAve"></div>
+                                    <div id="puntoAve9" data-id="Glotis" class="puntoAve"></div>
+                                    <div id="puntoAve10" data-id="Hígado" class="puntoAve"></div>
+                                    <div id="puntoAve11" data-id="Intestino" class="puntoAve"></div>
+                                    <div id="puntoAve12" data-id="Laringe" class="puntoAve"></div>
+                                    <div id="puntoAve13" data-id="Lengua" class="puntoAve"></div>
+                                    <div id="puntoAve14" data-id="Molleja" class="puntoAve"></div>
+                                    <div id="puntoAve15" data-id="Páncreas" class="puntoAve"></div>
+                                    <div id="puntoAve16" data-id="Proventriculo" class="puntoAve"></div>
+                                    <div id="puntoAve17" data-id="Pulmones" class="puntoAve"></div>
+                                    <div id="puntoAve18" data-id="Tráquea" class="puntoAve"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div id="nombrCiclosAve"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+          
+            <div id="opcionMamifero" class="row" style="display: none;">
+                <div class="col-12 text-center">
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="nutricion">
+                                <div id="nutricionMamifero">
+                                    <div id="puntoMami1" data-id="Boca" class="puntoMami"></div>
+                                    <div id="puntoMami2" data-id="Cuajar" class="puntoMami"></div>
+                                    <div id="puntoMami3" data-id="Esófago" class="puntoMami"></div>
+                                    <div id="puntoMami4" data-id="Intestino" class="puntoMami"></div>
+                                    <div id="puntoMami5" data-id="Libro" class="puntoMami"></div>
+                                    <div id="puntoMami6" data-id="Retículo" class="puntoMami"></div>
+                                    <div id="puntoMami7" data-id="Rumen" class="puntoMami"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div id="nombrCiclosMamifero"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div id="opcionHumana" class="row" style="display: none;">
+                <div class="col-12 text-center">
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="nutricion">
+                                <div id="nutricionHumana">
+                                    <div id="puntoHuma1" data-id="Ano" class="puntoHuma"></div>
+                                    <div id="puntoHuma2" data-id="Cavidad oral" class="puntoHuma"></div>
+                                    <div id="puntoHuma3" data-id="Esófago" class="puntoHuma"></div>
+                                    <div id="puntoHuma4" data-id="Estómago" class="puntoHuma"></div>
+                                    <div id="puntoHuma5" data-id="Glándulas salivares" class="puntoHuma"></div>
+                                    <div id="puntoHuma6" data-id="Hígado" class="puntoHuma"></div>
+                                    <div id="puntoHuma7" data-id="Intestino delgado" class="puntoHuma"></div>
+                                    <div id="puntoHuma8" data-id="Intestino grueso" class="puntoHuma"></div>
+                                    <div id="puntoHuma9" data-id="Páncreas" class="puntoHuma"></div>
+                                    <div id="puntoHuma10" data-id="Recto" class="puntoHuma"></div>
+                                    <div id="puntoHuma11" data-id="Vesícula biliar" class="puntoHuma"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div id="nombrCiclosHumana"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div id="opcionPeces" class="row" style="display: none;">
+                <div class="col-12 text-center">
+                    <div class="row">
+                        <div class="col-8">
+                            <div class="nutricion">
+                                <div id="nutricionPeces">
+                                    <div id="puntoPeces1" data-id="Boca" class="puntoPeces"></div>
+                                    <div id="puntoPeces2" data-id="Arcos branquiales" class="puntoPeces"></div>
+                                    <div id="puntoPeces3" data-id="Corazón" class="puntoPeces"></div>
+                                    <div id="puntoPeces4" data-id="Hígado" class="puntoPeces"></div>
+                                    <div id="puntoPeces5" data-id="Intestino" class="puntoPeces"></div>
+                                    <div id="puntoPeces6" data-id="Estómago" class="puntoPeces"></div>
+                                    <div id="puntoPeces7" data-id="Ano" class="puntoPeces"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div id="nombrCiclosPeces"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+        <div style="display: none" class="overlay">
+            <div class="nube">
+                <p class="borde2" id="bienvenida"></p>
+            </div>
+            <div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+                <button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning" style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: black;">Omitir
+                    <i style="color: black" class="fa fa-forward" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+
+        <div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;" id="fondo_blanco"></div>
+
+        <div style="display: none; text-align: center;" id="final" class="final">
+            <h1 style="font-size: 25pt; padding-top: 240pt" class="borde2" id="texto_final"></h1>
+            <hr>
+            <div class="row">
+                <div class="col-12" style="padding-bottom: 10pt">
+                    <h1 style="font-size: 25pt;" class="borde2">¿Quieres jugar nuevamente?</h1>
+                </div>
+                <div class="col-3"></div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%;border-radius: 20pt;" onclick="window.location.reload(1)" class="btn btn-success">Si, jugar</button>
+                </div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%; border-radius: 20pt;" onclick="history.back()" class="btn btn-danger">No, salir</button>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+
+
+        <script src="js/script.js"></script>
+    </body>
+</html>

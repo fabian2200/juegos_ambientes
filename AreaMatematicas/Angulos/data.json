@@ -1,0 +1,1256 @@
+[
+    {
+        "pregunta": "¿Cuál es el ángulo que se forma entre las manecillas del reloj a las 3:15?",
+        "imagen": "img/3_15.png",
+        "opciones": [
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "135 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo entre las manecillas del reloj a las 12:30?",
+        "imagen": "img/12_30.png",
+        "opciones": [
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma cuando dos ángulos son iguales y suman un total de 180 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuánto mide un ángulo recto?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "30 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "60 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma cuando dos ángulos suman un total de 90 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo llano?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo complementario de un ángulo de 70 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "20 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "30 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "40 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "50 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma cuando dos ángulos suman un total de 360 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo completo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo suplementario de un ángulo de 120 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "30 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "60 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "150 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuánto mide un ángulo agudo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Menos de 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se muestra en la imagen?",
+        "imagen": "img/90.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se muestra en la imagen?",
+        "imagen": "img/obtuso.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo complementario del ángulo que se muestra en la imagen?",
+        "imagen": "img/complemento.png",
+        "opciones": [
+            {
+                "opcion": "25 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "35 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "59 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "65 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo suplementario del ángulo que se muestra en la imagen?",
+        "imagen": "img/suplementario.png",
+        "opciones": [
+            {
+                "opcion": "65 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "55 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "125 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "155 grados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se muestra en la imagen?",
+        "imagen": "img/llano.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la medida de un ángulo llano?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "270 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la medida de un ángulo recto?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "30 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la medida de un ángulo agudo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Menos de 45 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la medida de un ángulo obtuso?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Menos de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Entre 90 y 180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Más de 180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la medida de un ángulo nulo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "0 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo coterminado?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Dos ángulos que suman 180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos que suman 360 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Dos ángulos opuestos por el vértice",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos adyacentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué son ángulos suplementarios?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Dos ángulos que suman 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos que suman 180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Dos ángulos opuestos por el vértice",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos adyacentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué son ángulos complementarios?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Dos ángulos que suman 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Dos ángulos que suman 180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos opuestos por el vértice",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos adyacentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo opuesto por el vértice?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Dos ángulos que suman 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos que suman 180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos opuestos por el vértice",
+                "correcta": true
+            },
+            {
+                "opcion": "Dos ángulos adyacentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué son ángulos adyacentes?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Dos ángulos que suman 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos que suman 180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos opuestos por el vértice",
+                "correcta": false
+            },
+            {
+                "opcion": "Dos ángulos que comparten un lado común",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo agudo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Un ángulo que mide menos de 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Un ángulo que mide exactamente 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide más de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide 180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo obtuso?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Un ángulo que mide menos de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide exactamente 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide más de 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Un ángulo que mide 180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo llano?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Un ángulo que mide menos de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide exactamente 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide más de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide 180 grados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es un ángulo recto?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Un ángulo que mide menos de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide exactamente 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "Un ángulo que mide más de 90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "Un ángulo que mide 180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo completo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "270 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo es el de la imagen?",
+        "imagen": "img/obtuso2.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo es el de la imagen?",
+        "imagen": "img/agudo.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo es el de la imagen?",
+        "imagen": "img/recto.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo es el de la imagen?",
+        "imagen": "img/llano2.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo es el de la imagen?",
+        "imagen": "img/llano3.png",
+        "opciones": [
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué ángulo se forma al unir dos lados consecutivos de un hexágono regular?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "120 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "60 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo recto?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo agudo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Menos de 90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo obtuso?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Entre 90 y 180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma al medir 180 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma en el vértice de un triángulo equilátero?",
+        "imagen": "img/triangulo.png",
+        "opciones": [
+            {
+                "opcion": "60 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo formado por las manecillas de un reloj cuando son las 3:30?",
+        "imagen": "img/reloj_3_30.png",
+        "opciones": [
+            {
+                "opcion": "75 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "105 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma al unir dos diagonales de un hexágono?",
+        "imagen": "img/hexagono.png",
+        "opciones": [
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "50 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "60 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos ángulos rectos hay en la figura?",
+        "imagen": "img/cuadrado.png",
+        "opciones": [
+            {
+                "opcion": "1",
+                "correcta": false
+            },
+            {
+                "opcion": "2",
+                "correcta": false
+            },
+            {
+                "opcion": "3",
+                "correcta": false
+            },
+            {
+                "opcion": "4",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma al unir dos diagonales de un pentágono?",
+        "imagen": "img/pentagono.png",
+        "opciones": [
+            {
+                "opcion": "72 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "108 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo llano?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la suma de los ángulos interiores de un cuadrilátero?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "270 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo recto?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma al unir dos lados de un triángulo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": true
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo llano",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo agudo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "45 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma en el vértice de un triángulo isósceles?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo igual a los otros dos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo opuesto al ángulo recto en un triángulo rectángulo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo opuesto al cateto adyacente",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo opuesto al cateto opuesto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo opuesto a la hipotenusa",
+                "correcta": true
+            },
+            {
+                "opcion": "No hay un ángulo opuesto al ángulo recto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de ángulo se forma en el vértice de un triángulo escaleno?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "Ángulo recto",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo agudo",
+                "correcta": false
+            },
+            {
+                "opcion": "Ángulo obtuso",
+                "correcta": false
+            },
+            {
+                "opcion": "No hay un tipo de ángulo específico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo obtuso?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "120 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "270 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo complementario de un ángulo de 35 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "55 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "45 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ángulo suplementario de un ángulo de 70 grados?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "20 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "110 grados",
+                "correcta": true
+            },
+            {
+                "opcion": "140 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuántos grados mide un ángulo completo?",
+        "imagen": "",
+        "opciones": [
+            {
+                "opcion": "90 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "180 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "270 grados",
+                "correcta": false
+            },
+            {
+                "opcion": "360 grados",
+                "correcta": true
+            }
+        ]
+    }
+]

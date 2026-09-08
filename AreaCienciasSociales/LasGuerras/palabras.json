@@ -1,0 +1,617 @@
+[
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Espionaje",
+        "pista": "Actividad de obtener información secreta de los adversarios."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Bloqueo",
+        "pista": "Acción de impedir el acceso a un país o territorio."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Cortina",
+        "pista": "Metáfora que representa la división ideológica y política de Europa."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Armas",
+        "pista": "Elementos utilizados en conflictos militares."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Superpotencias",
+        "pista": "Término utilizado para describir a Estados Unidos y la Unión Soviética durante la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Espacio",
+        "pista": "Campo de competencia entre Estados Unidos y la Unión Soviética para la exploración espacial."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Propaganda",
+        "pista": "Difusión de ideas o información con el objetivo de influir en la opinión pública."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Alianzas",
+        "pista": "Acuerdos entre países para garantizar seguridad y cooperación mutua."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Espías",
+        "pista": "Personas encargadas de obtener información confidencial de manera encubierta."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Desarme",
+        "pista": "Proceso de reducción o eliminación de armas militares."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Carrera",
+        "pista": "Competencia entre Estados Unidos y la Unión Soviética en diversos ámbitos."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Neutralidad",
+        "pista": "Posición de un país que no se alinea con ninguna de las superpotencias."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Tensiones",
+        "pista": "Situaciones de conflicto o rivalidad entre las superpotencias."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Crisis",
+        "pista": "Momentos de alta tensión y riesgo de conflicto entre las superpotencias."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Telón",
+        "pista": "Metáfora que representa la división entre Europa Occidental y Oriental."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Bloque",
+        "pista": "Grupo de países con intereses y alineación política comunes."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Ideología",
+        "pista": "Conjunto de ideas y creencias políticas que guían el comportamiento de una nación o grupo."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Competencia",
+        "pista": "Rivalidad entre las superpotencias en diferentes aspectos como la tecnología, la economía y el poderío militar."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Tratados",
+        "pista": "Acuerdos y convenios establecidos para regular la relación entre los países en conflicto."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Descolonización",
+        "pista": "Proceso en el cual las colonias obtuvieron su independencia de las potencias colonizadoras."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "USA",
+        "pista": "Potencia occidental líder durante la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "URSS",
+        "pista": "Potencia oriental líder durante la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "China",
+        "pista": "País comunista que se convirtió en una superpotencia en la segunda mitad de la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Alemania",
+        "pista": "País dividido en dos durante gran parte de la Guerra Fría, con Berlín como símbolo de la división."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Francia",
+        "pista": "País europeo que también formó parte de la OTAN y tuvo influencia en la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Cuba",
+        "pista": "País donde tuvo lugar la Crisis de los Misiles en 1962, un evento crucial de la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Vietnam",
+        "pista": "País en el que se libró una guerra prolongada entre las fuerzas comunistas y las fuerzas respaldadas por Estados Unidos."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Corea",
+        "pista": "País que se dividió en Corea del Norte y Corea del Sur después de la Segunda Guerra Mundial y fue escenario de un conflicto armado durante la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Japón",
+        "pista": "País que se convirtió en un aliado estratégico de Estados Unidos en Asia durante la Guerra Fría."
+    },
+    {
+        "tema": "Guerra Fría",
+        "palabra": "Polonia",
+        "pista": "País de Europa del Este que fue parte del bloque comunista liderado por la Unión Soviética."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Revolución",
+        "pista": "Movimiento armado que buscaba transformar la estructura política y social de Colombia."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Partidos",
+        "pista": "Organizaciones políticas que se enfrentaron durante el conflicto armado."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Ejército",
+        "pista": "Fuerza militar que participó en la guerra y representó a uno de los bandos en conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Caudillos",
+        "pista": "Líderes carismáticos y militares que encabezaron las facciones en guerra."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Violencia",
+        "pista": "Característica predominante del conflicto, con numerosos enfrentamientos y ataques armados."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Reformas",
+        "pista": "Cambios políticos, económicos o sociales que se buscaban lograr durante el conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Tratado",
+        "pista": "Acuerdo de paz que puso fin al conflicto y estableció las bases para la reconciliación."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Guerrilla",
+        "pista": "Fuerza irregular que llevó a cabo acciones de sabotaje y resistencia armada."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Batalla",
+        "pista": "Enfrentamiento armado de gran importancia estratégica en el transcurso de la guerra."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Bloqueo",
+        "pista": "Acción de impedir el abastecimiento de recursos y suministros a una región o territorio."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Exilio",
+        "pista": "Desplazamiento forzado de personas que buscaban refugio en otros países durante el conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Resistencia",
+        "pista": "Acciones de oposición y defensa llevadas a cabo por los grupos en conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Anarquía",
+        "pista": "Estado de ausencia de autoridad y orden en algunas zonas afectadas por la guerra."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Reclutamiento",
+        "pista": "Proceso de incorporación forzada de personas al ejército durante la guerra."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Desplazados",
+        "pista": "Personas obligadas a abandonar sus hogares debido a la violencia y el conflicto armado."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Emboscada",
+        "pista": "Ataque sorpresivo realizado por una fuerza armada contra otra."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Tregua",
+        "pista": "Pausa temporal en el conflicto para permitir negociaciones o facilitar la entrega de ayuda humanitaria."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Traición",
+        "pista": "Acto de deslealtad hacia una facción o grupo durante el conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Crisis",
+        "pista": "Situación de gran peligro o inestabilidad que amenaza con agravar el conflicto."
+    },
+    {
+        "tema": "La guerra de los mil días",
+        "palabra": "Colonización",
+        "pista": "Dominio y control de un país sobre otro territorio, que fue uno de los detonantes de la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Tregua",
+        "pista": "Acuerdo temporal de cese de hostilidades entre los bandos en conflicto."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Trinchera",
+        "pista": "Zanja fortificada utilizada como línea de defensa en el frente de batalla."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Alianza",
+        "pista": "Acuerdo de cooperación y apoyo mutuo entre dos o más países durante la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Neutralidad",
+        "pista": "Postura de un país que no se involucra en el conflicto y no toma partido por ninguno de los bandos."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Armas",
+        "pista": "Instrumentos y dispositivos utilizados para el combate y la destrucción durante la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Bloqueo",
+        "pista": "Acción de impedir el acceso a un país o territorio, especialmente para interrumpir su suministro de recursos."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Tratado",
+        "pista": "Acuerdo o convenio firmado al final de la guerra para establecer las condiciones de paz y reparación."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Aviación",
+        "pista": "Rama militar que emplea aviones para tareas de combate y reconocimiento."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Ofensiva",
+        "pista": "Acción militar planeada y ejecutada para avanzar y atacar al enemigo."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Propaganda",
+        "pista": "Difusión de información y mensajes para influir en la opinión pública y mantener el apoyo a la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Neutral",
+        "pista": "País que no está involucrado en el conflicto y mantiene una postura imparcial."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Tratamiento",
+        "pista": "Cuidados médicos y terapéuticos proporcionados a los soldados heridos en el frente de batalla."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Artillería",
+        "pista": "Armamento pesado utilizado para el bombardeo de posiciones enemigas desde la distancia."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Crisis",
+        "pista": "Situación de peligro o inestabilidad que amenaza con agravar el conflicto y llevar a una confrontación directa."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Rendición",
+        "pista": "Acto de aceptar la derrota y entregar las armas al enemigo."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Gas",
+        "pista": "Sustancia venenosa utilizada como arma química durante el conflicto."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Movilización",
+        "pista": "Preparación y despliegue de fuerzas militares en respuesta a la declaración de guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Diplomacia",
+        "pista": "Negociaciones y acuerdos entre países para buscar una solución pacífica al conflicto."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Tratado de Versalles",
+        "pista": "Acuerdo de paz que puso fin a la guerra y estableció las condiciones para la posguerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Armisticio",
+        "pista": "Acuerdo de suspensión de hostilidades para permitir negociaciones de paz."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Alemania",
+        "pista": "Potencia central y uno de los principales beligerantes en la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Francia",
+        "pista": "Potencia aliada y uno de los países más afectados por la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Rusia",
+        "pista": "Potencia aliada en los primeros años de la guerra, pero se retiró después de la Revolución Rusa."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "USA",
+        "pista": "Potencia aliada que se unió al conflicto en 1917, cambiando el curso de la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Italia",
+        "pista": "Potencia aliada que inicialmente era parte de las Potencias Centrales, pero cambió de bando en 1915."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Bélgica",
+        "pista": "País neutral invadido por Alemania al comienzo de la guerra, lo que desencadenó la entrada de otros países en el conflicto."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Serbia",
+        "pista": "País en el que se inició el conflicto, después del asesinato del archiduque Francisco Fernando de Austria en Sarajevo."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Japón",
+        "pista": "Potencia aliada que se unió a la guerra para obtener territorios coloniales en Asia."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Canadá",
+        "pista": "Parte del Imperio Británico y uno de los países de la Mancomunidad que se unió a la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Australia",
+        "pista": "Parte del Imperio Británico y uno de los países de la Mancomunidad que participó en la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Nueva Zelanda",
+        "pista": "Parte del Imperio Británico y uno de los países de la Mancomunidad que luchó en la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "India",
+        "pista": "Parte del Imperio Británico que contribuyó con soldados y recursos a la guerra."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Sudáfrica",
+        "pista": "Parte del Imperio Británico que participó en la guerra en el frente africano y en Europa."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Portugal",
+        "pista": "País aliado que se unió a la guerra en 1916 para defender sus colonias africanas."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Grecia",
+        "pista": "País que inicialmente se mantuvo neutral, pero luego se unió a los Aliados en 1917."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "China",
+        "pista": "País que se unió a la guerra después de la entrada de Estados Unidos y participó en el frente asiático."
+    },
+    {
+        "tema": "Primera Guerra Mundial",
+        "palabra": "Brasil",
+        "pista": "País que se unió a la guerra en 1917 como parte de los países aliados."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Hitler",
+        "pista": "Líder de la Alemania nazi durante la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Aliados",
+        "pista": "Conjunto de países que se unieron para luchar contra las Potencias del Eje."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Eje",
+        "pista": "Alianza militar formada por Alemania, Italia y Japón durante la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Holocausto",
+        "pista": "El genocidio sistemático de aproximadamente seis millones de judíos durante la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Blitzkrieg",
+        "pista": "Término alemán para la 'guerra relámpago', una táctica militar caracterizada por ataques rápidos y sorpresivos."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Pearl Harbor",
+        "pista": "Base naval de Estados Unidos en Hawái atacada por Japón en 1941, provocando la entrada de Estados Unidos en la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Día D",
+        "pista": "El 6 de junio de 1944, el desembarco de las fuerzas aliadas en las playas de Normandía, Francia, marcó el comienzo de la liberación de Europa occidental del dominio nazi."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Hiroshima",
+        "pista": "Ciudad japonesa que fue bombardeada con una bomba atómica por Estados Unidos en 1945."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Stalingrado",
+        "pista": "Importante ciudad en el suroeste de la Unión Soviética que fue escenario de una feroz batalla entre las fuerzas alemanas y soviéticas."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Nazismo",
+        "pista": "Ideología política y social del partido nazi en Alemania, liderado por Adolf Hitler."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Rationamiento",
+        "pista": "Sistema de distribución de alimentos y otros productos básicos durante la guerra debido a la escasez."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Propaganda",
+        "pista": "Uso de la información y los medios de comunicación para influir en la opinión pública y apoyar la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Espionaje",
+        "pista": "Actividad de obtener información secreta sobre el enemigo con fines militares o políticos."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Resistencia",
+        "pista": "Movimientos clandestinos y organizaciones que se oponían a los ocupantes nazis en los países ocupados."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Gestapo",
+        "pista": "Policía secreta del estado nazi en Alemania, conocida por su brutalidad y represión."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Normandía",
+        "pista": "Operación militar en la que las fuerzas aliadas desembarcaron en las playas de Normandía, Francia, para liberar Europa occidental de la ocupación nazi."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Bombardero",
+        "pista": "Avión militar diseñado para llevar y lanzar bombas sobre objetivos enemigos."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Neutralidad",
+        "pista": "Política de no alinearse con ninguna de las potencias en conflicto durante la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Alemania",
+        "pista": "País liderado por Adolf Hitler y una de las principales potencias del Eje."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Japón",
+        "pista": "País aliado de Alemania y uno de los principales beligerantes en el Pacífico."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Italia",
+        "pista": "País aliado de Alemania y parte de las Potencias del Eje."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "USA",
+        "pista": "País aliado que se unió a la guerra después del ataque a Pearl Harbor."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "URSS",
+        "pista": "País aliado que sufrió importantes pérdidas y desempeñó un papel crucial en la derrota de Alemania."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Francia",
+        "pista": "País invadido por Alemania y ocupado durante gran parte de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Canadá",
+        "pista": "País aliado que contribuyó con fuerzas militares y recursos a la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Australia",
+        "pista": "País aliado que luchó en el frente del Pacífico y en el norte de África."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "China",
+        "pista": "País aliado que resistió la invasión japonesa y fue escenario de importantes conflictos."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Sudafrica",
+        "pista": "País aliado que luchó en África del Norte y participó en la liberación de Italia."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "India",
+        "pista": "Parte del Imperio Británico que contribuyó con tropas y recursos a la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Polonia",
+        "pista": "País invadido por Alemania y el primer objetivo militar en el inicio de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Holanda",
+        "pista": "País invadido por Alemania y ocupado durante gran parte de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Bélgica",
+        "pista": "País invadido por Alemania y ocupado durante gran parte de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Noruega",
+        "pista": "País invadido por Alemania y ocupado durante gran parte de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Grecia",
+        "pista": "País invadido por Italia y posteriormente ocupado por Alemania."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Dinamarca",
+        "pista": "País ocupado por Alemania durante gran parte de la guerra."
+    },
+    {
+        "tema": "Segunda Guerra Mundial",
+        "palabra": "Brasil",
+        "pista": "País que se unió a los Aliados y luchó en el frente italiano."
+    }
+]

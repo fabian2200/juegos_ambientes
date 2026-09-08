@@ -1,0 +1,403 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish';
+}
+body{
+    background: url(img/fondo.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+    height: 100vh;
+}
+section{
+   max-width: 90%;
+   width: 100%;
+   padding: 50px;
+   margin: auto;
+   text-align: center;
+}
+
+#pantalla-inicio{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#pantalla-juego{
+    display: none;
+}
+#pantalla-final{
+    display: flex;
+}
+
+/* PANTALLA INICIO */
+#pantalla-inicio h2{
+    font-size: 60px;
+    text-shadow: 3px 3px 10px #000;
+
+}
+#pantalla-inicio h2 span{
+    color: #ffff0d;
+}
+#pantalla-inicio button{
+    font-size: 30px;
+    display: inline-block;
+    border: none;
+    padding: 10px 30px;
+    margin-top: 30px;
+    cursor: pointer;
+    background:#14669e;
+    color:#000;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 12px;
+}
+#pantalla-inicio button:hover{
+    background-color:#ffff0d;
+}
+
+/* PANTALLA JUEGO */
+#pantalla-juego h2{
+    font-size: 40px;
+    text-shadow: 3px 3px 10px #000;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#pantalla-juego h2 span{
+    color: #ffff0d;
+}
+
+
+#pantalla-juego .contenedor-pais .letra{
+    display: inline-block;
+    width: auto !important;
+    height: 80px;
+    border-radius: 10px;
+    width: 100%;
+    color: #000;
+    background-color: #fff;
+    font-size: 40px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Mulish';
+    font-weight: 800;
+    line-height: 80px;
+    border: 1px solid black;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#pantalla-juego .contenedor-pais .letra_2{
+    display: inline-block;
+    width: 80px !important;
+    height: 80px;
+    border-radius: 10px;
+    width: 100%;
+    color: #000;
+    background-color: #fff;
+    font-size: 40px;
+    margin: 2px;
+    text-align: center;
+    font-family: 'Mulish';
+    font-weight: 800;
+    line-height: 80px;
+    border: 1px solid black;
+    position: relative !important;
+    top: 25px !important;
+}
+
+#pantalla-juego input{
+    display: inline-block;
+    font-size: 50px;
+    background: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fff;
+    margin-top: 40px;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 4PX;
+}
+#myProgress {
+    width: 300px;
+    margin: auto;
+    background:#1cff03;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+  
+#myBar {
+    width: 1%;
+    height: 30px;
+    background-color:#176aff;
+}
+
+#pantalla-juego .acertadas{
+    margin-top: 25px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* PANTALLA FINAL */
+#pantalla-final{
+    font-size: 30px;
+    display: none;
+    flex-direction: column;
+}
+#pantalla-final h2{
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+
+#pantalla-final h3 span{
+    display: block;
+    font-size: 70px;
+    color: #1cff03;
+}
+#pantalla-final button{
+    width: fit-content;
+    margin: auto;
+    font-size: 30px;
+    display: inline-block;
+    border: none;
+    padding: 10px 30px;
+    margin-top: 30px;
+    cursor: pointer;
+    background:#1cff03;
+    color:#000;
+}
+#pantalla-final button:hover{
+    cursor: pointer;
+    background:#ffff0d;
+
+}
+@media screen and (max-width:1000px) {
+    section{
+        width: 100%;
+    }
+    #pantalla-juego .contenedor-pais .letra{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    #pantalla-juego input{
+        display: block;
+        width: 80%;
+        margin: 40px auto;
+        font-size: 30px;
+    }
+}
+
+.round {
+    border-radius: 10px;
+    width: 240px;
+    color: white !important;
+}
+
+.round:hover {
+    border-radius: 10px;
+    width: 240px;
+    color: rgb(0, 0, 0) !important;
+}
+
+#categoria {
+    margin-top: 40px;
+    max-width: 1200px;
+    width: 1000px;
+}
+
+#pantalla-juego .contenedor-pais .letra_correcta{
+    display: inline-block;
+    width: 80px !important;
+    height: 80px;
+    border-radius: 10px;
+    width: 100%;
+    color: #000;
+    background-color: #1cff03;
+    font-size: 40px;
+    margin: 2px;
+    text-align: center;
+    font-family: 'Mulish';
+    font-weight: 800;
+    line-height: 80px;
+    border: 1px solid black;
+}
+
+#pantalla-juego .contenedor-pais .letra_incorrecta{
+    display: inline-block;
+    width: 80px !important;
+    height: 80px;
+    border-radius: 10px;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-color: #ff0303;
+    font-size: 40px;
+    margin: 2px;
+    text-align: center;
+    font-family: 'Mulish';
+    font-weight: 800;
+    line-height: 80px;
+    border: 1px solid black;
+}
+
+.selector_none {
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.borde {
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000 !important;
+}
+
+.titulo_row .col-2, .col-3, .col-4 {
+    display: flex;
+    align-items: center;
+}
+
+.overlay {
+    background-image: url(../../images/normal1.gif);
+    background-size: 90% 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    z-index: 1000;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    position: fixed;
+    left: -200px; /* Empieza fuera de la pantalla */
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+}
+
+.overlay::before{
+    position:absolute; 
+    width:0; 
+    height:0; 
+    overflow:hidden; 
+    z-index:-1;
+    content:url("../../images/normal1.gif")
+            url("../../images/normal2.gif")
+}
+
+@keyframes moverDerecha {
+    from { left: -100%; opacity: 0;}
+    to { left: 0; opacity: 1;}
+}
+
+@keyframes moverIzquierda {
+    from { left: 0; opacity: 1;}
+    to { left: -100%; opacity: 0;}
+}
+
+.borde2 {
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+    1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    font-weight: bold;
+    color: #fff !important;
+    font-size: 19px;
+}
+
+#bienvenida {
+    width: 55%;
+    padding-left: 40pt;
+    font-size: 17px !important;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.nube {
+    background-image: url(../../images/nube.png);
+    background-size: 100% 100%;
+    width: 558pt;
+    height: 456pt;
+    position: absolute;
+    z-index: 1000;
+    bottom: -362pt;
+    left: 422pt;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    animation-duration: 2.8s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes moverArriba {
+    from { bottom: -362pt; opacity: 0;}
+    to { bottom: 147pt; opacity: 1;}
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+    from { bottom: 147pt; opacity: 1;}
+    to { bottom: -362pt; opacity: 0;}
+}
+
+.final {
+    background-size: 45%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.904);
+}
+
+#imagen_clima {
+    border: 5px solid white;
+    border-radius: 20px;
+}

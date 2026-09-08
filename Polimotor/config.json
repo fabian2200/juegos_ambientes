@@ -1,0 +1,87 @@
+{
+  "tiempoMostrarCompleto": 2000,
+  "tiempoVerDeNuevo": 2000,
+  "umbralAcierto": 0.35,
+  "fallosParaPista": 2,
+  "mostrarFeedBack": true,
+  "feedback": {
+    "duracion": 2000,
+    "acierto": {
+      "texto": "¡Muy bien! Esa parte va ahí.",
+      "gif": "../images/correcto.gif"
+    },
+    "error": {
+      "texto": "¡Inténtalo otra vez! Observa dónde puede ir.",
+      "gif": "../images/incorrecto.gif"
+    }
+  },
+  "accesibilidad": {
+    "altoContraste": false,
+    "modoTap": false,
+    "zoomPiezas": false,
+    "zoomLongPress": false,
+    "huecosPunteados": true,
+    "grillaFija": true,
+    "hitboxExtra": 12,
+    "resaltarDestino": false,
+    "verBotonVerDeNuevo": true,
+    "pistaPorFallos": true,
+    "mostrarProgreso": true
+  },
+  "textos": {
+    "eligeCuerpo": "¿Qué cuerpo quieres armar?",
+    "eligeNivel": "Elige el rompecabezas",
+    "instruccion": "¡Vamos a jugar! Observa muy bien el cuerpo y arrastra cada pieza hasta el lugar donde corresponde.",
+    "cierre": "¡Excelente! Completaste el rompecabezas del cuerpo humano."
+  },
+  "audios": {
+    "acierto": "",
+    "error": "",
+    "cierre": "../sounds/victory.mp3",
+    "fondo": "../sounds/fondo.mp3"
+  },
+  "cuerpos": {
+    "nina": {
+      "nombre": "Niña",
+      "carpeta": "img/nina",
+      "silueta": "silueta.png",
+      "completo": "completo.png"
+    },
+    "nino": {
+      "nombre": "Niño",
+      "carpeta": "img/nino",
+      "silueta": "silueta.png",
+      "completo": "completo.png",
+      "svg": {
+        "5": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 57,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": 0, "y": -62, "w": 389, "h": 522 },
+            { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 22, "w": 260, "h": 231 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 22, "w": 261, "h": 231 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 12, "w": 389, "h": 522 }
+          ]
+        }
+      }
+    }
+  },
+  "niveles": [
+    {
+      "id": "5",
+      "edad": "3 años",
+      "titulo": "5 piezas"
+    },
+    {
+      "id": "7",
+      "edad": "4 años",
+      "titulo": "7 piezas"
+    },
+    {
+      "id": "9",
+      "edad": "5-6 años",
+      "titulo": "9 piezas"
+    }
+  ]
+}

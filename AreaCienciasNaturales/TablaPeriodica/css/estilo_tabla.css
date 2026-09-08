@@ -1,0 +1,360 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+      font-family: "Primera-Fuente";
+      src: url('../fonts/UbuntuMono-R.ttf');
+    }
+
+
+body{
+    font-family: "Primera-Fuente";
+}
+
+h1{
+    text-align: center;
+}
+
+#tablaP{
+    height: 80%;
+    width: 100% !important;
+    width: 20%;
+}
+
+#contenedor2{
+    width: 100%;
+}
+
+#tablaS{
+    width: 100%;
+    margin-top: 10px;
+}
+
+
+#test1{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    float: left;
+}
+
+#test1 td{
+    /**border: 1px solid black;**/
+}
+
+#test2{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    
+    float: left;
+}
+
+#test3{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+.td-norm{
+    border: 3px solid rgba(12, 12, 12, 0.514);
+}
+
+.td-norm-2{
+    border: 5px dotted #636363;
+    border-radius: 2px;
+    z-index: 3;
+}
+
+.caja-id-2{
+    height: 130px;
+    width: 130px;
+    padding: 4px;
+/*    background-color: #9AA1CC;*/
+}
+
+
+.caja-id{
+    height: 49pt;
+    width: 100%;
+}
+
+.td-norm:hover {
+   cursor: pointer;
+   background-color: #686868 !important;
+}
+
+
+/* NUMERO ATOMICO */
+
+
+/* ------------ */
+/*      FIN     */
+/* ------------ */
+
+.caja-top{
+    height: 30%;
+    width: 100%;
+    /*background-color: #C0E3FF;*/
+    font-size: 7px;
+}
+
+
+
+.caja-top-left{
+    height: 100%;
+    width: 70%;
+    /*background-color: red;*/
+    font-size:4px;
+    
+    float: left;
+}
+
+
+
+.caja-top-left-top{
+    height: 60%;
+    width: 100%;
+    /*background-color: yellow;*/
+    font-size: 7px;
+    
+    float: left;
+}
+
+
+
+.caja-top-left-bottom{
+    height: 40%;
+    width: 100%;
+/*    background-color: pink;*/
+    
+     
+    float: left;
+}
+
+.caja-top-left-bottom-left{
+    height: 100%;
+    width: 50%;
+/*    background-color: red;*/
+    font-size: 5px;
+     
+    float: left;
+}
+
+.caja-top-left-bottom-rigth{
+    height: 100%;
+    width: 50%;
+/*    background-color: orange;*/
+    font-size: 5px;
+     
+    float: left;
+}
+
+
+
+.caja-top-rigth{
+    height: 100%;
+    width: 30%;
+    float: right;
+    font-size: 10px;
+    text-align: center;
+}
+
+.caja-top-rigth p{
+    margin-right: 4px;
+}
+
+td {
+    width: 4% !important;
+}
+
+.caja-centro{
+    height: 60%;
+    width: 100%;
+}
+
+.caja-centro-left{
+    height: 100%;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+.caja-centro-left-top{
+    height: 70%;
+    width: 100%;
+    font-size: 24px;
+}
+
+.caja-centro-left-bottom{
+    height: 30%;
+    width: 100%;
+    font-size: 10px;
+}
+
+
+.caja-centro-rigth{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.caja-bottom{
+    height: 10%;
+    width: 100%;
+    font-size: 4px;
+}
+
+
+
+
+
+
+/* OTRAS COSAS */
+
+#cuadro-detalle{
+    height: 140px;
+    width: 400px;
+    background-color: white;
+    opacity: 0.9;
+    margin-left: 250px;
+    margin-top: 4px;
+    /*position: relative;*/
+/*    border-bottom: 1px solid gray;*/
+    position: absolute;
+}
+
+/*
+#cuadro-detalle p{
+    color: black;
+}
+*/
+
+#cuadro-int{
+    height: 70px;
+    width: 100%;
+}
+
+#det-izq{
+    background-color: blue;
+    width: 60%;
+    height: 100%;
+}
+
+#det-der{
+    background-color: red;
+    width: 10%;
+    height: 10%;
+}
+
+#det-uno{
+    background-color: green;
+    width: 10%;
+    height: 10%;
+}
+
+/*ULTIMO ARMADO*/
+
+.caja-top-2{
+    height: 30%;
+    width: 100%;
+    /*background-color: #C0E3FF;*/
+    font-size: 32px;
+}
+
+.caja-top-left-2{
+    height: 100%;
+    width: 70%;
+    /*background-color: red;*/
+    font-size:10px;
+    float: left;
+}
+
+.caja-top-left-top-2{
+    height: 60%;
+    width: 100%;
+    /*background-color: yellow;*/
+    font-size: 14px;
+    
+    float: left;
+}
+
+.caja-top-left-bottom-2{
+    height: 40%;
+    width: 100%;
+/*    background-color: pink;*/
+    
+     
+    float: left;
+}
+
+.caja-top-left-bottom-left-2{
+    height: 100%;
+    width: 50%;
+/*    background-color: red;*/
+    font-size: 12px;
+     
+    float: left;
+}
+
+.caja-top-left-bottom-rigth-2{
+    height: 100%;
+    width: 50%;
+/*    background-color: orange;*/
+    font-size: 12px;
+     
+    float: left;
+}
+
+.caja-top-rigth-2{
+    height: 100%;
+    width: 30%;
+/*    background-color: blue;*/
+    float: left;
+    font-size: 24px;
+    text-align: center;
+}
+
+.caja-top-rigth-2 p{
+    margin-right: 2px;
+}
+
+.caja-centro-left-2{
+    height: 100%;
+    width: 80%;
+    float: left;
+}
+
+.caja-centro-left-top-2{
+    height: 70%;
+    width: 100%;
+/*    background-color: yellow;*/
+    font-size: 48px;
+    text-shadow: 2px 2px white;
+}
+
+.caja-centro-left-bottom-2{
+    height: 30%;
+    width: 100%;
+/*    background-color: greenyellow;*/
+    font-size: 20px;
+}
+
+
+.caja-centro-rigth-2{
+    height: 100%;
+    width: 20%;
+/*    background-color: blue;*/
+    float: left;
+}
+
+.caja-bottom-2{
+    height: 10%;
+    width: 100%;
+/*    background-color: red;*/
+    font-size: 12px;
+}

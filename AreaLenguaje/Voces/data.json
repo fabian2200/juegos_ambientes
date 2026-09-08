@@ -1,0 +1,210 @@
+[
+    {
+        "oracion": "El perro come su comida.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "La comida es comida por el perro.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "Yo escribo un poema.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Un poema es escrito por mí.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La abeja poliniza las flores.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Las flores son polinizadas por la abeja.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El niño toca el piano.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El piano es tocado por el niño.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El equipo gana el partido.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El partido es ganado por el equipo.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La profesora enseña matemáticas.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Las matemáticas son enseñadas por la profesora.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El pájaro construye su nido.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El nido es construido por el pájaro.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El bebé llora.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El llanto es producido por el bebé.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El pintor pinta un cuadro.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Un cuadro es pintado por el pintor.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El carpintero corta la madera.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "La madera es cortada por el carpintero.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El equipo de fútbol juega bien.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Se juega bien en el equipo de fútbol.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "Mi abuela cocina la cena.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "La cena es cocinada por mi abuela.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El cantante canta una canción.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Una canción es cantada por el cantante.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El maestro explica la lección.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "La lección es explicada por el maestro.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El jardinero riega las plantas.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Las plantas son regadas por el jardinero.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La empresa lanza un nuevo producto.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Un nuevo producto es lanzado por la empresa.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La madre cocina el desayuno.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El desayuno es cocinado por la madre.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El carpintero construye una mesa.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Una mesa es construida por el carpintero.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El perro muerde al cartero.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El cartero es mordido por el perro.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La compañía contrata nuevos empleados.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Nuevos empleados son contratados por la compañía.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La doctora atiende a los pacientes.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Los pacientes son atendidos por la doctora.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El niño rompe el jarrón.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El jarrón es roto por el niño.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El peluquero corta el cabello.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "El cabello es cortado por el peluquero.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La abuela teje una manta.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Una manta es tejida por la abuela.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "La empresa produce teléfonos móviles.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "Los teléfonos móviles son producidos por la empresa.",
+        "tipo": "pasiva"
+    },
+    {
+        "oracion": "El chef prepara la cena.",
+        "tipo": "activa"
+    },
+    {
+        "oracion": "La cena es preparada por el chef.",
+        "tipo": "pasiva"
+    }
+]

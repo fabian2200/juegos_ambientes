@@ -1,0 +1,664 @@
+[
+  {
+    "molecula": "Agua",
+    "elementos": [
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 260,
+          "y": 50
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 443,
+          "y": 170
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 178,
+          "y": 170
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "metano",
+    "elementos": [
+      {
+        "nombre": "carbono",
+        "simbolo": "C",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 250,
+          "y": 101
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 50,
+        "coordenadas": {
+          "x": 297,
+          "y": 51
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 50,
+        "coordenadas": {
+          "x": 210,
+          "y": 191
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 50,
+        "coordenadas": {
+          "x": 391,
+          "y": 191
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 50,
+        "coordenadas": {
+          "x": 298,
+          "y": 250
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Ácido nítrico",
+    "elementos": [
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 170,
+          "y": 102
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 222,
+          "y": 3
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 75,
+          "y": 188
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 366,
+          "y": 188
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 464,
+          "y": 188
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Oxígeno",
+    "elementos": [
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 140,
+          "y": 100
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 340,
+          "y": 100
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Dióxido de carbono",
+    "elementos": [
+      {
+        "nombre": "carbono",
+        "simbolo": "C",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 243,
+          "y": 84
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 96,
+          "y": 148
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 439,
+          "y": 148
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Ácido clorhídrico",
+    "elementos": [
+      {
+        "nombre": "cloro",
+        "simbolo": "Cl",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 182,
+          "y": 86
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 378,
+          "y": 163
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Nitrógeno molecular",
+    "elementos": [
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 182,
+          "y": 104
+        }
+      },
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 330,
+          "y": 104
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Cloruro de sodio",
+    "elementos": [
+      {
+        "nombre": "sodio",
+        "simbolo": "Na",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 166,
+          "y": 130
+        }
+      },
+      {
+        "nombre": "cloro",
+        "simbolo": "Cl",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 315,
+          "y": 104
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Amoníaco",
+    "elementos": [
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 242,
+          "y": 46
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 80,
+        "coordenadas": {
+          "x": 178,
+          "y": 170
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 80,
+        "coordenadas": {
+          "x": 421,
+          "y": 180
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 80,
+        "coordenadas": {
+          "x": 300,
+          "y": 245
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Dióxido de Nitrógeno",
+    "elementos": [
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 238,
+          "y": 81
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 163,
+          "y": 212
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 414,
+          "y": 212
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Ácido Fórmico",
+    "elementos": [
+      {
+        "nombre": "carbono",
+        "simbolo": "C",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 180,
+          "y": 122
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 471,
+          "y": 223
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 232,
+          "y": 23
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 371,
+          "y": 223
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 89,
+          "y": 223
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Ácido nítrico",
+    "elementos": [
+      {
+        "nombre": "nitrogeno",
+        "simbolo": "N",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 180,
+          "y": 122
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 232,
+          "y": 23
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 371,
+          "y": 223
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 89,
+          "y": 223
+        }
+      },
+      {
+        "nombre": "hidrogeno",
+        "simbolo": "H",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 471,
+          "y": 223
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Óxido de Hierro",
+    "elementos": [
+      {
+        "nombre": "hierro",
+        "simbolo": "Fe",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 204,
+          "y": 150
+        }
+      },
+      {
+        "nombre": "hierro",
+        "simbolo": "Fe",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 403,
+          "y": 150
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 80,
+          "y": 50
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 278,
+          "y": 50
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 150,
+        "coordenadas": {
+          "x": 476,
+          "y": 50
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Óxido de Calcio",
+    "elementos": [
+      {
+        "nombre": "calcio",
+        "simbolo": "Ca",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 250,
+          "y": 99
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 163,
+          "y": 92
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Dióxido de azufre",
+    "elementos": [
+      {
+        "nombre": "azufre",
+        "simbolo": "S",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 247,
+          "y": 83
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 150,
+          "y": 160
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 444,
+          "y": 160
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Monóxido de azufre",
+    "elementos": [
+      {
+        "nombre": "azufre",
+        "simbolo": "S",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 220,
+          "y": 50
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 419,
+          "y": 110
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Óxido de Sodio",
+    "elementos": [
+      {
+        "nombre": "sodio",
+        "simbolo": "Na",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 162,
+          "y": 150
+        }
+      },
+      {
+        "nombre": "sodio",
+        "simbolo": "Na",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 457,
+          "y": 150
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 259,
+          "y": 82
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Trióxido de azufre",
+    "elementos": [
+      {
+        "nombre": "azufre",
+        "simbolo": "S",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 239,
+          "y": 111
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 291,
+          "y": 12
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 152,
+          "y": 214
+        }
+      },
+      {
+        "nombre": "oxigeno",
+        "simbolo": "O",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 428,
+          "y": 214
+        }
+      }
+    ]
+  },
+  {
+    "molecula": "Cloruro de calcio",
+    "elementos": [
+      {
+        "nombre": "calcio",
+        "simbolo": "Ca",
+        "ancho": 200,
+        "coordenadas": {
+          "x": 241,
+          "y": 54
+        }
+      },
+      {
+        "nombre": "cloro",
+        "simbolo": "Cl",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 152,
+          "y": 161
+        }
+      },
+      {
+        "nombre": "cloro",
+        "simbolo": "Cl",
+        "ancho": 100,
+        "coordenadas": {
+          "x": 429,
+          "y": 162
+        }
+      }
+    ]
+  }
+]

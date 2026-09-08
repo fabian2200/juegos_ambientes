@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title></title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+	<script src="../../bootstrap/jquery.min.js"></script>
+	<script src="../../bootstrap/sweetalert.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<script src="jquery-3.6.3.js"></script>
+	<link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+	<link rel="stylesheet" href="modal/bootstrap.min.css">
+	<script src="modal/jquery.min.js"></script>
+	<script src="modal/bootstrap.min.js"></script>
+</head>
+
+<body>
+	<div style="display: none" class="overlay">
+		<div class="nube">
+			<p class="borde2" id="bienvenida"></p>
+		</div>
+		<div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+			<button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning"
+				style="width: auto !important; padding: 4pt !important; border-radius: 8pt !important; font-size: 30px !important; color: black !important;">Omitir <i
+					style="color: black" class="fa fa-forward" aria-hidden="true"></i></button>
+		</div>
+	</div>
+
+	<div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;"
+		id="fondo_blanco">
+
+	</div>
+
+	<div style="display: none; text-align: center;" id="final" class="final">
+		<h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+		<hr>
+		<div class="row">
+			<div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+				<h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+			</div>
+			<div class="col-3"></div>
+			<div class="col-3 text-center">
+				<button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;"
+					onclick="window.location.reload(1)" class="btn btn-success">Si, jugar</button>
+			</div>
+			<div class="col-3 text-center">
+				<button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;"
+					onclick="history.back()" class="btn btn-danger">No,
+					salir</button>
+			</div>
+			<div class="col-3"></div>
+		</div>
+	</div>
+	<div style="padding-top: 20pt; height: 100%;" id="principal">
+		<div class="row" style="position: relative; z-index: 3">
+			<div class="col-7" style="display: flex; justify-content: center; align-items: center"></div>
+			<div class="col-3" style="display: flex; justify-content: center; align-items: center">
+				<i style="color: rgb(189, 8, 8);" class="fa-solid fa-heart fa-2x"></i>
+				<div class="progress-bar-container">
+					<div id="progress-bar" class="progress-bar"></div>
+				</div>
+			</div>
+			<div class="col-1"><button onclick="location.reload()" class="btn btn-warning"><i
+						class="fa-solid fa-rotate"></i></button></div>
+			<div class="col-1"><button onclick="history.back()" class="btn btn-danger"><i
+						class="fa-solid fa-arrow-left"></i></button></div>
+		</div>
+		<div class="contenedor row" id="contenedor">
+			<div class="habitat" id="habitat0" style="height: 50%"></div>
+			<div class="habitat" id="habitat1" style="height: 50%"></div>
+			<div class="habitat" id="habitat2" style="height: 50%"></div>
+			<div class="habitat" id="habitat3" style="height: 50%"></div>
+			<div id="miObjeto"></div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="myModal" role="dialog">
+		<div class="modal-dialog">
+		
+		  <!-- Modal content-->
+		  <div class="modal-content" style="width: 900px; left: -44%;">
+			<div class="modal-header">
+			  
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-12">
+						<h2 id="enunciado"></h2>
+					</div>
+				</div>
+				<hr>
+				<div class="row" id="respuestas">
+					
+				</div>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	<script src="script.js"></script>
+</body>
+
+</html>

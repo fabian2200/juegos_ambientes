@@ -1,0 +1,3688 @@
+[
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un arrecife de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Una estructura formada por corales", true],
+      ["Un tipo de pez", false],
+      ["Una planta marina", false],
+      ["Una formación rocosa", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué función cumplen los arrecifes de coral en los ecosistemas marinos?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Proveer refugio y alimento a muchas especies marinas", true],
+      ["Regular la temperatura del agua", false],
+      ["Generar electricidad", false],
+      ["Producir oxígeno para los peces", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el animal más comúnmente asociado con los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Tortugas marinas", false],
+      ["Peces payaso", true],
+      ["Delfines", false],
+      ["Pulpos", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué causa la decoloración de los corales en los arrecifes?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La contaminación del agua", true],
+      ["La falta de luz solar", false],
+      ["La sobreexplotación pesquera", false],
+      ["La presencia de tiburones", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la mayor barrera de arrecifes de coral en el mundo?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Gran Barrera de Coral, Australia", true],
+      ["Arrecife Mesoamericano, México", false],
+      ["Arrecife de Belice", false],
+      ["Arrecife de Tubbataha, Filipinas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el principal peligro para los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El cambio climático", true],
+      ["La pesca excesiva", false],
+      ["La acidificación del océano", false],
+      ["La erosión costera", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la importancia de los arrecifes de coral para los seres humanos?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Atracción turística y generación de ingresos económicos", true],
+      ["Fuente de agua potable", false],
+      ["Producción de energía renovable", false],
+      ["Control de inundaciones", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cómo se reproduce la mayoría de los corales en los arrecifes?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Mediante la liberación de huevos y espermatozoides al agua", true],
+      ["A través de la polinización por insectos", false],
+      ["Por división celular", false],
+      ["Por autofecundación", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es la sobrepesca y cómo afecta a los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La captura excesiva de peces que desequilibra el ecosistema marino",
+        true
+      ],
+      ["El turismo irresponsable en los arrecifes", false],
+      ["El uso de productos químicos en la agricultura", false],
+      ["La construcción costera sin regulación", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es la acidificación del océano y cómo afecta a los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El aumento de la acidez del agua debido a la absorción de dióxido de carbono",
+        true
+      ],
+      ["El vertido de desechos plásticos en el océano", false],
+      ["La extracción de minerales marinos", false],
+      ["La caza furtiva de especies en peligro de extinción", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el mayor arrecife de coral del Hemisferio Norte?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Arrecife de Belice", true],
+      ["Arrecife de Palancar, México", false],
+      ["Arrecife de las Islas Maldivas", false],
+      ["Arrecife de Komodo, Indonesia", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un bleaching o blanqueamiento de los corales?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La pérdida del pigmento que da color a los corales debido al estrés",
+        true
+      ],
+      ["La acumulación excesiva de algas en los arrecifes", false],
+      ["La presencia de enfermedades en los corales", false],
+      ["La muerte masiva de corales en un arrecife", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la relación entre los arrecifes de coral y la biodiversidad marina?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Los arrecifes de coral albergan una gran diversidad de especies marinas",
+        true
+      ],
+      ["Los arrecifes de coral reducen la biodiversidad marina", false],
+      [
+        "Los arrecifes de coral no tienen relación con la biodiversidad marina",
+        false
+      ],
+      ["Los arrecifes de coral solo albergan peces y corales", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué acciones se pueden tomar para proteger los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Reducir la contaminación del agua y controlar la pesca", true],
+      ["Realizar excavaciones submarinas en los arrecifes", false],
+      ["Utilizar explosivos para pescar en los arrecifes", false],
+      ["Incrementar el turismo sin regulación en los arrecifes", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un arrecife artificial?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una estructura creada por el ser humano para promover el crecimiento de corales",
+        true
+      ],
+      ["Un tipo de planta acuática", false],
+      ["Un tipo de pez exótico", false],
+      ["Un fenómeno natural en el océano", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el organismo principal responsable de la construcción de arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Pólipos de coral", true],
+      ["Medusas", false],
+      ["Estrellas de mar", false],
+      ["Algas marinas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la principal amenaza para los arrecifes de coral debido al cambio climático?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El aumento de la temperatura del agua", true],
+      ["La disminución de las precipitaciones", false],
+      ["El aumento de la salinidad", false],
+      ["La disminución de los niveles de oxígeno", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es la pesca destructiva y cómo afecta a los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La captura de peces mediante técnicas que dañan el arrecife", true],
+      ["La pesca deportiva responsable", false],
+      ["La pesca de subsistencia en pequeña escala", false],
+      ["La pesca de especies no relacionadas con los arrecifes", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la importancia de los arrecifes de coral para los ecosistemas marinos?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Proporcionar hábitats y protección para muchas especies marinas", true],
+      ["Generar corrientes marinas", false],
+      ["Eliminar la contaminación del agua", false],
+      ["Regular el pH del océano", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el arrecife de coral más grande del mundo?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Gran Barrera de Coral, Australia", true],
+      ["Arrecife Mesoamericano, México", false],
+      ["Arrecife de Belice", false],
+      ["Arrecife de Tubbataha, Filipinas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el efecto de la sedimentación en los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Puede bloquear la luz solar y sofocar a los corales", true],
+      ["Aumenta la biodiversidad en los arrecifes", false],
+      ["Mejora la calidad del agua", false],
+      ["Favorece el crecimiento acelerado de los corales", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la relación entre los corales y las algas simbióticas llamadas zooxantelas?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Los corales y las zooxantelas tienen una relación de mutualismo", true],
+      ["Las zooxantelas son parásitos que dañan a los corales", false],
+      ["Las zooxantelas son depredadores de los corales", false],
+      ["No hay relación entre los corales y las zooxantelas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la función de los arrecifes de coral como barreras naturales?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Proteger las costas de la erosión causada por las olas", true],
+      ["Evitar el ingreso de especies invasoras al océano", false],
+      ["Bloquear el paso de embarcaciones en alta mar", false],
+      ["Crear hábitats para aves marinas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un arrecife de coral fringing?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un arrecife que crece cerca de la costa y está conectado a ella", true],
+      ["Un arrecife en forma de anillo que rodea una laguna", false],
+      ["Un arrecife que se encuentra en aguas profundas", false],
+      ["Un arrecife que solo se compone de algas marinas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el proceso de recuperación natural de un arrecife de coral después de un evento de blanqueamiento?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La recolonización de corales por parte de pólipos jóvenes", true],
+      ["La regeneración de los corales blanqueados", false],
+      ["El crecimiento acelerado de algas en el arrecife", false],
+      ["La llegada de corales de otras zonas cercanas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un arrecife de coral barrier?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un arrecife que se encuentra paralelo a la costa y forma una barrera",
+        true
+      ],
+      ["Un arrecife que se encuentra en el centro de un océano", false],
+      ["Un arrecife que se forma alrededor de una isla volcánica", false],
+      ["Un arrecife que se encuentra en aguas polares", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es la bioerosión y cómo afecta a los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La acción de organismos que desgastan y erosionan el coral", true],
+      ["La acumulación de residuos tóxicos en los arrecifes", false],
+      ["La contaminación del agua por microorganismos", false],
+      [
+        "La extracción excesiva de corales por parte de los seres humanos",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el mayor peligro para los arrecifes de coral debido a la contaminación por plásticos?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La ingestión de plástico por parte de los corales y otros organismos marinos",
+        true
+      ],
+      [
+        "El bloqueo de la luz solar debido a la acumulación de plásticos",
+        false
+      ],
+      [
+        "La disminución de la temperatura del agua debido a la presencia de plásticos",
+        false
+      ],
+      [
+        "La proliferación de algas tóxicas en los arrecifes debido a la contaminación plástica",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Qué es un arrecife de coral atoll?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un arrecife en forma de anillo que rodea una laguna", true],
+      ["Un arrecife que se encuentra en aguas profundas", false],
+      ["Un arrecife que se forma alrededor de una isla volcánica", false],
+      [
+        "Un arrecife que se encuentra paralelo a la costa y forma una barrera",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el impacto de la pesca con explosivos en los arrecifes de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Causa la destrucción física del arrecife y la muerte de organismos marinos",
+        true
+      ],
+      ["Aumenta la biodiversidad en los arrecifes", false],
+      ["Mejora la calidad del agua", false],
+      ["Favorece el crecimiento acelerado de los corales", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es el papel de los arrecifes de coral en la protección de las zonas costeras contra las marejadas?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Actúan como barreras naturales que disipan la energía de las olas",
+        true
+      ],
+      ["Incrementan la fuerza de las marejadas", false],
+      ["Generan corrientes marinas que evitan las marejadas", false],
+      ["No tienen impacto en la protección contra las marejadas", false]
+    ]
+  },
+  {
+    "tipo": "Arrecife",
+    "pregunta": "¿Cuál es la importancia de los arrecifes de coral para las comunidades locales?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Brindan alimentos, ingresos y protección contra tormentas", true],
+      ["Permiten la práctica de deportes acuáticos", false],
+      ["Proporcionan agua potable a las comunidades", false],
+      ["Generan electricidad a partir de la energía de las olas", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el ecosistema terrestre más diverso del planeta?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El bosque tropical", true],
+      ["El desierto", false],
+      ["La tundra", false],
+      ["El bosque de coníferas", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es la deforestación y cuáles son sus consecuencias?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La eliminación masiva de árboles en un área y sus consecuencias incluyen pérdida de biodiversidad y cambio climático",
+        true
+      ],
+      [
+        "La plantación masiva de árboles en un área y sus consecuencias incluyen aumento de la biodiversidad y mejora del clima",
+        false
+      ],
+      [
+        "La protección de los árboles en un área y sus consecuencias incluyen conservación de la biodiversidad y mitigación del cambio climático",
+        false
+      ],
+      [
+        "El estudio de los árboles en un área y sus consecuencias incluyen mayor conocimiento de la biodiversidad y del clima",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la importancia de los bosques para el equilibrio del clima global?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Los bosques absorben dióxido de carbono y liberan oxígeno, ayudando a regular el clima",
+        true
+      ],
+      [
+        "Los bosques generan lluvias y tormentas, influyendo en el clima",
+        false
+      ],
+      [
+        "Los bosques disminuyen la temperatura global, evitando el calentamiento global",
+        false
+      ],
+      [
+        "Los bosques actúan como barreras naturales contra los fenómenos climáticos extremos",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el mayor factor que contribuye a la degradación de los bosques?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La actividad humana, como la tala ilegal y la expansión agrícola",
+        true
+      ],
+      ["Los desastres naturales, como los incendios forestales", false],
+      ["El cambio climático, como el aumento de la temperatura", false],
+      [
+        "La falta de políticas de conservación, como la ausencia de áreas protegidas",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es un bosque caducifolio?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Un bosque cuyas hojas se caen en una estación del año", true],
+      ["Un bosque que se encuentra cerca de un cuerpo de agua", false],
+      ["Un bosque que se compone principalmente de coníferas", false],
+      ["Un bosque que se encuentra en una región fría y helada", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el mayor beneficio económico de los bosques?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La producción de madera y otros productos forestales", true],
+      ["La generación de energía renovable, como la hidroeléctrica", false],
+      ["El turismo y la recreación en áreas boscosas", false],
+      ["La captura de carbono para proyectos de compensación", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es la biodiversidad?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La variedad de seres vivos en un ecosistema", true],
+      ["La cantidad de árboles en un bosque", false],
+      ["La presencia de animales exóticos en un área", false],
+      ["La conservación de áreas naturales protegidas", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es la selva amazónica?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La mayor selva tropical del mundo, ubicada en América del Sur", true],
+      ["Un bosque boreal ubicado en el norte de Europa", false],
+      ["Una selva templada ubicada en la costa oeste de Estados Unidos", false],
+      ["Una selva subtropical ubicada en el sudeste asiático", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el término que se utiliza para describir la pérdida de árboles en un bosque sin su regeneración?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La degradación forestal", false],
+      ["La tala selectiva", false],
+      ["La deforestación", false],
+      ["La dehesa", true]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es un bosque boreal?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un bosque ubicado en las regiones frías del hemisferio norte, compuesto principalmente de coníferas",
+        true
+      ],
+      [
+        "Un bosque ubicado en las regiones ecuatoriales del planeta, compuesto principalmente de palmas",
+        false
+      ],
+      [
+        "Un bosque ubicado en las regiones tropicales del planeta, compuesto principalmente de árboles de hoja caduca",
+        false
+      ],
+      [
+        "Un bosque ubicado en las regiones subtropicales del hemisferio sur, compuesto principalmente de eucaliptos",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el impacto de los incendios forestales en los bosques?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La destrucción de árboles y la pérdida de biodiversidad", true],
+      ["La promoción del crecimiento de nuevos árboles", false],
+      ["La mejora de la calidad del suelo y la fertilidad", false],
+      ["La reducción de la erosión del suelo", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es un bosque tropical lluvioso?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un bosque ubicado en áreas tropicales con alta precipitación y una gran diversidad de especies",
+        true
+      ],
+      [
+        "Un bosque ubicado en áreas áridas y secas con escasa vegetación",
+        false
+      ],
+      [
+        "Un bosque ubicado en áreas polares con bajas temperaturas y vegetación adaptada al frío",
+        false
+      ],
+      [
+        "Un bosque ubicado en áreas subtropicales con árboles de hoja perenne",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la principal causa de la pérdida de biodiversidad en los bosques?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La destrucción del hábitat debido a la deforestación", true],
+      ["La caza excesiva de animales silvestres", false],
+      ["La contaminación del agua y el suelo", false],
+      ["El cambio climático", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Qué es un bosque de coníferas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un bosque compuesto principalmente de árboles que producen conos y agujas",
+        true
+      ],
+      ["Un bosque compuesto principalmente de árboles de hoja caduca", false],
+      ["Un bosque compuesto principalmente de palmas", false],
+      ["Un bosque compuesto principalmente de árboles de hoja perenne", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el término que se utiliza para describir la plantación de árboles en áreas deforestadas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La reforestación", true],
+      ["La tala selectiva", false],
+      ["La degradación forestal", false],
+      ["La conservación", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el porcentaje aproximado de la cobertura forestal en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Alrededor del 50%", true],
+      ["Alrededor del 30%", false],
+      ["Alrededor del 70%", false],
+      ["Alrededor del 10%", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la región de Colombia con mayor diversidad de especies de árboles?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La región amazónica", false],
+      ["La región del Chocó", true],
+      ["La región de los Llanos Orientales", false],
+      ["La región de la Sierra Nevada de Santa Marta", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el principal desafío para la conservación de los bosques en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La deforestación", true],
+      ["La falta de áreas protegidas", false],
+      ["El cambio climático", false],
+      ["La contaminación del aire", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre del parque nacional natural ubicado en la región del Amazonas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Parque Nacional Natural Amacayacu", true],
+      ["Parque Nacional Natural Tayrona", false],
+      ["Parque Nacional Natural Los Nevados", false],
+      ["Parque Nacional Natural El Cocuy", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el árbol nacional de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La palma de cera", true],
+      ["El guayacán", false],
+      ["El ceibo", false],
+      ["El arrayán", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la amenaza más significativa para los bosques de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La deforestación para la expansión agrícola y ganadera", true],
+      ["Los incendios forestales", false],
+      ["La extracción de madera ilegal", false],
+      ["La minería ilegal", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre de la región natural de Colombia conocida por su alta diversidad biológica y sus selvas tropicales?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Chocó", true],
+      ["Los Llanos Orientales", false],
+      ["La Costa Caribe", false],
+      ["La Orinoquia", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre del árbol emblemático de los bosques de niebla en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El palo de agua", true],
+      ["El roble", false],
+      ["El cedro", false],
+      ["El aliso", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la importancia de los bosques en Colombia para el suministro de agua?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Los bosques actúan como reguladores del ciclo del agua y proveen agua dulce a diferentes ecosistemas y comunidades",
+        true
+      ],
+      [
+        "Los bosques no tienen un papel importante en el suministro de agua",
+        false
+      ],
+      [
+        "Los bosques contaminan el agua y la hacen inadecuada para el consumo humano",
+        false
+      ],
+      [
+        "Los bosques solo son importantes para el suministro de agua en zonas urbanas",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre del páramo más grande de Colombia, ubicado en los Andes?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El páramo de Sumapaz", true],
+      ["El páramo de Santurbán", false],
+      ["El páramo de Guerrero", false],
+      ["El páramo de Cruz Verde", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el impacto de la deforestación en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Pérdida de biodiversidad, aumento de las emisiones de gases de efecto invernadero y afectación de las comunidades indígenas y locales",
+        true
+      ],
+      [
+        "Beneficios económicos a corto plazo y mejora de la calidad del suelo",
+        false
+      ],
+      [
+        "Aumento de la biodiversidad y generación de empleo en el sector agrícola",
+        false
+      ],
+      [
+        "Disminución de la erosión del suelo y reducción de la contaminación del agua",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la entidad encargada de la conservación de los bosques en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La Corporación Nacional Forestal (CONAF)", false],
+      ["La Unidad de Parques Nacionales Naturales (UPNN)", true],
+      ["El Ministerio de Medio Ambiente y Desarrollo Sostenible", false],
+      [
+        "El Instituto de Investigación de Recursos Biológicos Alexander von Humboldt",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre del santuario de flora y fauna ubicado en la región del Amazonas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Santuario de Flora y Fauna Ciénaga Grande de Santa Marta", false],
+      ["Santuario de Flora y Fauna Otún Quimbaya", false],
+      ["Santuario de Flora y Fauna Iguaque", false],
+      ["Santuario de Flora y Fauna Amacayacu", true]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es el nombre del parque nacional natural ubicado en la región de la Sierra Nevada de Santa Marta en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Parque Nacional Natural Tayrona", true],
+      ["Parque Nacional Natural El Cocuy", false],
+      ["Parque Nacional Natural Los Nevados", false],
+      ["Parque Nacional Natural Gorgona", false]
+    ]
+  },
+  {
+    "tipo": "Bosque",
+    "pregunta": "¿Cuál es la técnica tradicional utilizada por las comunidades indígenas de la Amazonia para cultivar alimentos en armonía con el bosque?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La chagra o huerta amazónica", true],
+      ["La tala selectiva", false],
+      ["La rotación de cultivos", false],
+      ["La agroforestería", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué es un desierto?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Una región árida con escasa precipitación y poca vegetación", true],
+      ["Una región cubierta de hielo y nieve", false],
+      ["Una región con clima tropical y densa selva", false],
+      ["Una región montañosa con abundante flora y fauna", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el desierto más grande del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Desierto del Sahara", true],
+      ["El Desierto de Atacama", false],
+      ["El Desierto de Gobi", false],
+      ["El Desierto de Mojave", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué adaptaciones tienen los animales para sobrevivir en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Reservas de agua en su cuerpo y capacidad de conservarla", true],
+      ["Plumaje denso para el aislamiento térmico", false],
+      ["Hábitos nocturnos para evitar el calor del día", false],
+      ["Capacidad de volar largas distancias para buscar agua", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué adaptaciones tienen las plantas para sobrevivir en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Sistemas de raíces largas para captar agua", true],
+      ["Hojas grandes para captar la luz solar", false],
+      ["Flores vistosas para atraer polinizadores", false],
+      [
+        "Capacidad de almacenar grandes cantidades de agua en sus tejidos",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué es un oasis?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Un área con vegetación y agua en medio de un desierto", true],
+      ["Una formación rocosa característica de los desiertos", false],
+      ["Una tormenta de arena", false],
+      ["Un tipo de cactus que crece en los desiertos", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el animal emblemático del Desierto de Mojave en América del Norte?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El ave fénix", false],
+      ["El escorpión", false],
+      ["La tortuga del desierto", false],
+      ["La serpiente de cascabel de Mojave", true]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la característica distintiva de los desiertos fríos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Temperaturas extremadamente bajas", true],
+      ["Poca cantidad de lluvia", false],
+      ["Gran diversidad de flora y fauna", false],
+      ["Presencia de dunas de arena", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué es la lluvia estacional en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Precipitaciones que ocurren en ciertas épocas del año", true],
+      ["Un fenómeno meteorológico inusual en los desiertos", false],
+      ["La acumulación de agua en forma de charcos", false],
+      ["Un método de riego utilizado en la agricultura desértica", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el desierto más árido del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Desierto de Atacama", true],
+      ["El Desierto del Sahara", false],
+      ["El Desierto de Kalahari", false],
+      ["El Desierto de Sonora", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué es la camuflaje cripsis en los animales del desierto?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La capacidad de mimetizarse con el entorno para pasar desapercibidos",
+        true
+      ],
+      ["Un mecanismo de defensa basado en la velocidad", false],
+      ["La producción de sonidos para ahuyentar a los depredadores", false],
+      ["La habilidad de almacenar agua en sus tejidos", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el desierto más alto del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Desierto de Gobi", false],
+      ["El Desierto de Atacama", false],
+      ["El Desierto de Namib", false],
+      ["El Desierto de Altiplano", true]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el principal factor que limita la biodiversidad en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La falta de agua", true],
+      ["Las altas temperaturas", false],
+      ["La presencia de arena y rocas", false],
+      ["La escasez de nutrientes en el suelo", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de animales suelen habitar los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Escorpiones, serpientes, lagartos y roedores adaptados a condiciones extremas",
+        true
+      ],
+      [
+        "Pájaros migratorios y mamíferos grandes como elefantes y leones",
+        false
+      ],
+      ["Aves acuáticas y peces adaptados a vivir en lagos salados", false],
+      ["Primates y grandes felinos como tigres y gorilas", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué es la evaporación en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El proceso por el cual el agua se convierte en vapor y se pierde en la atmósfera",
+        true
+      ],
+      ["La formación de lagos y ríos temporales debido a las lluvias", false],
+      ["El proceso de filtración del agua a través del suelo", false],
+      ["El derretimiento de los glaciares en las regiones polares", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el desierto más frío del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Desierto de Gobi", false],
+      ["El Desierto de Atacama", false],
+      ["El Desierto de Namib", false],
+      ["El Desierto de Antártida", true]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el principal tipo de vegetación que se encuentra en los desiertos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Cactus y suculentas", true],
+      ["Árboles altos y frondosos", false],
+      ["Pastizales y praderas", false],
+      ["Bosques de coníferas", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el desierto más grande de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Desierto de la Tatacoa", true],
+      ["El Desierto de Guajira", false],
+      ["El Desierto de la Candelaria", false],
+      ["El Desierto de los Llanos", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿En qué región de Colombia se encuentra el Desierto de la Tatacoa?",
+    "imagen": "caminando",
+    "opciones": [
+      ["En la región central del país", true],
+      ["En la región de la Amazonia", false],
+      ["En la región del Caribe", false],
+      ["En la región de los Andes", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el color característico del suelo en el Desierto de la Tatacoa?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Rojo", true],
+      ["Blanco", false],
+      ["Amarillo", false],
+      ["Negro", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de formaciones rocosas se encuentran en el Desierto de la Tatacoa?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Cañones y laberintos", true],
+      ["Dunas de arena", false],
+      ["Mesetas y planicies", false],
+      ["Cuevas y grutas", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la temperatura promedio en el Desierto de la Tatacoa?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Alrededor de 30 grados Celsius", true],
+      ["Alrededor de 10 grados Celsius", false],
+      ["Alrededor de 20 grados Celsius", false],
+      ["Alrededor de 40 grados Celsius", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la principal actividad turística en el Desierto de la Tatacoa?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Observación astronómica", true],
+      ["Senderismo", false],
+      ["Buceo en cenotes", false],
+      ["Paseos en camellos", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la característica geográfica más destacada del Desierto de Guajira en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La presencia de la Sierra Nevada de Santa Marta", false],
+      ["La península de La Guajira", true],
+      ["La desembocadura del río Magdalena", false],
+      ["Los cerros de Mavecure", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la principal comunidad indígena que habita el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Los Wayuu", true],
+      ["Los Emberá", false],
+      ["Los Kogui", false],
+      ["Los Tikuna", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de vegetación se encuentra en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Cactus y arbustos espinosos", true],
+      ["Palmeras y manglares", false],
+      ["Bosques tropicales", false],
+      ["Praderas y pastizales", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la característica distintiva de la fauna en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La presencia de aves migratorias", true],
+      ["La presencia de grandes felinos", false],
+      ["La presencia de serpientes venenosas", false],
+      ["La presencia de mamíferos marinos", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la principal amenaza para la biodiversidad en los desiertos de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La deforestación y la explotación petrolera", true],
+      ["El cambio climático y la desertificación", false],
+      ["La contaminación del agua y del aire", false],
+      ["La caza furtiva y el tráfico de especies", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de aves se pueden observar en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Flamencos y pelícanos", true],
+      ["Águilas y halcones", false],
+      ["Colibríes y loros", false],
+      ["Cigüeñas y garzas", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de eventos naturales ocurren en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Tormentas de arena", true],
+      ["Erupciones volcánicas", false],
+      ["Tornados", false],
+      ["Inundaciones", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es la importancia cultural del Desierto de Guajira para la comunidad Wayuu?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Es su territorio ancestral y posee un gran valor espiritual", true],
+      ["Es un importante centro turístico y económico", false],
+      ["Es un sitio arqueológico con vestigios precolombinos", false],
+      ["Es un lugar de investigación científica y conservación", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Cuál es el nombre de la famosa playa ubicada en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Playa Cabo de la Vela", true],
+      ["Playa Blanca", false],
+      ["Playa Taganga", false],
+      ["Playa Tayrona", false]
+    ]
+  },
+  {
+    "tipo": "Desierto",
+    "pregunta": "¿Qué tipo de actividades se pueden realizar en el Desierto de Guajira?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Caminatas y excursiones en vehículos todo terreno", true],
+      ["Buceo y snorkel en arrecifes de coral", false],
+      ["Observación de aves y fauna silvestre", false],
+      ["Práctica de deportes acuáticos como el surf", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué es un páramo?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un ecosistema de montaña caracterizado por vegetación alta y clima frío",
+        true
+      ],
+      ["Una formación rocosa de origen volcánico", false],
+      ["Un tipo de desierto con escasa vegetación", false],
+      ["Una zona costera con manglares y estuarios", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿En qué tipo de región se encuentran los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["En regiones de alta montaña", true],
+      ["En regiones desérticas", false],
+      ["En regiones tropicales", false],
+      ["En regiones costeras", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la principal característica de la vegetación en los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Presencia de plantas adaptadas a las bajas temperaturas y alta humedad",
+        true
+      ],
+      ["Presencia de árboles altos y frondosos", false],
+      ["Presencia de cactus y suculentas", false],
+      ["Presencia de pastizales y praderas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la importancia de los páramos en la regulación del ciclo del agua?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Funcionan como reguladores de la disponibilidad de agua en las cuencas hidrográficas",
+        true
+      ],
+      ["Contribuyen a la formación de ríos subterráneos", false],
+      ["Producen grandes cantidades de agua dulce", false],
+      ["Evitan la erosión del suelo en las zonas montañosas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la fauna típica que se encuentra en los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Aves como el cóndor y la perdiz", true],
+      ["Mamíferos grandes como el oso pardo", false],
+      ["Reptiles como la serpiente cascabel", false],
+      ["Insectos como las mariposas y abejas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los páramos más grandes y conocidos en Sudamérica?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Páramo de Sumapaz en Colombia", true],
+      ["El Páramo de La Culata en Venezuela", false],
+      ["El Páramo de Papallacta en Ecuador", false],
+      ["El Páramo de los Frailejones en Perú", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué tipo de planta es emblemática de los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El frailejón", true],
+      ["La orquídea", false],
+      ["El cactus", false],
+      ["El helecho", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la función de los páramos en la captura de carbono?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Contribuyen a la mitigación del cambio climático al almacenar grandes cantidades de carbono",
+        true
+      ],
+      ["Emiten grandes cantidades de gases de efecto invernadero", false],
+      ["No tienen un papel relevante en la captura de carbono", false],
+      ["Ayudan a mantener la temperatura global estable", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los principales desafíos para la conservación de los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La expansión de la agricultura y ganadería", true],
+      ["La falta de regulación en el turismo", false],
+      ["El cambio climático", false],
+      ["La extracción de minerales", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué tipo de ecosistema se encuentra en las partes altas de los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Ecosistema de alta montaña", true],
+      ["Ecosistema de bosques tropicales", false],
+      ["Ecosistema de manglares", false],
+      ["Ecosistema de selvas húmedas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué importancia tienen los páramos para las comunidades locales?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Proveen agua para consumo humano y actividades agrícolas", true],
+      ["Son fuentes de energía renovable", false],
+      ["Son espacios recreativos y turísticos", false],
+      ["Son sitios sagrados para rituales religiosos", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el efecto del cambio climático en los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Se están desplazando hacia altitudes más altas", true],
+      ["Se están expandiendo hacia áreas más bajas", false],
+      ["No se ven afectados por el cambio climático", false],
+      ["Están desapareciendo gradualmente", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el rol de los páramos en la regulación del ciclo hidrológico?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Actúan como esponjas naturales al almacenar agua y liberarla gradualmente",
+        true
+      ],
+      ["Actúan como embalses para abastecer de agua a las ciudades", false],
+      ["Actúan como barreras naturales para evitar inundaciones", false],
+      ["Actúan como filtros para purificar el agua", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el principal problema ambiental que afecta a los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La quema de vegetación y la sobreexplotación de recursos", true],
+      ["La introducción de especies exóticas invasoras", false],
+      ["La contaminación del agua y el aire", false],
+      ["El cambio climático y el derretimiento de los glaciares", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué beneficios económicos se derivan de los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Turismo, agricultura y ganadería sostenible", true],
+      ["Extracción de petróleo y gas", false],
+      ["Minería a gran escala", false],
+      ["Producción de energía hidroeléctrica", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los páramos más importantes en la región andina de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Páramo de Santurbán", true],
+      ["El Páramo de Chingaza", false],
+      ["El Páramo de Cruz Verde", false],
+      ["El Páramo de Rabanal", false]
+    ]
+  },
+
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿En qué región de Colombia se encuentran los páramos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["En la región andina", true],
+      ["En la región amazónica", false],
+      ["En la región caribeña", false],
+      ["En la región pacífica", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la principal característica de la vegetación en los páramos de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Presencia de plantas adaptadas a las bajas temperaturas y alta humedad",
+        true
+      ],
+      ["Presencia de árboles altos y frondosos", false],
+      ["Presencia de cactus y suculentas", false],
+      ["Presencia de pastizales y praderas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la importancia de los páramos en Colombia en términos de suministro de agua?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Son fuentes importantes de agua dulce para diversas regiones del país",
+        true
+      ],
+      ["Son ecosistemas que no influyen en la disponibilidad de agua", false],
+      [
+        "Son espacios que capturan agua de mar y la convierten en agua dulce",
+        false
+      ],
+      ["Son áreas de recarga de acuíferos subterráneos", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los páramos más importantes de Colombia en términos de biodiversidad?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Páramo de Sumapaz", true],
+      ["El Páramo de Santurbán", false],
+      ["El Páramo de Guerrero", false],
+      ["El Páramo de Rabanal", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los principales desafíos para la conservación de los páramos en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La expansión de la agricultura y ganadería", true],
+      ["La falta de regulación en el turismo", false],
+      ["El cambio climático", false],
+      ["La extracción de minerales", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué tipo de planta es emblemática de los páramos en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El frailejón", true],
+      ["La orquídea", false],
+      ["El cactus", false],
+      ["El helecho", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el efecto del cambio climático en los páramos de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Se están desplazando hacia altitudes más altas", true],
+      ["Se están expandiendo hacia áreas más bajas", false],
+      ["No se ven afectados por el cambio climático", false],
+      ["Están desapareciendo gradualmente", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el rol de los páramos en la regulación del ciclo hidrológico en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Actúan como esponjas naturales al almacenar agua y liberarla gradualmente",
+        true
+      ],
+      ["Actúan como embalses para abastecer de agua a las ciudades", false],
+      ["Actúan como barreras naturales para evitar inundaciones", false],
+      ["Actúan como filtros para purificar el agua", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es el principal problema ambiental que afecta a los páramos en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La quema de vegetación y la sobreexplotación de recursos", true],
+      ["La introducción de especies exóticas invasoras", false],
+      ["La contaminación del agua y el aire", false],
+      ["El cambio climático y el derretimiento de los glaciares", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los páramos más importantes en la región andina de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Páramo de Chingaza", true],
+      ["El Páramo de Güicán", false],
+      ["El Páramo de la Rusia", false],
+      ["El Páramo de las Hermosas", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué beneficios económicos se derivan de los páramos en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Turismo, agricultura y ganadería sostenible", true],
+      ["Extracción de petróleo y gas", false],
+      ["Minería a gran escala", false],
+      ["Producción de energía hidroeléctrica", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es uno de los páramos más amenazados de Colombia debido a la actividad minera?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Páramo de Santurbán", true],
+      ["El Páramo de Las Hermosas", false],
+      ["El Páramo de Cruz Verde", false],
+      ["El Páramo de Sumapaz", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Qué importancia tienen los páramos para las comunidades locales en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Proveen agua para consumo humano y actividades agrícolas", true],
+      ["Son fuentes de energía renovable", false],
+      ["Son espacios recreativos y turísticos", false],
+      ["Son sitios sagrados para rituales religiosos", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la función de los páramos en la captura de carbono en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Contribuyen a la mitigación del cambio climático al almacenar grandes cantidades de carbono",
+        true
+      ],
+      ["Emiten grandes cantidades de gases de efecto invernadero", false],
+      ["No tienen un papel relevante en la captura de carbono", false],
+      ["Ayudan a mantener la temperatura global estable", false]
+    ]
+  },
+  {
+    "tipo": "Páramo",
+    "pregunta": "¿Cuál es la altura promedio de los páramos en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Entre 3.000 y 4.500 metros sobre el nivel del mar", true],
+      ["Entre 1.000 y 2.000 metros sobre el nivel del mar", false],
+      ["Entre 500 y 1.000 metros sobre el nivel del mar", false],
+      ["Más de 5.000 metros sobre el nivel del mar", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Qué es una sabana?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un ecosistema caracterizado por vegetación de hierbas altas y dispersas con árboles esparcidos",
+        true
+      ],
+      ["Una formación rocosa de origen volcánico", false],
+      ["Un tipo de desierto con escasa vegetación", false],
+      ["Una zona costera con manglares y estuarios", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿En qué regiones del mundo se encuentran las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["En regiones tropicales y subtropicales", true],
+      ["En regiones polares y subpolares", false],
+      ["En regiones desérticas", false],
+      ["En regiones montañosas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es la principal característica de la vegetación en las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Presencia de hierbas altas y dispersas con árboles esparcidos", true],
+      ["Presencia de bosques densos y frondosos", false],
+      ["Presencia de cactus y suculentas", false],
+      ["Presencia de manglares y palmas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es la importancia de las sabanas en términos de biodiversidad?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Son hábitats para una gran variedad de especies de plantas y animales",
+        true
+      ],
+      [
+        "Tienen una biodiversidad muy baja en comparación con otros ecosistemas",
+        false
+      ],
+      ["Son zonas de paso migratorio para aves acuáticas", false],
+      ["Son áreas de refugio para especies marinas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los animales emblemáticos de las sabanas africanas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El león", true],
+      ["El oso polar", false],
+      ["El pingüino", false],
+      ["El elefante", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los principales factores que contribuye a la formación de las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La combinación de lluvias estacionales y la presencia de árboles dispersos",
+        true
+      ],
+      ["La alta humedad y la presencia de ríos", false],
+      ["La presencia de glaciares y nieve permanente", false],
+      ["La falta de precipitación y el clima árido", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es la función del fuego en las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El fuego juega un papel importante en el mantenimiento y regeneración de las sabanas",
+        true
+      ],
+      ["El fuego es perjudicial para las sabanas y debe evitarse", false],
+      [
+        "El fuego ayuda a controlar la población de animales en las sabanas",
+        false
+      ],
+      ["El fuego no tiene ningún efecto en las sabanas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Qué tipo de clima se encuentra comúnmente en las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Clima tropical y subtropical", true],
+      ["Clima polar y frío", false],
+      ["Clima árido y desértico", false],
+      ["Clima montañoso y fresco", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los principales problemas que enfrentan las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La degradación del suelo y la pérdida de biodiversidad debido a la actividad humana",
+        true
+      ],
+      ["La falta de agua y la sequía prolongada", false],
+      ["La presencia de plagas y enfermedades en la vegetación", false],
+      ["La escasez de alimento para los animales", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es el efecto del cambio climático en las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Puede alterar los patrones de lluvia y afectar la vegetación y los animales de las sabanas",
+        true
+      ],
+      ["No tiene ningún efecto en las sabanas", false],
+      ["Puede aumentar la productividad y diversidad de las sabanas", false],
+      ["Puede provocar la desertificación de las sabanas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los ecosistemas similares a las sabanas, pero con mayor presencia de árboles?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La savana arbolada", true],
+      ["El desierto", false],
+      ["El bosque tropical lluvioso", false],
+      ["El manglar", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los tipos de sabanas más conocidos en Sudamérica?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La llanura del Orinoco en Venezuela", true],
+      ["La selva amazónica en Brasil", false],
+      ["El altiplano en Bolivia", false],
+      ["El delta del río Paraná en Argentina", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es la importancia económica de las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Las sabanas son utilizadas para la agricultura y la cría de ganado",
+        true
+      ],
+      ["Las sabanas son fuentes importantes de minerales", false],
+      ["Las sabanas son destinos turísticos populares", false],
+      ["Las sabanas no tienen una importancia económica significativa", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los animales más emblemáticos de las sabanas en Sudamérica?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El jaguar", true],
+      ["El elefante", false],
+      ["El rinoceronte", false],
+      ["El leopardo", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los principales problemas ambientales que afecta a las sabanas en la actualidad?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La deforestación y la conversión de tierras para la agricultura y la ganadería",
+        true
+      ],
+      ["La falta de agua y la sequía", false],
+      ["La contaminación del aire y del agua", false],
+      ["La invasión de especies exóticas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es el rol de los herbívoros en las sabanas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Los herbívoros son clave en la dinámica de la vegetación y en la dispersión de semillas",
+        true
+      ],
+      ["Los herbívoros son depredadores importantes en las sabanas", false],
+      ["Los herbívoros no tienen un rol relevante en las sabanas", false],
+      [
+        "Los herbívoros compiten con los carnívoros por el alimento en las sabanas",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es una de las sabanas más conocidas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La sabana de Bogotá", true],
+      ["La sabana del Amazonas", false],
+      ["La sabana de los Llanos Orientales", false],
+      ["La sabana de la Costa Caribe", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es una de las características distintivas de la sabana de Bogotá?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La presencia de frailejones, plantas endémicas de los páramos", true],
+      ["La abundancia de árboles frondosos", false],
+      ["La presencia de cactus y suculentas", false],
+      ["La escasez de vegetación", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Qué tipo de actividades agrícolas se desarrollan en las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El cultivo de cereales, legumbres y hortalizas", true],
+      ["La ganadería intensiva", false],
+      ["El cultivo de frutas tropicales", false],
+      ["La producción de café y cacao", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los animales emblemáticos de las sabanas colombianas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El chigüiro (o capibara)", true],
+      ["El jaguar", false],
+      ["El cóndor", false],
+      ["El oso de anteojos", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los fenómenos naturales que ocurre en la sabana de Bogotá?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El fenómeno del Niño", true],
+      ["La caída de nieve", false],
+      ["La formación de dunas de arena", false],
+      ["La presencia de géiseres", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los parques nacionales naturales que protege las sabanas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El Parque Nacional Natural El Tuparro", true],
+      ["El Parque Nacional Natural Tayrona", false],
+      ["El Parque Nacional Natural Los Nevados", false],
+      ["El Parque Nacional Natural Amacayacu", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los problemas ambientales que afecta a las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La deforestación y la expansión de la frontera agrícola", true],
+      ["La falta de agua y la sequía", false],
+      ["La contaminación del aire y del agua", false],
+      ["El calentamiento global", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los ecosistemas vecinos de las sabanas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El bosque seco tropical", true],
+      ["El manglar", false],
+      ["La selva amazónica", false],
+      ["El páramo", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los cultivos característicos de las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El arroz", true],
+      ["El café", false],
+      ["La caña de azúcar", false],
+      ["El banano", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los ríos más importantes que atraviesa las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El río Magdalena", true],
+      ["El río Amazonas", false],
+      ["El río Cauca", false],
+      ["El río Orinoco", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Qué tipo de fauna se encuentra en las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Aves como el ñeque, el tucán y la garza", true],
+      ["Mamíferos como el tapir y el oso hormiguero", false],
+      ["Reptiles como la anaconda y la tortuga", false],
+      ["Peces como la pirarucú y el dorado", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los principales desafíos para la conservación de las sabanas en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El conflicto entre la conservación y el desarrollo económico", true],
+      ["La falta de conciencia ambiental", false],
+      ["La falta de áreas protegidas", false],
+      ["La presencia de especies invasoras", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los ecosistemas acuáticos asociados a las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Las ciénagas y los humedales", true],
+      ["Los arrecifes de coral", false],
+      ["Los estuarios y manglares", false],
+      ["Los lagos y lagunas", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los animales en peligro de extinción que habita en las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El cóndor de los Andes", true],
+      ["El jaguar", false],
+      ["El oso de anteojos", false],
+      ["El tapir", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Qué fenómeno natural es común en las sabanas de Colombia durante la época de lluvias?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La formación de charcos y lagunas temporales", true],
+      ["La presencia de tormentas de arena", false],
+      ["La migración de aves", false],
+      ["La caída de nieve", false]
+    ]
+  },
+  {
+    "tipo": "Sabana",
+    "pregunta": "¿Cuál es uno de los productos agrícolas tradicionales de las sabanas de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El maíz", true],
+      ["El cacao", false],
+      ["El plátano", false],
+      ["El aguacate", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué son los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Ecosistemas costeros con árboles adaptados a suelos salinos y encharcamiento",
+        true
+      ],
+      ["Bosques tropicales lluviosos", false],
+      ["Desiertos con vegetación escasa", false],
+      ["Praderas marinas", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la importancia ecológica de los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Proporcionan hábitat y protección para numerosas especies de plantas y animales",
+        true
+      ],
+      ["Regulan el clima a nivel global", false],
+      ["Generan oxígeno y capturan dióxido de carbono", false],
+      ["Son fuentes de agua dulce", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿En qué regiones del mundo se encuentran los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Principalmente en las zonas tropicales y subtropicales", true],
+      ["En las regiones polares", false],
+      ["En los desiertos áridos", false],
+      ["En las zonas de alta montaña", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué tipo de suelo es característico de los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Suelos salinos y anegados", true],
+      ["Suelos fértiles y arcillosos", false],
+      ["Suelos rocosos y erosionados", false],
+      ["Suelos arenosos y secos", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es una de las adaptaciones de las plantas de manglar al entorno salino?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Raíces aéreas para obtener oxígeno", true],
+      ["Flores de colores llamativos", false],
+      ["Hojas pequeñas y escamosas", false],
+      ["Frutos grandes y carnosos", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué animales son comunes en los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Cangrejos, ostras, cocodrilos y aves costeras", true],
+      ["Tigres y leones", false],
+      ["Elefantes y jirafas", false],
+      ["Tortugas marinas y peces tropicales", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué servicios ambientales proporcionan los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Protección contra inundaciones, filtración de agua y mitigación del cambio climático",
+        true
+      ],
+      ["Producción de alimentos y materias primas", false],
+      ["Recreación y turismo", false],
+      ["Generación de energía renovable", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es una de las amenazas principales para los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La deforestación y la urbanización costera", true],
+      ["La actividad volcánica", false],
+      ["La contaminación atmosférica", false],
+      ["El cambio climático", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué actividades humanas pueden afectar negativamente a los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La tala de árboles, la acuicultura intensiva y la contaminación", true],
+      ["La reforestación y la protección de la fauna silvestre", false],
+      ["La agricultura sostenible y la pesca responsable", false],
+      ["El turismo ecológico y la educación ambiental", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué acciones se pueden tomar para conservar los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Establecer áreas protegidas, promover la educación ambiental y fomentar prácticas sostenibles",
+        true
+      ],
+      ["Realizar la extracción masiva de recursos naturales", false],
+      ["Expandir la urbanización costera", false],
+      [
+        "Ignorar la importancia de los manglares en la planificación del desarrollo",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la relación entre los manglares y los arrecifes de coral?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Los manglares actúan como viveros para muchas especies que luego migran hacia los arrecifes de coral",
+        true
+      ],
+      [
+        "Los arrecifes de coral protegen a los manglares de las inundaciones",
+        false
+      ],
+      [
+        "Los manglares y los arrecifes de coral son ecosistemas completamente separados",
+        false
+      ],
+      ["Los arrecifes de coral se encuentran dentro de los manglares", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es uno de los manglares más emblemáticos de América del Sur?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El manglar del delta del río Paraná, en Argentina", true],
+      ["El manglar de Borneo, en Malasia", false],
+      ["El manglar de Florida, en Estados Unidos", false],
+      ["El manglar de Sundarbans, en Bangladesh e India", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es uno de los beneficios económicos de los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La pesca y el turismo", true],
+      ["La minería y la extracción de petróleo", false],
+      ["La producción de energía hidroeléctrica", false],
+      ["La agricultura intensiva", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué organismo marino utiliza los manglares como hábitat y zona de reproducción?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El manatí", true],
+      ["El delfín", false],
+      ["La tortuga marina", false],
+      ["El tiburón", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la importancia de los manglares en la protección de la costa?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Actúan como barreras naturales contra tormentas y erosión costera",
+        true
+      ],
+      ["Promueven la formación de playas de arena", false],
+      ["Aumentan la acidez del agua marina", false],
+      ["Aceleran la sedimentación y el encharcamiento", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es una de las especies de manglar más comunes en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El mangle rojo", true],
+      ["El mangle blanco", false],
+      ["El mangle negro", false],
+      ["El mangle botoncillo", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿En qué regiones de Colombia se encuentran los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      ["En la costa Caribe y en el Pacífico", true],
+      ["En la región Andina", false],
+      ["En la región Amazónica", false],
+      ["En la región Orinoquía", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la importancia de los manglares en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Protegen la costa de la erosión y actúan como hábitat para numerosas especies",
+        true
+      ],
+      ["Son importantes para la pesca comercial", false],
+      ["Proporcionan madera de calidad", false],
+      ["Son destinos turísticos populares", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es una de las amenazas para los manglares en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La deforestación y la expansión de la agricultura y la acuicultura",
+        true
+      ],
+      ["El turismo sostenible", false],
+      ["El cambio climático", false],
+      ["La protección y conservación adecuada", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué tipo de fauna se puede encontrar en los manglares de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Aves, reptiles, mamíferos y peces", true],
+      ["Insectos y arácnidos", false],
+      ["Anfibios y crustáceos", false],
+      ["Moluscos y equinodermos", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es uno de los manglares más importantes de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El manglar de Tumaco", true],
+      ["El manglar de Santa Marta", false],
+      ["El manglar de Bahía Solano", false],
+      ["El manglar de Nuquí", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es el principal beneficio económico de los manglares en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La pesca comercial y el turismo", true],
+      ["La extracción de madera", false],
+      ["La agricultura intensiva", false],
+      ["La generación de energía hidroeléctrica", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es el organismo emblemático de los manglares en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El cangrejo azul", true],
+      ["El manatí", false],
+      ["La garza blanca", false],
+      ["El delfín rosado", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la función de las raíces aéreas de los manglares?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Ayudan a la oxigenación de las raíces y brindan estabilidad al suelo",
+        true
+      ],
+      ["Absorben los nutrientes del agua", false],
+      ["Capturan el dióxido de carbono de la atmósfera", false],
+      ["Actúan como refugio para las aves migratorias", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Qué actividades se consideran sostenibles en los manglares de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La pesca artesanal y el turismo ecológico", true],
+      ["La extracción masiva de recursos naturales", false],
+      ["La construcción de infraestructuras costeras", false],
+      ["La agricultura intensiva y la acuicultura industrial", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la relación entre los manglares y los estuarios en Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Los manglares son parte de los estuarios, que son ecosistemas de transición entre el agua dulce y el mar",
+        true
+      ],
+      ["Los estuarios son una especie de manglares", false],
+      [
+        "Los manglares y los estuarios son ecosistemas completamente separados",
+        false
+      ],
+      [
+        "Los estuarios son una etapa temprana en la formación de los manglares",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la importancia de los manglares en la mitigación del cambio climático?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Capturan y almacenan grandes cantidades de carbono", true],
+      ["Generan energía a partir del viento y las mareas", false],
+      ["Regulan el clima local y reducen la velocidad del viento", false],
+      ["Producen oxígeno y mejoran la calidad del aire", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es una de las especies amenazadas que habita en los manglares de Colombia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El manatí", true],
+      ["El cocodrilo", false],
+      ["La tortuga marina", false],
+      ["El pez loro", false]
+    ]
+  },
+  {
+    "tipo": "Manglar",
+    "pregunta": "¿Cuál es la importancia de los manglares en la protección contra desastres naturales?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Actúan como barreras naturales contra tormentas y tsunamis", true],
+      ["Aceleran la erosión costera", false],
+      ["Incrementan la vulnerabilidad de las comunidades costeras", false],
+      ["Promueven la formación de dunas de arena", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la erosión costera?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        true
+      ],
+      ["El proceso de formación de playas y dunas", false],
+      ["La construcción de infraestructuras costeras", false],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una duna costera?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Una elevación de arena formada por el viento cerca de la costa", true],
+      ["Un tipo de roca sedimentaria que se encuentra en las costas", false],
+      ["Un área de manglares en la costa", false],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un acantilado costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una pendiente vertical o inclinada de roca que cae directamente al mar",
+        true
+      ],
+      ["Un área de playa arenosa en la costa", false],
+      ["Una isla pequeña cerca de la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la marea?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El cambio periódico en el nivel del mar causado por la atracción gravitacional de la Luna y el Sol",
+        true
+      ],
+      ["El movimiento del agua en dirección opuesta a las olas", false],
+      ["La formación de barras de arena en la costa", false],
+      ["El proceso de sedimentación en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una barrera de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una estructura formada por colonias de corales que protege la costa de las olas y los sedimentos",
+        true
+      ],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false],
+      ["Un tipo de planta acuática que se encuentra en las costas", false],
+      ["Una acumulación de arena en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la zona intermareal?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La franja de la costa que queda al descubierto durante la marea baja y se cubre durante la marea alta",
+        true
+      ],
+      ["La zona donde se rompen las olas cerca de la costa", false],
+      ["El área de playa arenosa en la costa", false],
+      ["El límite entre la zona costera y el océano", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una plataforma continental?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una extensión de la costa sumergida que se extiende desde la línea de costa hasta la pendiente continental",
+        true
+      ],
+      ["Un área de manglares en la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ],
+      ["Una acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la zona de resaca?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La zona peligrosa y agitada cerca de la costa donde las olas rompen y se retiran rápidamente",
+        true
+      ],
+      ["La franja de arena entre el agua y la tierra en la costa", false],
+      ["El área de manglares en la costa", false],
+      ["El límite entre la zona costera y el océano", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la sedimentación costera?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El depósito de sedimentos transportados por las corrientes y olas a lo largo de la costa",
+        true
+      ],
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        false
+      ],
+      ["El proceso de formación de playas y dunas", false],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la salinización del suelo costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El aumento de la concentración de sal en el suelo debido a la intrusión de agua de mar",
+        true
+      ],
+      ["El proceso de erosión de las rocas costeras", false],
+      ["La acumulación de sedimentos en las costas", false],
+      ["La formación de barras de arena en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un estuario?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un área de transición entre el agua dulce de un río y el agua salada del mar",
+        true
+      ],
+      ["Una elevación de arena formada por el viento cerca de la costa", false],
+      ["Una zona de marea con fuertes corrientes cerca de la costa", false],
+      ["Una isla pequeña cerca de la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las amenazas para la biodiversidad en las costas?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La contaminación por desechos plásticos y químicos", true],
+      ["La formación de barras de arena en la costa", false],
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        false
+      ],
+      ["La construcción de infraestructuras costeras", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la acidificación oceánica?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El aumento de la acidez del agua del mar debido a la absorción de dióxido de carbono",
+        true
+      ],
+      ["El movimiento del agua en dirección opuesta a las olas", false],
+      ["El proceso de formación de playas y dunas", false],
+      ["El proceso de sedimentación en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un arrecife de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una estructura formada por colonias de corales que se encuentran en aguas poco profundas cerca de la costa",
+        true
+      ],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false],
+      ["Una acumulación de arena en la costa", false],
+      ["Un área de manglares en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un humedal costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un área de tierra inundada periódicamente o permanentemente cerca de la costa",
+        true
+      ],
+      [
+        "Una pendiente vertical o inclinada de roca que cae directamente al mar",
+        false
+      ],
+      ["Una isla pequeña cerca de la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es el oleaje?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El movimiento ondulatorio del agua en la superficie del mar", true],
+      ["La formación de barras de arena en la costa", false],
+      [
+        "La zona peligrosa y agitada cerca de la costa donde las olas rompen y se retiran rápidamente",
+        false
+      ],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la erosión costera?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        true
+      ],
+      ["El proceso de formación de playas y dunas", false],
+      ["La construcción de infraestructuras costeras", false],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una duna costera?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Una elevación de arena formada por el viento cerca de la costa", true],
+      ["Un tipo de roca sedimentaria que se encuentra en las costas", false],
+      ["Un área de manglares en la costa", false],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un acantilado costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una pendiente vertical o inclinada de roca que cae directamente al mar",
+        true
+      ],
+      ["Un área de playa arenosa en la costa", false],
+      ["Una isla pequeña cerca de la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la marea?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El cambio periódico en el nivel del mar causado por la atracción gravitacional de la Luna y el Sol",
+        true
+      ],
+      ["El movimiento del agua en dirección opuesta a las olas", false],
+      ["La formación de barras de arena en la costa", false],
+      ["El proceso de sedimentación en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una barrera de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una estructura formada por colonias de corales que protege la costa de las olas y los sedimentos",
+        true
+      ],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false],
+      ["Un tipo de planta acuática que se encuentra en las costas", false],
+      ["Una acumulación de arena en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la zona intermareal?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La franja de la costa que queda al descubierto durante la marea baja y se cubre durante la marea alta",
+        true
+      ],
+      ["La zona donde se rompen las olas cerca de la costa", false],
+      ["El área de playa arenosa en la costa", false],
+      ["El límite entre la zona costera y el océano", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es una plataforma continental?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una extensión de la costa sumergida que se extiende desde la línea de costa hasta la pendiente continental",
+        true
+      ],
+      ["Un área de manglares en la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ],
+      ["Una acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la zona de resaca?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "La zona peligrosa y agitada cerca de la costa donde las olas rompen y se retiran rápidamente",
+        true
+      ],
+      ["La franja de arena entre el agua y la tierra en la costa", false],
+      ["El área de manglares en la costa", false],
+      ["El límite entre la zona costera y el océano", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la sedimentación costera?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El depósito de sedimentos transportados por las corrientes y olas a lo largo de la costa",
+        true
+      ],
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        false
+      ],
+      ["El proceso de formación de playas y dunas", false],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la salinización del suelo costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El aumento de la concentración de sal en el suelo debido a la intrusión de agua de mar",
+        true
+      ],
+      ["El proceso de erosión de las rocas costeras", false],
+      ["La acumulación de sedimentos en las costas", false],
+      ["La formación de barras de arena en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un estuario?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un área de transición entre el agua dulce de un río y el agua salada del mar",
+        true
+      ],
+      ["Una elevación de arena formada por el viento cerca de la costa", false],
+      ["Una zona de marea con fuertes corrientes cerca de la costa", false],
+      ["Una isla pequeña cerca de la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las amenazas para la biodiversidad en las costas?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La contaminación por desechos plásticos y químicos", true],
+      ["La formación de barras de arena en la costa", false],
+      [
+        "El desgaste y la pérdida de tierra en las costas debido a la acción del mar",
+        false
+      ],
+      ["La construcción de infraestructuras costeras", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es la acidificación oceánica?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El aumento de la acidez del agua del mar debido a la absorción de dióxido de carbono",
+        true
+      ],
+      ["El movimiento del agua en dirección opuesta a las olas", false],
+      ["El proceso de formación de playas y dunas", false],
+      ["El proceso de sedimentación en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un arrecife de coral?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Una estructura formada por colonias de corales que se encuentran en aguas poco profundas cerca de la costa",
+        true
+      ],
+      ["Una formación rocosa en el fondo marino cerca de la costa", false],
+      ["Una acumulación de arena en la costa", false],
+      ["Un área de manglares en la costa", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es un humedal costero?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un área de tierra inundada periódicamente o permanentemente cerca de la costa",
+        true
+      ],
+      [
+        "Una pendiente vertical o inclinada de roca que cae directamente al mar",
+        false
+      ],
+      ["Una isla pequeña cerca de la costa", false],
+      [
+        "Una formación coralina en aguas poco profundas cerca de la costa",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Qué es el oleaje?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El movimiento ondulatorio del agua en la superficie del mar", true],
+      ["La formación de barras de arena en la costa", false],
+      [
+        "La zona peligrosa y agitada cerca de la costa donde las olas rompen y se retiran rápidamente",
+        false
+      ],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es la longitud aproximada de la línea de costa de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Más de 3.200 kilómetros", true],
+      ["Alrededor de 1.000 kilómetros", false],
+      ["Menos de 500 kilómetros", false],
+      ["Aproximadamente 2.500 kilómetros", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los principales ecosistemas costeros de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El manglar", true],
+      ["El desierto", false],
+      ["El páramo", false],
+      ["La sabana", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las amenazas para los ecosistemas costeros de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La sobreexplotación pesquera", true],
+      ["La formación de barras de arena en la costa", false],
+      ["El aumento de la acidez del agua del mar", false],
+      ["La contaminación por desechos plásticos", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las especies emblemáticas de las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La tortuga marina", true],
+      ["El cóndor andino", false],
+      ["El oso de anteojos", false],
+      ["El jaguar", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los parques nacionales naturales ubicados en la costa de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Parque Nacional Natural Tayrona", true],
+      ["Parque Nacional Natural Los Nevados", false],
+      ["Parque Nacional Natural Sierra Nevada de Santa Marta", false],
+      ["Parque Nacional Natural El Cocuy", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las actividades económicas importantes en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El turismo", true],
+      ["La minería de oro", false],
+      ["La agricultura de subsistencia", false],
+      ["La ganadería intensiva", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es un impacto negativo de la urbanización en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La destrucción de hábitats naturales", true],
+      ["El aumento de la biodiversidad", false],
+      ["La protección de los ecosistemas costeros", false],
+      ["El fortalecimiento de los ecosistemas marinos", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los ecosistemas marinos presentes en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El arrecife de coral", true],
+      ["El bosque húmedo tropical", false],
+      ["El páramo", false],
+      ["El desierto", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los animales marinos migratorios que se encuentran en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La ballena jorobada", true],
+      ["El oso de anteojos", false],
+      ["El cóndor andino", false],
+      ["El jaguar", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las formas de protección de los ecosistemas costeros en Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La creación de áreas protegidas", true],
+      ["La deforestación", false],
+      ["La pesca indiscriminada", false],
+      ["La urbanización descontrolada", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los riesgos asociados al cambio climático en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La elevación del nivel del mar", true],
+      ["La disminución de la temperatura", false],
+      ["La disminución de las precipitaciones", false],
+      ["La disminución de la salinidad del agua", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es una de las aves migratorias que visitan las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El playero rojizo", true],
+      ["El oso de anteojos", false],
+      ["El cóndor andino", false],
+      ["El jaguar", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los beneficios de los manglares en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La protección contra la erosión costera", true],
+      ["La formación de dunas", false],
+      ["La construcción de infraestructuras costeras", false],
+      ["La acumulación de sedimentos en las costas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los peligros para la biodiversidad marina en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La pesca ilegal", true],
+      ["La protección de los ecosistemas costeros", false],
+      ["El fortalecimiento de los ecosistemas marinos", false],
+      ["La creación de áreas protegidas", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los reptiles marinos que habita en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La tortuga marina", true],
+      ["El cocodrilo", false],
+      ["La serpiente", false],
+      ["El lagarto", false]
+    ]
+  },
+  {
+    "tipo": "Costa",
+    "pregunta": "¿Cuál es uno de los ecosistemas de aguas marinas en las costas de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["La pradera de pastos marinos", true],
+      ["El bosque húmedo tropical", false],
+      ["El páramo", false],
+      ["El desierto", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es un lago?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un cuerpo de agua salada", false],
+      ["Un cuerpo de agua dulce rodeado de tierra", true],
+      ["Un río de gran tamaño", false],
+      ["Un tipo de océano", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es la diferencia entre un lago y un estanque?",
+    "imagen": "nadando",
+    "opciones": [
+      ["El tamaño, siendo los lagos más grandes que los estanques", true],
+      ["El origen, siendo los estanques de origen glaciar", false],
+      [
+        "La ubicación, siendo los lagos de agua salada y los estanques de agua dulce",
+        false
+      ],
+      ["La flora y fauna, siendo los estanques más diversos en especies", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cómo se forman los lagos?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Por la acción de los glaciares", true],
+      [
+        "Por la acumulación de agua de lluvia en depresiones del terreno",
+        false
+      ],
+      ["Por la fusión de los casquetes polares", false],
+      ["Por la construcción de represas", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más profundo del mundo?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Baikal", true],
+      ["Lago Victoria", false],
+      ["Lago Superior", false],
+      ["Lago Titicaca", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es la eutrofización de un lago?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "El enriquecimiento excesivo de nutrientes en un lago, que causa un crecimiento excesivo de algas y plantas acuáticas",
+        true
+      ],
+      ["La pérdida de agua por evaporación en un lago", false],
+      ["El proceso de congelamiento de la superficie de un lago", false],
+      [
+        "El proceso de descomposición de materia orgánica en el fondo de un lago",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de América del Norte?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Superior", true],
+      ["Lago de Nicaragua", false],
+      ["Lago Titicaca", false],
+      ["Lago Victoria", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es un lago endorreico?",
+    "imagen": "nadando",
+    "opciones": [
+      [
+        "Un lago sin salida de agua, cuyas aguas se evaporan o se filtran en el terreno",
+        true
+      ],
+      ["Un lago de origen glaciar", false],
+      ["Un lago formado por la actividad volcánica", false],
+      ["Un lago situado en una zona de alta precipitación", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de Sudamérica?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Titicaca", true],
+      ["Lago de Maracaibo", false],
+      ["Lago General Carrera", false],
+      ["Lago Buenos Aires", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es un lago tectónico?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un lago formado por la actividad volcánica", false],
+      ["Un lago situado en una zona de alta precipitación", false],
+      ["Un lago formado en una depresión causada por fuerzas tectónicas", true],
+      ["Un lago de origen glaciar", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más antiguo de América del Norte?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Tahoe", true],
+      ["Lago de Nicaragua", false],
+      ["Lago Titicaca", false],
+      ["Lago Victoria", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es un lago glacial?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un lago formado por la acción de los glaciares", true],
+      ["Un lago formado por la acumulación de agua de lluvia", false],
+      ["Un lago formado por la actividad volcánica", false],
+      ["Un lago formado por la erosión del viento", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de África?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Victoria", true],
+      ["Lago Tanganica", false],
+      ["Lago Malawi", false],
+      ["Lago Turkana", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más profundo de América del Norte?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Crater", true],
+      ["Lago Superior", false],
+      ["Lago Michigan", false],
+      ["Lago Erie", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Qué es un lago volcánico?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Un lago formado por la actividad volcánica", true],
+      ["Un lago formado por la acumulación de agua de lluvia", false],
+      ["Un lago formado por la erosión del viento", false],
+      ["Un lago formado por la acción de los glaciares", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de Europa?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Ladoga", true],
+      ["Lago Ginebra", false],
+      ["Lago Balatón", false],
+      ["Lago Como", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago de Tota", true],
+      ["Lago Calima", false],
+      ["Lago Guatavita", false],
+      ["Lago Suesca", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago de origen glaciar más alto de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Laguna de la Sierra Nevada de Santa Marta", true],
+      ["Lago de la Cocha", false],
+      ["Lago de Tota", false],
+      ["Laguna de Chingaza", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra el lago de la Cocha?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Nariño", true],
+      ["Antioquia", false],
+      ["Cundinamarca", false],
+      ["Boyacá", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más visitado por turistas en Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Laguna de Guatavita", true],
+      ["Lago de Tota", false],
+      ["Lago Calima", false],
+      ["Lago de la Cocha", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más profundo de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago de Tota", true],
+      ["Lago de Calima", false],
+      ["Lago Guatavita", false],
+      ["Lago de la Cocha", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de la región caribe colombiana?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Ciénaga Grande de Santa Marta", true],
+      ["Laguna de la Sierra Nevada de Santa Marta", false],
+      ["Laguna de Chingaza", false],
+      ["Lago de Calima", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra la Ciénaga de Ayapel?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Córdoba", true],
+      ["Magdalena", false],
+      ["Bolívar", false],
+      ["Santander", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de la región andina colombiana?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago de Tota", true],
+      ["Lago de Calima", false],
+      ["Lago Guatavita", false],
+      ["Lago de la Cocha", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra el lago de Guatavita?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Cundinamarca", true],
+      ["Boyacá", false],
+      ["Santander", false],
+      ["Antioquia", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más antiguo de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Laguna de Guatavita", true],
+      ["Lago de Calima", false],
+      ["Lago de Tota", false],
+      ["Lago de la Cocha", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra el lago de Calima?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Valle del Cauca", true],
+      ["Antioquia", false],
+      ["Cundinamarca", false],
+      ["Boyacá", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más alto de Colombia?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Laguna de Chingaza", true],
+      ["Laguna de la Sierra Nevada de Santa Marta", false],
+      ["Lago de la Cocha", false],
+      ["Laguna de Guatavita", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra el lago de la Cocha?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Nariño", true],
+      ["Antioquia", false],
+      ["Cundinamarca", false],
+      ["Boyacá", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de la región pacífica colombiana?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Lago Calima", true],
+      ["Ciénaga Grande de Santa Marta", false],
+      ["Laguna de la Sierra Nevada de Santa Marta", false],
+      ["Lago de Tota", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra la laguna de la Sierra Nevada de Santa Marta?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Magdalena", true],
+      ["Bolívar", false],
+      ["Cesar", false],
+      ["Atlántico", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿Cuál es el lago más grande de la región amazónica colombiana?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Laguna de Tarapoto", true],
+      ["Lago de Tota", false],
+      ["Lago de Calima", false],
+      ["Lago Guatavita", false]
+    ]
+  },
+  {
+    "tipo": "Lago",
+    "pregunta": "¿En qué departamento se encuentra la laguna de Chingaza?",
+    "imagen": "nadando",
+    "opciones": [
+      ["Cundinamarca", true],
+      ["Boyacá", false],
+      ["Santander", false],
+      ["Antioquia", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el principal gas que compone la atmósfera terrestre?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Nitrógeno", true],
+      ["Oxígeno", false],
+      ["Dióxido de carbono", false],
+      ["Argón", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la fotosíntesis?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El proceso mediante el cual las plantas capturan energía del sol para producir alimentos",
+        true
+      ],
+      [
+        "La conversión de dióxido de carbono en oxígeno por parte de las plantas",
+        false
+      ],
+      ["El proceso de respiración de los organismos aeróbicos", false],
+      [
+        "La producción de energía a través de la combustión de sustancias orgánicas",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave más grande del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El avestruz", true],
+      ["El cóndor de los Andes", false],
+      ["El albatros", false],
+      ["El águila real", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la migración de aves?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El desplazamiento periódico de aves entre sus áreas de reproducción y alimentación",
+        true
+      ],
+      ["El vuelo de aves en formación en V para ahorrar energía", false],
+      ["La formación de colonias de aves en zonas específicas", false],
+      ["El proceso de adaptación de aves a diferentes climas", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave nacional de Estados Unidos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El águila calva", true],
+      ["El flamenco", false],
+      ["El colibrí", false],
+      ["El tucán", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es el efecto invernadero?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El fenómeno natural que mantiene la temperatura de la Tierra", true],
+      [
+        "La acumulación de gases en la atmósfera causada por la actividad humana",
+        false
+      ],
+      [
+        "El proceso de filtración de la radiación solar por la atmósfera",
+        false
+      ],
+      ["La liberación de gases por volcanes y actividad geotérmica", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que representa la sabiduría en muchas culturas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El búho", true],
+      ["El colibrí", false],
+      ["El pingüino", false],
+      ["El cóndor de los Andes", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que puede volar hacia atrás?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El colibrí", true],
+      ["El águila", false],
+      ["El flamenco", false],
+      ["El pingüino", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que realiza migraciones de larga distancia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La golondrina", true],
+      ["El avestruz", false],
+      ["El pingüino", false],
+      ["El águila", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la polinización?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El proceso de transferencia de polen de las flores a los órganos reproductores de las plantas",
+        true
+      ],
+      ["La reproducción asexual de las plantas", false],
+      ["La formación de semillas en las plantas", false],
+      ["El proceso de germinación de las semillas", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave más rápida del mundo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El halcón peregrino", true],
+      ["El cóndor de los Andes", false],
+      ["El búho real", false],
+      ["El colibrí", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la capa de ozono?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Una capa de la atmósfera que protege la Tierra de la radiación ultravioleta",
+        true
+      ],
+      ["Una capa de la atmósfera compuesta principalmente por oxígeno", false],
+      ["Una capa de la atmósfera que regula el clima", false],
+      [
+        "Una capa de la atmósfera que contiene gases de efecto invernadero",
+        false
+      ]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que puede imitar sonidos de otras aves y humanos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El loro", true],
+      ["El flamenco", false],
+      ["El pingüino", false],
+      ["El águila", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que realiza el vuelo más largo sin parar?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La golondrina de mar", true],
+      ["El albatros", false],
+      ["El flamenco", false],
+      ["El cóndor de los Andes", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es un murciélago?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Un mamífero volador", true],
+      ["Un ave nocturna", false],
+      ["Un reptil volador", false],
+      ["Un insecto volador", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que construye nidos en forma de cuenco?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El gorrión", true],
+      ["El búho", false],
+      ["El colibrí", false],
+      ["El pingüino", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es un dron?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Un vehículo aéreo no tripulado", true],
+      ["Un tipo de ave rapaz", false],
+      ["Un instrumento musical de viento", false],
+      ["Un tipo de aeronave de pasajeros", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que tiene un vuelo caracterizado por planeos largos?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El águila", true],
+      ["El colibrí", false],
+      ["El pingüino", false],
+      ["El avestruz", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la aerofobia?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El miedo a volar en aviones", true],
+      ["El estudio de los aviones y su funcionamiento", false],
+      ["La pasión por volar y viajar en aviones", false],
+      ["El miedo a los pájaros", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que tiene la capacidad de imitar sonidos y palabras humanas?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El loro", true],
+      ["El pingüino", false],
+      ["El búho", false],
+      ["El colibrí", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es un avión?",
+    "imagen": "caminando",
+    "opciones": [
+      ["Una aeronave con alas fijas y motores que le permiten volar", true],
+      ["Una aeronave propulsada por hélices", false],
+      ["Una aeronave que utiliza globos de aire caliente", false],
+      ["Una aeronave que se desplaza mediante el impulso de sus alas", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que realiza un vuelo migratorio anual desde el Ártico hasta la Antártida?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El chorlito", true],
+      ["El cóndor de los Andes", false],
+      ["El albatros", false],
+      ["El flamenco", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la altitud?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La distancia vertical medida desde el nivel del mar hasta un punto específico",
+        true
+      ],
+      ["La velocidad a la que un objeto se desplaza en el aire", false],
+      ["La densidad del aire en un lugar determinado", false],
+      ["La temperatura atmosférica en diferentes alturas", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que construye nidos con ramas y palos en lo alto de los árboles?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La cigüeña", true],
+      ["El búho", false],
+      ["El colibrí", false],
+      ["El flamenco", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es un paracaídas?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "Un dispositivo utilizado para frenar la caída libre y descender suavemente",
+        true
+      ],
+      ["Un tipo de ave acuática", false],
+      ["Un avión militar utilizado para el transporte de tropas", false],
+      ["Un instrumento musical de viento", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que tiene un vuelo planificado y coordinado en grupo?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El ganso", true],
+      ["El águila", false],
+      ["El pingüino", false],
+      ["El colibrí", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la avifauna?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "El conjunto de aves que habitan en una determinada área o región",
+        true
+      ],
+      ["El estudio científico de las aves", false],
+      ["El hábitat natural de las aves", false],
+      ["El conjunto de aves rapaces", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que puede mantenerse en vuelo durante meses sin aterrizar?",
+    "imagen": "caminando",
+    "opciones": [
+      ["El vencejo", true],
+      ["El cóndor de los Andes", false],
+      ["El flamenco", false],
+      ["El colibrí", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Qué es la aerodinámica?",
+    "imagen": "caminando",
+    "opciones": [
+      [
+        "La ciencia que estudia el movimiento del aire y la resistencia al movimiento",
+        true
+      ],
+      ["La forma en que los animales vuelan", false],
+      ["La velocidad a la que se desplaza un avión", false],
+      ["La capacidad de un objeto para flotar en el aire", false]
+    ]
+  },
+  {
+    "tipo": "Aereo",
+    "pregunta": "¿Cuál es el ave que construye un nido en forma de cuenco utilizando barro?",
+    "imagen": "caminando",
+    "opciones": [
+      ["La golondrina", true],
+      ["El águila", false],
+      ["El búho", false],
+      ["El colibrí", false]
+    ]
+  }
+]

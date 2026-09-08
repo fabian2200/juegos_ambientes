@@ -1,0 +1,482 @@
+[
+  {
+    "enunciado": "Un equipo de investigadores está analizando las opiniones de la población sobre la reforma de una ley. Para seleccionar la muestra representativa, se divide la población en cuatro grupos etarios (de 18 a 30 años, de 30 a 45 años, de 46 a 60 años y mayores de 60 años) y después se escoge a los individuos de manera aleatoria.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea estudiar la prevalencia de una enfermedad en una ciudad. Para ello, se divide la población en estratos por zonas geográficas (norte, sur, este, oeste) y luego se selecciona una muestra aleatoria de individuos de cada zona proporcionalmente a la población total de dicha zona.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un centro educativo desea evaluar el rendimiento académico de sus estudiantes. Se estratifica la población por niveles educativos (primaria, secundaria, bachillerato) y se selecciona una muestra aleatoria de estudiantes de cada nivel proporcionalmente al tamaño de cada estrato.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se quiere realizar un estudio de satisfacción de clientes en un supermercado. La población se divide en estratos según la frecuencia de compra (alta, media, baja) y se selecciona una muestra aleatoria de clientes de cada estrato en proporción a la cantidad de clientes en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Una empresa de telecomunicaciones desea conocer la opinión de sus clientes sobre el servicio. Se divide la población en estratos según el tipo de servicio contratado (telefonía móvil, telefonía fija, internet) y se selecciona una muestra aleatoria de clientes de cada estrato en proporción a la cantidad de clientes en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un instituto de investigación desea estudiar los hábitos de consumo de energía en una ciudad. Se divide la población en estratos por tipos de vivienda (apartamentos, casas unifamiliares, condominios) y se selecciona una muestra aleatoria de viviendas de cada estrato proporcionalmente al número de viviendas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar una encuesta de preferencias deportivas en una ciudad. La población se divide en estratos según la edad (jóvenes, adultos, personas mayores) y se selecciona una muestra aleatoria de individuos de cada estrato en proporción a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Una compañía de seguros quiere evaluar la satisfacción de sus clientes. Se estratifica la población según el tipo de póliza contratada (automóvil, hogar, salud) y se selecciona una muestra aleatoria de clientes de cada estrato proporcionalmente a la cantidad de clientes en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre el uso de redes sociales en una comunidad. La población se divide en estratos según la edad (adolescentes, adultos jóvenes, adultos) y se selecciona una muestra aleatoria de individuos de cada estrato en proporción a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar las preferencias culinarias en una ciudad. Se estratifica la población por género (hombres, mujeres) y se selecciona una muestra aleatoria de individuos de cada estrato en proporción a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un equipo de investigación desea realizar un estudio sobre el consumo de medios de comunicación en una región. Se estratifica la población por nivel educativo (primaria, secundaria, universidad) y se selecciona una muestra aleatoria de individuos de cada estrato proporcionalmente a la cantidad de personas en cada nivel educativo.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se quiere realizar una encuesta de satisfacción de usuarios de servicios de transporte público. La población se divide en estratos según el tipo de transporte utilizado (autobús, metro, tren) y se selecciona una muestra aleatoria de usuarios de cada estrato en proporción a la cantidad de usuarios en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un centro de salud desea investigar la prevalencia de ciertas enfermedades en una población. Se estratifica la población por grupos de edad (niños, adultos jóvenes, adultos mayores) y se selecciona una muestra aleatoria de individuos de cada estrato proporcionalmente a la cantidad de personas en cada grupo etario.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio de satisfacción de empleados en una empresa. La población se divide en estratos por departamentos (ventas, recursos humanos, producción) y se selecciona una muestra aleatoria de empleados de cada estrato en proporción a la cantidad de empleados en cada departamento.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un instituto de investigación desea estudiar los hábitos de consumo de alimentos en una ciudad. Se divide la población en estratos por ingresos familiares (bajos, medios, altos) y se selecciona una muestra aleatoria de individuos de cada estrato proporcionalmente a la cantidad de personas en cada categoría de ingresos.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar una encuesta sobre preferencias políticas en una población. Se estratifica la población por género (hombres, mujeres) y se selecciona una muestra aleatoria de individuos de cada estrato en proporción a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un centro educativo quiere evaluar el desempeño académico de sus estudiantes. Se divide la población en estratos por niveles educativos (preescolar, primaria, secundaria) y se selecciona una muestra aleatoria de estudiantes de cada nivel proporcionalmente a la cantidad de alumnos en cada estrato.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio de preferencias de compra en una población. La población se divide en estratos por nivel socioeconómico (bajo, medio, alto) y se selecciona una muestra aleatoria de individuos de cada estrato proporcionalmente a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere analizar la opinión de los ciudadanos sobre un tema específico. Se estratifica la población por áreas geográficas (centro, norte, sur, este, oeste) y se selecciona una muestra aleatoria de individuos de cada área proporcionalmente a la cantidad de personas en cada zona.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio de hábitos de compra en una ciudad. La población se divide en estratos por tipos de establecimientos comerciales (supermercados, tiendas de conveniencia, mercados) y se selecciona una muestra aleatoria de personas que hayan realizado compras en cada tipo de establecimiento proporcionalmente a la cantidad de personas en cada categoría.",
+    "tipo": "muestreo estratificado"
+  },
+  {
+    "enunciado": "Se quiere realizar un estudio sobre el nivel de satisfacción de los clientes de una empresa de telecomunicaciones. Se obtiene una lista de todos los clientes y se selecciona al azar una muestra de 500 clientes para realizar una encuesta telefónica en la que se les solicita que califiquen la calidad del servicio recibido.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un equipo de investigación desea analizar la calidad del aire en una ciudad. Se divide la ciudad en una cuadrícula y se eligen al azar 100 puntos de muestreo. En cada punto, se realiza una medición de la concentración de contaminantes atmosféricos para obtener una muestra representativa de la calidad del aire en la ciudad.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea estimar la proporción de estudiantes universitarios que trabajan a tiempo parcial. Se obtiene una lista de todas las universidades de la región y se selecciona al azar una muestra de 10 universidades. Luego, se eligen al azar 50 estudiantes de cada universidad seleccionada para formar la muestra de estudio.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere conocer la prevalencia de una enfermedad en una población. Se obtiene una lista de todos los hogares de la región y se selecciona al azar una muestra de 500 hogares. En cada hogar seleccionado, se realiza un cuestionario de salud para determinar si algún miembro de la familia ha sido diagnosticado con la enfermedad de interés.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio de preferencias de consumo de alimentos en una ciudad. Se obtiene una lista de todos los supermercados de la ciudad y se selecciona al azar una muestra de 20 supermercados. Luego, se eligen al azar 50 clientes de cada supermercado seleccionado y se les solicita que respondan una encuesta sobre sus preferencias de compra.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un instituto de investigación quiere estimar la media de edad de una población. Se obtiene una lista de todos los individuos de la población y se selecciona al azar una muestra de 1000 personas. A cada persona seleccionada se le solicita que proporcione su edad para calcular la media en base a la muestra obtenida.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea conocer la opinión de los ciudadanos sobre un tema político. Se obtiene una lista de todos los domicilios de la ciudad y se selecciona al azar una muestra de 500 domicilios. En cada domicilio seleccionado, se realiza una entrevista personal para obtener la opinión del residente sobre el tema de interés.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro educativo quiere evaluar el nivel de conocimientos de sus estudiantes. Se obtiene una lista de todos los estudiantes matriculados y se selecciona al azar una muestra de 200 estudiantes. A cada estudiante seleccionado se le administra un examen para evaluar sus conocimientos en el área de estudio.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea estimar la proporción de votantes que apoyan a un determinado candidato en una elección. Se obtiene una lista de todos los electores registrados y se selecciona al azar una muestra de 1000 electores. A cada elector seleccionado se le pregunta su preferencia de voto para determinar la proporción de votantes que apoyan al candidato en cuestión.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro de salud quiere estimar la proporción de personas con una enfermedad específica en una población. Se obtiene una lista de todos los registros médicos y se selecciona al azar una muestra de 500 registros. En cada registro seleccionado se verifica la presencia o ausencia de la enfermedad de interés para calcular la proporción en base a la muestra obtenida.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un equipo de investigación desea realizar un estudio sobre el rendimiento académico de los estudiantes. Se selecciona al azar una muestra de 300 estudiantes de diferentes escuelas de la región y se analizan sus calificaciones en diferentes materias.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se quiere estimar la proporción de fumadores en una ciudad. Se selecciona al azar una muestra de 1000 residentes de la ciudad y se les realiza una encuesta para determinar si son fumadores o no.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere conocer la opinión de los usuarios sobre un nuevo producto. Se elige al azar una muestra de 200 clientes que han adquirido el producto y se les solicita que compartan su experiencia y nivel de satisfacción.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio de hábitos de ejercicio físico en una población. Se selecciona al azar una muestra de 500 personas de diferentes gimnasios y centros deportivos de la ciudad, y se les pide que describan sus rutinas de ejercicio y frecuencia de práctica.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un instituto de investigación quiere estimar la proporción de hogares que poseen un automóvil en una zona urbana. Se elige al azar una muestra de 400 hogares de diferentes barrios y se registra si poseen o no un automóvil.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea conocer la opinión de los empleados sobre el clima laboral en una empresa. Se selecciona al azar una muestra de 150 empleados de diferentes departamentos y se les solicita que respondan una encuesta que evalúa diversos aspectos del ambiente de trabajo.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro educativo desea evaluar el impacto de un programa de tutorías en el rendimiento académico de los estudiantes. Se elige al azar una muestra de 100 estudiantes que han participado en el programa y se comparan sus calificaciones antes y después de recibir la tutoría.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se quiere estimar el tiempo promedio de espera en una fila de un parque de diversiones. Se selecciona al azar una muestra de 50 visitantes del parque y se registra el tiempo que pasaron esperando en diferentes atracciones.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un centro de salud quiere conocer la proporción de personas vacunadas contra cierta enfermedad en una comunidad. Se elige al azar una muestra de 300 residentes de la comunidad y se verifica si han sido vacunados o no.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre la preferencia de medios de comunicación en una población. Se selecciona al azar una muestra de 250 personas y se les pide que indiquen qué medios utilizan con mayor frecuencia para obtener información.",
+    "tipo": "muestreo aleatorio simple"
+  },
+  {
+    "enunciado": "Un equipo de investigación desea evaluar el rendimiento de los atletas en una competencia deportiva. Se elige cada décimo atleta en el orden de llegada a la línea de meta para obtener una muestra representativa.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se quiere estimar la proporción de estudiantes que poseen una computadora portátil en una universidad. Se elige cada quinto estudiante en la lista de inscritos para obtener una muestra representativa de la población estudiantil.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro de salud desea conocer la frecuencia de visitas médicas en una población. Se selecciona cada quincuagésimo paciente que ingresa a la sala de espera para obtener una muestra representativa de los usuarios del servicio.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre los hábitos de compra en un centro comercial. Se elige cada quinto cliente que ingresa al establecimiento para obtener una muestra representativa de los consumidores.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un instituto de investigación quiere estimar la proporción de empleados satisfechos en una empresa. Se elige cada vigésimo empleado en la lista de la nómina para obtener una muestra representativa de la opinión del personal.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea conocer la opinión de los usuarios sobre una aplicación móvil. Se elige cada quinto usuario que descarga la aplicación para obtener una muestra representativa de las opiniones de los usuarios.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro educativo desea evaluar la efectividad de un programa de tutorías. Se elige cada décimo estudiante que participa en el programa para obtener una muestra representativa de los beneficiarios de las tutorías.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se quiere estimar la proporción de hogares que poseen mascotas en una comunidad. Se elige cada quinto hogar en una lista de direcciones residenciales para obtener una muestra representativa de los hogares con mascotas.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro de investigación desea evaluar la calidad del aire en una ciudad. Se elige cada quincuagésimo punto de muestreo en un mapa de la ciudad para obtener una muestra representativa de la calidad del aire en diferentes ubicaciones.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre la satisfacción del cliente en un restaurante. Se elige cada quinto cliente que realiza una reserva para obtener una muestra representativa de las opiniones de los comensales.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un instituto de investigación quiere estimar la proporción de estudiantes que tienen acceso a internet en casa. Se elige cada vigésimo estudiante en una lista de matriculados para obtener una muestra representativa de los estudiantes con acceso a internet.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea conocer la proporción de la población que utiliza medios de transporte público. Se elige cada quinto individuo en una lista de residentes de una ciudad para obtener una muestra representativa de los usuarios de transporte público.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro de salud quiere estimar la proporción de personas que practican ejercicio regularmente en una comunidad. Se elige cada décimo individuo en una lista de residentes para obtener una muestra representativa de los practicantes de ejercicio.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre la satisfacción de los empleados en una empresa. Se elige cada quinto empleado en una lista de trabajadores para obtener una muestra representativa de las opiniones del personal.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro educativo desea evaluar el rendimiento académico de los estudiantes de diferentes grados. Se elige cada décimo estudiante en una lista de matriculados en cada grado para obtener una muestra representativa de los rendimientos.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se quiere estimar la proporción de personas que utilizan teléfonos móviles en una población. Se elige cada quinto individuo en una lista de residentes para obtener una muestra representativa de los usuarios de teléfonos móviles.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro de investigación desea evaluar la percepción de seguridad en una comunidad. Se elige cada quincuagésimo residente en una lista de habitantes para obtener una muestra representativa de las opiniones sobre la seguridad.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre los hábitos alimentarios en una población. Se elige cada quinto individuo en una lista obtenida de una encuesta aplicada a los habitantes de una determinada ciudad para obtener una muestra representativa.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estimar la proporción de estudiantes que trabajan mientras estudian. Se elige cada vigésimo estudiante en una lista de matriculados para obtener una muestra representativa de los estudiantes trabajadores.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Se desea realizar un estudio sobre la preferencia de música en una población. Se elige cada quinto individuo en una lista obtenida de una encuesta aplicada a los habitantes de una determinada ciudad para obtener una muestra representativa.",
+    "tipo": "muestreo sistemático"
+  },
+  {
+    "enunciado": "Un equipo de investigación desea estudiar la calidad del agua en diferentes comunidades. Se seleccionan al azar cinco comunidades y se recolectan muestras de agua de cada una de ellas para realizar los análisis correspondientes.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el rendimiento académico de los estudiantes en diferentes escuelas de una ciudad. Se seleccionan al azar tres escuelas y se toma una muestra de estudiantes de cada una para evaluar su desempeño académico.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de salud quiere conocer la prevalencia de una enfermedad en diferentes barrios de una ciudad. Se eligen al azar cuatro barrios y se realiza un estudio para determinar la presencia de la enfermedad en cada uno de ellos.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el nivel de satisfacción de los clientes en diferentes sucursales de una cadena de tiendas. Se seleccionan al azar seis sucursales y se entrevista a los clientes para evaluar su grado de satisfacción con el servicio recibido.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la flora y fauna en diferentes parques nacionales. Se eligen al azar tres parques nacionales y se realiza un inventario de las especies presentes en cada uno de ellos.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar la tasa de desempleo en diferentes regiones de un país. Se seleccionan al azar cinco regiones y se recopilan datos sobre el número de desempleados en cada una para calcular la tasa de desempleo correspondiente.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro educativo quiere evaluar el desempeño de los docentes en diferentes escuelas. Se seleccionan al azar cuatro escuelas y se realizan evaluaciones de los docentes para determinar su rendimiento.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el consumo de energía en diferentes empresas de una industria. Se seleccionan al azar seis empresas y se recopila información sobre su consumo de energía para calcular el promedio correspondiente.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la incidencia de una enfermedad en diferentes grupos de edad. Se seleccionan al azar tres grupos de edad y se realiza un estudio para determinar la presencia de la enfermedad en cada uno de ellos.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el nivel de contaminación en diferentes zonas industriales de una ciudad. Se seleccionan al azar cuatro zonas industriales y se realizan mediciones de la calidad del aire en cada una de ellas.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de salud quiere evaluar la efectividad de un programa de vacunación en diferentes centros de atención. Se seleccionan al azar cinco centros de atención y se recopila información sobre la tasa de vacunación en cada uno de ellos.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el nivel de satisfacción de los pasajeros en diferentes aerolíneas. Se seleccionan al azar tres aerolíneas y se realiza una encuesta a los pasajeros para evaluar su grado de satisfacción con el servicio recibido.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un instituto de investigación quiere estudiar la efectividad de diferentes métodos de enseñanza en distintas escuelas. Se seleccionan al azar seis escuelas y se realiza un seguimiento del desempeño académico de los estudiantes en cada una de ellas.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar la proporción de hogares que utilizan energías renovables en diferentes áreas geográficas. Se seleccionan al azar cuatro áreas geográficas y se realiza una encuesta en cada una de ellas para determinar la proporción correspondiente.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar los patrones de migración de aves en diferentes reservas naturales. Se seleccionan al azar tres reservas naturales y se realiza un seguimiento de las aves migratorias en cada una de ellas.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el consumo de agua en diferentes sectores industriales de una región. Se seleccionan al azar cinco sectores industriales y se recopila información sobre el consumo de agua en cada uno de ellos para calcular el promedio correspondiente.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro educativo quiere evaluar el rendimiento académico de los estudiantes en diferentes programas de estudio. Se seleccionan al azar cuatro programas de estudio y se realiza un seguimiento de los estudiantes para evaluar su desempeño académico.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar la demanda de productos en diferentes regiones de un país. Se seleccionan al azar seis regiones y se recopila información sobre la demanda de productos en cada una de ellas para calcular el promedio correspondiente.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar los niveles de contaminación acústica en diferentes áreas urbanas. Se seleccionan al azar tres áreas urbanas y se realizan mediciones de los niveles de ruido en cada una de ellas.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Se desea estimar el nivel de satisfacción de los empleados en diferentes departamentos de una empresa. Se seleccionan al azar cuatro departamentos y se realiza una encuesta a los empleados para evaluar su grado de satisfacción laboral.",
+    "tipo": "muestreo por conglomerados"
+  },
+  {
+    "enunciado": "Un estudio de mercado desea recopilar información sobre consumidores de un producto específico. Se selecciona a un grupo inicial de consumidores y se les pide que refieran a otros consumidores que también utilicen el producto.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estudiar la adopción de tecnología en una comunidad. Se selecciona a un grupo inicial de individuos que ya han adoptado la tecnología y se les solicita que refieran a otros individuos que también hayan adoptado la tecnología.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la participación en actividades deportivas en una población. Se selecciona a un grupo inicial de participantes y se les pide que refieran a otros individuos que también participen en actividades deportivas.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estimar la prevalencia de una enfermedad rara en una población. Se selecciona a un grupo inicial de individuos diagnosticados con la enfermedad y se les solicita que refieran a otros individuos que también padezcan la enfermedad.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un estudio sociológico desea recopilar información sobre grupos marginales en una comunidad. Se selecciona a un grupo inicial de individuos pertenecientes a esos grupos y se les pide que refieran a otros individuos que también formen parte de esos grupos.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estudiar las prácticas de crianza en una comunidad. Se selecciona a un grupo inicial de padres y se les solicita que refieran a otros padres que también tengan hijos en edad de crianza.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la migración de aves en una región. Se selecciona a un grupo inicial de observadores de aves y se les pide que refieran a otros observadores que también estén interesados en la migración de aves.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estimar la utilización de terapias alternativas en una población. Se selecciona a un grupo inicial de personas que utilizan terapias alternativas y se les solicita que refieran a otros individuos que también utilicen estas terapias.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un estudio antropológico desea recopilar información sobre comunidades indígenas. Se selecciona a un grupo inicial de miembros de una comunidad y se les pide que refieran a otros miembros de la comunidad para participar en el estudio.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estudiar la red de contactos profesionales en una industria. Se selecciona a un grupo inicial de profesionales y se les solicita que refieran a otros profesionales que también estén involucrados en la industria.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar las prácticas de conservación ambiental en una comunidad. Se selecciona a un grupo inicial de individuos comprometidos con la conservación ambiental y se les pide que refieran a otros individuos que también estén involucrados.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estimar la utilización de medios de transporte alternativos en una ciudad. Se selecciona a un grupo inicial de individuos que utilizan medios de transporte alternativos y se les solicita que refieran a otros individuos que también utilicen estos medios.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un estudio de mercado quiere recopilar información sobre consumidores de un nuevo producto. Se selecciona a un grupo inicial de consumidores y se les pide que refieran a otros consumidores que también estén interesados en el producto.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estudiar la participación en actividades culturales en una comunidad. Se selecciona a un grupo inicial de individuos que participan en actividades culturales y se les solicita que refieran a otros individuos que también participen en estas actividades.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la adopción de prácticas agrícolas sostenibles. Se selecciona a un grupo inicial de agricultores que implementan estas prácticas y se les pide que refieran a otros agricultores que también las utilicen.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estimar la utilización de redes sociales en una población. Se selecciona a un grupo inicial de individuos que utilizan redes sociales y se les solicita que refieran a otros individuos que también las utilicen.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un estudio sociológico desea recopilar información sobre comunidades LGBT en una región. Se selecciona a un grupo inicial de individuos pertenecientes a estas comunidades y se les pide que refieran a otros individuos que también formen parte de ellas.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estudiar la adopción de energías renovables en una comunidad. Se selecciona a un grupo inicial de individuos que han adoptado energías renovables y se les solicita que refieran a otros individuos que también hayan hecho lo mismo.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la participación en actividades voluntarias en una población. Se selecciona a un grupo inicial de individuos que participan en actividades voluntarias y se les pide que refieran a otros individuos que también participen.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Se desea estimar la utilización de terapias alternativas en una población. Se selecciona a un grupo inicial de personas que utilizan terapias alternativas y se les solicita que refieran a otros individuos que también utilicen estas terapias.",
+    "tipo": "muestreo bola de nieve"
+  },
+  {
+    "enunciado": "Un estudio de opinión desea recopilar datos sobre la intención de voto en una elección presidencial. Se establecen cuotas de acuerdo a la distribución demográfica de la población en términos de edad, género y nivel educativo, y se entrevista a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la preferencia de los consumidores por diferentes marcas de automóviles. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la distribución de opiniones sobre un tema específico. Se establecen cuotas basadas en variables como edad, género y nivel educativo, y se realiza una encuesta a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la demanda de productos en diferentes categorías. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un estudio de mercado quiere recopilar información sobre las preferencias de los consumidores en cuanto a alimentos saludables. Se establecen cuotas en función de variables como edad, género y nivel educativo, y se entrevista a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estudiar la aceptación de un nuevo producto tecnológico en el mercado. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la incidencia de enfermedades en una población. Se establecen cuotas en función de variables como edad, género y ubicación geográfica, y se realiza un estudio epidemiológico en individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la opinión de los estudiantes sobre un nuevo programa educativo. Se establecen cuotas en función de variables como nivel educativo, área de estudio y ubicación geográfica, y se realiza una encuesta a estudiantes que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un estudio sociológico quiere recopilar información sobre las actitudes políticas de la población. Se establecen cuotas en función de variables como edad, género y nivel educativo, y se entrevista a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la satisfacción de los clientes con respecto a un servicio bancario. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a clientes que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la percepción de la calidad del aire en una ciudad. Se establecen cuotas en función de variables como edad, género y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la participación en actividades deportivas en una comunidad. Se establecen cuotas en función de variables como edad, género y nivel educativo, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un estudio de mercado quiere recopilar información sobre el uso de redes sociales en diferentes grupos demográficos. Se establecen cuotas en función de variables como edad, género y ubicación geográfica, y se realiza una encuesta a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estudiar la percepción de los consumidores sobre la calidad de un producto. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la adopción de tecnología en una comunidad. Se establecen cuotas en función de variables como edad, género y nivel educativo, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la preferencia de los consumidores por diferentes marcas de ropa. Se establecen cuotas en función de variables como edad, nivel de ingresos y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un estudio de opinión desea recopilar datos sobre la percepción de seguridad en una ciudad. Se establecen cuotas en función de variables como edad, género y ubicación geográfica, y se entrevista a personas que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la preferencia de los consumidores por diferentes sabores de helado. Se establecen cuotas en función de variables como edad, género y ubicación geográfica, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Un centro de investigación quiere estudiar la percepción de la calidad de vida en una comunidad. Se establecen cuotas en función de variables como edad, género y nivel educativo, y se realiza una encuesta a individuos que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  },
+  {
+    "enunciado": "Se desea estimar la opinión de los empleados sobre el clima laboral en una empresa. Se establecen cuotas en función de variables como antigüedad, departamento y nivel jerárquico, y se realiza una encuesta a empleados que cumplan con esas cuotas.",
+    "tipo": "muestreo por cuotas"
+  } 
+]

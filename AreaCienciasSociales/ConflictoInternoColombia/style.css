@@ -1,0 +1,718 @@
+@font-face {
+  font-family: nunito_bold;
+  src: url(../../nunito/Nunito-ExtraBold.ttf);
+}
+
+* {
+  font-family: nunito_bold;
+}
+
+@keyframes animacion1 {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+
+@keyframes animacion2 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #0093E9;
+  background-color: #21D4FD;
+background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
+  overflow: hidden;
+}
+
+.contenedor {
+  width: 100%;
+  height: 100%;
+}
+
+.btn,
+.header .info,
+.pregunta_zona .comodin i,
+.cont_pregunta .resp,
+.ventana .seguir {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 50px;
+  font-size: 20px;
+  background: #2d0e53;
+  box-shadow: -1px -1px 5px #fff, 2px 2px 20px #1f1e1e, inset 0px 0px 0px #fff,
+    inset 0px 0px 0px #1f1e1e;
+  transition: all 300ms ease;
+}
+
+.btn:active,
+.header .info:active,
+.pregunta_zona .comodin i:active,
+.cont_pregunta .resp:active,
+.ventana .seguir:active {
+  transform: scale(0.9);
+}
+
+.nosonar {
+  background-color: gray;
+}
+
+.header {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  justify-content: end;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.header .info {
+  font-size: 40px;
+  padding: 0;
+  border: none;
+  font-weight: lighter;
+}
+
+.header .denero {
+  padding: 5%;
+}
+
+.principal {
+  width: 100%;
+  height: 75%;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.principal .logo {
+  height: 65vh;
+  width: 65vh;
+}
+
+.principal .icon-exit {
+  font-size: 30px;
+}
+
+.informacion {
+  z-index: 300;
+  background: rgba(0, 0, 0, 0.9);
+  color: white;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  text-align: center;
+  transition: 0.7s all ease-in-out;
+}
+
+.informacion .cont {
+  margin: 5%;
+}
+
+.informacion span {
+  position: absolute;
+  right: 0;
+  padding: 0;
+  margin: 1%;
+  cursor: pointer;
+  background: #2d0e53;
+  font-size: 25px;
+  border-radius: 50px;
+}
+
+.informacion h1,
+.informacion h3,
+.informacion p {
+  margin: 5%;
+  font-size: 200%;
+}
+
+.informacion img {
+  width: 20%;
+  height: 20%;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.nomostrar {
+  transform: translate(-200%, -200%);
+}
+
+.desaparecer {
+  transition: 1s all ease-in;
+  transform: scale(0);
+}
+
+.animacionLogo {
+  animation-name: animacion1;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+.rendirse {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+
+.pregunta_zona {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: none;
+  opacity: 0;
+  transition: 1s all ease-in-out;
+}
+
+.pregunta_zona .tiempo {
+  width: 35%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: relative;
+  top: -79px;
+}
+
+.pregunta_zona .tiempo span {
+  width: 80%;
+  height: 80%;
+  background-image: url("medios/img/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 18vw;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pregunta_zona .cont_pregunta {
+  width: 60%;
+  height: 100%;
+  margin: 1%;
+}
+
+.pregunta_zona .comodin {
+  width: 95%;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.pregunta_zona .comodin i {
+  font-size: 41px;
+  border: 2px solid white;
+  color: white;
+  display: inline-block;
+  width: 71pt;
+  height: 71pt;
+  margin: 41px;
+  cursor: pointer;
+  text-align: center;
+  border-radius: 50% !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.comenzar {
+  display: flex;
+  animation-name: animacion2;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+.cont_pregunta {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.cont_pregunta .preg_borde,
+.cont_pregunta .resp_borde {
+  background: gold;
+  width: 90%;
+  margin: 1%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  clip-path: polygon(
+    10% 0,
+    90% 0,
+    100% 50%,
+    100% 50%,
+    90% 100%,
+    10% 99%,
+    0 50%,
+    0 50%
+  );
+}
+
+.cont_pregunta .preg_borde {
+  height: 44%;
+}
+
+.cont_pregunta .respuestas {
+  width: 95%;
+  height: 40%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cont_pregunta .resp_borde {
+  width: 40%;
+  height: 42%;
+  min-width: 180px;
+}
+
+.cont_pregunta .resp,
+.cont_pregunta .preg {
+  clip-path: polygon(
+    10% 0,
+    90% 0,
+    100% 50%,
+    100% 50%,
+    90% 100%,
+    10% 99%,
+    0 50%,
+    0 50%
+  );
+  background-color: #490179;
+  width: 97%;
+  height: 91%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 15px;
+}
+
+.cont_pregunta .resp {
+  border: none;
+  cursor: pointer;
+}
+
+.ventana {
+  z-index: 300;
+  background: #490179;
+  border: 6px solid gold;
+  border-radius: 10%;
+  color: white;
+  width: 40vw;
+  height: 36vw;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  text-align: center;
+  min-width: 400px;
+  min-height: 400px;
+  font-size: 40px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  transition: 0.7s all ease-in-out;
+  transform: scale(0);
+}
+
+.ventana .seguir {
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.ventana i {
+  font-size: 100px;
+  margin: 2%;
+}
+
+.ventana span {
+  display: block;
+  text-align: left;
+}
+
+.ventana .progreso {
+  width: 50%;
+  height: 17px;
+  -webkit-appearance: none;
+}
+
+.ventana .progreso::-webkit-progress-value {
+  background-color: gold;
+}
+
+.ventana .progreso::-webkit-progress-bar {
+  background-color: transparent;
+  border: 2px solid gold;
+}
+
+.ventana #correcto {
+  margin: 1%;
+  color: gold;
+}
+
+.ventana .icon-checkmark {
+  color: #2df006;
+}
+
+.ventana .llamar,
+.ventana .audiencia {
+  display: none;
+}
+
+.ventana .correcta {
+  display: none;
+}
+
+.ventana2 img {
+  display: block;
+  width: 100%;
+  height: 54%;
+}
+
+.ventana2 p {
+  padding: 1%;
+  margin: 1%;
+  font-size: 25px;
+}
+
+.ventana2 .victoria {
+  display: none;
+}
+
+.imagen_pregunta {
+  border: 3px solid white;
+  height: 69%;
+  border-radius: 10px;
+}
+
+
+.overlay {
+  background-image: url(../../images/normal1.gif);
+  background-size: 90% 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  z-index: 1000;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: fixed;
+  left: -200px; /* Empieza fuera de la pantalla */
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+}
+
+.overlay::before{
+  position:absolute; 
+  width:0; 
+  height:0; 
+  overflow:hidden; 
+  z-index:-1;
+  content:url("../../images/normal1.gif")
+          url("../../images/normal2.gif")
+}
+
+@keyframes moverDerecha {
+  from { left: -100%; opacity: 0;}
+  to { left: 0; opacity: 1;}
+}
+
+@keyframes moverIzquierda {
+  from { left: 0; opacity: 1;}
+  to { left: -100%; opacity: 0;}
+}
+
+.borde2 {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+  1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff !important;
+  font-size: 19px;
+}
+
+#bienvenida {
+  width: 55%;
+  padding-left: 40pt;
+  font-size: 17px !important;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.nube {
+  background-image: url(../../images/nube.png);
+  background-size: 100% 100%;
+  width: 558pt;
+  height: 456pt;
+  position: absolute;
+  z-index: 1000;
+  bottom: -362pt;
+  left: 422pt;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  animation-duration: 2.8s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes moverArriba {
+  from { bottom: -362pt; opacity: 0;}
+  to { bottom: 147pt; opacity: 1;}
+}
+
+.overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+  from { bottom: 147pt; opacity: 1;}
+  to { bottom: -362pt; opacity: 0;}
+}
+
+.final {
+  background-size: 45%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.904);
+}
+
+#timer {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+  1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff;
+}
+
+
+
+@media screen and (max-width: 1366px) {
+  .pregunta_zona .comodin i {
+    font-size: 41px;
+    border: 2px solid white;
+    color: white;
+    display: inline-block;
+    width: 71pt;
+    height: 71pt;
+    margin: 19px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 50% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.resp {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes titileo {
+  0% {
+    background-color: #490179;
+    color: white;
+  }
+  10% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  20% {
+    background-color: #490179;
+    color: white;
+  }
+  30% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  40% {
+    background-color: #490179;
+    color: white;
+  }
+  50% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  60% {
+    background-color: #490179;
+    color: white;
+  }
+  70% {
+    background-color: rgb(17, 236, 17);
+    color: white;
+  }
+  80% {
+    background-color: rgb(17, 236, 17);
+    color: white;
+  }
+  90% {
+    background-color: rgb(17, 236, 17);
+    color: white;
+  }
+  100% {
+    background-color: rgb(17, 236, 17);
+    color: white;
+  }
+}
+
+
+@keyframes titileo2 {
+  0% {
+    background-color: #490179;
+    color: white;
+  }
+  10% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  20% {
+    background-color: #490179;
+    color: white;
+  }
+  30% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  40% {
+    background-color: #490179;
+    color: white;
+  }
+  50% {
+    background-color: #ec8d11;
+    color: white;
+  }
+  60% {
+    background-color: #490179;
+    color: white;
+  }
+  70% {
+    background-color: rgb(236, 24, 17);
+    color: white;
+  }
+  80% {
+    background-color: rgb(236, 24, 17);
+    color: white;
+  }
+  90% {
+    background-color: rgb(236, 24, 17);
+    color: white;
+  }
+  100% {
+    background-color: rgb(236, 24, 17);
+    color: white;
+  }
+}

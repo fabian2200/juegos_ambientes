@@ -1,0 +1,1918 @@
+[
+  {
+    "oracion": "Ya tienes dinero, ______ paga lo que debes.",
+    "opciones": [
+      ["conque", true],
+      ["así que", false]
+    ]
+  },
+  {
+    "oracion": "Él está ______ en casa.",
+    "opciones": [
+      ["solo", true],
+      ["sólo", false]
+    ]
+  },
+  {
+    "oracion": "¿Dónde dejaste ______ bolso?",
+    "opciones": [
+      ["tu", true],
+      ["tú", false]
+    ]
+  },
+  {
+    "oracion": "Ella me dio ______ número de teléfono.",
+    "opciones": [
+      ["su", true],
+      ["suyo", false]
+    ]
+  },
+  {
+    "oracion": "______ muy bueno en matemáticas.",
+    "opciones": [
+      ["Sé", true],
+      ["Se", false]
+    ]
+  },
+  {
+    "oracion": "Espero que ______ una solución pronto.",
+    "opciones": [
+      ["dé", true],
+      ["de", false]
+    ]
+  },
+  {
+    "oracion": "Necesito ______ información sobre el tema.",
+    "opciones": [
+      ["más", true],
+      ["mas", false]
+    ]
+  },
+  {
+    "oracion": "______ visto esa película antes.",
+    "opciones": [
+      ["Ya", true],
+      ["Aun", false]
+    ]
+  },
+  {
+    "oracion": "______ quieres que te explique.",
+    "opciones": [
+      ["Tú", true],
+      ["Tu", false]
+    ]
+  },
+  {
+    "oracion": "______ duele la cabeza.",
+    "opciones": [
+      ["Mi", true],
+      ["Mí", false]
+    ]
+  },
+  {
+    "oracion": "Me gusta el chocolate. _________________, no puedo comerlo debido a mi alergia.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "Estudié mucho para el examen. _________________, obtuve una excelente calificación.",
+    "opciones": [
+      ["Por eso", true],
+      ["En resumen", false],
+      ["No obstante", false]
+    ]
+  },
+  {
+    "oracion": "El equipo trabajó arduamente en el proyecto. _________________, logramos completarlo antes de la fecha límite.",
+    "opciones": [
+      ["Asimismo", false],
+      ["En conclusión", false],
+      ["Por consiguiente", true]
+    ]
+  },
+  {
+    "oracion": "El clima estaba nublado. _________________, decidimos cancelar el picnic.",
+    "opciones": [
+      ["No obstante", true],
+      ["Además", false],
+      ["Por tanto", false]
+    ]
+  },
+  {
+    "oracion": "Viajé a varios países durante mis vacaciones. _________________, aprendí mucho sobre diferentes culturas.",
+    "opciones": [
+      ["En resumen", false],
+      ["Por eso", false],
+      ["Asimismo", true]
+    ]
+  },
+  {
+    "oracion": "Comí demasiado en la fiesta. _________________, me sentí mal durante toda la noche.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por consiguiente", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "Mi amigo llegó tarde a la reunión. _________________, tuvimos que comenzar sin él.",
+    "opciones": [
+      ["Por tanto", false],
+      ["No obstante", false],
+      ["En resumen", true]
+    ]
+  },
+  {
+    "oracion": "Estaba lloviendo mucho. _________________, decidí quedarme en casa en lugar de salir.",
+    "opciones": [
+      ["Por consiguiente", false],
+      ["Por eso", true],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "El concierto fue cancelado debido a la lluvia. _________________, todos recibimos un reembolso por nuestras entradas.",
+    "opciones": [
+      ["Asimismo", false],
+      ["En conclusión", false],
+      ["Por tanto", true]
+    ]
+  },
+  {
+    "oracion": "El tráfico estaba congestionado en la autopista. _________________, llegué tarde a la cita.",
+    "opciones": [
+      ["No obstante", true],
+      ["Por consiguiente", false],
+      ["Sin embargo", false]
+    ]
+  },
+  {
+    "oracion": "Estudié mucho para el examen. _________________, me siento confiado en mis conocimientos.",
+    "opciones": [
+      ["En resumen", false],
+      ["Por eso", true],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "Mi hermana es vegetariana. _________________, nunca come carne.",
+    "opciones": [
+      ["Por tanto", true],
+      ["Sin embargo", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "Terminé todos mis deberes. _________________, puedo relajarme y ver una película.",
+    "opciones": [
+      ["Por consiguiente", false],
+      ["Por eso", true],
+      ["Asimismo", false]
+    ]
+  },
+  {
+    "oracion": "Hice ejercicio en el gimnasio. _________________, me siento más enérgico y saludable.",
+    "opciones": [
+      ["No obstante", false],
+      ["En resumen", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "Estudié mucho para el examen. _________________, no obtuve la calificación que esperaba.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "Tomé un paraguas antes de salir de casa. _________________, no me mojé en la lluvia.",
+    "opciones": [
+      ["Por eso", true],
+      ["Por consiguiente", false],
+      ["Asimismo", false]
+    ]
+  },
+  {
+    "oracion": "Mi hermano mayor es médico. _________________, siempre está ocupado con su trabajo.",
+    "opciones": [
+      ["En conclusión", false],
+      ["No obstante", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "El restaurante estaba lleno. _________________, tuvimos que esperar para conseguir una mesa.",
+    "opciones": [
+      ["Por tanto", false],
+      ["En resumen", false],
+      ["Sin embargo", true]
+    ]
+  },
+  {
+    "oracion": "La empresa obtuvo grandes beneficios este año. _________________, se planea expandir a nuevos mercados.",
+    "opciones": [
+      ["Asimismo", true],
+      ["Por consiguiente", false],
+      ["Por eso", false]
+    ]
+  },
+  {
+    "oracion": "El equipo perdió el partido. _________________, todos están decididos a entrenar más duro para el próximo encuentro.",
+    "opciones": [
+      ["No obstante", false],
+      ["En conclusión", false],
+      ["Por tanto", true]
+    ]
+  },
+  {
+    "oracion": "______ satisfecho con los resultados.",
+    "opciones": [
+      ["Estoy", true],
+      ["Estóy", false]
+    ]
+  },
+  {
+    "oracion": "No puedo creer ______ me pasó.",
+    "opciones": [
+      ["Lo", true],
+      ["Ló", false]
+    ]
+  },
+  {
+    "oracion": "______ gusta mucho esa canción.",
+    "opciones": [
+      ["Me", true],
+      ["Mé", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ está pasando.",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ hora es?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ libro prefieres?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ es tu perro favorito?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ es mejor, este o aquel?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ es tu color favorito?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "Estudié mucho para el examen. _________________, logré obtener la calificación más alta de la clase.",
+    "opciones": [
+      ["Por eso", true],
+      ["En resumen", false],
+      ["No obstante", false]
+    ]
+  },
+  {
+    "oracion": "El proyecto ha sido exitoso. _________________, recibimos el reconocimiento de nuestros superiores.",
+    "opciones": [
+      ["Por consiguiente", false],
+      ["Asimismo", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "El tráfico estaba congestionado en la ciudad. _________________, llegué tarde a la reunión.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "Hice una lista de compras. _________________, fui al supermercado a adquirir todos los productos.",
+    "opciones": [
+      ["Por eso", true],
+      ["No obstante", false],
+      ["Por consiguiente", false]
+    ]
+  },
+  {
+    "oracion": "El equipo de fútbol ganó el campeonato. _________________, celebramos con una fiesta en el vestuario.",
+    "opciones": [
+      ["En resumen", false],
+      ["Por tanto", true],
+      ["Asimismo", false]
+    ]
+  },
+  {
+    "oracion": "Mis padres me dieron permiso para ir de viaje. _________________, planeé unas vacaciones increíbles.",
+    "opciones": [
+      ["No obstante", false],
+      ["Por consiguiente", false],
+      ["Por eso", true]
+    ]
+  },
+  {
+    "oracion": "El concierto estaba agotado. _________________, no pudimos conseguir entradas.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["En conclusión", false],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "Estudié francés durante varios meses. _________________, puedo mantener una conversación básica en ese idioma.",
+    "opciones": [
+      ["Asimismo", true],
+      ["Por tanto", false],
+      ["Por consiguiente", false]
+    ]
+  },
+  {
+    "oracion": "El hotel estaba completo. _________________, tuvimos que buscar alojamiento en otro lugar.",
+    "opciones": [
+      ["Por eso", true],
+      ["Por consiguiente", false],
+      ["En resumen", false]
+    ]
+  },
+  {
+    "oracion": "El libro fue muy emocionante. _________________, lo terminé de leer en una sola noche.",
+    "opciones": [
+      ["En resumen", false],
+      ["Por tanto", true],
+      ["No obstante", false]
+    ]
+  },
+  {
+    "oracion": "Hicimos una lista de tareas pendientes. _________________, comenzamos a trabajar en ellas una por una.",
+    "opciones": [
+      ["Por consiguiente", true],
+      ["Por eso", false],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "El restaurante tenía una larga lista de espera. _________________, decidimos buscar otro lugar para cenar.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["Asimismo", false]
+    ]
+  },
+  {
+    "oracion": "Mi hermana estudia medicina. _________________, tiene que pasar muchas horas estudiando cada día.",
+    "opciones": [
+      ["No obstante", false],
+      ["Además", false],
+      ["En conclusión", true]
+    ]
+  },
+  {
+    "oracion": "El proyecto requiere más tiempo del previsto. _________________, tendremos que reajustar nuestro plan de trabajo.",
+    "opciones": [
+      ["Por consiguiente", true],
+      ["En conclusión", false],
+      ["Por tanto", false]
+    ]
+  },
+  {
+    "oracion": "El equipo de fútbol perdió el partido. _________________, debemos analizar nuestras debilidades y trabajar en ellas.",
+    "opciones": [
+      ["Por tanto", true],
+      ["En resumen", false],
+      ["Por eso", false]
+    ]
+  },
+  {
+    "oracion": "El precio del petróleo ha aumentado. _________________, los precios de los productos derivados también se han incrementado.",
+    "opciones": [
+      ["Asimismo", false],
+      ["Por consiguiente", true],
+      ["Sin embargo", false]
+    ]
+  },
+  {
+    "oracion": "Hablé con el profesor sobre mi proyecto. _________________, me dio algunos consejos útiles.",
+    "opciones": [
+      ["No obstante", false],
+      ["En conclusión", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "Compré todos los ingredientes necesarios. _________________, preparé una deliciosa cena para mis amigos.",
+    "opciones": [
+      ["Por tanto", true],
+      ["Por consiguiente", false],
+      ["En resumen", false]
+    ]
+  },
+  {
+    "oracion": "Hicimos una encuesta entre los empleados. _________________, recopilamos datos para mejorar las condiciones laborales.",
+    "opciones": [
+      ["Por consiguiente", true],
+      ["Por eso", false],
+      ["Sin embargo", false]
+    ]
+  },
+  {
+    "oracion": "El vuelo fue cancelado debido a las condiciones climáticas. _________________, tuvimos que buscar una alternativa de transporte.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Asimismo", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "Estudié música durante varios años. _________________, ahora puedo tocar varios instrumentos.",
+    "opciones": [
+      ["No obstante", false],
+      ["En resumen", false],
+      ["Por tanto", true]
+    ]
+  },
+  {
+    "oracion": "______ película viste ayer?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ hiciste ayer?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ día es hoy?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ llevas en la maleta?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ quieres ser en el futuro?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ tiempo hace hoy?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ edad tienes?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ haces en tu tiempo libre?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ música te gusta más?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ camino debo seguir?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ vas a hacer este fin de semana?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ día es tu cumpleaños?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ fruta prefieres, la manzana o la naranja?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ deporte practicas?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ deseas para Navidad?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ opinas de esta película?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ necesitas para cocinar la receta?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ lugar visitarías en tus vacaciones?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "______ hora es mejor para encontrarnos?",
+    "opciones": [
+      ["Qué", true],
+      ["Que", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ no me llamaste.",
+    "opciones": [
+      ["porque", true],
+      ["por qué", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es tu comida favorita?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "No tengo tiempo ______ te explico más tarde.",
+    "opciones": [
+      ["si no", true],
+      ["sino", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es tu nombre completo?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "Explícame ______ pasó el accidente.",
+    "opciones": [
+      ["por qué", true],
+      ["porque", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ cuesta el libro.",
+    "opciones": [
+      ["cuánto", true],
+      ["cuanto", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ es tu libro favorito.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "Ese es el coche con ______ tuve el accidente.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "No recuerdo ______ era el restaurante donde comimos.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "Explícame ______ es la diferencia entre estos dos productos.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "Este es el libro del ______ te hablé ayer.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "Dime ______ es tu película favorita.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "¿Sabes ______ es el mejor camino para llegar allí?",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ es tu elección.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "Ella es la amiga con ______ me encontré en el concierto.",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "¿Me puedes decir ______ es el mejor restaurante de la ciudad?",
+    "opciones": [
+      ["Cuál", false],
+      ["Cual", true]
+    ]
+  },
+  {
+    "oracion": "No pude asistir a la reunión ______ tuve otros compromisos.",
+    "opciones": [
+      ["porque", true],
+      ["por qué", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es tu deporte favorito?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "No puedo decidir ______ opción elegir.",
+    "opciones": [
+      ["cuál", true],
+      ["cual", false]
+    ]
+  },
+  {
+    "oracion": "No sabía ______ hora era la cita.",
+    "opciones": [
+      ["cuánto", true],
+      ["cuanto", false]
+    ]
+  },
+  {
+    "oracion": "No fui a la fiesta ______ estaba cansado.",
+    "opciones": [
+      ["porque", true],
+      ["por qué", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es tu película favorita?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta esta canción ______ el ritmo es aburrido.",
+    "opciones": [
+      ["porque", true],
+      ["por qué", false]
+    ]
+  },
+  {
+    "oracion": "Explícame ______ no llegaste a tiempo.",
+    "opciones": [
+      ["por qué", true],
+      ["porque", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es tu equipo de fútbol preferido?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ estás enojado.",
+    "opciones": [
+      ["por qué", true],
+      ["porque", false]
+    ]
+  },
+  {
+    "oracion": "No tengo dinero ______ no he cobrado aún.",
+    "opciones": [
+      ["si no", true],
+      ["sino", false]
+    ]
+  },
+  {
+    "oracion": "¿______ es la capital de Francia?",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ tiempo durará la película.",
+    "opciones": [
+      ["cuánto", true],
+      ["cuanto", false]
+    ]
+  },
+  {
+    "oracion": "No puedo ir a la fiesta ______ tengo otros planes.",
+    "opciones": [
+      ["porque", true],
+      ["por qué", false]
+    ]
+  },
+  {
+    "oracion": "Vamos a comer y ______ iremos al cine.",
+    "opciones": [
+      ["después", true],
+      ["despues", false]
+    ]
+  },
+  {
+    "oracion": "Esa tarea es muy ______ de completar.",
+    "opciones": [
+      ["fácil", true],
+      ["facil", false]
+    ]
+  },
+  {
+    "oracion": "______ por ciento de los estudiantes aprobó el examen.",
+    "opciones": [
+      ["Cien", true],
+      ["Cién", false]
+    ]
+  },
+  {
+    "oracion": "¿Quieres tomar ______?",
+    "opciones": [
+      ["té", true],
+      ["te", false]
+    ]
+  },
+  {
+    "oracion": "______ hecho un gran trabajo en el proyecto.",
+    "opciones": [
+      ["Has", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "¿_____ visto alguna vez una película de terror?",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "Él _______ hecho un gran trabajo en su proyecto.",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "¿_____ pensado en tus metas a largo plazo?",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "Ella _______ viajado a muchos países diferentes.",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "¿_____ leído el último libro de ese autor?",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "Él te _______ enviado un regalo de cumpleaños.",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "¿_____ aprendido a tocar algún instrumento musical?",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "Ella _______ visitado a sus abuelos recientemente.",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "¿_____ probado la nueva comida del restaurante?",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "Él _______ ganado varias competencias de natación.",
+    "opciones": [
+      ["Haz", false],
+      ["Has", true]
+    ]
+  },
+  {
+    "oracion": "¿_____ lo que te digo?",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "No ______ caso a los rumores.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "______ lo que quieras.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "______ lo que te hace feliz.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "No ______ preguntas tontas.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "______ las cosas a tu manera.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "¿Por qué no ______ lo que te gusta?",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "______ lo que consideres correcto.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "______ lo mejor que puedas.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "No ______ promesas que no puedas cumplir.",
+    "opciones": [
+      ["Haz", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "Primero estudia y ______ juega.",
+    "opciones": [
+      ["después", true],
+      ["despues", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ no lo comprendes.",
+    "opciones": [
+      ["por qué", true],
+      ["porque", false]
+    ]
+  },
+  {
+    "oracion": "Este problema es muy ______ de resolver.",
+    "opciones": [
+      ["fácil", true],
+      ["facil", false]
+    ]
+  },
+  {
+    "oracion": "______ por ciento de descuento en la tienda.",
+    "opciones": [
+      ["Cien", true],
+      ["Cién", false]
+    ]
+  },
+  {
+    "oracion": "¿Quieres un poco de ______?",
+    "opciones": [
+      ["té", true],
+      ["te", false]
+    ]
+  },
+  {
+    "oracion": "______ terminado el trabajo a tiempo.",
+    "opciones": [
+      ["Has", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "Ve al supermercado y ______ compra lo necesario.",
+    "opciones": [
+      ["después", true],
+      ["despues", false]
+    ]
+  },
+  {
+    "oracion": "No es ______ entender esta lección.",
+    "opciones": [
+      ["fácil", true],
+      ["facil", false]
+    ]
+  },
+  {
+    "oracion": "______ cuadros cuelgan en la galería.",
+    "opciones": [
+      ["Cien", true],
+      ["Cién", false]
+    ]
+  },
+  {
+    "oracion": "¿Quieres que preparemos ______?",
+    "opciones": [
+      ["té", true],
+      ["te", false]
+    ]
+  },
+  {
+    "oracion": "______ tenido una idea brillante.",
+    "opciones": [
+      ["Has", true],
+      ["Haz", false]
+    ]
+  },
+  {
+    "oracion": "Estudia primero y ______ juega videojuegos.",
+    "opciones": [
+      ["después", true],
+      ["despues", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ no entiendes.",
+    "opciones": [
+      ["por qué", true],
+      ["porque", false]
+    ]
+  },
+  {
+    "oracion": "La solución es ______ de implementar.",
+    "opciones": [
+      ["fácil", true],
+      ["facil", false]
+    ]
+  },
+  {
+    "oracion": "______ alumnos asistieron a la conferencia.",
+    "opciones": [
+      ["Cien", true],
+      ["Cién", false]
+    ]
+  },
+  {
+    "oracion": "¿Quieres que te prepare ______?",
+    "opciones": [
+      ["té", true],
+      ["te", false]
+    ]
+  },
+  {
+    "oracion": "______ llegado tarde a la cita.",
+    "opciones": [
+      ["A", true],
+      ["Ha", false]
+    ]
+  },
+  {
+    "oracion": "______ al mercado a comprar alimentos.",
+    "opciones": [
+      ["Vé", true],
+      ["Ve", false]
+    ]
+  },
+  {
+    "oracion": "No puedo ______ lo que estás diciendo.",
+    "opciones": [
+      ["Oir", true],
+      ["Oír", false]
+    ]
+  },
+  {
+    "oracion": "Ella ______ una hermosa pintura.",
+    "opciones": [
+      ["Hizo", true],
+      ["Hizó", false]
+    ]
+  },
+  {
+    "oracion": "______ a la fiesta el fin de semana pasado.",
+    "opciones": [
+      ["Fui", true],
+      ["Fuí", false]
+    ]
+  },
+  {
+    "oracion": "Mi hermano ______ una casa nueva.",
+    "opciones": [
+      ["Ha", true],
+      ["A", false]
+    ]
+  },
+  {
+    "oracion": "______ a la tienda a comprar pan.",
+    "opciones": [
+      ["Vé", true],
+      ["Ve", false]
+    ]
+  },
+  {
+    "oracion": "No puedo ______ bien lo que dices.",
+    "opciones": [
+      ["Oir", true],
+      ["Oír", false]
+    ]
+  },
+  {
+    "oracion": "______ al concierto de música clásica.",
+    "opciones": [
+      ["Fui", true],
+      ["Fuí", false]
+    ]
+  },
+  {
+    "oracion": "Mi amigo ______ ganado un premio.",
+    "opciones": [
+      ["Ha", true],
+      ["A", false]
+    ]
+  },
+  {
+    "oracion": "______ a ver la película al cine.",
+    "opciones": [
+      ["Vé", true],
+      ["Ve", false]
+    ]
+  },
+  {
+    "oracion": "No puedo ______ nada debido al ruido.",
+    "opciones": [
+      ["Oir", true],
+      ["Oír", false]
+    ]
+  },
+  {
+    "oracion": "Ella ______ una tarta deliciosa.",
+    "opciones": [
+      ["Hizo", true],
+      ["Hizó", false]
+    ]
+  },
+  {
+    "oracion": "______ de viaje a la playa el verano pasado.",
+    "opciones": [
+      ["Fui", true],
+      ["Fuí", false]
+    ]
+  },
+  {
+    "oracion": "Mi madre ______ comprado un nuevo vestido.",
+    "opciones": [
+      ["Ha", true],
+      ["A", false]
+    ]
+  },
+  {
+    "oracion": "______ a visitar a mi abuela al hospital.",
+    "opciones": [
+      ["Vé", true],
+      ["Ve", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero ______ música clásica en lugar de rock.",
+    "opciones": [
+      ["Oir", true],
+      ["Oír", false]
+    ]
+  },
+  {
+    "oracion": "Él ______ una gran presentación en el trabajo.",
+    "opciones": [
+      ["Hizo", true],
+      ["Hizó", false]
+    ]
+  },
+  {
+    "oracion": "______ al cine con mis amigos el sábado pasado.",
+    "opciones": [
+      ["Fui", true],
+      ["Fuí", false]
+    ]
+  },
+  {
+    "oracion": "¿______ está el restaurante que me mencionaste?",
+    "opciones": [
+      ["Dónde", true],
+      ["Donde", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ opción elegir.",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ libro es el mío.",
+    "opciones": [
+      ["Éste", true],
+      ["Este", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta ______ película.",
+    "opciones": [
+      ["Ése", true],
+      ["Ese", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero ______ restaurante en vez de este.",
+    "opciones": [
+      ["Aquél", true],
+      ["Aquel", false]
+    ]
+  },
+  {
+    "oracion": "¿Sabes ______ vive Juan?",
+    "opciones": [
+      ["Dónde", true],
+      ["Donde", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo ______ es el problema.",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ coche es más rápido.",
+    "opciones": [
+      ["Éste", true],
+      ["Este", false]
+    ]
+  },
+  {
+    "oracion": "Me gusta ______ libro de aventuras.",
+    "opciones": [
+      ["Ése", true],
+      ["Ese", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero ______ restaurante del centro.",
+    "opciones": [
+      ["Aquél", true],
+      ["Aquel", false]
+    ]
+  },
+  {
+    "oracion": "¿Sabes ______ puedo encontrar una tienda de ropa?",
+    "opciones": [
+      ["Dónde", true],
+      ["Donde", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ es la respuesta correcta.",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ película es muy emocionante.",
+    "opciones": [
+      ["Está", true],
+      ["Esta", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta ______ canción.",
+    "opciones": [
+      ["Ése", true],
+      ["Ese", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero ______ restaurante en el puerto.",
+    "opciones": [
+      ["Aquél", true],
+      ["Aquel", false]
+    ]
+  },
+  {
+    "oracion": "¿Recuerdas ______ pusiste las llaves?",
+    "opciones": [
+      ["Dónde", true],
+      ["Donde", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ es la solución correcta.",
+    "opciones": [
+      ["Cuál", true],
+      ["Cual", false]
+    ]
+  },
+  {
+    "oracion": "______ película es mi favorita.",
+    "opciones": [
+      ["Éste", true],
+      ["Este", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta ______ sabor del helado.",
+    "opciones": [
+      ["Ése", true],
+      ["Ese", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero ______ restaurante en la montaña.",
+    "opciones": [
+      ["Aquél", true],
+      ["Aquel", false]
+    ]
+  },
+  {
+    "oracion": "______ en la noche iremos al cine.",
+    "opciones": [
+      ["Hoy", true],
+      ["Oy", false]
+    ]
+  },
+  {
+    "oracion": "______ una tienda de regalos en esa calle.",
+    "opciones": [
+      ["Hay", true],
+      ["Ahí", false]
+    ]
+  },
+  {
+    "oracion": "Esta es la primera ______ que vengo a este restaurante.",
+    "opciones": [
+      ["Vez", true],
+      ["Ves", false]
+    ]
+  },
+  {
+    "oracion": "______ te llamas?",
+    "opciones": [
+      ["Cómo", true],
+      ["Como", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ es tu cumpleaños.",
+    "opciones": [
+      ["Cuándo", true],
+      ["Cuando", false]
+    ]
+  },
+  {
+    "oracion": "______ hace mucho frío.",
+    "opciones": [
+      ["Hoy", true],
+      ["Oy", false]
+    ]
+  },
+  {
+    "oracion": "______ un parque muy bonito en esa ciudad.",
+    "opciones": [
+      ["Hay", true],
+      ["Ahí", false]
+    ]
+  },
+  {
+    "oracion": "Esta ______ vez que visito este museo.",
+    "opciones": [
+      ["Vez", true],
+      ["Ves", false]
+    ]
+  },
+  {
+    "oracion": "______ se pronuncia esta palabra?",
+    "opciones": [
+      ["Cómo", true],
+      ["Como", false]
+    ]
+  },
+  {
+    "oracion": "No recuerdo ______ nos vemos la última vez.",
+    "opciones": [
+      ["Cuándo", true],
+      ["Cuando", false]
+    ]
+  },
+  {
+    "oracion": "______ es un día muy especial para mí.",
+    "opciones": [
+      ["Hoy", true],
+      ["Oy", false]
+    ]
+  },
+  {
+    "oracion": "______ una tienda de libros muy famosa.",
+    "opciones": [
+      ["Hay", true],
+      ["Ahí", false]
+    ]
+  },
+  {
+    "oracion": "Esta ______ vez que leo este libro.",
+    "opciones": [
+      ["Vez", true],
+      ["Ves", false]
+    ]
+  },
+  {
+    "oracion": "______ te llamas?",
+    "opciones": [
+      ["Cómo", true],
+      ["Como", false]
+    ]
+  },
+  {
+    "oracion": "No recuerdo ______ fue la última vez que nos encontramos.",
+    "opciones": [
+      ["Cuándo", true],
+      ["Cuando", false]
+    ]
+  },
+  {
+    "oracion": "______ haré la tarea después del trabajo.",
+    "opciones": [
+      ["Hoy", true],
+      ["Oy", false]
+    ]
+  },
+  {
+    "oracion": "______ una panadería muy famosa en esa calle.",
+    "opciones": [
+      ["Hay", true],
+      ["Ahí", false]
+    ]
+  },
+  {
+    "oracion": "Esta es la primera ______ que viajo a ese país.",
+    "opciones": [
+      ["Vez", true],
+      ["Ves", false]
+    ]
+  },
+  {
+    "oracion": "______ se hace esta receta?",
+    "opciones": [
+      ["Cómo", true],
+      ["Como", false]
+    ]
+  },
+  {
+    "oracion": "No sé ______ vendrá el paquete.",
+    "opciones": [
+      ["Cuándo", true],
+      ["Cuando", false]
+    ]
+  },
+  {
+    "oracion": "Espero que me ______ permiso para salir temprano.",
+    "opciones": [
+      ["Dé", true],
+      ["De", false]
+    ]
+  },
+  {
+    "oracion": "Necesito ______ información sobre el proyecto.",
+    "opciones": [
+      ["Más", true],
+      ["Mas", false]
+    ]
+  },
+  {
+    "oracion": "______ no he terminado de leer el libro.",
+    "opciones": [
+      ["Aún", true],
+      ["Aun", false]
+    ]
+  },
+  {
+    "oracion": "______ estoy de acuerdo contigo.",
+    "opciones": [
+      ["Sí", true],
+      ["Si", false]
+    ]
+  },
+  {
+    "oracion": "¿______ terminaste tus tareas?",
+    "opciones": [
+      ["Yá", true],
+      ["Ya", false]
+    ]
+  },
+  {
+    "oracion": "Espero que me ______ tiempo para terminar el informe.",
+    "opciones": [
+      ["Dé", true],
+      ["De", false]
+    ]
+  },
+  {
+    "oracion": "Necesito ______ ejemplos para entender el concepto.",
+    "opciones": [
+      ["Más", true],
+      ["Mas", false]
+    ]
+  },
+  {
+    "oracion": "______ no he recibido noticias de ella.",
+    "opciones": [
+      ["Aún", true],
+      ["Aun", false]
+    ]
+  },
+  {
+    "oracion": "______ quieres, puedo acompañarte.",
+    "opciones": [
+      ["Sí", true],
+      ["Si", false]
+    ]
+  },
+  {
+    "oracion": "¿______ llegaste a casa?",
+    "opciones": [
+      ["Ya", true],
+      ["Ya", false]
+    ]
+  },
+  {
+    "oracion": "Es importante que me ______ tiempo para preparar la presentación.",
+    "opciones": [
+      ["Dé", true],
+      ["De", false]
+    ]
+  },
+  {
+    "oracion": "Necesito ______ detalles sobre el proyecto.",
+    "opciones": [
+      ["Más", true],
+      ["Mas", false]
+    ]
+  },
+  {
+    "oracion": "______ no he tomado una decisión al respecto.",
+    "opciones": [
+      ["Aún", true],
+      ["Aun", false]
+    ]
+  },
+  {
+    "oracion": "El proyecto requiere más recursos. _________________, solicitaremos un aumento de presupuesto.",
+    "opciones": [
+      ["Por consiguiente", true],
+      ["En resumen", false],
+      ["Por tanto", false]
+    ]
+  },
+  {
+    "oracion": "Estudiaré para el examen durante el fin de semana. _________________, espero obtener una buena calificación.",
+    "opciones": [
+      ["Por eso", true],
+      ["No obstante", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "El partido de fútbol fue emocionante. _________________, todos estábamos al borde de nuestros asientos.",
+    "opciones": [
+      ["Asimismo", false],
+      ["Por consiguiente", false],
+      ["Sin embargo", true]
+    ]
+  },
+  {
+    "oracion": "Compré los ingredientes necesarios. _________________, puedo preparar la cena para esta noche.",
+    "opciones": [
+      ["Por tanto", true],
+      ["En resumen", false],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "El profesor explicó el tema en detalle. _________________, entendimos mejor el concepto.",
+    "opciones": [
+      ["No obstante", false],
+      ["Por eso", false],
+      ["En conclusión", true]
+    ]
+  },
+  {
+    "oracion": "Llegué tarde al trabajo. _________________, me disculpé con mi jefe y expliqué la situación.",
+    "opciones": [
+      ["Por consiguiente", false],
+      ["Por tanto", false],
+      ["Sin embargo", true]
+    ]
+  },
+  {
+    "oracion": "El proyecto se completó antes de lo previsto. _________________, celebramos con una fiesta.",
+    "opciones": [
+      ["Asimismo", false],
+      ["En conclusión", false],
+      ["Por tanto", true]
+    ]
+  },
+  {
+    "oracion": "El concierto comenzó tarde. _________________, todos estábamos impacientes por escuchar a la banda.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["En resumen", false]
+    ]
+  },
+  {
+    "oracion": "Estoy interesado en aprender otro idioma. _________________, estoy considerando tomar clases de francés.",
+    "opciones": [
+      ["Por eso", true],
+      ["Por consiguiente", false],
+      ["Además", false]
+    ]
+  },
+  {
+    "oracion": "Estudié toda la noche para el examen. _________________, me siento seguro de mis conocimientos.",
+    "opciones": [
+      ["No obstante", false],
+      ["En resumen", false],
+      ["Por tanto", true]
+    ]
+  },
+  {
+    "oracion": "El restaurante ofrecía un menú variado. _________________, había opciones para todos los gustos.",
+    "opciones": [
+      ["Por consiguiente", false],
+      ["En conclusión", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "La película fue muy emocionante. _________________, mantuvo mi atención de principio a fin.",
+    "opciones": [
+      ["Sin embargo", false],
+      ["Por tanto", true],
+      ["Asimismo", false]
+    ]
+  },
+  {
+    "oracion": "Llovió toda la tarde. _________________, decidimos quedarnos en casa en lugar de salir.",
+    "opciones": [
+      ["No obstante", true],
+      ["Por consiguiente", false],
+      ["Por eso", false]
+    ]
+  },
+  {
+    "oracion": "El proyecto ha sido aprobado. _________________, podemos pasar a la siguiente fase de desarrollo.",
+    "opciones": [
+      ["Por tanto", true],
+      ["En resumen", false],
+      ["Por consiguiente", false]
+    ]
+  },
+  {
+    "oracion": "La empresa ha experimentado un crecimiento significativo. _________________, se ha ampliado el equipo de trabajo.",
+    "opciones": [
+      ["Asimismo", true],
+      ["Por consiguiente", false],
+      ["Por eso", false]
+    ]
+  },
+  {
+    "oracion": "El tráfico estaba congestionado en la autopista. _________________, llegamos tarde a la reunión.",
+    "opciones": [
+      ["Sin embargo", true],
+      ["Por tanto", false],
+      ["En conclusión", false]
+    ]
+  },
+  {
+    "oracion": "La conferencia fue muy informativa. _________________, aprendí mucho sobre el tema.",
+    "opciones": [
+      ["No obstante", false],
+      ["En conclusión", false],
+      ["Además", true]
+    ]
+  },
+  {
+    "oracion": "Compré un nuevo libro. _________________, planeo comenzar a leerlo esta noche.",
+    "opciones": [
+      ["Por eso", true],
+      ["Por consiguiente", false],
+      ["En resumen", false]
+    ]
+  },
+  {
+    "oracion": "El equipo de fútbol empató el partido. _________________, tuvimos que jugar tiempo extra para decidir al ganador.",
+    "opciones": [
+      ["Por tanto", true],
+      ["Por consiguiente", false],
+      ["En resumen", false]
+    ]
+  },
+  {
+    "oracion": "Hice una lista de tareas. _________________, comencé a realizarlas una por una.",
+    "opciones": [
+      ["Asimismo", true],
+      ["Por tanto", false],
+      ["No obstante", false]
+    ]
+  },
+  {
+    "oracion": "______ quieres, podemos ir al cine.",
+    "opciones": [
+      ["Sí", true],
+      ["Si", false]
+    ]
+  },
+  {
+    "oracion": "¿______ llegaste a la reunión?",
+    "opciones": [
+      ["Ya", true],
+      ["Ya", false]
+    ]
+  },
+  {
+    "oracion": "Espero que me ______ oportunidad de explicar mi punto de vista.",
+    "opciones": [
+      ["Dé", true],
+      ["De", false]
+    ]
+  },
+  {
+    "oracion": "Necesito ______ información sobre el tema.",
+    "opciones": [
+      ["Más", true],
+      ["Mas", false]
+    ]
+  },
+  {
+    "oracion": "______ no he visitado ese lugar.",
+    "opciones": [
+      ["Aún", true],
+      ["Aun", false]
+    ]
+  },
+  {
+    "oracion": "______ puedo ayudarte con eso.",
+    "opciones": [
+      ["Sí", true],
+      ["Si", false]
+    ]
+  },
+  {
+    "oracion": "¿______ terminaste de leer el libro?",
+    "opciones": [
+      ["Ya", true],
+      ["Ya", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero estar ______ en casa.",
+    "opciones": [
+      ["Sólo", true],
+      ["Solo", false]
+    ]
+  },
+  {
+    "oracion": "______ es un buen estudiante.",
+    "opciones": [
+      ["Él", true],
+      ["El", false]
+    ]
+  },
+  {
+    "oracion": "______ tienes que estudiar para el examen.",
+    "opciones": [
+      ["Tú", true],
+      ["Tu", false]
+    ]
+  },
+  {
+    "oracion": "Esa tarea es para ______.",
+    "opciones": [
+      ["Mí", true],
+      ["Mi", false]
+    ]
+  },
+  {
+    "oracion": "No ______ si podré asistir a la reunión.",
+    "opciones": [
+      ["Sé", true],
+      ["Se", false]
+    ]
+  },
+  {
+    "oracion": "______ quiero un helado.",
+    "opciones": [
+      ["Sólo", true],
+      ["Solo", false]
+    ]
+  },
+  {
+    "oracion": "______ es un actor famoso.",
+    "opciones": [
+      ["Él", true],
+      ["El", false]
+    ]
+  },
+  {
+    "oracion": "______ debes hacer tus deberes.",
+    "opciones": [
+      ["Tú", true],
+      ["Tu", false]
+    ]
+  },
+  {
+    "oracion": "Esa tarea es para ______.",
+    "opciones": [
+      ["Mí", true],
+      ["Mi", false]
+    ]
+  },
+  {
+    "oracion": "No ______ si podré llegar a tiempo.",
+    "opciones": [
+      ["Sé", true],
+      ["Se", false]
+    ]
+  },
+  {
+    "oracion": "Prefiero estar ______ en casa.",
+    "opciones": [
+      ["Sólo", true],
+      ["Solo", false]
+    ]
+  },
+  {
+    "oracion": "______ es un buen amigo.",
+    "opciones": [
+      ["Él", true],
+      ["El", false]
+    ]
+  },
+  {
+    "oracion": "______ debes hacer tus tareas.",
+    "opciones": [
+      ["Tú", true],
+      ["Tu", false]
+    ]
+  },
+  {
+    "oracion": "Esa decisión es para ______ tomar.",
+    "opciones": [
+      ["Mí", true],
+      ["Mi", false]
+    ]
+  },
+  {
+    "oracion": "No ______ si podré asistir al concierto.",
+    "opciones": [
+      ["Sé", true],
+      ["Se", false]
+    ]
+  },
+  {
+    "oracion": "______ quiero un café.",
+    "opciones": [
+      ["Sólo", true],
+      ["Solo", false]
+    ]
+  }
+]

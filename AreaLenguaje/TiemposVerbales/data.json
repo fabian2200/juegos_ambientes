@@ -1,0 +1,1332 @@
+[
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "María _____ al parque todos los días.",
+    "opciones": [
+      ["va", true],
+      ["fue", false],
+      ["irá", false],
+      ["iba", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Cuando era niño, _____ mucho fútbol.",
+    "opciones": [
+      ["jugaba", true],
+      ["jugaré", false],
+      ["jugué", false],
+      ["jugaría", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "Mañana _____ a la fiesta de cumpleaños de Juan.",
+    "opciones": [
+      ["fui", true],
+      ["iré", false],
+      ["voy", false],
+      ["había ido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Nosotros ya _____ la película.",
+    "opciones": [
+      ["hemos visto", true],
+      ["vimos", false],
+      ["veremos", false],
+      ["habíamos visto", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Espero que él _____ la tarea a tiempo.",
+    "opciones": [
+      ["haga", true],
+      ["hizo", false],
+      ["hará", false],
+      ["hacía", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Juan ya _____ su tarea.",
+    "opciones": [
+      ["ha terminado", true],
+      ["terminó", false],
+      ["terminará", false],
+      ["había terminado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Para el próximo año, ella ya _____ su maestría.",
+    "opciones": [
+      ["habrá terminado", true],
+      ["terminó", false],
+      ["terminará", false],
+      ["había terminado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si yo _____ más temprano, habría llegado a tiempo.",
+    "opciones": [
+      ["hubiera salido", true],
+      ["salí", false],
+      ["saldré", false],
+      ["habría salido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si tuviera dinero, _____ un viaje al extranjero.",
+    "opciones": [
+      ["haría", true],
+      ["hice", false],
+      ["haceré", false],
+      ["hacía", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "¡_____ la puerta, por favor!",
+    "opciones": [
+      ["Cierra", true],
+      ["Cerró", false],
+      ["Cerrará", false],
+      ["Cerraba", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "¡_____ la puerta, por favor!",
+    "opciones": [
+      ["Cierra", true],
+      ["Cerró", false],
+      ["Cerrará", false],
+      ["Cerraba", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Estoy _____ la cena.",
+    "opciones": [
+      ["preparando", true],
+      ["preparé", false],
+      ["prepararé", false],
+      ["había preparado", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Me gustaría _____ a Europa.",
+    "opciones": [
+      ["viajar", true],
+      ["viajé", false],
+      ["viajaré", false],
+      ["había viajado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Yo _____ español.",
+    "opciones": [
+      ["hablo", true],
+      ["hablé", false],
+      ["hablaré", false],
+      ["he hablado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Tú _____ mucho.",
+    "opciones": [
+      ["hablas", true],
+      ["hablaste", false],
+      ["hablarás", false],
+      ["has hablado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Él _____ al trabajo.",
+    "opciones": [
+      ["va", true],
+      ["fue", false],
+      ["irá", false],
+      ["ha ido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Nosotros _____ en casa.",
+    "opciones": [
+      ["vivimos", true],
+      ["vivimos", false],
+      ["viviremos", false],
+      ["hemos vivido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Ellos _____ música.",
+    "opciones": [
+      ["escuchan", true],
+      ["escucharon", false],
+      ["escucharán", false],
+      ["han escuchado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Yo _____ mucho por las mañanas.",
+    "opciones": [
+      ["desayuno", true],
+      ["desayuné", false],
+      ["desayunaré", false],
+      ["había desayunado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Ellos _____ al cine los fines de semana.",
+    "opciones": [
+      ["van", true],
+      ["fueron", false],
+      ["irán", false],
+      ["han ido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Ella _____ una película interesante.",
+    "opciones": [
+      ["ve", true],
+      ["vio", false],
+      ["verá", false],
+      ["ha visto", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "Vosotros siempre _____ juntos.",
+    "opciones": [
+      ["vais", true],
+      ["fuisteis", false],
+      ["iréis", false],
+      ["habéis ido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de indicativo",
+    "pregunta": "El perro _____ en el parque.",
+    "opciones": [
+      ["juega", true],
+      ["jugó", false],
+      ["jugará", false],
+      ["ha jugado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Yo _____ mucho cuando era niño.",
+    "opciones": [
+      ["jugaba", true],
+      ["jugué", false],
+      ["jugaré", false],
+      ["había jugado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Él _____ en el parque todos los días.",
+    "opciones": [
+      ["corría", true],
+      ["corrió", false],
+      ["correrá", false],
+      ["había corrido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Nosotros _____ en la playa durante las vacaciones.",
+    "opciones": [
+      ["jugábamos", true],
+      ["jugamos", false],
+      ["jugaríamos", false],
+      ["habíamos jugado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Ellos _____ mucho en la fiesta de cumpleaños.",
+    "opciones": [
+      ["reían", true],
+      ["rieron", false],
+      ["reirán", false],
+      ["habían reído", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Tú _____ la guitarra cuando vivías en España.",
+    "opciones": [
+      ["tocabas", true],
+      ["tocaste", false],
+      ["tocarás", false],
+      ["habías tocado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Ella siempre _____ temprano a la escuela.",
+    "opciones": [
+      ["llegaba", true],
+      ["llegó", false],
+      ["llegará", false],
+      ["había llegado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Ustedes _____ en el mismo equipo de fútbol.",
+    "opciones": [
+      ["jugaban", true],
+      ["jugaron", false],
+      ["jugarán", false],
+      ["habían jugado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Yo siempre _____ las estrellas por la noche.",
+    "opciones": [
+      ["miraba", true],
+      ["miré", false],
+      ["miraré", false],
+      ["había mirado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "Vosotros _____ en el parque todos los fines de semana.",
+    "opciones": [
+      ["jugabais", true],
+      ["jugasteis", false],
+      ["jugaréis", false],
+      ["habíais jugado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito imperfecto de indicativo",
+    "pregunta": "El gato siempre _____ en el tejado.",
+    "opciones": [
+      ["dormía", true],
+      ["durmió", false],
+      ["dormirá", false],
+      ["había dormido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "Mañana _____ a la fiesta de cumpleaños de Juan.",
+    "opciones": [
+      ["iré", true],
+      ["fui", false],
+      ["voy", false],
+      ["había ido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "El próximo año _____ de viaje por Europa.",
+    "opciones": [
+      ["viajaré", true],
+      ["viajé", false],
+      ["viajo", false],
+      ["había viajado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "En unos meses, nosotros _____ una casa nueva.",
+    "opciones": [
+      ["compraremos", true],
+      ["compramos", false],
+      ["compramos", false],
+      ["habíamos comprado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "Dentro de cinco años, ellos _____ su propio negocio.",
+    "opciones": [
+      ["montarán", true],
+      ["montaron", false],
+      ["montan", false],
+      ["habían montado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "La próxima semana, tú _____ una entrevista de trabajo.",
+    "opciones": [
+      ["tendrás", true],
+      ["tuviste", false],
+      ["tienes", false],
+      ["habías tenido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "En diez años, ella _____ su maestría.",
+    "opciones": [
+      ["obtendrá", true],
+      ["obtuvo", false],
+      ["obtiene", false],
+      ["había obtenido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "Próximamente, ustedes _____ unas vacaciones en la playa.",
+    "opciones": [
+      ["disfrutarán", true],
+      ["disfrutaron", false],
+      ["disfrutan", false],
+      ["habían disfrutado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "El año que viene, ellos _____ un nuevo proyecto.",
+    "opciones": [
+      ["iniciarán", true],
+      ["iniciaron", false],
+      ["inician", false],
+      ["habían iniciado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "En un futuro cercano, yo _____ mi propio negocio.",
+    "opciones": [
+      ["empezaré", true],
+      ["empecé", false],
+      ["empiezo", false],
+      ["había empezado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro de indicativo",
+    "pregunta": "El próximo mes, vosotros _____ en un nuevo apartamento.",
+    "opciones": [
+      ["viviréis", true],
+      ["vivisteis", false],
+      ["vivís", false],
+      ["habíais vivido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Yo _____ el libro que me recomendaste.",
+    "opciones": [
+      ["he leído", true],
+      ["leí", false],
+      ["leeré", false],
+      ["había leído", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Ella _____ un nuevo trabajo la semana pasada.",
+    "opciones": [
+      ["ha conseguido", true],
+      ["consiguió", false],
+      ["conseguirá", false],
+      ["había conseguido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Nosotros _____ en el restaurante italiano.",
+    "opciones": [
+      ["hemos cenado", true],
+      ["cenamos", false],
+      ["cenaremos", false],
+      ["habíamos cenado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Ellos _____ un viaje a la playa este verano.",
+    "opciones": [
+      ["han hecho", true],
+      ["hicieron", false],
+      ["harán", false],
+      ["habían hecho", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Tú _____ mucho desde la última vez que te vi.",
+    "opciones": [
+      ["has cambiado", true],
+      ["cambiaste", false],
+      ["cambiarás", false],
+      ["habías cambiado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Ustedes _____ una casa nueva recientemente.",
+    "opciones": [
+      ["han comprado", true],
+      ["compraron", false],
+      ["comprarán", false],
+      ["habían comprado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Yo _____ el examen de matemáticas.",
+    "opciones": [
+      ["he aprobado", true],
+      ["aprobé", false],
+      ["aprobaré", false],
+      ["había aprobado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Vosotros _____ un concierto increíble anoche.",
+    "opciones": [
+      ["habéis disfrutado", true],
+      ["disfrutasteis", false],
+      ["disfrutaréis", false],
+      ["habíais disfrutado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "Ella _____ su trabajo en la empresa.",
+    "opciones": [
+      ["ha dejado", true],
+      ["dejó", false],
+      ["dejará", false],
+      ["había dejado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto de indicativo",
+    "pregunta": "El perro _____ toda la comida del plato.",
+    "opciones": [
+      ["se ha comido", true],
+      ["se comió", false],
+      ["se comerá", false],
+      ["se había comido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Espero que tú _____ a la fiesta.",
+    "opciones": [
+      ["asistas", true],
+      ["asististe", false],
+      ["asistirás", false],
+      ["hayas asistido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Dudo que ellos _____ la respuesta correcta.",
+    "opciones": [
+      ["sepan", true],
+      ["supieron", false],
+      ["sabrán", false],
+      ["hayan sabido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Es importante que nosotros _____ el trabajo a tiempo.",
+    "opciones": [
+      ["terminemos", true],
+      ["terminamos", false],
+      ["terminaremos", false],
+      ["hayamos terminado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Espero que ella no _____ tarde.",
+    "opciones": [
+      ["llegue", true],
+      ["llegó", false],
+      ["llegará", false],
+      ["haya llegado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Recomiendo que tú _____ más ejercicio.",
+    "opciones": [
+      ["hagas", true],
+      ["hiciste", false],
+      ["harás", false],
+      ["hayas hecho", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Espero que ellos _____ el trabajo bien.",
+    "opciones": [
+      ["hagan", true],
+      ["hicieron", false],
+      ["harán", false],
+      ["hayan hecho", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Es necesario que tú _____ más agua.",
+    "opciones": [
+      ["bebas", true],
+      ["bebiste", false],
+      ["beberás", false],
+      ["hayas bebido", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Dudo que ella _____ la verdad.",
+    "opciones": [
+      ["diga", true],
+      ["dijo", false],
+      ["dirá", false],
+      ["haya dicho", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Espero que nosotros _____ una solución pronto.",
+    "opciones": [
+      ["encontremos", true],
+      ["encontramos", false],
+      ["encontraremos", false],
+      ["hayamos encontrado", false]
+    ]
+  },
+  {
+    "tipo": "Presente de subjuntivo",
+    "pregunta": "Es importante que ustedes _____ en el proyecto.",
+    "opciones": [
+      ["participen", true],
+      ["participaron", false],
+      ["participarán", false],
+      ["hayan participado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Yo _____ mucho en este proyecto.",
+    "opciones": [
+      ["he trabajado", true],
+      ["trabajé", false],
+      ["trabajaré", false],
+      ["había trabajado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Ella _____ el libro que le presté.",
+    "opciones": [
+      ["ha leído", true],
+      ["leyó", false],
+      ["leerá", false],
+      ["había leído", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Nosotros _____ a ese restaurante varias veces.",
+    "opciones": [
+      ["hemos ido", true],
+      ["fuimos", false],
+      ["iremos", false],
+      ["habíamos ido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Ellos _____ los boletos para el concierto.",
+    "opciones": [
+      ["han comprado", true],
+      ["compraron", false],
+      ["comprarán", false],
+      ["habían comprado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Tú _____ mucho últimamente.",
+    "opciones": [
+      ["has viajado", true],
+      ["viajaste", false],
+      ["viajarás", false],
+      ["habías viajado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Ustedes _____ el partido de fútbol en la televisión.",
+    "opciones": [
+      ["han visto", true],
+      ["vieron", false],
+      ["verán", false],
+      ["habían visto", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Yo _____ mucha comida en la fiesta.",
+    "opciones": [
+      ["he comido", true],
+      ["comí", false],
+      ["comeré", false],
+      ["había comido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Vosotros _____ todo el día en la playa.",
+    "opciones": [
+      ["habéis pasado", true],
+      ["pasasteis", false],
+      ["pasaréis", false],
+      ["habíais pasado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "Ella _____ muchas veces en ese escenario.",
+    "opciones": [
+      ["ha actuado", true],
+      ["actuó", false],
+      ["actuará", false],
+      ["había actuado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito perfecto compuesto de indicativo",
+    "pregunta": "El perro _____ todo su juguete.",
+    "opciones": [
+      ["ha destrozado", true],
+      ["destrozó", false],
+      ["destrozará", false],
+      ["había destrozado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Yo _____ el informe para mañana.",
+    "opciones": [
+      ["habré terminado", true],
+      ["terminé", false],
+      ["terminaré", false],
+      ["he terminado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Ella _____ el libro que le pedí.",
+    "opciones": [
+      ["habrá leído", true],
+      ["leyó", false],
+      ["leerá", false],
+      ["ha leído", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Nosotros _____ la tarea antes de la reunión.",
+    "opciones": [
+      ["habremos hecho", true],
+      ["hicimos", false],
+      ["haremos", false],
+      ["hemos hecho", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Ellos _____ todas las películas de la saga.",
+    "opciones": [
+      ["habrán visto", true],
+      ["vieron", false],
+      ["verán", false],
+      ["han visto", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Tú _____ muchas experiencias en tu vida.",
+    "opciones": [
+      ["habrás tenido", true],
+      ["tuviste", false],
+      ["tendrás", false],
+      ["has tenido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Ustedes _____ todas las respuestas.",
+    "opciones": [
+      ["habrán encontrado", true],
+      ["encontraron", false],
+      ["encontrarán", false],
+      ["han encontrado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Yo _____ muchas cosas en mi vida.",
+    "opciones": [
+      ["habré vivido", true],
+      ["viví", false],
+      ["viviré", false],
+      ["he vivido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Vosotros _____ los resultados del examen.",
+    "opciones": [
+      ["habréis recibido", true],
+      ["recibisteis", false],
+      ["recibiréis", false],
+      ["habéis recibido", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "Ella _____ mucho en su carrera profesional.",
+    "opciones": [
+      ["habrá logrado", true],
+      ["logró", false],
+      ["logrará", false],
+      ["ha logrado", false]
+    ]
+  },
+  {
+    "tipo": "Futuro perfecto de indicativo",
+    "pregunta": "El perro _____ todo el jardín.",
+    "opciones": [
+      ["habrá destrozado", true],
+      ["destrozó", false],
+      ["destrozará", false],
+      ["ha destrozado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si yo _____ más tiempo, habría terminado el proyecto.",
+    "opciones": [
+      ["hubiera tenido", true],
+      ["tuve", false],
+      ["tendría", false],
+      ["había tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si ellos _____ más dinero, habrían comprado la casa.",
+    "opciones": [
+      ["hubieran tenido", true],
+      ["tuvieron", false],
+      ["tendrían", false],
+      ["habían tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si tú _____ el tren, habrías llegado a tiempo.",
+    "opciones": [
+      ["hubieras tomado", true],
+      ["tomaste", false],
+      ["tomarás", false],
+      ["habías tomado", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si ella _____ más experiencia, habría obtenido el trabajo.",
+    "opciones": [
+      ["hubiera tenido", true],
+      ["tuvo", false],
+      ["tendría", false],
+      ["había tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si nosotros _____ más tiempo, habríamos visitado más lugares.",
+    "opciones": [
+      ["hubiéramos tenido", true],
+      ["tuvimos", false],
+      ["tendríamos", false],
+      ["habíamos tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si ustedes _____ más cuidado, habrían evitado el accidente.",
+    "opciones": [
+      ["hubieran tenido", true],
+      ["tuvieron", false],
+      ["tendrían", false],
+      ["habían tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si yo _____ la oportunidad, habría viajado al extranjero.",
+    "opciones": [
+      ["hubiera tenido", true],
+      ["tuve", false],
+      ["tendría", false],
+      ["había tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si ellos _____ más información, habrían resuelto el problema.",
+    "opciones": [
+      ["hubieran tenido", true],
+      ["tuvieron", false],
+      ["tendrían", false],
+      ["habían tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si tú _____ más tiempo, habrías aprendido a tocar el piano.",
+    "opciones": [
+      ["hubieras tenido", true],
+      ["tuviste", false],
+      ["tendrías", false],
+      ["habías tenido", false]
+    ]
+  },
+  {
+    "tipo": "Pretérito pluscuamperfecto de subjuntivo",
+    "pregunta": "Si ella _____ más paciencia, habría logrado el objetivo.",
+    "opciones": [
+      ["hubiera tenido", true],
+      ["tuvo", false],
+      ["tendría", false],
+      ["había tenido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si tuviera dinero, _____ un viaje al extranjero.",
+    "opciones": [
+      ["haría", true],
+      ["hizo", false],
+      ["hará", false],
+      ["ha hecho", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si estudiaras más, _____ mejores notas.",
+    "opciones": [
+      ["obtendrías", true],
+      ["obtuviste", false],
+      ["obtendrás", false],
+      ["has obtenido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si lloviera, _____ el paraguas.",
+    "opciones": [
+      ["cogería", true],
+      ["cogió", false],
+      ["cogerá", false],
+      ["ha cogido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si tuviera tiempo, _____ al concierto.",
+    "opciones": [
+      ["asistiría", true],
+      ["asistió", false],
+      ["asistirá", false],
+      ["ha asistido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si tuviera la oportunidad, _____ aprender un nuevo idioma.",
+    "opciones": [
+      ["aprendería", true],
+      ["aprendió", false],
+      ["aprenderá", false],
+      ["ha aprendido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si ganara la lotería, _____ una casa nueva.",
+    "opciones": [
+      ["compraría", true],
+      ["compró", false],
+      ["comprará", false],
+      ["ha comprado", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si viajaras a Francia, _____ la Torre Eiffel.",
+    "opciones": [
+      ["visitarías", true],
+      ["visitaste", false],
+      ["visitarás", false],
+      ["has visitado", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si conociera a esa persona, _____ una conversación.",
+    "opciones": [
+      ["iniciaría", true],
+      ["inició", false],
+      ["iniciará", false],
+      ["ha iniciado", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si supiera la respuesta, _____ ayudarte.",
+    "opciones": [
+      ["podría", true],
+      ["pudo", false],
+      ["podrá", false],
+      ["ha podido", false]
+    ]
+  },
+  {
+    "tipo": "Condicional simple",
+    "pregunta": "Si me dieras un lápiz, _____ dibujar.",
+    "opciones": [
+      ["podría", true],
+      ["pude", false],
+      ["podrá", false],
+      ["ha podido", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Escucha", true],
+      ["Escuchó", false],
+      ["Escuchará", false],
+      ["Ha escuchado", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Habla", true],
+      ["Habló", false],
+      ["Hablará", false],
+      ["Ha hablado", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Come", true],
+      ["Comió", false],
+      ["Comerá", false],
+      ["Ha comido", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Corre", true],
+      ["Corrió", false],
+      ["Correrá", false],
+      ["Ha corrido", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Salta", true],
+      ["Saltó", false],
+      ["Saltará", false],
+      ["Ha saltado", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Lee", true],
+      ["Leyó", false],
+      ["Leerá", false],
+      ["Ha leído", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Escribe", true],
+      ["Escribió", false],
+      ["Escribirá", false],
+      ["Ha escrito", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Corrige", true],
+      ["Corrigió", false],
+      ["Corregirá", false],
+      ["Ha corregido", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Duerme", true],
+      ["Durmió", false],
+      ["Dormirá", false],
+      ["Ha dormido", false]
+    ]
+  },
+  {
+    "tipo": "Imperativo afirmativo",
+    "pregunta": "_____, por favor.",
+    "opciones": [
+      ["Canta", true],
+      ["Cantó", false],
+      ["Cantará", false],
+      ["Ha cantado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Él está _____ la cena.",
+    "opciones": [
+      ["preparando", true],
+      ["preparó", false],
+      ["preparará", false],
+      ["ha preparado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Ella está _____ una película.",
+    "opciones": [
+      ["viendo", true],
+      ["vio", false],
+      ["verá", false],
+      ["ha visto", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Ellos están _____ al gimnasio.",
+    "opciones": [
+      ["yendo", true],
+      ["fueron", false],
+      ["irán", false],
+      ["han ido", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Nosotros estamos _____ una canción.",
+    "opciones": [
+      ["cantando", true],
+      ["cantaron", false],
+      ["cantarán", false],
+      ["han cantado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Él está _____ en el parque.",
+    "opciones": [
+      ["paseando", true],
+      ["paseó", false],
+      ["paseará", false],
+      ["ha paseado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Ella está _____ la noticia.",
+    "opciones": [
+      ["leyendo", true],
+      ["leyó", false],
+      ["leerá", false],
+      ["ha leído", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Ellos están _____ una casa.",
+    "opciones": [
+      ["construyendo", true],
+      ["construyeron", false],
+      ["construirán", false],
+      ["han construido", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Nosotros estamos _____ en el proyecto.",
+    "opciones": [
+      ["trabajando", true],
+      ["trabajaron", false],
+      ["trabajarán", false],
+      ["han trabajado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Él está _____ la puerta.",
+    "opciones": [
+      ["cerrando", true],
+      ["cerró", false],
+      ["cerrará", false],
+      ["ha cerrado", false]
+    ]
+  },
+  {
+    "tipo": "Gerundio",
+    "pregunta": "Ella está _____ un libro.",
+    "opciones": [
+      ["leyendo", true],
+      ["leyó", false],
+      ["leerá", false],
+      ["ha leído", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Me gustaría _____ a Europa.",
+    "opciones": [
+      ["viajar", true],
+      ["viajé", false],
+      ["viajaré", false],
+      ["había viajado", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Quiero _____ un libro.",
+    "opciones": [
+      ["leer", true],
+      ["leí", false],
+      ["leeré", false],
+      ["había leído", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Necesito _____ al supermercado.",
+    "opciones": [
+      ["ir", true],
+      ["fui", false],
+      ["iré", false],
+      ["había ido", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Quisiera _____ una película.",
+    "opciones": [
+      ["ver", true],
+      ["vi", false],
+      ["veré", false],
+      ["había visto", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Prefiero _____ en casa.",
+    "opciones": [
+      ["quedarme", true],
+      ["me quedé", false],
+      ["quedarmeé", false],
+      ["había quedado", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Voy a _____ en el parque.",
+    "opciones": [
+      ["pasear", true],
+      ["paseé", false],
+      ["pasearé", false],
+      ["había paseado", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Me encanta _____ música.",
+    "opciones": [
+      ["escuchar", true],
+      ["escuché", false],
+      ["escucharé", false],
+      ["había escuchado", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Debo _____ más ejercicio.",
+    "opciones": [
+      ["hacer", true],
+      ["hice", false],
+      ["haré", false],
+      ["había hecho", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Aprendí a _____ en la escuela.",
+    "opciones": [
+      ["escribir", true],
+      ["escribí", false],
+      ["escribiré", false],
+      ["había escrito", false]
+    ]
+  },
+  {
+    "tipo": "Infinitivo",
+    "pregunta": "Me gustaría _____ nuevos idiomas.",
+    "opciones": [
+      ["aprender", true],
+      ["aprendí", false],
+      ["aprenderé", false],
+      ["había aprendido", false]
+    ]
+  }
+]

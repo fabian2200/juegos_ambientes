@@ -1,0 +1,271 @@
+body {
+    background-image: url("../img/fondo.png");
+    background-size: 100% 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #fff;
+    height: 100vh;
+    color: #262626;
+    font: 62.5%/1.3em Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: nunito_bold;
+    src: url('../../../nunito/Nunito-ExtraBold.ttf');
+}
+
+* {
+    font-family: nunito_bold;
+}
+
+.borde {
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+    1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+    text-align: center;
+  }
+
+.btn{
+    width: 70px;
+    height: 70px;
+    font-size: 36px;
+    border-radius: 50%;
+    border: 7px solid white;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    max-width: 100%;
+    margin-left: 15%;
+}
+table tr {
+    width: 100%;
+}
+table td {
+    width: 5em;
+    height: 5em;
+    border: 1px solid #cdcdcd;
+    padding: 0;
+    margin: 0;
+    background-color: #4195D1;
+    position: relative;
+    opacity: 0.5;
+}
+
+td input {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    border: none;
+    text-align: center;
+    font-size: 3em;
+    color: #662483;
+    background-color: #f4f4f4;
+}
+
+td input:focus {
+    background-color: #fff;
+}
+
+td span {
+    color: #444;
+    font-size: 0.8em;
+    position: absolute;
+    top: -1px;
+    left: 1px;
+}
+
+input.done {
+    font-weight: bold;
+    color: green;
+    pointer-events: none;
+}
+
+.active,
+.clues-active {
+    background-color: #ddd;
+}
+.clue-done {
+    color: #999;
+    text-decoration: line-through;
+}
+
+#puzzle-wrapper {
+    float: left;
+    width: 54%;
+    margin-right: 3%;
+    margin-bottom: 20px;
+}
+#puzzle-clues {
+    float: left;
+    width: 40%;
+}
+
+#puzzle-clues li {
+    font-size: 1.2em;
+    margin: 0.3em;
+    line-height: 1.6em;
+}
+
+
+.overlay {
+    background-image: url(../../../images/normal1.gif);
+    background-size: 90% 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    z-index: 1000;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    position: fixed;
+    left: -200px;
+    /* Empieza fuera de la pantalla */
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+  }
+  
+  .overlay::before {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    content: url("../../../images/normal1.gif") url("../../../images/normal2.gif")
+  }
+  
+  @keyframes moverDerecha {
+    from {
+      left: -100%;
+      opacity: 0;
+    }
+  
+    to {
+      left: 0;
+      opacity: 1;
+    }
+  }
+  
+  @keyframes moverIzquierda {
+    from {
+      left: 0;
+      opacity: 1;
+    }
+  
+    to {
+      left: -100%;
+      opacity: 0;
+    }
+  }
+  
+  .borde2 {
+    text-shadow: 1px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+      1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+    font-weight: bold;
+    color: #4399D7 !important;
+    font-size: 19px;
+  
+  }
+  
+  #bienvenida {
+    line-height: 1.5;
+  }
+  
+  #bienvenida {
+    width: 55%;
+    padding-left: 40pt;
+    font-size: 20px !important;
+    text-align: justify;
+  }
+  
+  .nube {
+    background-image: url(../../../images/nube.png);
+    background-size: 100% 100%;
+    width: 558pt;
+    height: 456pt;
+    position: absolute;
+    z-index: 1000;
+    bottom: -362pt;
+    left: 422pt;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    animation-duration: 2.8s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes moverArriba {
+    from {
+      bottom: -362pt;
+      opacity: 0;
+    }
+  
+    to {
+      bottom: 147pt;
+      opacity: 1;
+    }
+  }
+  
+  .overlay .btn-warning {
+  padding: 16px 20px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.overlay .btn-warning:hover {
+  color: #fff !important;
+}
+
+.overlay .btn-warning:hover i {
+  color: #fff !important;
+}
+
+.overlay .btn-warning::after {
+  content: "";
+  background: #4195d1;
+  color: #fff !important;
+  position: absolute;
+  z-index: -1;
+  padding: 16px 20px;
+  display: block;
+  left: -20%;
+  right: -20%;
+  top: 0;
+  bottom: 0;
+  transform: skewX(-45deg) scale(0, 1);
+  transition: all 0.3s ease;
+}
+
+.overlay .btn-warning:hover::after {
+  transition: all 0.3s ease-out;
+  transform: skewX(-45deg) scale(1, 1);
+}
+
+@keyframes moverabajo {
+    from {
+      bottom: 147pt;
+      opacity: 1;
+    }
+  
+    to {
+      bottom: -362pt;
+      opacity: 0;
+    }
+  }
+  
+  .final {
+    background-size: 42%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: top;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.904);
+  }

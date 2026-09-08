@@ -1,0 +1,644 @@
+[ 
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el ADN?",
+        "opciones": [
+            {
+                "opcion": "Un tipo de célula",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una molécula que almacena información genética",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Un tipo de proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un tipo de lípido",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es la estructura básica del ADN?",
+        "opciones": [
+            {
+                "opcion": "Una cadena sencilla de nucleótidos",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una doble cadena de nucleótidos unidas por puentes de hidrógeno",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Una cadena de proteínas",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una estructura amorfa",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué bases nitrogenadas forman la estructura del ADN?",
+        "opciones": [
+            {
+                "opcion": "Adenina, Guanina, Citosina y Uracilo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Adenina, Guanina, Citosina y Timina",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Adenina, Uracilo, Citosina y Timina",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Guanina, Uracilo, Citosina y Timina",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es la función principal del ADN?",
+        "opciones": [
+            {
+                "opcion": "Almacenar energía",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Regular el metabolismo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Transmitir información genética de una célula a su descendencia",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Mantener la forma de las células",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cómo se llama el proceso por el cual se copia la información del ADN a ARN?",
+        "opciones": [
+            {
+                "opcion": "Replicación",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Transcripción",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Traducción",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Mutación",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es el proceso por el cual se copia el ADN?",
+        "opciones": [
+            {
+                "opcion": "Replicación",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Transcripción",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Traducción",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Mutación",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es un gen?",
+        "opciones": [
+            {
+                "opcion": "Una proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un fragmento de ADN que codifica para una proteína o una molécula de ARN funcional",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Una molécula de ARN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un fragmento de proteína",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es la mutación genética?",
+        "opciones": [
+            {
+                "opcion": "Un cambio en la estructura de las proteínas",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un cambio en la estructura del ARN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un cambio en la secuencia de nucleótidos del ADN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Un cambio en la estructura de los lípidos",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es la estructura de la molécula de ADN?",
+        "opciones": [
+            {
+                "opcion": "Lineal",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Circular",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Doble hélice",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Espiral",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuántas bases nitrogenadas existen en el ADN?",
+        "opciones": [
+            {
+                "opcion": "2",
+                "es_correcta": false
+            },
+            {
+                "opcion": "3",
+                "es_correcta": false
+            },
+            {
+                "opcion": "4",
+                "es_correcta": true
+            },
+            {
+                "opcion": "5",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué tipo de enlace mantiene unidas las bases nitrogenadas en la doble hélice del ADN?",
+        "opciones": [
+            {
+                "opcion": "Enlaces covalentes",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Enlaces iónicos",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Enlaces de hidrógeno",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Enlaces metálicos",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es la función de la helicasa en la replicación del ADN?",
+        "opciones": [
+            {
+                "opcion": "Unir los fragmentos de Okazaki",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Ligarse a las moléculas de ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Abrir la doble hélice del ADN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Reparar el ADN dañado",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el código genético?",
+        "opciones": [
+            {
+                "opcion": "El conjunto de proteínas codificadas por los genes",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La secuencia de nucleótidos del ADN que codifica para una proteína",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La secuencia de aminoácidos de una proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La secuencia de lípidos en las membranas celulares",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué función tiene la ARN polimerasa en la síntesis de proteínas?",
+        "opciones": [
+            {
+                "opcion": "Unir los aminoácidos para formar la proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Ligarse a los ribosomas",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Copiar la secuencia de ADN en ARN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Iniciar la síntesis de proteínas",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cuál es la diferencia entre el ADN y el ARN?",
+        "opciones": [
+            {
+                "opcion": "El ARN tiene una estructura de doble hélice, mientras que el ADN es lineal",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El ADN tiene uracilo en lugar de timina, como el ARN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El ARN es una cadena sencilla, mientras que el ADN es una doble hélice",
+                "es_correcta": true
+            },
+            {
+                "opcion": "El ADN es un ácido ribonucleico, mientras que el ARN es un ácido desoxirribonucleico",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es la mutación?",
+        "opciones": [
+            {
+                "opcion": "La replicación normal del ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un cambio en la secuencia de nucleótidos del ADN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La unión de los aminoácidos para formar una proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La separación de la doble hélice del ADN",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el ARN de transferencia (ARNt)?",
+        "opciones": [
+            {
+                "opcion": "El ARN que lleva la información genética del ADN al ribosoma",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El ARN que copia la información genética del ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El ARN que lleva los aminoácidos al ribosoma para su unión en una proteína",
+                "es_correcta": true
+            },
+            {
+                "opcion": "El ARN que se une al ADN para iniciar la síntesis de proteínas",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es la transcripción del ADN?",
+        "opciones": [
+            {
+                "opcion": "La síntesis de proteínas a partir del ARN mensajero",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La replicación del ADN en una célula",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La copia de la información genética del ADN en una molécula de ARN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La unión de los aminoácidos para formar una proteína",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Cómo se llama la enzima que separa las dos hebras de ADN durante la replicación?",
+        "opciones": [
+            {
+                "opcion": "ADN polimerasa",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Helicasa",
+                "es_correcta": true
+            },
+            {
+                "opcion": "ARN polimerasa",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Primasa",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es un gen?",
+        "opciones": [
+            {
+                "opcion": "Una molécula de ARN que lleva la información genética",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una secuencia de nucleótidos en el ADN que codifica para una proteína",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Una proteína que regula la expresión génica",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una enzima que cataliza la replicación del ADN",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el código genético?",
+        "opciones": [
+            {
+                "opcion": "La secuencia de aminoácidos en una proteína",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La secuencia de nucleótidos en una molécula de ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El conjunto de reglas que relaciona la secuencia de nucleótidos del ADN con la secuencia de aminoácidos en una proteína",
+                "es_correcta": true
+            },
+            {
+                "opcion": "El conjunto de reglas que relaciona la secuencia de aminoácidos en una proteína con su función biológica",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el ARN de transferencia (ARNt)?",
+        "opciones": [
+            {
+                "opcion": "Una molécula de ARN que lleva la información genética",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una molécula de ARN que se une al ribosoma y ayuda a la síntesis de proteínas",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una molécula de ARN que lleva los aminoácidos al ribosoma durante la síntesis de proteínas",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Una molécula de ARN que se une al ADN y ayuda a la transcripción",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el efecto fundador?",
+        "opciones": [
+            {
+                "opcion": "Un proceso por el cual los alelos raros se vuelven más comunes en una población",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un proceso por el cual los alelos comunes se vuelven más raros en una población",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Un efecto en el que una población se establece a partir de un pequeño número de individuos con una cantidad limitada de variación genética",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Un efecto en el que los alelos de un gen se distribuyen al azar durante la meiosis",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es un mutágeno?",
+        "opciones": [
+            {
+                "opcion": "Una mutación espontánea en el ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una sustancia o agente que causa mutaciones en el ADN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Una enzima que repara las mutaciones en el ADN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una proteína que regula la expresión génica",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es la secuenciación del ADN?",
+        "opciones": [
+            {
+                "opcion": "El proceso de hacer una copia del ADN en una célula",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El proceso de determinar el orden de nucleótidos en una molécula de ADN",
+                "es_correcta": true
+            },
+            {
+                "opcion": "El proceso de transcribir la información genética del ADN en una molécula de ARN",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El proceso de sintetizar proteínas a partir del ARN mensajero",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "imagen": "img/adenina.png",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/adenina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/guanina.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "imagen": "img/timina.png",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/adenina.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "img/guanina.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "imagen": "img/citosina.png",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/adenina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/guanina.png",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "imagen": "img/guanina.png",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "img/adenina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/guanina.png",
+                "es_correcta": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "tipo": "Comparative",
+    "oracion": "That dog is ______ than mine.",
+    "opciones": [
+      ["bigger", true],
+      ["biggest", false],
+      ["smaller", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ student in the class.",
+    "opciones": [
+      ["smarter", false],
+      ["smartest", true],
+      ["least smart", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This book is ______ than the previous one.",
+    "opciones": [
+      ["more interesting", true],
+      ["most interesting", false],
+      ["less interesting", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ player on the team.",
+    "opciones": [
+      ["fastest", true],
+      ["faster", false],
+      ["slowest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today is ______ than yesterday.",
+    "opciones": [
+      ["warmer", true],
+      ["warmest", false],
+      ["colder", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "This is the ______ movie I've ever seen.",
+    "opciones": [
+      ["best", true],
+      ["better", false],
+      ["worst", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her car is ______ than mine.",
+    "opciones": [
+      ["more expensive", true],
+      ["most expensive", false],
+      ["cheaper", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ day of my life.",
+    "opciones": [
+      ["happiest", true],
+      ["happy", false],
+      ["saddest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "That movie is ______ than the one we saw last week.",
+    "opciones": [
+      ["scarier", true],
+      ["scariest", false],
+      ["less scary", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ singer in the band.",
+    "opciones": [
+      ["most talented", true],
+      ["more talented", false],
+      ["least talented", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This car is ______ than the one I had before.",
+    "opciones": [
+      ["more expensive", true],
+      ["most expensive", false],
+      ["cheaper", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ player in the league.",
+    "opciones": [
+      ["most skilled", true],
+      ["skilled", false],
+      ["least skilled", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her dress is ______ than mine.",
+    "opciones": [
+      ["more elegant", true],
+      ["most elegant", false],
+      ["less elegant", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ vacation I've ever had.",
+    "opciones": [
+      ["most relaxing", true],
+      ["relaxing", false],
+      ["least relaxing", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This phone is ______ than the previous model.",
+    "opciones": [
+      ["more advanced", true],
+      ["most advanced", false],
+      ["less advanced", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ dancer in the company.",
+    "opciones": [
+      ["most talented", true],
+      ["talented", false],
+      ["least talented", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today is ______ than yesterday.",
+    "opciones": [
+      ["more challenging", true],
+      ["most challenging", false],
+      ["less challenging", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It is the ______ movie I've seen this year.",
+    "opciones": [
+      ["most thrilling", true],
+      ["thrilling", false],
+      ["least thrilling", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His house is ______ than ours.",
+    "opciones": [
+      ["more spacious", true],
+      ["most spacious", false],
+      ["less spacious", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ singer in the band.",
+    "opciones": [
+      ["most popular", true],
+      ["popular", false],
+      ["least popular", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This house is ______ than the one next door.",
+    "opciones": [
+      ["bigger", true],
+      ["biggest", false],
+      ["smaller", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ person I know.",
+    "opciones": [
+      ["kindest", true],
+      ["kinder", false],
+      ["meanest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "She is ______ than her sister.",
+    "opciones": [
+      ["taller", true],
+      ["tallest", false],
+      ["shorter", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ meal I've ever had.",
+    "opciones": [
+      ["most delicious", true],
+      ["delicious", false],
+      ["worst", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "My computer is ______ than yours.",
+    "opciones": [
+      ["faster", true],
+      ["fastest", false],
+      ["slower", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It is the ______ book I've read this year.",
+    "opciones": [
+      ["most interesting", true],
+      ["more interesting", false],
+      ["least interesting", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This city is ______ than I expected.",
+    "opciones": [
+      ["bigger", true],
+      ["biggest", false],
+      ["smaller", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ athlete in the world.",
+    "opciones": [
+      ["fastest", true],
+      ["faster", false],
+      ["slowest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ artist in the gallery.",
+    "opciones": [
+      ["most talented", true],
+      ["talented", false],
+      ["most creative", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today is ______ than yesterday.",
+    "opciones": [
+      ["colder", true],
+      ["coldest", false],
+      ["warmer", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ student in her class.",
+    "opciones": [
+      ["smartest", true],
+      ["smarter", false],
+      ["most dedicated", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This city is ______ than the one I visited last year.",
+    "opciones": [
+      ["more vibrant", true],
+      ["most vibrant", false],
+      ["less vibrant", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ actress in Hollywood.",
+    "opciones": [
+      ["most talented", true],
+      ["talented", false],
+      ["most acclaimed", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "My smartphone is ______ than yours.",
+    "opciones": [
+      ["more efficient", true],
+      ["most efficient", false],
+      ["less efficient", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ concert I've ever attended.",
+    "opciones": [
+      ["most memorable", true],
+      ["memorable", false],
+      ["most incredible", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His house is ______ than ours.",
+    "opciones": [
+      ["more luxurious", true],
+      ["most luxurious", false],
+      ["less luxurious", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It is the ______ beach I've been to.",
+    "opciones": [
+      ["most beautiful", true],
+      ["beautiful", false],
+      ["most stunning", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This laptop is ______ than the one I had before.",
+    "opciones": [
+      ["more lightweight", true],
+      ["most lightweight", false],
+      ["heavier", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ chef in the restaurant.",
+    "opciones": [
+      ["most skilled", true],
+      ["skilled", false],
+      ["most innovative", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today is ______ than yesterday.",
+    "opciones": [
+      ["more productive", true],
+      ["most productive", false],
+      ["less productive", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ trip I've ever taken.",
+    "opciones": [
+      ["most adventurous", true],
+      ["adventurous", false],
+      ["most exciting", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This book is ______ than that one.",
+    "opciones": [
+      ["better", true],
+      ["best", false],
+      ["worse", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ student in the class.",
+    "opciones": [
+      ["smartest", true],
+      ["smart", false],
+      ["most diligent", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His car is ______ than mine.",
+    "opciones": [
+      ["faster", true],
+      ["fastest", false],
+      ["slower", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ movie I've ever seen.",
+    "opciones": [
+      ["scariest", true],
+      ["scary", false],
+      ["most thrilling", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This city is ______ than the one I visited last year.",
+    "opciones": [
+      ["bigger", true],
+      ["biggest", false],
+      ["smaller", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ player on the team.",
+    "opciones": [
+      ["best", true],
+      ["good", false],
+      ["most valuable", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This restaurant is ______ than the one we went to before.",
+    "opciones": [
+      ["cheaper", true],
+      ["cheapest", false],
+      ["more affordable", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ day of my life.",
+    "opciones": [
+      ["happiest", true],
+      ["happy", false],
+      ["most joyful", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her cat is ______ than mine.",
+    "opciones": [
+      ["smaller", true],
+      ["smallest", false],
+      ["more petite", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This phone is ______ than the previous model.",
+    "opciones": [
+      ["smaller", true],
+      ["smallest", false],
+      ["more compact", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ athlete in the team.",
+    "opciones": [
+      ["fastest", true],
+      ["fast", false],
+      ["most agile", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today is ______ than yesterday.",
+    "opciones": [
+      ["warmer", true],
+      ["warmest", false],
+      ["hotter", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It is the ______ song I've ever heard.",
+    "opciones": [
+      ["catchiest", true],
+      ["catchy", false],
+      ["most infectious", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her dog is ______ than mine.",
+    "opciones": [
+      ["friendlier", true],
+      ["friendliest", false],
+      ["more sociable", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ trip I've ever taken.",
+    "opciones": [
+      ["shortest", true],
+      ["short", false],
+      ["most brief", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This laptop is ______ than my old one.",
+    "opciones": [
+      ["lighter", true],
+      ["lightest", false],
+      ["more portable", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ dancer in the group.",
+    "opciones": [
+      ["best", true],
+      ["good", false],
+      ["most talented", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His house is ______ than ours.",
+    "opciones": [
+      ["narrower", true],
+      ["narrowest", false],
+      ["more compact", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ movie I've seen this year.",
+    "opciones": [
+      ["funniest", true],
+      ["funny", false],
+      ["most hilarious", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This painting is ______ than the one in the museum.",
+    "opciones": [
+      ["more captivating", true],
+      ["most captivating", false],
+      ["more enthralling", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ dancer I've ever seen.",
+    "opciones": [
+      ["most graceful", true],
+      ["gracefullest", false],
+      ["most elegant", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Today's weather is ______ than yesterday's.",
+    "opciones": [
+      ["more unpredictable", true],
+      ["most unpredictable", false],
+      ["less predictable", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ movie I've ever watched.",
+    "opciones": [
+      ["most captivating", true],
+      ["captivatingest", false],
+      ["most engrossing", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her house is ______ than ours.",
+    "opciones": [
+      ["more luxurious", true],
+      ["most luxurious", false],
+      ["more extravagant", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ actor in the industry.",
+    "opciones": [
+      ["most versatile", true],
+      ["versatilest", false],
+      ["most talented", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This hotel is ______ than the one we stayed at before.",
+    "opciones": [
+      ["more extravagant", true],
+      ["most extravagant", false],
+      ["more lavish", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ performance of the night.",
+    "opciones": [
+      ["most outstanding", true],
+      ["outstandingest", false],
+      ["most remarkable", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His car is ______ than mine.",
+    "opciones": [
+      ["more luxurious", true],
+      ["most luxurious", false],
+      ["more elegant", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ chef in the restaurant.",
+    "opciones": [
+      ["most innovative", true],
+      ["innovativest", false],
+      ["most creative", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This book is ______ than the one I read last week.",
+    "opciones": [
+      ["more fascinating", true],
+      ["most fascinating", false],
+      ["fascinatingest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ professor at the university.",
+    "opciones": [
+      ["most knowledgeable", true],
+      ["knowledgeablest", false],
+      ["knowledgeablestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her performance was ______ than his.",
+    "opciones": [
+      ["more impressive", true],
+      ["most impressive", false],
+      ["impressivest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ concert I've ever attended.",
+    "opciones": [
+      ["most unforgettable", true],
+      ["unforgettablest", false],
+      ["unforgettablestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This restaurant is ______ than the one downtown.",
+    "opciones": [
+      ["more sophisticated", true],
+      ["most sophisticated", false],
+      ["sophisticatedest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ designer in the fashion industry.",
+    "opciones": [
+      ["most renowned", true],
+      ["renownedest", false],
+      ["renownedestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His house is ______ than ours.",
+    "opciones": [
+      ["more spacious", true],
+      ["most spacious", false],
+      ["spaciousest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ performance I've ever seen.",
+    "opciones": [
+      ["most breathtaking", true],
+      ["breathtakingest", false],
+      ["breathtakingestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This smartphone is ______ than my old one.",
+    "opciones": [
+      ["more advanced", true],
+      ["most advanced", false],
+      ["advancedest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ singer in the band.",
+    "opciones": [
+      ["most talented", true],
+      ["talentedest", false],
+      ["talentedestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This city is ______ than any other city I've visited.",
+    "opciones": [
+      ["more magnificent", true],
+      ["most magnificent", false],
+      ["magnificentest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "He is the ______ actor in the industry.",
+    "opciones": [
+      ["most versatile", true],
+      ["versatilest", false],
+      ["versatilestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "Her painting is ______ than mine.",
+    "opciones": [
+      ["more captivating", true],
+      ["most captivating", false],
+      ["captivatingest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "That was the ______ experience of my life.",
+    "opciones": [
+      ["most unforgettable", true],
+      ["unforgettablest", false],
+      ["unforgettablestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This building is ______ than the one across the street.",
+    "opciones": [
+      ["more impressive", true],
+      ["most impressive", false],
+      ["impressivest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "She is the ______ artist in the gallery.",
+    "opciones": [
+      ["most renowned", true],
+      ["renownedest", false],
+      ["renownedestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "His car is ______ than mine.",
+    "opciones": [
+      ["more luxurious", true],
+      ["most luxurious", false],
+      ["luxuriousest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ movie I've ever watched.",
+    "opciones": [
+      ["most captivating", true],
+      ["captivatingest", false],
+      ["captivatingestest", false]
+    ]
+  },
+  {
+    "tipo": "Comparative",
+    "oracion": "This hotel is ______ than the one we stayed at before.",
+    "opciones": [
+      ["more extravagant", true],
+      ["most extravagant", false],
+      ["extravagantest", false]
+    ]
+  },
+  {
+    "tipo": "Superlative",
+    "oracion": "It was the ______ performance of the night.",
+    "opciones": [
+      ["most outstanding", true],
+      ["outstandingest", false],
+      ["outstandingestest", false]
+    ]
+  }
+]

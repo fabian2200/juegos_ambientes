@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+        <script src="../../bootstrap/jquery.min.js"></script>
+        <script src="../../bootstrap/sweetalert.js"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="trivia.css">
+        <link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+
+    </head>
+
+    <body>
+        <div style="display: none" class="overlay">
+            <div class="nube">
+                <p class="borde2" id="bienvenida"></p>
+            </div>
+            <div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+                <button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning" style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: black;">Omitir
+                    <i style="color: black" class="fa fa-forward" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+
+        <div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;" id="fondo_blanco"></div>
+
+        <div style="display: none; text-align: center;" id="final" class="final">
+            <h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+            <hr>
+            <div class="row">
+                <div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+                    <h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+                </div>
+                <div class="col-3"></div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;" onclick="window.location.reload(1)" class="btn btn-success">Si, jugar</button>
+                </div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;" onclick="history.back()" class="btn btn-danger">No,
+                                            salir</button>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+
+        <div style="margin-top: 5pt; height: 100%;" id="principal">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8" style="display: flex; justify-content: center; align-items: center">
+                    <h1 style="text-align: center" class="borde" id="tipo">Descubre el Tejido
+                    </h1>
+                </div>
+                <div class="col-2">
+                    <button style="border-radius: 50% !important; display: flex; justify-content: center; align-items: center;" onclick="history.back()" class="btn btn-danger">
+                        <i class="fa-solid fa-arrow-left fa-2x"></i>
+                    </button>
+                </div>
+            </div>
+
+            <hr>
+            <div class="row contenedor" id="divTemas">
+                <div class="col-7 justify-content-center ml-2" style="border-radius: 5px; height: 550px;">
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-end">
+                            <div id="contenedorImg">
+                                <div id="imagenDiv"></div>
+                                <div id="1" class="ocultarDiv"></div>
+                                <div id="2" class="ocultarDiv"></div>
+                                <div id="3" class="ocultarDiv"></div>
+                                <div id="4" class="ocultarDiv"></div>
+                                <div id="5" class="ocultarDiv"></div>
+                                <div id="6" class="ocultarDiv"></div>
+                                <div id="7" class="ocultarDiv"></div>
+                                <div id="8" class="ocultarDiv"></div>
+                                <div id="9" class="ocultarDiv"></div>
+                                <div id="10" class="ocultarDiv"></div>
+                                <div id="11" class="ocultarDiv"></div>
+                                <div id="12" class="ocultarDiv"></div>
+                                <div id="13" class="ocultarDiv"></div>
+                                <div id="14" class="ocultarDiv"></div>
+                                <div id="15" class="ocultarDiv"></div>
+                                <div id="16" class="ocultarDiv"></div>
+                                <div id="17" class="ocultarDiv"></div>
+                                <div id="18" class="ocultarDiv"></div>
+                                <div id="19" class="ocultarDiv"></div>
+                                <div id="20" class="ocultarDiv"></div>
+                                <div id="21" class="ocultarDiv"></div>
+                                <div id="22" class="ocultarDiv"></div>
+                                <div id="23" class="ocultarDiv"></div>
+                                <div id="24" class="ocultarDiv"></div>
+                                <div id="25" class="ocultarDiv"></div>
+                                <div id="26" class="ocultarDiv"></div>
+                                <div id="27" class="ocultarDiv"></div>
+                                <div id="28" class="ocultarDiv"></div>
+                                <div id="29" class="ocultarDiv"></div>
+                                <div id="30" class="ocultarDiv"></div>
+                                <div id="31" class="ocultarDiv"></div>
+                                <div id="32" class="ocultarDiv"></div>
+                                <div id="33" class="ocultarDiv"></div>
+                                <div id="34" class="ocultarDiv"></div>
+                                <div id="35" class="ocultarDiv"></div>
+                                <div id="36" class="ocultarDiv"></div>
+                                <div id="37" class="ocultarDiv"></div>
+                                <div id="38" class="ocultarDiv"></div>
+                                <div id="39" class="ocultarDiv"></div>
+                                <div id="40" class="ocultarDiv"></div>
+                                <div id="41" class="ocultarDiv"></div>
+                                <div id="42" class="ocultarDiv"></div>
+                                <div id="43" class="ocultarDiv"></div>
+                                <div id="44" class="ocultarDiv"></div>
+                                <div id="45" class="ocultarDiv"></div>
+                                <div id="46" class="ocultarDiv"></div>
+                                <div id="47" class="ocultarDiv"></div>
+                                <div id="48" class="ocultarDiv"></div>
+                                <div id="49" class="ocultarDiv"></div>
+                                <div id="50" class="ocultarDiv"></div>
+                                <div id="51" class="ocultarDiv"></div>
+                                <div id="52" class="ocultarDiv"></div>
+                                <div id="53" class="ocultarDiv"></div>
+                                <div id="54" class="ocultarDiv"></div>
+                                <div id="55" class="ocultarDiv"></div>
+                                <div id="56" class="ocultarDiv"></div>
+                                <div id="57" class="ocultarDiv"></div>
+                                <div id="58" class="ocultarDiv"></div>
+                                <div id="59" class="ocultarDiv"></div>
+                                <div id="60" class="ocultarDiv"></div>
+                                <div id="61" class="ocultarDiv"></div>
+                                <div id="62" class="ocultarDiv"></div>
+                                <div id="63" class="ocultarDiv"></div>
+                                <div id="64" class="ocultarDiv"></div>
+                                <div id="65" class="ocultarDiv"></div>
+                                <div id="66" class="ocultarDiv"></div>
+                                <div id="67" class="ocultarDiv"></div>
+                                <div id="68" class="ocultarDiv"></div>
+                                <div id="69" class="ocultarDiv"></div>
+                                <div id="70" class="ocultarDiv"></div>
+                                <div id="71" class="ocultarDiv"></div>
+                                <div id="72" class="ocultarDiv"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-4 justify-content-center ml-2" style="text-align: center;">
+                    <div class="pack_card">
+
+                        <div class="pack_name">
+                            <label id="idnpreg">1</label>
+                            <label>/ 5</label>
+                        </div>
+
+                        <div id="preguntaActual"></div>
+
+                        <div class="bottom">
+                            <div class="price_container">
+
+                                <span id="contador" class="price">30</span>
+
+                            </div>
+
+                        </div>
+
+                        <div id="imgBoton" style="text-align: center; margin-top: 10px;">
+                            <div class="background-button">
+                                <button onclick="contestador();" style="cursor: pointer;" class="button">
+                                    CONTESTAR
+                                </button>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+                <!-- Modal -->
+                
+
+            </div>
+
+
+        </div>
+
+        <div class="md" id="modal">
+            <div class="md-content">
+                <header class="md-header">
+                    <h2 class="md-title" id="npreg"></h2>
+
+                </header>
+                <div class="md-body">
+                    <div>
+                        <!-- start Quiz button -->
+                        <!-- Info Box -->
+                            <div class="info_box"> <div class="info-title">
+                                <span>Some Rules of this Quiz</span>
+                            </div>
+                            <div class="info-list">
+                                <div class="info">1. You will have only
+                                    <span>15 seconds</span>
+                                    per each question.</div>
+                                <div class="info">2. Once you select your answer, it can't be undone.</div>
+                                <div class="info">3. You can't select any option once time goes off.</div>
+                                <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+                                <div class="info">5. You'll get points on the basis of your correct answers.</div>
+                            </div>
+                            <div class="buttons">
+                                <button class="quit">Exit Quiz</button>
+                                <button class="restart">Continue</button>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Box -->
+                        <div class="quiz_box">
+                            <header>
+                                <div class="title" id="tituTema"></div>
+                                <div class="timer">
+                                    <div class="time_left_txt">Tiempo</div>
+                                    <div class="timer_sec">30</div>
+                                </div>
+                                <div class="time_line"></div>
+                            </header>
+                            <section>
+                                <div
+                                    class="que_text"><!-- Here I've inserted question from JavaScript -->
+                                </div>
+                                <div
+                                    class="option_list"><!-- Here I've inserted options from JavaScript -->
+                                </div>
+                            </section>
+
+                            <!-- footer of Quiz Box -->
+                            <footer>
+                                <div
+                                    class="total_que"><!-- Here I've inserted Question Count Number from JavaScript -->
+                                </div>
+                                <button class="next_btn">Siguiente</button>
+                            </footer>
+                        </div>
+
+                        <!-- Result Box -->
+                        <div class="result_box">
+                            <div class="icon">
+                                <i class="fas fa-crown"></i>
+                            </div>
+                            <div class="complete_text">Has completado la Prueba!</div>
+                            <div
+                                class="score_text"><!-- Here I've inserted Score Result from JavaScript -->
+                            </div>
+                            <div class="buttons">
+                                <button class="restart">Repetir</button>
+                                <button class="quit">Finalizar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="md-overlay"></div>
+
+        <script src="script.js"></script>
+        <script src="preguntas.js" defer></script>
+
+        <script src="trivia.js" defer></script>
+    </body>
+
+</html>

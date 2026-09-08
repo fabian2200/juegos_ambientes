@@ -1,0 +1,821 @@
+[
+    {
+        "pregunta": "¿En qué año fue fundada la ciudad de Roma?",
+        "opciones": [
+            {
+                "a": "753 a.C.",
+                "correcta": "si"
+            },
+            {
+                "b": "780 a.C.",
+                "correcta": "no"
+            },
+            {
+                "c": "625 a.C.",
+                "correcta": "no"
+            },
+            {
+                "d": "120 a.C.",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué general romano se convirtió en el primer emperador de Roma?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "no"
+            },
+            {
+                "b": "Octavio Augusto",
+                "correcta": "si"
+            },
+            {
+                "c": "Marco Antonio",
+                "correcta": "no"
+            },
+            {
+                "d": "Tiberio",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué era el Coliseo romano?",
+        "opciones": [
+            {
+                "a": "Una biblioteca",
+                "correcta": "no"
+            },
+            {
+                "b": "Un teatro",
+                "correcta": "no"
+            },
+            {
+                "c": "Un estadio",
+                "correcta": "no"
+            },
+            {
+                "d": "Un anfiteatro",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder romano durante la Segunda Guerra Púnica?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "no"
+            },
+            {
+                "b": "Marco Antonio",
+                "correcta": "no"
+            },
+            {
+                "c": "César Augusto",
+                "correcta": "no"
+            },
+            {
+                "d": "Aníbal Barca",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué eran los gladiadores romanos?",
+        "opciones": [
+            {
+                "a": "Comediantes",
+                "correcta": "no"
+            },
+            {
+                "b": "Actores",
+                "correcta": "no"
+            },
+            {
+                "c": "Atletas",
+                "correcta": "no"
+            },
+            {
+                "d": "Luchadores profesionales",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue la religión oficial del Imperio Romano?",
+        "opciones": [
+            {
+                "a": "Cristianismo",
+                "correcta": "no"
+            },
+            {
+                "b": "Judaísmo",
+                "correcta": "no"
+            },
+            {
+                "c": "Mitoligía griega",
+                "correcta": "no"
+            },
+            {
+                "d": "Culto imperial",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo se llamó al primer código de leyes romanas?",
+        "opciones": [
+            {
+                "a": "Edicto de Milán",
+                "correcta": "no"
+            },
+            {
+                "b": "Código de Justiniano",
+                "correcta": "no"
+            },
+            {
+                "c": "Código de Hammurabi",
+                "correcta": "no"
+            },
+            {
+                "d": "Las Doce Tablas",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué emperador romano construyó el Coliseo?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "no"
+            },
+            {
+                "b": "Nerón",
+                "correcta": "si"
+            },
+            {
+                "c": "Trajano",
+                "correcta": "no"
+            },
+            {
+                "d": "César Augusto",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué río atraviesa la ciudad de Roma?",
+        "opciones": [
+            {
+                "a": "Río Po",
+                "correcta": "no"
+            },
+            {
+                "b": "Río Arno",
+                "correcta": "no"
+            },
+            {
+                "c": "Río Tíber",
+                "correcta": "si"
+            },
+            {
+                "d": "Río Sena",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el primer emperador de Roma?",
+        "opciones": [
+            {
+                "a": "César Augusto",
+                "correcta": "si"
+            },
+            {
+                "b": "Julio César",
+                "correcta": "no"
+            },
+            {
+                "c": "Nerón",
+                "correcta": "no"
+            },
+            {
+                "d": "Trajano",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de gobierno tenía la República Romana?",
+        "opciones": [
+            {
+                "a": "Monarquía",
+                "correcta": "no"
+            },
+            {
+                "b": "Oligarquía",
+                "correcta": "no"
+            },
+            {
+                "c": "Democracia",
+                "correcta": "no"
+            },
+            {
+                "d": "República",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quiénes eran los gladiadores?",
+        "opciones": [
+            {
+                "a": "Políticos",
+                "correcta": "no"
+            },
+            {
+                "b": "Comerciantes",
+                "correcta": "no"
+            },
+            {
+                "c": "Luchadores profesionales",
+                "correcta": "si"
+            },
+            {
+                "d": "Artesanos",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué lengua hablaban los romanos?",
+        "opciones": [
+            {
+                "a": "Latín",
+                "correcta": "si"
+            },
+            {
+                "b": "Griego",
+                "correcta": "no"
+            },
+            {
+                "c": "Inglés",
+                "correcta": "no"
+            },
+            {
+                "d": "Español",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál era el nombre del dios supremo de la religión romana?",
+        "opciones": [
+            {
+                "a": "Zeus",
+                "correcta": "no"
+            },
+            {
+                "b": "Marte",
+                "correcta": "no"
+            },
+            {
+                "c": "Júpiter",
+                "correcta": "si"
+            },
+            {
+                "d": "Poseidón",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué río marcaba la frontera entre la República Romana y la Galia?",
+        "opciones": [
+            {
+                "a": "Tíber",
+                "correcta": "no"
+            },
+            {
+                "b": "Rhin",
+                "correcta": "si"
+            },
+            {
+                "c": "Danubio",
+                "correcta": "no"
+            },
+            {
+                "d": "Sena",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué gobernante romano fue asesinado en el año 44 a.C.?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "si"
+            },
+            {
+                "b": "Augusto",
+                "correcta": "no"
+            },
+            {
+                "c": "Tiberio",
+                "correcta": "no"
+            },
+            {
+                "d": "Nerón",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué se celebra el 15 de marzo en honor al asesinato de Julio César?",
+        "opciones": [
+            {
+                "a": "El Día de la República",
+                "correcta": "no"
+            },
+            {
+                "b": "El Día del Imperio",
+                "correcta": "no"
+            },
+            {
+                "c": "El Idus de Marzo",
+                "correcta": "si"
+            },
+            {
+                "d": "El Día del Emperador",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué emperador romano construyó el Coliseo?",
+        "opciones": [
+            {
+                "a": "Nerón",
+                "correcta": "no"
+            },
+            {
+                "b": "Trajano",
+                "correcta": "no"
+            },
+            {
+                "c": "Vespasiano",
+                "correcta": "si"
+            },
+            {
+                "d": "César Augusto",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué rebelión liderada por esclavos sacudió a la República Romana en el año 73 a.C.?",
+        "opciones": [
+            {
+                "a": "La Guerra Social",
+                "correcta": "no"
+            },
+            {
+                "b": "La Guerra de las Galias",
+                "correcta": "no"
+            },
+            {
+                "c": "La Guerra de los Tres Caudillos",
+                "correcta": "no"
+            },
+            {
+                "d": "La Guerra de Espartaco",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue la duración aproximada del Imperio Romano?",
+        "opciones": [
+            {
+                "a": "400 años",
+                "correcta": "no"
+            },
+            {
+                "b": "500 años",
+                "correcta": "no"
+            },
+            {
+                "c": "600 años",
+                "correcta": "no"
+            },
+            {
+                "d": "700 años",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año se construyó el Coliseo de Roma?",
+        "opciones": [
+            {
+                "a": "70 d.C.",
+                "correcta": "no"
+            },
+            {
+                "b": "80 d.C.",
+                "correcta": "si"
+            },
+            {
+                "c": "90 d.C.",
+                "correcta": "no"
+            },
+            {
+                "d": "100 d.C.",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué emperador romano conquistó Gran Bretaña?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "si"
+            },
+            {
+                "b": "Augusto",
+                "correcta": "no"
+            },
+            {
+                "c": "Trajano",
+                "correcta": "no"
+            },
+            {
+                "d": "Nerón",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de gobierno tenía la República Romana?",
+        "opciones": [
+            {
+                "a": "Monarquía",
+                "correcta": "no"
+            },
+            {
+                "b": "Dictadura",
+                "correcta": "no"
+            },
+            {
+                "c": "Democracia",
+                "correcta": "no"
+            },
+            {
+                "d": "República",
+                "correcta": "si"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue la forma de gobierno del Imperio Romano?",
+        "opciones": [
+            {
+                "a": "Monarquía",
+                "correcta": "si"
+            },
+            {
+                "b": "Dictadura",
+                "correcta": "no"
+            },
+            {
+                "c": "Democracia",
+                "correcta": "no"
+            },
+            {
+                "d": "República",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué famoso general romano lideró la conquista de la Galia?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "si"
+            },
+            {
+                "b": "Marco Antonio",
+                "correcta": "no"
+            },
+            {
+                "c": "Lucio Cornelio Sila",
+                "correcta": "no"
+            },
+            {
+                "d": "Publio Cornelio Escipión",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué líder bárbaro conquistó Roma en el año 476 d.C.?",
+        "opciones": [
+            {
+                "a": "Atila",
+                "correcta": "no"
+            },
+            {
+                "b": "Alarico",
+                "correcta": "no"
+            },
+            {
+                "c": "Odoacro",
+                "correcta": "si"
+            },
+            {
+                "d": "Genserico",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué emperador romano es conocido por su conversión al cristianismo?",
+        "opciones": [
+            {
+                "a": "Julio César",
+                "correcta": "no"
+            },
+            {
+                "b": "Augusto",
+                "correcta": "no"
+            },
+            {
+                "c": "Constantino I",
+                "correcta": "si"
+            },
+            {
+                "d": "Teodosio I",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "opciones": [
+            {
+                "a": "410 d.C.",
+                "correcta": "no"
+            },
+            {
+                "b": "476 d.C.",
+                "correcta": "si"
+            },
+            {
+                "c": "527 d.C.",
+                "correcta": "no"
+            },
+            {
+                "d": "632 d.C.",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué líder germánico se convirtió al cristianismo y estableció un reino en la Galia?",
+        "opciones": [
+            {
+                "a": "Carlomagno",
+                "correcta": "no"
+            },
+            {
+                "b": "Teodorico",
+                "correcta": "no"
+            },
+            {
+                "c": "Clodoveo I",
+                "correcta": "si"
+            },
+            {
+                "d": "Odoacro",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año terminó la Guerra de los Cien Años?",
+        "opciones": [
+            {
+                "a": "1453",
+                "correcta": "si"
+            },
+            {
+                "b": "1492",
+                "correcta": "no"
+            },
+            {
+                "c": "1521",
+                "correcta": "no"
+            },
+            {
+                "d": "1648",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué monarca español inició la construcción de la Alhambra de Granada?",
+        "opciones": [
+            {
+                "a": "Carlos V",
+                "correcta": "no"
+            },
+            {
+                "b": "Felipe II",
+                "correcta": "no"
+            },
+            {
+                "c": "Isabel la Católica",
+                "correcta": "si"
+            },
+            {
+                "d": "Fernando el Católico",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+        "opciones": [
+            {
+                "a": "1776",
+                "correcta": "no"
+            },
+            {
+                "b": "1789",
+                "correcta": "si"
+            },
+            {
+                "c": "1792",
+                "correcta": "no"
+            },
+            {
+                "d": "1812",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año se produjo el descubrimiento de América?",
+        "opciones": [
+            {
+                "a": "1492",
+                "correcta": "si"
+            },
+            {
+                "b": "1402",
+                "correcta": "no"
+            },
+            {
+                "c": "1542",
+                "correcta": "no"
+            },
+            {
+                "d": "1592",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el navegante que descubrió América?",
+        "opciones": [
+            {
+                "a": "Vasco da Gama",
+                "correcta": "no"
+            },
+            {
+                "b": "Fernando de Magallanes",
+                "correcta": "no"
+            },
+            {
+                "c": "Cristóbal Colón",
+                "correcta": "si"
+            },
+            {
+                "d": "Juan Sebastián Elcano",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué isla del Caribe desembarcó Cristóbal Colón en su primer viaje a América?",
+        "opciones": [
+            {
+                "a": "Cuba",
+                "correcta": "no"
+            },
+            {
+                "b": "Jamaica",
+                "correcta": "no"
+            },
+            {
+                "c": "Hispaniola",
+                "correcta": "si"
+            },
+            {
+                "d": "Puerto Rico",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué civilización americana tenía un imperio en el momento del descubrimiento de América?",
+        "opciones": [
+            {
+                "a": "Aztecas",
+                "correcta": "si"
+            },
+            {
+                "b": "Mayas",
+                "correcta": "no"
+            },
+            {
+                "c": "Incas",
+                "correcta": "no"
+            },
+            {
+                "d": "Toltecas",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el principal objetivo de los viajes de Cristóbal Colón a América?",
+        "opciones": [
+            {
+                "a": "Descubrir nuevas rutas comerciales",
+                "correcta": "si"
+            },
+            {
+                "b": "Convertir a los nativos al cristianismo",
+                "correcta": "no"
+            },
+            {
+                "c": "Buscar nuevas especias",
+                "correcta": "no"
+            },
+            {
+                "d": "Explorar nuevas tierras",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cómo se llamaba la primera colonia española establecida en América?",
+        "opciones": [
+            {
+                "a": "San Juan de Ulúa",
+                "correcta": "no"
+            },
+            {
+                "b": "Santo Domingo",
+                "correcta": "si"
+            },
+            {
+                "c": "Nueva España",
+                "correcta": "no"
+            },
+            {
+                "d": "Ciudad de México",
+                "correcta": "no"
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfermedades traídas por los españoles afectaron a los nativos americanos?",
+        "opciones": [
+            {
+                "a": "Gripe y sarampión",
+                "correcta": "si"
+            },
+            {
+                "b": "Cólera y tifus",
+                "correcta": "no"
+            },
+            {
+                "c": "Malaria y fiebre amarilla",
+                "correcta": "no"
+            },
+            {
+                "d": "Tuberculosis y lepra",
+                "correcta": "no"
+            }
+        ]
+    }
+]

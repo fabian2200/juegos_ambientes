@@ -1,0 +1,706 @@
+[
+  {
+    "oracion": "No hago nunca ejercicios.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Yo no quiero salir tampoco.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No lo aceptaré jamás.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No lo quiere nadie.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta nada esto.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No he sabido de ninguno de ellos.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No se graduará en su vida si sigue a ese ritmo.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No le creo ni la hora.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No le digas a nadie que no me dijiste nada.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna forma en la que no pueda ayudarte en nada.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No conozco a nadie que no haya recibido ningún regalo de cumpleaños.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna duda de que no cambiará de opinión.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No he visto a nadie que no haya hecho nada para solucionar el problema.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna situación en la que no te necesite desesperadamente.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar a nadie que no haya oído hablar de eso antes.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna razón por la cual no debas aceptar su oferta generosa.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna habilidad que no haya perfeccionado con el tiempo.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay nadie que no se haya dado cuenta de que no estaba hablando en serio.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar ninguna explicación de por qué no me invitó a la fiesta.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna excusa que no haya escuchado antes para no hacer su tarea.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna intención de no pedir disculpas si cometí un error.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No conozco a nadie que no haya tenido ningún problema en la vida.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna duda de que no estaré disponible para ayudar cuando lo necesites.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar a nadie que no haya sentido ninguna emoción al ver esa película.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay ninguna forma de que no haya oído hablar de esa noticia importante.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna idea de por qué no me llamó para confirmar la cita.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No hay nadie que no haya encontrado ninguna dificultad en el camino hacia el éxito.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar ninguna razón para no creer en tus habilidades excepcionales.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No quiero ir al cine.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta el chocolate.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo tiempo para hacer ejercicio.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero comer verduras.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar mis llaves.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me siento bien hoy.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero hablar con nadie ahora.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo dinero para comprar eso.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gustó la película que vi anoche.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero salir de casa hoy.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No entiendo lo que estás diciendo.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me interesa ese programa de televisión.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo intención de ir de compras hoy.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta el sabor del café negro.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No puedo encontrar mi teléfono en ninguna parte.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo ganas de salir esta noche.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta el olor de esa colonia.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No veo ninguna solución a este problema.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo intención de participar en ese proyecto.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gusta la música que estás escuchando.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No creo que nadie no haya visto nunca esa película.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No es cierto que no haya ninguna posibilidad de que no venga.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No es verdad que no haya nadie que no quiera participar.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No es posible que no hayas recibido ninguna llamada en absoluto.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No parece que nadie no haya notado tu ausencia.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No resulta creíble que no haya ninguna razón para no preocuparse.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No es probable que no hayas escuchado hablar de eso en ninguna parte.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No es seguro que no haya nadie que no tenga conocimiento del tema.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No parece lógico que no haya nada que no se pueda solucionar.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No parece justo que no haya nadie que no merezca una segunda oportunidad.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No vino nadie a la fiesta",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Mi hermano no hizo nada de lo que le habían ordenado",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna duda sobre su nacionalidad.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Isabel no ha ido a esquiar nunca.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "A mí no me gusta ese plan y mi hermana no está de acuerdo tampoco.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Él dijo que no volvería jamás a la antigua casa de sus abuelos.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Eso que propones no lo aceptará nadie.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No he visto en mi vida un paisaje tan hermoso.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No he leído ninguno de estos libros.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No es verdad nada de lo que dijo.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No comeré jamás hígado de cero; ¡qué asco!",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No he ido nunca a la ópera.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No sabe nadie lo que realmente sucedió esa noche.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "Manuel no logrará en su vida ser alcalde.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No aceptaría su plan ni su madre.",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No hay nadie",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo nada",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero volver a verlo jamás",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero volver a verlo nunca jamás [triple negación enfática]",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", false],
+      ["3 Veces", true]
+    ]
+  },
+  {
+    "oracion": "No quiero ni verlo",
+    "opciones": [
+      ["1 Vez", false],
+      ["2 Veces", true],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo ninguna duda al respecto.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No puedo negar que me sorprendió.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero perder la oportunidad.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No me gustaría estar en su lugar.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No creo que sea posible.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo ningún interés en participar.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No hay razón para preocuparse.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No quiero causar ningún problema.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No puedo negar que tienes razón.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  },
+  {
+    "oracion": "No tengo ningún deseo de volver a verlo.",
+    "opciones": [
+      ["1 Vez", true],
+      ["2 Veces", false],
+      ["3 Veces", false]
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+@font-face {
+  font-family: 'NunitoFuente';
+  src: url('nunito/Nunito-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: NunitoFuente;
+}
+
+a {
+  text-decoration: none;
+}
+
+.borde {
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+      1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  font-weight: bold;
+  color: #fff !important;
+}
+
+.menu {
+  position: relative;
+  margin-top: 20%;
+  left: 50%;
+  width: 0px;
+  transform: translate(-50%, 55%);
+}
+
+.toggle {
+  display: none;
+}
+
+.toggle + .style {
+  width: 254px;
+  height: 254px;
+  border-radius: 50%;
+  cursor: pointer;
+  transform: translate(-50%, -33%) scale(1);
+  z-index: 5;
+  display: block;
+  max-width: 250px;
+  margin-bottom: 0;
+  background-image: url(images/ped.png);
+  background-size: 100% 100%;
+  color: #fff;
+  font-size: 2.5em;
+  padding-top: 75px;
+  text-align: center;
+  -webkit-transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+
+.menu p {
+  max-width: 85px;
+  text-align: center;
+  margin: 0 auto;
+  line-height: 15px;
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.toggle + .style:hover {
+  -webkit-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.7);
+  -ms-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.7);
+  -o-box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.7);
+}
+
+.toggle:checked + .style {
+  transform: translate(-50%, -50%) scale(0.5);
+}
+
+.menu input[type="checkbox"] + label:before {
+  content: "";
+  position: absolute;
+}
+
+.toggle + .style:before,
+.toggle + .style:after {
+  content: "";
+  position: absolute;
+  margin: -3px;
+  border-radius: 5px;
+  transition: all 0.3s;
+}
+
+.toggle + .style:before {
+  width: 30px;
+  height: 0px;
+  left: 10px;
+  top: 25px;
+}
+
+.toggle + .style:after {
+  width: 0px;
+  height: 30px;
+  left: 25px;
+  top: 10px;
+}
+
+.toggle:checked + .style:before,
+.toggle:checked + .style:after {
+  transform: rotate(135deg);
+}
+
+.toggle ~ .tab {
+  position: absolute;
+  background: transparent;
+  color: #fff;
+  width: 120px;
+  height: 120px;
+  left: 0px;
+  top: 0px;
+  transform: translate(-50%, -50%) scale(0);
+  transition: all 0.3s;
+  opacity: 0;
+  border-radius: 50%;
+}
+
+.toggle:checked ~ .tab {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.menu > .toggle:checked ~ .tab:nth-of-type(1) {
+  top: -157px;
+  left: -232px;
+  transition-delay: 0.125s;
+}
+
+.menu > .toggle:checked ~ .tab:nth-of-type(2) {
+  top: -170px;
+  left: 142px;
+  transition-delay: 0.4s;
+}
+
+.menu > .toggle:checked ~ .tab:nth-of-type(3) {
+  top: 126px;
+  left: 154px;
+  transition-delay: 0.675s;
+}
+
+.menu > .toggle:checked ~ .tab:nth-of-type(4) {
+  top: 139px;
+  left: -226px;
+  transition-delay: 0.95s;
+}
+
+.toggle:checked + .style {
+  background-color: #ff4343;
+  background-size: 100% 100%;
+  transition-delay: 0.15s;
+  -webkit-animation-name: test;
+  -webkit-animation-duration: 0.8;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: linear;
+  background-image: url("images/ped_5.png");
+}
+
+.box {
+  text-align: center;
+  line-height: 130px;
+  animation: animate 1.8s linear infinite;
+  cursor: pointer;
+}
+
+@keyframes animate {
+  0% {
+    box-shadow: 0 0 0 0 cornflowerblue;
+  }
+  40% {
+    box-shadow: 0 0 0 50px rgba(255, 26, 67, 0);
+  }
+  80% {
+    box-shadow: 0 0 0 50px rgba(255, 206, 67, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(255, 206, 67, 0);
+  }
+}
+
+.box2 {
+  text-align: center;
+  line-height: 130px;
+  animation: animate2 1.8s linear infinite;
+  cursor: pointer;
+}
+
+@keyframes animate2 {
+  0% {
+    box-shadow: 0 0 0 0 cornflowerblue;
+  }
+  40% {
+    box-shadow: 0 0 0 10px rgba(255, 26, 67, 0);
+  }
+  80% {
+    box-shadow: 0 0 0 10px rgba(255, 206, 67, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(255, 206, 67, 0);
+  }
+}
+
+@-webkit-keyframes test {
+  10% {
+    background-color: #ff4343;
+  }
+  10% {
+    background-image: url("images/ped_2.png");
+  }
+  25% {
+    background-image: url("images/ped_3.png");
+  }
+  50% {
+    background-image: url("images/ped_4.png");
+  }
+  75% {
+    background-image: url("images/ped_5.png");
+  }
+  100% {
+    background-image: url("images/ped_5.png");
+  }
+}
+
+body {
+  background: url(images/fondo.png);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  color: #fff;
+  height: 100vh;
+  text-align: center;
+  color: #262626;
+}
+
+.tab {
+  cursor: pointer;
+}

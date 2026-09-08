@@ -1,0 +1,122 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #0d6efd;
+}
+
+#content {
+    margin-bottom: 25px;
+}
+
+.adsbygoogle {
+    margin-bottom: 15px;
+}
+
+.footer-content {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.footer a {
+    color: rgba(255,255,255,.5);
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #fff;
+}
+
+.sortable div .card {
+    cursor: move;
+}
+
+.sortable div.chosen .card {
+    transform: scale(1.02), rotate(-10deg);
+    box-shadow: 0px 0px 20px #ccc;
+    background-color: #dadada;
+}
+
+.sortable div.ghost .card {
+    opacity: 0.4;
+}
+
+.sortable div.drag .card {
+    background-color: black;
+}
+
+.card-header {
+    font-size: 40px !important;
+    padding: 10px !important;
+    text-align: center;
+}
+
+.data {
+   margin-left: 20px;
+   margin-right: 20px;
+   width: 145pt;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.sub {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+@font-face {
+    font-family: nunito_bold;
+    src: url(../../../nunito/Nunito-ExtraBold.ttf);
+}
+
+* {
+    font-family: nunito_bold;
+    color: #fff;
+}
+  
+
+body{
+	background: url(../img/fondo.png);
+    background-size: 100% 100%;
+	background-position: center center;
+	background-attachment: fixed;
+	color: #fff;
+	height: 100vh;
+	color: #262626;
+}
+
+.cursorImg{
+    font-family: "Verdana", cursive;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    letter-spacing: 0px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+    margin: 0;
+    cursor: url('../img/img-manito.png'), auto !important;
+}
+
+.btn{
+    width: 70px;
+    height: 70px;
+    font-size: 36px;
+    border-radius: 50%;
+    position: relative;
+    border: 4px solid white;
+    top: 18%;
+    margin-right: 9px;
+}

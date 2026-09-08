@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIÉN QUIERE SER MILLONARIO</title>
+    <link rel="stylesheet" href="fuentes/style.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="medios/img/logo.png">
+    <link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+	<script src="../../bootstrap/sweetalert.js"></script>
+</head>
+
+<body>
+    <audio src="medios/sonidos/Quien quiere ser millonario INICIO.mp3" id="inicio" autoplay loop></audio>
+    <audio src="medios/sonidos/respuesta correcta.mp3" id="m_correcto" ></audio>
+    <audio src="medios/sonidos/respuesta incorrecta.mp3" id="m_perdiste" ></audio>
+   
+    <audio src="medios/sonidos/press_buttom.mp3" id="boton"></audio>
+
+    <div class="ventana" id="ventana">
+        
+
+        <div class="llamar" id="llamar">
+            <i class="icon-cool2"></i>
+            <p>Creo que la respuesta correcta es:</p>
+            <p id="correcto">fhhg</p>
+        </div>
+
+        <div class="audiencia" id="audiencia">
+            <i class="icon-users"></i>
+            <p>La audiencia opina que:</p>
+            <span>A) <progress class="progreso" max="100" value="10" ></progress></span>
+            <span>B) <progress class="progreso" max="100" value="10" ></progress></span>
+            <span>C) <progress class="progreso" max="100" value="10" ></progress></span>
+            <span>D) <progress class="progreso" max="100" value="10" ></progress> </span>
+        </div>  
+
+        <div class="correcta" id="resp_correcta">
+            <i class="icon-checkmark"></i>
+            <p>¡RESPUESTA CORRECTA!</p>
+            <p id="pasaste"> </p>
+            
+        </div>
+
+        <i class="seguir" id="seguir">Continuar</i>
+    
+    </div>
+
+    <div class="ventana ventana2" id="ventana2">
+        <img id="img_vent" src="medios/img/1078718.png" alt="">
+        <p class="victoria" id="victoria">¡FELICIDADES HAZ GANADO!</p>
+        <P class="ganado" id="ganado">Te llevas a casa $ </P>
+        <i class="seguir" id="terminar">Terminar juego</i>
+    </div>
+
+    <div style="display: none" class="overlay">
+		<div class="nube">
+			<p class="borde2" id="bienvenida"></p>
+		</div>
+        <div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+            <button onclick="cerrar_anuncio()" id="btnomitir"  class="btn btn-warning" style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: white;">Omitir <i style="color: white" class="fa fa-forward" aria-hidden="true"></i></button>
+        </div>
+	</div>
+
+	<div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;"
+		id="fondo_blanco">
+
+	</div>
+
+	<div style="display: none; text-align: center;" id="final" class="final">
+		<h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+		<hr>
+		<div class="row">
+			<div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+				<h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+			</div>
+			<div class="col-3"></div>
+			<div class="col-3 text-center">
+				<button style="width: 80%;border-radius: 20pt; font-size: 23px;" onclick="window.location.reload(1)"
+					class="btn btn-success">Si, jugar</button>
+			</div>
+			<div class="col-3 text-center">
+				<button style="width: 80%; border-radius: 20pt; font-size: 23px;" onclick="history.back()" class="btn btn-danger">No,
+					salir</button>
+			</div>
+			<div class="col-3"></div>
+		</div>
+	</div>
+
+    <div class="contenedor" id="principal">
+        <div class="header">
+            <div>
+                <h2 class="btn">Ganancias $<span id="dinero">0</span></h2>
+                <button style="width: 50pt; height: 50pt;" onclick="history.back()" class="btn btn-danger volver"><i class="fa-solid fa-arrow-left"></i></button>
+                <a style="width: 50pt; height: 50pt;" href="#" class="btn silenciar icon-volume-high" id="silenciar" title="Silenciar"></a>
+            </div>
+        </div>
+
+
+        <div class="principal">
+            <img src="medios/img/logo.png" alt="logo" class="logo" id="logo">
+            <a href="#" class="btn jugar" id="jugar" title="Comenzar juego">Comenzar juego</a>
+
+            <div class="pregunta_zona" id="pregunta-zona">
+                <div class="tiempo">
+                    <span id="tiempo">
+                        <p id="timer">30</p>
+                    </span>
+                    <div class="comodin" id="comodin">
+                        <i class="icon-phone comodines" title="Llamar a un amigo"></i>
+                        <i class="icon-users comodines" title="Acudir a la audiencia" ></i>
+                        <i class="mitad comodines" title="50/50">50</i>
+                    </div>
+
+                    
+                </div>
+
+                <div class="cont_pregunta">
+                    
+                    <div class="preg_borde"><div class="preg" id="preg"><p>PREGUNTA</p></div></div>
+
+                    <div class="respuestas">
+                        <div class="resp_borde">
+                            <div class="resp"><span>A- </span><p class="respuesta"></p></div>
+                        </div>
+                        <div class="resp_borde">
+                            <div class="resp"><span>B- </span><p class="respuesta"></p></div>
+                        </div>
+                        <div class="resp_borde">
+                            <div class="resp"><span>C- </span><p class="respuesta"></p></div>
+                        </div>
+                        <div class="resp_borde">
+                            <div class="resp"><span>D- </span><p class="respuesta"></p></div>
+                        </div>
+                        
+                    </div>
+
+                    
+
+                </div>
+
+                <div class="rendirse btn " style="height: 40pt; padding: 12px" id="rendirse">  Me rindo</div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/variable.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/preg.js"></script>
+    </script>
+</body>
+
+</html>

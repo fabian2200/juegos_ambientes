@@ -1,0 +1,2921 @@
+[
+    {
+        "pregunta": "¿Cuál es uno de los géneros literarios más destacados en la época precolombina?",
+        "opciones": [
+            [
+                "Códices",
+                "No"
+            ],
+            [
+                "Novelas",
+                "No"
+            ],
+            [
+                "Ensayos",
+                "No"
+            ],
+            [
+                "Poemas",
+                "Sí"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue uno de los principales temas abordados en la literatura precolombina?",
+        "opciones": [
+            [
+                "La naturaleza",
+                "Sí"
+            ],
+            [
+                "La política",
+                "No"
+            ],
+            [
+                "La tecnología",
+                "No"
+            ],
+            [
+                "El futuro",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué civilización precolombina desarrolló el sistema de escritura conocido como jeroglíficos?",
+        "opciones": [
+            [
+                "Mayas",
+                "Sí"
+            ],
+            [
+                "Aztecas",
+                "No"
+            ],
+            [
+                "Incas",
+                "No"
+            ],
+            [
+                "OlmeCas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los escritos más famosos de la literatura precolombina azteca?",
+        "opciones": [
+            [
+                "El Popol Vuh",
+                "No"
+            ],
+            [
+                "El Inca Garcilaso de la Vega",
+                "No"
+            ],
+            [
+                "El Chilam Balam",
+                "No"
+            ],
+            [
+                "Los Cantares Mexicanos",
+                "Sí"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál era el propósito principal de la literatura precolombina?",
+        "opciones": [
+            [
+                "Preservar la tradición oral",
+                "Sí"
+            ],
+            [
+                "Promover la industrialización",
+                "No"
+            ],
+            [
+                "Enseñar matemáticas avanzadas",
+                "No"
+            ],
+            [
+                "Celebrar eventos deportivos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los legados más importantes de la literatura precolombina?",
+        "opciones": [
+            [
+                "La preservación de la cultura ancestral",
+                "Sí"
+            ],
+            [
+                "El desarrollo de la poesía romántica",
+                "No"
+            ],
+            [
+                "La creación de la imprenta",
+                "No"
+            ],
+            [
+                "La influencia en el renacimiento europeo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de material se utilizaba para escribir en la época precolombina?",
+        "opciones": [
+            [
+                "Papel",
+                "No"
+            ],
+            [
+                "Piedra",
+                "Sí"
+            ],
+            [
+                "Metal",
+                "No"
+            ],
+            [
+                "Vidrio",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los aspectos más destacados de la literatura precolombina?",
+        "opciones": [
+            [
+                "La conexión con la naturaleza",
+                "Sí"
+            ],
+            [
+                "La crítica social",
+                "No"
+            ],
+            [
+                "El uso de la ironía",
+                "No"
+            ],
+            [
+                "La descripción de paisajes urbanos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué cultura precolombina es conocida por sus poemas y canciones en lengua náhuatl?",
+        "opciones": [
+            [
+                "Aztecas",
+                "Sí"
+            ],
+            [
+                "Mayas",
+                "No"
+            ],
+            [
+                "Incas",
+                "No"
+            ],
+            [
+                "Toltecas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los principales retos al estudiar la literatura precolombina?",
+        "opciones": [
+            [
+                "La falta de documentos originales",
+                "Sí"
+            ],
+            [
+                "La sobreabundancia de información",
+                "No"
+            ],
+            [
+                "La ausencia de temas interesantes",
+                "No"
+            ],
+            [
+                "La falta de diversidad cultural",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la definición de texto?",
+        "opciones": [
+            [
+                "Una unidad coherente de palabras y oraciones",
+                "Sí"
+            ],
+            [
+                "Un conjunto aleatorio de letras",
+                "No"
+            ],
+            [
+                "Un conjunto de imágenes visuales",
+                "No"
+            ],
+            [
+                "Una secuencia desordenada de sonidos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función principal de un texto?",
+        "opciones": [
+            [
+                "Comunicar ideas y transmitir información",
+                "Sí"
+            ],
+            [
+                "Entretener al lector",
+                "No"
+            ],
+            [
+                "Generar polémica",
+                "No"
+            ],
+            [
+                "Crear obras de arte",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuáles son los elementos básicos de un texto?",
+        "opciones": [
+            [
+                "Introducción, desarrollo y conclusión",
+                "Sí"
+            ],
+            [
+                "Título, autor y editorial",
+                "No"
+            ],
+            [
+                "Personajes, trama y escenarios",
+                "No"
+            ],
+            [
+                "Imágenes, colores y tipografía",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es coherencia en un texto?",
+        "opciones": [
+            [
+                "La conexión lógica entre las ideas",
+                "Sí"
+            ],
+            [
+                "La ausencia de errores ortográficos",
+                "No"
+            ],
+            [
+                "El uso de un lenguaje formal",
+                "No"
+            ],
+            [
+                "La extensión y complejidad del texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre texto literario y texto informativo?",
+        "opciones": [
+            [
+                "El texto literario busca emocionar y entretener, mientras que el informativo transmite conocimientos",
+                "Sí"
+            ],
+            [
+                "El texto literario es más corto que el informativo",
+                "No"
+            ],
+            [
+                "El texto literario utiliza un lenguaje más complicado que el informativo",
+                "No"
+            ],
+            [
+                "El texto literario no tiene estructura definida, a diferencia del informativo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es cohesión en un texto?",
+        "opciones": [
+            [
+                "La relación entre las diferentes partes del texto",
+                "Sí"
+            ],
+            [
+                "El uso de sinónimos en lugar de palabras repetidas",
+                "No"
+            ],
+            [
+                "La inclusión de citas de otros autores",
+                "No"
+            ],
+            [
+                "La presentación visual del texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la importancia del título en un texto?",
+        "opciones": [
+            [
+                "Captar la atención del lector y resumir el contenido",
+                "Sí"
+            ],
+            [
+                "Establecer el nombre del autor",
+                "No"
+            ],
+            [
+                "Indicar el género literario del texto",
+                "No"
+            ],
+            [
+                "Reflejar el precio del libro",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la intencionalidad en un texto?",
+        "opciones": [
+            [
+                "El propósito o mensaje que el autor desea transmitir",
+                "Sí"
+            ],
+            [
+                "La longitud del texto",
+                "No"
+            ],
+            [
+                "La complejidad de las palabras utilizadas",
+                "No"
+            ],
+            [
+                "La ubicación geográfica donde se escribió el texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la intertextualidad?",
+        "opciones": [
+            [
+                "La relación y referencia a otros textos en un texto dado",
+                "Sí"
+            ],
+            [
+                "La inclusión de imágenes en el texto",
+                "No"
+            ],
+            [
+                "La adaptación del texto a diferentes idiomas",
+                "No"
+            ],
+            [
+                "La inclusión de fragmentos de canciones en el texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un texto oral y un texto escrito?",
+        "opciones": [
+            [
+                "El texto oral se transmite verbalmente, mientras que el escrito se registra por escrito",
+                "Sí"
+            ],
+            [
+                "El texto oral es más formal que el escrito",
+                "No"
+            ],
+            [
+                "El texto oral no tiene estructura definida, a diferencia del escrito",
+                "No"
+            ],
+            [
+                "El texto oral no utiliza figuras literarias, a diferencia del escrito",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la característica principal de un texto expositivo?",
+        "opciones": [
+            [
+                "Presentar información de manera objetiva y clara",
+                "Sí"
+            ],
+            [
+                "Entretener al lector con historias ficticias",
+                "No"
+            ],
+            [
+                "Generar emociones y sentimientos en el lector",
+                "No"
+            ],
+            [
+                "Persuadir al lector de una opinión específica",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de un texto expositivo?",
+        "opciones": [
+            [
+                "Informar y explicar un tema o concepto",
+                "Sí"
+            ],
+            [
+                "Divertir al lector con anécdotas personales",
+                "No"
+            ],
+            [
+                "Inspirar al lector con reflexiones filosóficas",
+                "No"
+            ],
+            [
+                "Promover un producto o servicio",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de estructura suele tener un texto expositivo?",
+        "opciones": [
+            [
+                "Introducción, desarrollo y conclusión",
+                "Sí"
+            ],
+            [
+                "Diálogos y descripciones detalladas",
+                "No"
+            ],
+            [
+                "Secuencia cronológica de eventos",
+                "No"
+            ],
+            [
+                "Párrafos desordenados sin una organización clara",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de los ejemplos en un texto expositivo?",
+        "opciones": [
+            [
+                "Ayudar a ilustrar y clarificar las ideas presentadas",
+                "Sí"
+            ],
+            [
+                "Entretener al lector con narraciones ficticias",
+                "No"
+            ],
+            [
+                "Agregar elementos emocionales al texto",
+                "No"
+            ],
+            [
+                "Persuadir al lector de aceptar una opinión específica",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de lenguaje se utiliza en un texto expositivo?",
+        "opciones": [
+            [
+                "Lenguaje claro, objetivo y formal",
+                "Sí"
+            ],
+            [
+                "Lenguaje figurado y poético",
+                "No"
+            ],
+            [
+                "Lenguaje coloquial y relajado",
+                "No"
+            ],
+            [
+                "Lenguaje técnico y especializado",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la relación entre el autor y el tema en un texto expositivo?",
+        "opciones": [
+            [
+                "El autor presenta información imparcial y objetiva sobre el tema",
+                "Sí"
+            ],
+            [
+                "El autor expresa sus opiniones personales sobre el tema",
+                "No"
+            ],
+            [
+                "El autor crea un mundo ficticio relacionado con el tema",
+                "No"
+            ],
+            [
+                "El autor utiliza el tema para promocionar sus propias obras",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de las fuentes y referencias en un texto expositivo?",
+        "opciones": [
+            [
+                "Apoyar la veracidad y confiabilidad de la información presentada",
+                "Sí"
+            ],
+            [
+                "Agregar elementos emocionales al texto",
+                "No"
+            ],
+            [
+                "Proporcionar ejemplos y anécdotas personales",
+                "No"
+            ],
+            [
+                "Persuadir al lector de aceptar una opinión específica",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los errores más comunes en un texto expositivo?",
+        "opciones": [
+            [
+                "La falta de organización y coherencia en la presentación de ideas",
+                "Sí"
+            ],
+            [
+                "El uso excesivo de lenguaje figurado y metáforas",
+                "No"
+            ],
+            [
+                "La ausencia de ejemplos y evidencia para respaldar las afirmaciones",
+                "No"
+            ],
+            [
+                "La exageración y la manipulación de los hechos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un texto expositivo y un texto argumentativo?",
+        "opciones": [
+            [
+                "El texto expositivo presenta información objetiva, mientras que el argumentativo defiende una opinión",
+                "Sí"
+            ],
+            [
+                "El texto expositivo utiliza un lenguaje más formal que el argumentativo",
+                "No"
+            ],
+            [
+                "El texto expositivo incluye diálogos y narraciones, a diferencia del argumentativo",
+                "No"
+            ],
+            [
+                "El texto expositivo no requiere evidencia o ejemplos para respaldar las afirmaciones, a diferencia del argumentativo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el papel del lector en un texto expositivo?",
+        "opciones": [
+            [
+                "Comprender y asimilar la información presentada",
+                "Sí"
+            ],
+            [
+                "Crear su propia versión ficticia del texto",
+                "No"
+            ],
+            [
+                "Responder preguntas al autor sobre el tema",
+                "No"
+            ],
+            [
+                "Modificar el contenido del texto a su conveniencia",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la característica principal de un texto argumentativo?",
+        "opciones": [
+            [
+                "Defender una opinión o postura sobre un tema",
+                "Sí"
+            ],
+            [
+                "Presentar información objetiva y neutral",
+                "No"
+            ],
+            [
+                "Entretener al lector con historias ficticias",
+                "No"
+            ],
+            [
+                "Describir detalladamente un objeto o lugar",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de un texto argumentativo?",
+        "opciones": [
+            [
+                "Persuadir al lector y convencerlo de aceptar una opinión",
+                "Sí"
+            ],
+            [
+                "Informar y explicar un tema o concepto",
+                "No"
+            ],
+            [
+                "Divertir al lector con anécdotas personales",
+                "No"
+            ],
+            [
+                "Promover un producto o servicio",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de estructura suele tener un texto argumentativo?",
+        "opciones": [
+            [
+                "Introducción, desarrollo de argumentos y conclusión",
+                "Sí"
+            ],
+            [
+                "Diálogos y descripciones detalladas",
+                "No"
+            ],
+            [
+                "Secuencia cronológica de eventos",
+                "No"
+            ],
+            [
+                "Párrafos desordenados sin una organización clara",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la importancia de la evidencia en un texto argumentativo?",
+        "opciones": [
+            [
+                "Respaldar y reforzar los argumentos presentados",
+                "Sí"
+            ],
+            [
+                "Entretener al lector con narraciones ficticias",
+                "No"
+            ],
+            [
+                "Agregar elementos emocionales al texto",
+                "No"
+            ],
+            [
+                "Persuadir al lector a través de técnicas retóricas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de lenguaje se utiliza en un texto argumentativo?",
+        "opciones": [
+            [
+                "Lenguaje persuasivo y convincente",
+                "Sí"
+            ],
+            [
+                "Lenguaje figurado y poético",
+                "No"
+            ],
+            [
+                "Lenguaje coloquial y relajado",
+                "No"
+            ],
+            [
+                "Lenguaje técnico y especializado",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la relación entre el autor y la opinión en un texto argumentativo?",
+        "opciones": [
+            [
+                "El autor defiende y respalda una opinión específica",
+                "Sí"
+            ],
+            [
+                "El autor presenta información imparcial y objetiva",
+                "No"
+            ],
+            [
+                "El autor crea un mundo ficticio relacionado con la opinión",
+                "No"
+            ],
+            [
+                "El autor utiliza la opinión para promocionar sus propias obras",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la importancia del contrargumento en un texto argumentativo?",
+        "opciones": [
+            [
+                "Considerar y refutar posibles objeciones o puntos de vista opuestos",
+                "Sí"
+            ],
+            [
+                "Agregar elementos emocionales al texto",
+                "No"
+            ],
+            [
+                "Ignorar las opiniones contrarias",
+                "No"
+            ],
+            [
+                "Persuadir al lector a través de técnicas retóricas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es uno de los errores más comunes en un texto argumentativo?",
+        "opciones": [
+            [
+                "La falta de evidencia sólida y argumentos lógicos",
+                "Sí"
+            ],
+            [
+                "El uso excesivo de lenguaje figurado y metáforas",
+                "No"
+            ],
+            [
+                "La ausencia de ejemplos y testimonios personales",
+                "No"
+            ],
+            [
+                "La manipulación de los hechos para respaldar la opinión",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre un texto argumentativo y un texto expositivo?",
+        "opciones": [
+            [
+                "El texto argumentativo busca persuadir, mientras que el expositivo busca informar",
+                "Sí"
+            ],
+            [
+                "El texto argumentativo utiliza un lenguaje más formal que el expositivo",
+                "No"
+            ],
+            [
+                "El texto argumentativo incluye diálogos y narraciones, a diferencia del expositivo",
+                "No"
+            ],
+            [
+                "El texto argumentativo no requiere evidencia o ejemplos para respaldar las afirmaciones, a diferencia del expositivo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el papel del lector en un texto argumentativo?",
+        "opciones": [
+            [
+                "Analizar y evaluar los argumentos presentados",
+                "Sí"
+            ],
+            [
+                "Crear su propia versión ficticia del texto",
+                "No"
+            ],
+            [
+                "Responder preguntas al autor sobre la opinión",
+                "No"
+            ],
+            [
+                "Modificar el contenido del texto a su conveniencia",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para acciones que ocurren en el presente?",
+        "opciones": [
+            [
+                "Presente",
+                "Sí"
+            ],
+            [
+                "Pasado",
+                "No"
+            ],
+            [
+                "Futuro",
+                "No"
+            ],
+            [
+                "Condicional",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para acciones que ya han ocurrido?",
+        "opciones": [
+            [
+                "Pasado",
+                "Sí"
+            ],
+            [
+                "Presente",
+                "No"
+            ],
+            [
+                "Futuro",
+                "No"
+            ],
+            [
+                "Imperativo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para acciones que ocurrirán en el futuro?",
+        "opciones": [
+            [
+                "Futuro",
+                "Sí"
+            ],
+            [
+                "Pasado",
+                "No"
+            ],
+            [
+                "Presente",
+                "No"
+            ],
+            [
+                "Subjuntivo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una condición o hipótesis?",
+        "opciones": [
+            [
+                "Condicional",
+                "Sí"
+            ],
+            [
+                "Futuro",
+                "No"
+            ],
+            [
+                "Pasado",
+                "No"
+            ],
+            [
+                "Imperativo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para dar órdenes o instrucciones?",
+        "opciones": [
+            [
+                "Imperativo",
+                "Sí"
+            ],
+            [
+                "Presente",
+                "No"
+            ],
+            [
+                "Pasado",
+                "No"
+            ],
+            [
+                "Futuro",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una acción que está en progreso en un momento específico del pasado?",
+        "opciones": [
+            [
+                "Pasado continuo",
+                "Sí"
+            ],
+            [
+                "Presente perfecto",
+                "No"
+            ],
+            [
+                "Futuro perfecto",
+                "No"
+            ],
+            [
+                "Condicional perfecto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una acción que ocurrió antes de otra acción en el pasado?",
+        "opciones": [
+            [
+                "Pasado anterior",
+                "Sí"
+            ],
+            [
+                "Presente perfecto",
+                "No"
+            ],
+            [
+                "Futuro perfecto",
+                "No"
+            ],
+            [
+                "Condicional perfecto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una acción que habrá sido completada en el futuro?",
+        "opciones": [
+            [
+                "Futuro perfecto",
+                "Sí"
+            ],
+            [
+                "Pasado anterior",
+                "No"
+            ],
+            [
+                "Presente perfecto",
+                "No"
+            ],
+            [
+                "Condicional perfecto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una acción que habría ocurrido en ciertas condiciones?",
+        "opciones": [
+            [
+                "Condicional perfecto",
+                "Sí"
+            ],
+            [
+                "Pasado anterior",
+                "No"
+            ],
+            [
+                "Presente perfecto",
+                "No"
+            ],
+            [
+                "Futuro perfecto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el tiempo verbal que se utiliza para expresar una acción que podría ocurrir?",
+        "opciones": [
+            [
+                "Subjuntivo",
+                "Sí"
+            ],
+            [
+                "Futuro perfecto",
+                "No"
+            ],
+            [
+                "Presente perfecto",
+                "No"
+            ],
+            [
+                "Pasado anterior",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del adverbio en una oración?",
+        "opciones": [
+            [
+                "Modificar un verbo, un adjetivo o otro adverbio",
+                "Sí"
+            ],
+            [
+                "Sustituir un sustantivo en la oración",
+                "No"
+            ],
+            [
+                "Indicar la persona que realiza la acción",
+                "No"
+            ],
+            [
+                "Conectar oraciones en un texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué tipo de información puede expresar un adverbio?",
+        "opciones": [
+            [
+                "Lugar, tiempo, modo, cantidad, afirmación, negación, duda, entre otros",
+                "Sí"
+            ],
+            [
+                "Género y número de los sustantivos en la oración",
+                "No"
+            ],
+            [
+                "Comparación entre dos elementos",
+                "No"
+            ],
+            [
+                "Función gramatical de los adjetivos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la forma más común de formar adverbios a partir de adjetivos en español?",
+        "opciones": [
+            [
+                "Añadiendo el sufijo -mente al adjetivo",
+                "Sí"
+            ],
+            [
+                "Cambiar la raíz del adjetivo por una terminación diferente",
+                "No"
+            ],
+            [
+                "Invertir el orden de las letras en el adjetivo",
+                "No"
+            ],
+            [
+                "Eliminar una sílaba del adjetivo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función del adverbio de manera en una oración?",
+        "opciones": [
+            [
+                "Indicar la forma o manera en que se realiza una acción",
+                "Sí"
+            ],
+            [
+                "Expresar la ubicación espacial de un objeto",
+                "No"
+            ],
+            [
+                "Mostrar el tiempo en que ocurre una acción",
+                "No"
+            ],
+            [
+                "Conectar dos oraciones en una relación de causa y efecto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la forma comparativa de un adverbio que termina en -mente?",
+        "opciones": [
+            [
+                "Añadiendo más al principio del adverbio",
+                "Sí"
+            ],
+            [
+                "Añadiendo -er al final del adverbio",
+                "No"
+            ],
+            [
+                "Duplicando la última consonante del adverbio",
+                "No"
+            ],
+            [
+                "Utilizando el mismo adverbio sin cambios",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la forma superlativa de un adverbio que termina en -mente?",
+        "opciones": [
+            [
+                "Añadiendo -ísimo al final del adverbio",
+                "Sí"
+            ],
+            [
+                "Añadiendo menos al principio del adverbio",
+                "No"
+            ],
+            [
+                "Duplicando la última consonante del adverbio",
+                "No"
+            ],
+            [
+                "Utilizando el mismo adverbio sin cambios",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el adverbio que indica negación en una oración?",
+        "opciones": [
+            [
+                "No",
+                "Sí"
+            ],
+            [
+                "Siempre",
+                "No"
+            ],
+            [
+                "Tal vez",
+                "No"
+            ],
+            [
+                "Rápidamente",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el adverbio que indica afirmación en una oración?",
+        "opciones": [
+            [
+                "Sí",
+                "Sí"
+            ],
+            [
+                "Nunca",
+                "No"
+            ],
+            [
+                "Lentamente",
+                "No"
+            ],
+            [
+                "Fácilmente",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el adverbio que indica duda en una oración?",
+        "opciones": [
+            [
+                "Tal vez",
+                "Sí"
+            ],
+            [
+                "Rápidamente",
+                "No"
+            ],
+            [
+                "Siempre",
+                "No"
+            ],
+            [
+                "Nunca",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el adverbio que indica lugar en una oración?",
+        "opciones": [
+            [
+                "Aquí",
+                "Sí"
+            ],
+            [
+                "Ayer",
+                "No"
+            ],
+            [
+                "Despacio",
+                "No"
+            ],
+            [
+                "Siempre",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la forma del gerundio en español?",
+        "opciones": [
+            [
+                "Verbo + -ando (para verbos en -ar) o -iendo (para verbos en -er/-ir)",
+                "Sí"
+            ],
+            [
+                "Verbo + -aba (para verbos en pasado) o -ará (para verbos en futuro)",
+                "No"
+            ],
+            [
+                "Verbo + -é (para verbos en pasado) o -iré (para verbos en futuro)",
+                "No"
+            ],
+            [
+                "Verbo + -eré (para verbos en pasado) o -í (para verbos en futuro)",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del gerundio en una oración?",
+        "opciones": [
+            [
+                "Indicar una acción en progreso o simultánea a otra acción",
+                "Sí"
+            ],
+            [
+                "Introducir una pregunta en una oración",
+                "No"
+            ],
+            [
+                "Modificar un sustantivo en la oración",
+                "No"
+            ],
+            [
+                "Conectar oraciones en un texto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuándo se utiliza el gerundio en una oración en español?",
+        "opciones": [
+            [
+                "Cuando la acción del verbo es simultánea a la acción del verbo principal",
+                "Sí"
+            ],
+            [
+                "Cuando se desea expresar una acción en pasado",
+                "No"
+            ],
+            [
+                "Cuando se quiere indicar una acción en futuro",
+                "No"
+            ],
+            [
+                "Cuando se busca modificar un adjetivo en la oración",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la forma correcta de utilizar el gerundio en una oración?",
+        "opciones": [
+            [
+                "Verbo principal + gerundio",
+                "Sí"
+            ],
+            [
+                "Gerundio + verbo principal",
+                "No"
+            ],
+            [
+                "Gerundio + sustantivo",
+                "No"
+            ],
+            [
+                "Gerundio + adjetivo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué verbos en español suelen ir seguidos del gerundio?",
+        "opciones": [
+            [
+                "Seguir, continuar, estar, ir, venir, seguir, comenzar, acabar, seguir",
+                "Sí"
+            ],
+            [
+                "Ser, estar, haber, tener, querer, hacer, decir, ir",
+                "No"
+            ],
+            [
+                "Caminar, saltar, correr, dormir, comer, beber, jugar",
+                "No"
+            ],
+            [
+                "Leer, escribir, hablar, escuchar, estudiar, pensar, conocer",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes oraciones utiliza correctamente el gerundio?",
+        "opciones": [
+            [
+                "Ella está estudiando para el examen.",
+                "Sí"
+            ],
+            [
+                "Él estudiará para el examen.",
+                "No"
+            ],
+            [
+                "Nosotros estudiamos para el examen.",
+                "No"
+            ],
+            [
+                "Ellos estudian para el examen.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes oraciones utiliza incorrectamente el gerundio?",
+        "opciones": [
+            [
+                "Ella come mientras estudia.",
+                "Sí"
+            ],
+            [
+                "Él come mientras estudiará.",
+                "No"
+            ],
+            [
+                "Nosotros comemos mientras estudiamos.",
+                "No"
+            ],
+            [
+                "Ellos comen mientras estudian.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes oraciones utiliza correctamente el gerundio?",
+        "opciones": [
+            [
+                "Caminando por el parque, disfruté del hermoso paisaje.",
+                "Sí"
+            ],
+            [
+                "Caminar por el parque, disfruté del hermoso paisaje.",
+                "No"
+            ],
+            [
+                "Caminé por el parque, disfrutando del hermoso paisaje.",
+                "No"
+            ],
+            [
+                "Caminando por el parque, disfrutaré del hermoso paisaje.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes oraciones utiliza incorrectamente el gerundio?",
+        "opciones": [
+            [
+                "Ella está cocinando y limpiando la cocina.",
+                "Sí"
+            ],
+            [
+                "Él está cocinando y limpiará la cocina.",
+                "No"
+            ],
+            [
+                "Nosotros estamos cocinando y limpiando la cocina.",
+                "No"
+            ],
+            [
+                "Ellos están cocinando y limpiaron la cocina.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes oraciones utiliza correctamente el gerundio?",
+        "opciones": [
+            [
+                "Hablando con claridad, logró convencer al público.",
+                "Sí"
+            ],
+            [
+                "Hablar con claridad, logró convencer al público.",
+                "No"
+            ],
+            [
+                "Habló con claridad, logró convencer al público.",
+                "No"
+            ],
+            [
+                "Hablando con claridad, logrará convencer al público.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué período abarca la literatura moderna?",
+        "opciones": [
+            [
+                "Aproximadamente desde finales del siglo XIX hasta mediados del siglo XX",
+                "Sí"
+            ],
+            [
+                "Desde la Edad Media hasta el Renacimiento",
+                "No"
+            ],
+            [
+                "Desde la Antigüedad Clásica hasta la Edad Media",
+                "No"
+            ],
+            [
+                "Desde mediados del siglo XX hasta la actualidad",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es una característica importante de la literatura moderna?",
+        "opciones": [
+            [
+                "Experimentación formal y estilística",
+                "Sí"
+            ],
+            [
+                "Predominio de la literatura religiosa",
+                "No"
+            ],
+            [
+                "Enfoque en temas mitológicos y legendarios",
+                "No"
+            ],
+            [
+                "Conformidad con las normas literarias clásicas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes movimientos literarios NO es representativo de la literatura moderna?",
+        "opciones": [
+            [
+                "Romanticismo",
+                "No"
+            ],
+            [
+                "Realismo",
+                "No"
+            ],
+            [
+                "Barroco",
+                "Sí"
+            ],
+            [
+                "Vanguardismo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué escritor es considerado uno de los principales representantes de la literatura moderna?",
+        "opciones": [
+            [
+                "James Joyce",
+                "Sí"
+            ],
+            [
+                "Miguel de Cervantes",
+                "No"
+            ],
+            [
+                "William Shakespeare",
+                "No"
+            ],
+            [
+                "Fyodor Dostoyevsky",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes obras es un ejemplo de la literatura moderna?",
+        "opciones": [
+            [
+                "Ulises",
+                "Sí"
+            ],
+            [
+                "Don Quijote",
+                "No"
+            ],
+            [
+                "Romeo y Julieta",
+                "No"
+            ],
+            [
+                "Crimen y Castigo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes géneros literarios se destacó en la literatura moderna?",
+        "opciones": [
+            [
+                "Novela",
+                "Sí"
+            ],
+            [
+                "Lírica",
+                "No"
+            ],
+            [
+                "Epopeya",
+                "No"
+            ],
+            [
+                "Tragedia",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue una de las principales influencias en la literatura moderna?",
+        "opciones": [
+            [
+                "El desarrollo de la psicología y el estudio de la mente humana",
+                "Sí"
+            ],
+            [
+                "La tradición oral y los mitos ancestrales",
+                "No"
+            ],
+            [
+                "La religión y los textos sagrados",
+                "No"
+            ],
+            [
+                "El enfoque en la historia y los hechos históricos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes corrientes literarias NO se desarrolló en la literatura moderna?",
+        "opciones": [
+            [
+                "Renacimiento",
+                "Sí"
+            ],
+            [
+                "Surrealismo",
+                "No"
+            ],
+            [
+                "Existencialismo",
+                "No"
+            ],
+            [
+                "Dadaísmo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes escritores NO pertenece a la literatura moderna?",
+        "opciones": [
+            [
+                "Geoffrey Chaucer",
+                "Sí"
+            ],
+            [
+                "Virginia Woolf",
+                "No"
+            ],
+            [
+                "Franz Kafka",
+                "No"
+            ],
+            [
+                "Gabriel García Márquez",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es una característica común de los personajes en la literatura moderna?",
+        "opciones": [
+            [
+                "Complejidad psicológica y conflicto interno",
+                "Sí"
+            ],
+            [
+                "Arquetipos y características predecibles",
+                "No"
+            ],
+            [
+                "Idealización y perfección",
+                "No"
+            ],
+            [
+                "Representación de valores morales absolutos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el significado principal de una palabra o expresión en su sentido literal?",
+        "opciones": [
+            [
+                "Denotación",
+                "Sí"
+            ],
+            [
+                "Connotación",
+                "No"
+            ],
+            [
+                "Significado figurado",
+                "No"
+            ],
+            [
+                "Interpretación subjetiva",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué se refiere a los sentimientos, ideas o asociaciones que una palabra o expresión evoca más allá de su significado literal?",
+        "opciones": [
+            [
+                "Connotación",
+                "Sí"
+            ],
+            [
+                "Denotación",
+                "No"
+            ],
+            [
+                "Significado objetivo",
+                "No"
+            ],
+            [
+                "Definición exacta",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos representa la denotación de la palabra 'casa'?",
+        "opciones": [
+            [
+                "Un lugar físico donde una persona vive",
+                "Sí"
+            ],
+            [
+                "Un refugio cálido y acogedor",
+                "No"
+            ],
+            [
+                "Un símbolo de seguridad y pertenencia",
+                "No"
+            ],
+            [
+                "Un concepto abstracto de hogar",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos representa la connotación de la palabra 'serpiente'?",
+        "opciones": [
+            [
+                "Traición, peligro o engaño",
+                "Sí"
+            ],
+            [
+                "Un reptil de cuerpo alargado y sin patas",
+                "No"
+            ],
+            [
+                "Astucia y habilidad",
+                "No"
+            ],
+            [
+                "Un símbolo de la naturaleza y la vida silvestre",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos representa la denotación de la expresión 'lluvia intensa'?",
+        "opciones": [
+            [
+                "Una precipitación de agua abundante y fuerte",
+                "Sí"
+            ],
+            [
+                "Una bendición divina que renueva la tierra",
+                "No"
+            ],
+            [
+                "Un símbolo de tristeza y melancolía",
+                "No"
+            ],
+            [
+                "Un fenómeno atmosférico que genera arcoíris",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos representa la connotación de la expresión 'lluvia intensa'?",
+        "opciones": [
+            [
+                "Un diluvio que provoca inundaciones y caos",
+                "Sí"
+            ],
+            [
+                "Una suave llovizna que refresca el ambiente",
+                "No"
+            ],
+            [
+                "Un símbolo de purificación y renovación",
+                "No"
+            ],
+            [
+                "Una manifestación de la fuerza de la naturaleza",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué aspecto del lenguaje se relaciona más estrechamente con la denotación?",
+        "opciones": [
+            [
+                "Sentido literal",
+                "Sí"
+            ],
+            [
+                "Sentido figurado",
+                "No"
+            ],
+            [
+                "Tono emocional",
+                "No"
+            ],
+            [
+                "Contexto cultural",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué aspecto del lenguaje se relaciona más estrechamente con la connotación?",
+        "opciones": [
+            [
+                "Carga emocional",
+                "Sí"
+            ],
+            [
+                "Significado objetivo",
+                "No"
+            ],
+            [
+                "Referencia objetiva",
+                "No"
+            ],
+            [
+                "Uso práctico",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes términos se asocia más con la denotación?",
+        "opciones": [
+            [
+                "Precisión y objetividad",
+                "Sí"
+            ],
+            [
+                "Ambigüedad y subjetividad",
+                "No"
+            ],
+            [
+                "Diversidad y riqueza",
+                "No"
+            ],
+            [
+                "Expresividad y creatividad",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes términos se asocia más con la connotación?",
+        "opciones": [
+            [
+                "Evaluación subjetiva",
+                "Sí"
+            ],
+            [
+                "Definición exacta",
+                "No"
+            ],
+            [
+                "Claridad y concisión",
+                "No"
+            ],
+            [
+                "Comunicación directa",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué se refiere a la propiedad de un texto que garantiza la conexión lógica y gramatical entre sus elementos?",
+        "opciones": [
+            [
+                "Cohesión",
+                "Sí"
+            ],
+            [
+                "Coherencia",
+                "No"
+            ],
+            [
+                "Intertextualidad",
+                "No"
+            ],
+            [
+                "Estilo literario",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué se refiere a la propiedad de un texto que garantiza su sentido global y la lógica interna de sus ideas?",
+        "opciones": [
+            [
+                "Coherencia",
+                "Sí"
+            ],
+            [
+                "Cohesión",
+                "No"
+            ],
+            [
+                "Estructura narrativa",
+                "No"
+            ],
+            [
+                "Figuras retóricas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes elementos contribuye a la cohesión de un texto?",
+        "opciones": [
+            [
+                "Uso de conectores y referencias pronominales",
+                "Sí"
+            ],
+            [
+                "Originalidad y creatividad",
+                "No"
+            ],
+            [
+                "Longitud y extensión del texto",
+                "No"
+            ],
+            [
+                "Diversidad de vocabulario",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes elementos contribuye a la coherencia de un texto?",
+        "opciones": [
+            [
+                "Organización lógica de ideas y argumentos",
+                "Sí"
+            ],
+            [
+                "Fluidez y ritmo del lenguaje",
+                "No"
+            ],
+            [
+                "Imágenes sensoriales y descripciones detalladas",
+                "No"
+            ],
+            [
+                "Uso de figuras retóricas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes recursos lingüísticos se utiliza para establecer la cohesión en un texto?",
+        "opciones": [
+            [
+                "Repetición de palabras clave y sinónimos",
+                "Sí"
+            ],
+            [
+                "Uso de metáforas y metonimias",
+                "No"
+            ],
+            [
+                "Estructuras gramaticales complejas",
+                "No"
+            ],
+            [
+                "Recursos estilísticos y poéticos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos muestra un adecuado uso de la cohesión?",
+        "opciones": [
+            [
+                "Juan fue a la tienda. Él compró pan y leche.",
+                "Sí"
+            ],
+            [
+                "Juan fue a la tienda. Pan y leche son alimentos básicos.",
+                "No"
+            ],
+            [
+                "Juan fue a la tienda. La tienda tenía pan y leche.",
+                "No"
+            ],
+            [
+                "Juan fue a la tienda. Comprar pan y leche es necesario.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos muestra un adecuado uso de la coherencia?",
+        "opciones": [
+            [
+                "María estudió medicina en la universidad. Ahora trabaja como médica en un hospital.",
+                "Sí"
+            ],
+            [
+                "María estudió medicina en la universidad. Ella también escribe poesía.",
+                "No"
+            ],
+            [
+                "María estudió medicina en la universidad. La medicina es una profesión exigente.",
+                "No"
+            ],
+            [
+                "María estudió medicina en la universidad. Algunas personas no entienden su elección.",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes factores puede afectar la cohesión y coherencia de un texto?",
+        "opciones": [
+            [
+                "Falta de claridad en las ideas y argumentos",
+                "Sí"
+            ],
+            [
+                "Uso excesivo de figuras retóricas",
+                "No"
+            ],
+            [
+                "Variedad en la estructura de las oraciones",
+                "No"
+            ],
+            [
+                "Diversidad de opiniones y puntos de vista",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes recursos contribuye a la coherencia en un texto narrativo?",
+        "opciones": [
+            [
+                "Mantenimiento de la secuencia temporal",
+                "Sí"
+            ],
+            [
+                "Uso de exclamaciones y preguntas retóricas",
+                "No"
+            ],
+            [
+                "Detalles descriptivos y sensoriales",
+                "No"
+            ],
+            [
+                "Juego de palabras y juegos de lenguaje",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes recursos contribuye a la cohesión en un texto argumentativo?",
+        "opciones": [
+            [
+                "Uso de conectores lógicos y marcadores discursivos",
+                "Sí"
+            ],
+            [
+                "Uso de aliteraciones y asonancias",
+                "No"
+            ],
+            [
+                "Uso de lenguaje figurado y simbolismo",
+                "No"
+            ],
+            [
+                "Uso de frases cortas y contundentes",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué género literario se caracteriza por ser un texto breve, subjetivo y reflexivo sobre un tema específico?",
+        "opciones": [
+            [
+                "El ensayo",
+                "Sí"
+            ],
+            [
+                "La novela",
+                "No"
+            ],
+            [
+                "El poema",
+                "No"
+            ],
+            [
+                "El cuento",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de un ensayo?",
+        "opciones": [
+            [
+                "Expresar y desarrollar ideas sobre un tema",
+                "Sí"
+            ],
+            [
+                "Contar una historia ficticia",
+                "No"
+            ],
+            [
+                "Describir un objeto o lugar",
+                "No"
+            ],
+            [
+                "Transmitir emociones a través del lenguaje",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes elementos es fundamental en un ensayo?",
+        "opciones": [
+            [
+                "La argumentación y el razonamiento",
+                "Sí"
+            ],
+            [
+                "La descripción de personajes",
+                "No"
+            ],
+            [
+                "La métrica y la rima",
+                "No"
+            ],
+            [
+                "La trama y el conflicto",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la estructura básica de un ensayo?",
+        "opciones": [
+            [
+                "Introducción, desarrollo y conclusión",
+                "Sí"
+            ],
+            [
+                "Prólogo, capítulos y epílogo",
+                "No"
+            ],
+            [
+                "Estrofas, versos y estribillos",
+                "No"
+            ],
+            [
+                "Planteamiento, nudo y desenlace",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes enunciados describe mejor un ensayo?",
+        "opciones": [
+            [
+                "Un análisis crítico de un tema desde una perspectiva personal",
+                "Sí"
+            ],
+            [
+                "Una historia ficticia con personajes y trama",
+                "No"
+            ],
+            [
+                "Un poema lírico con metáforas y imágenes",
+                "No"
+            ],
+            [
+                "Una descripción detallada de un objeto o lugar",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes ejemplos se asemeja más a un ensayo?",
+        "opciones": [
+            [
+                "Un texto que analiza las causas y consecuencias del cambio climático",
+                "Sí"
+            ],
+            [
+                "Un relato ficticio sobre un viaje a un país exótico",
+                "No"
+            ],
+            [
+                "Un poema que expresa los sentimientos de amor y nostalgia",
+                "No"
+            ],
+            [
+                "Una descripción detallada de la belleza de un paisaje natural",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes recursos se utiliza con frecuencia en un ensayo?",
+        "opciones": [
+            [
+                "Citas de otros autores y referencias bibliográficas",
+                "Sí"
+            ],
+            [
+                "Diálogos entre personajes",
+                "No"
+            ],
+            [
+                "Comparaciones y metáforas",
+                "No"
+            ],
+            [
+                "Descripciones sensoriales",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función de la introducción en un ensayo?",
+        "opciones": [
+            [
+                "Presentar el tema y captar el interés del lector",
+                "Sí"
+            ],
+            [
+                "Desarrollar los argumentos principales",
+                "No"
+            ],
+            [
+                "Ofrecer una conclusión y cierre del ensayo",
+                "No"
+            ],
+            [
+                "Plantear preguntas retóricas al lector",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función del desarrollo en un ensayo?",
+        "opciones": [
+            [
+                "Exponer y desarrollar los argumentos sobre el tema",
+                "Sí"
+            ],
+            [
+                "Introducir nuevos personajes y conflictos",
+                "No"
+            ],
+            [
+                "Crear imágenes sensoriales y descripciones detalladas",
+                "No"
+            ],
+            [
+                "Establecer el tono y el ambiente del ensayo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es la función de la conclusión en un ensayo?",
+        "opciones": [
+            [
+                "Resumir y cerrar las ideas principales del ensayo",
+                "Sí"
+            ],
+            [
+                "Iniciar un nuevo argumento o debate",
+                "No"
+            ],
+            [
+                "Dejar al lector con una reflexión profunda",
+                "No"
+            ],
+            [
+                "Presentar nuevos temas o subtemas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es una reseña?",
+        "opciones": [
+            [
+                "Un análisis crítico de una obra literaria, cinematográfica o artística",
+                "Sí"
+            ],
+            [
+                "Un resumen breve de una obra sin emitir juicios personales",
+                "No"
+            ],
+            [
+                "Un reportaje detallado sobre la vida del autor",
+                "No"
+            ],
+            [
+                "Una entrevista con el director o el escritor",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de una reseña?",
+        "opciones": [
+            [
+                "Informar y evaluar la obra en cuestión",
+                "Sí"
+            ],
+            [
+                "Promover la obra de forma acrítica",
+                "No"
+            ],
+            [
+                "Ofrecer una interpretación subjetiva de la obra",
+                "No"
+            ],
+            [
+                "Presentar una crítica personal del autor o del director",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué elementos debe incluir una reseña?",
+        "opciones": [
+            [
+                "Una introducción, un resumen breve, una evaluación crítica y una conclusión",
+                "Sí"
+            ],
+            [
+                "Un resumen detallado de la trama y los personajes",
+                "No"
+            ],
+            [
+                "Una descripción exhaustiva de las escenas o los capítulos",
+                "No"
+            ],
+            [
+                "Una selección de citas destacadas del autor",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿En qué se diferencia una reseña de un ensayo crítico?",
+        "opciones": [
+            [
+                "La reseña es más breve y se centra en una obra específica, mientras que el ensayo crítico es más extenso y puede abordar múltiples obras",
+                "Sí"
+            ],
+            [
+                "La reseña y el ensayo crítico son sinónimos y pueden usarse indistintamente",
+                "No"
+            ],
+            [
+                "La reseña es más subjetiva y emocional, mientras que el ensayo crítico es más objetivo y racional",
+                "No"
+            ],
+            [
+                "La reseña se enfoca en la trama y los personajes, mientras que el ensayo crítico analiza la estructura y el estilo literario",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la comunicación?",
+        "opciones": [
+            [
+                "El proceso de transmitir información y compartir significados",
+                "Sí"
+            ],
+            [
+                "El acto de hablar en público",
+                "No"
+            ],
+            [
+                "La habilidad de escribir correctamente",
+                "No"
+            ],
+            [
+                "La capacidad de escuchar atentamente",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuáles son los elementos básicos de la comunicación?",
+        "opciones": [
+            [
+                "Emisor, receptor, mensaje, canal y retroalimentación",
+                "Sí"
+            ],
+            [
+                "Palabras, frases, párrafos y texto",
+                "No"
+            ],
+            [
+                "Introducción, desarrollo y conclusión",
+                "No"
+            ],
+            [
+                "Símbolos, imágenes y metáforas",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el proceso de comunicación más básico?",
+        "opciones": [
+            [
+                "Emisor envía un mensaje al receptor",
+                "Sí"
+            ],
+            [
+                "Receptor interpreta el mensaje del emisor",
+                "No"
+            ],
+            [
+                "Emisor y receptor intercambian roles",
+                "No"
+            ],
+            [
+                "Mensaje se transmite a través de múltiples canales",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la retroalimentación en el proceso de comunicación?",
+        "opciones": [
+            [
+                "La respuesta o reacción del receptor al mensaje del emisor",
+                "Sí"
+            ],
+            [
+                "La revisión y corrección del mensaje antes de enviarlo",
+                "No"
+            ],
+            [
+                "El medio o canal utilizado para transmitir el mensaje",
+                "No"
+            ],
+            [
+                "El proceso de decodificar el mensaje por parte del receptor",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes canales de comunicación es el más directo?",
+        "opciones": [
+            [
+                "La comunicación cara a cara o presencial",
+                "Sí"
+            ],
+            [
+                "La comunicación telefónica",
+                "No"
+            ],
+            [
+                "La comunicación escrita",
+                "No"
+            ],
+            [
+                "La comunicación a través de redes sociales",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la comunicación verbal?",
+        "opciones": [
+            [
+                "La comunicación a través de palabras habladas o escritas",
+                "Sí"
+            ],
+            [
+                "La comunicación a través de gestos y expresiones faciales",
+                "No"
+            ],
+            [
+                "La comunicación a través de imágenes y símbolos",
+                "No"
+            ],
+            [
+                "La comunicación a través de medios digitales",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la comunicación no verbal?",
+        "opciones": [
+            [
+                "La comunicación a través de gestos, expresiones faciales y lenguaje corporal",
+                "Sí"
+            ],
+            [
+                "La comunicación a través de palabras habladas o escritas",
+                "No"
+            ],
+            [
+                "La comunicación a través de imágenes y símbolos",
+                "No"
+            ],
+            [
+                "La comunicación a través de medios digitales",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la comunicación interpersonal?",
+        "opciones": [
+            [
+                "La comunicación entre dos o más personas",
+                "Sí"
+            ],
+            [
+                "La comunicación a través de medios de masas",
+                "No"
+            ],
+            [
+                "La comunicación a través de dispositivos electrónicos",
+                "No"
+            ],
+            [
+                "La comunicación con uno mismo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la comunicación intrapersonal?",
+        "opciones": [
+            [
+                "La comunicación con uno mismo",
+                "Sí"
+            ],
+            [
+                "La comunicación entre dos o más personas",
+                "No"
+            ],
+            [
+                "La comunicación a través de dispositivos electrónicos",
+                "No"
+            ],
+            [
+                "La comunicación en entornos de trabajo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la barrera de la comunicación?",
+        "opciones": [
+            [
+                "Un obstáculo que dificulta la transmisión efectiva del mensaje",
+                "Sí"
+            ],
+            [
+                "Una técnica para mejorar la comunicación verbal",
+                "No"
+            ],
+            [
+                "Un canal de comunicación poco utilizado",
+                "No"
+            ],
+            [
+                "Un tipo de lenguaje no verbal",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es el queísmo?",
+        "opciones": [
+            [
+                "El uso incorrecto de la preposición 'que' en lugar de 'de' después de ciertos verbos",
+                "Sí"
+            ],
+            [
+                "El uso excesivo de la preposición 'de' en lugar de 'que' después de ciertos verbos",
+                "No"
+            ],
+            [
+                "La omisión de la preposición 'de' antes de ciertos verbos",
+                "No"
+            ],
+            [
+                "La sustitución de la preposición 'que' por 'a' en ciertos contextos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ejemplo de queísmo correcto?",
+        "opciones": [
+            [
+                "Me alegro de que hayas venido",
+                "Sí"
+            ],
+            [
+                "Me alegro que hayas venido",
+                "No"
+            ],
+            [
+                "Me alegro de que tuviste éxito",
+                "No"
+            ],
+            [
+                "Me alegro que tuviste éxito",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Qué es el dequeísmo?",
+        "opciones": [
+            [
+                "El uso incorrecto de la preposición 'de' en lugar de 'que' después de ciertos verbos",
+                "Sí"
+            ],
+            [
+                "El uso excesivo de la preposición 'que' en lugar de 'de' después de ciertos verbos",
+                "No"
+            ],
+            [
+                "La omisión de la preposición 'que' antes de ciertos verbos",
+                "No"
+            ],
+            [
+                "La sustitución de la preposición 'de' por 'a' en ciertos contextos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es el ejemplo de dequeísmo correcto?",
+        "opciones": [
+            [
+                "Me alegro de que hayas venido",
+                "No"
+            ],
+            [
+                "Me alegro que hayas venido",
+                "No"
+            ],
+            [
+                "Me alegro de hayas venido",
+                "Sí"
+            ],
+            [
+                "Me alegro que de hayas venido",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "Me aseguré de que cerré la puerta con llave",
+                "No"
+            ],
+            [
+                "Me aseguré de cerré la puerta con llave",
+                "No"
+            ],
+            [
+                "Me aseguré que cerré la puerta con llave",
+                "Sí"
+            ],
+            [
+                "Me aseguré de cerrar la puerta con llave",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO INCORRECTO?",
+        "opciones": [
+            [
+                "Le recordé que deje el dinero sobre la mesa",
+                "No"
+            ],
+            [
+                "Le recordé deje el dinero sobre la mesa",
+                "No"
+            ],
+            [
+                "Le recordé que deje el dinero sobre la mesa",
+                "No"
+            ],
+            [
+                "Le recordé de dejar el dinero sobre la mesa",
+                "Sí"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de DEQUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "Me alegra de que hayas llegado a tiempo",
+                "Sí"
+            ],
+            [
+                "Me alegra que hayas llegado a tiempo",
+                "No"
+            ],
+            [
+                "Me alegra de hayas llegado a tiempo",
+                "No"
+            ],
+            [
+                "Me alegra que de hayas llegado a tiempo",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de DEQUEÍSMO INCORRECTO?",
+        "opciones": [
+            [
+                "Dudo de que vaya a funcionar",
+                "No"
+            ],
+            [
+                "Dudo que vaya a funcionar",
+                "Sí"
+            ],
+            [
+                "Dudo de vaya a funcionar",
+                "No"
+            ],
+            [
+                "Dudo de que vaya funcionar",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "Me encargaré de que termines el informe",
+                "No"
+            ],
+            [
+                "Me encargaré de termines el informe",
+                "No"
+            ],
+            [
+                "Me encargaré que termines el informe",
+                "Sí"
+            ],
+            [
+                "Me encargaré de terminar el informe",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO INCORRECTO?",
+        "opciones": [
+            [
+                "Espero de que llegues pronto",
+                "No"
+            ],
+            [
+                "Espero que llegues pronto",
+                "No"
+            ],
+            [
+                "Espero de llegues pronto",
+                "No"
+            ],
+            [
+                "Espero de que llegues pronto",
+                "Sí"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de DEQUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "No estoy seguro de que haya comprendido el mensaje",
+                "Sí"
+            ],
+            [
+                "No estoy seguro que haya comprendido el mensaje",
+                "No"
+            ],
+            [
+                "No estoy seguro de haya comprendido el mensaje",
+                "No"
+            ],
+            [
+                "No estoy seguro de que haya comprendido el mensaje",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de DEQUEÍSMO INCORRECTO?",
+        "opciones": [
+            [
+                "Asegúrate de de que tengas todos los documentos",
+                "No"
+            ],
+            [
+                "Asegúrate que tengas todos los documentos",
+                "Sí"
+            ],
+            [
+                "Asegúrate de tengas todos los documentos",
+                "No"
+            ],
+            [
+                "Asegúrate de de tengas todos los documentos",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "Me di cuenta de que olvidé la llave en casa",
+                "Sí"
+            ],
+            [
+                "Me di cuenta que olvidé la llave en casa",
+                "No"
+            ],
+            [
+                "Me di cuenta de olvidé la llave en casa",
+                "No"
+            ],
+            [
+                "Me di cuenta que de olvidé la llave en casa",
+                "No"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de QUEÍSMO INCORRECTO?",
+        "opciones": [
+            [
+                "Estoy convencido de que debo hacerlo",
+                "No"
+            ],
+            [
+                "Estoy convencido que debo hacerlo",
+                "No"
+            ],
+            [
+                "Estoy convencido debo hacerlo",
+                "No"
+            ],
+            [
+                "Estoy convencido que debo hacerlo",
+                "Sí"
+            ]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de DEQUEÍSMO CORRECTO?",
+        "opciones": [
+            [
+                "Necesito que me informes de cómo fue la reunión",
+                "No"
+            ],
+            [
+                "Necesito que me informes cómo fue la reunión",
+                "Sí"
+            ],
+            [
+                "Necesito de que me informes cómo fue la reunión",
+                "No"
+            ],
+            [
+                "Necesito que de me informes cómo fue la reunión",
+                "No"
+            ]
+        ]
+    }
+]

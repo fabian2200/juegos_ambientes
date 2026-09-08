@@ -1,0 +1,667 @@
+[
+    {
+        "tipo": "tiempo",
+        "preposicion": "después de",
+        "ejemplo": "El concierto comenzará después de la cena."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "antes de",
+        "ejemplo": "Debes llegar antes de las 8 para reservar una mesa."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "durante",
+        "ejemplo": "Los estudiantes deben permanecer en el aula durante la prueba."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "hasta",
+        "ejemplo": "La biblioteca está abierta hasta las 9 de la noche."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "en",
+        "ejemplo": "El gato está en la caja."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "sobre",
+        "ejemplo": "Puse el libro sobre la mesa."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "debajo de",
+        "ejemplo": "El perro está durmiendo debajo de la cama."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "al lado de",
+        "ejemplo": "El parque está al lado de la escuela."
+    },
+    {
+        "tipo": "dirección",
+        "preposicion": "hacia",
+        "ejemplo": "Camino hacia el sur para llegar a la playa."
+    },
+    {
+        "tipo": "dirección",
+        "preposicion": "a",
+        "ejemplo": "Voy a la tienda a comprar leche."
+    },
+    {
+        "tipo": "dirección",
+        "preposicion": "desde",
+        "ejemplo": "Salgo desde mi casa a las 7 de la mañana."
+    },
+    {
+        "tipo": "dirección",
+        "preposicion": "hasta",
+        "ejemplo": "Debes caminar hasta la plaza para llegar a la estación de tren."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por",
+        "ejemplo": "Estoy triste por la pérdida de mi mascota."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "debido a",
+        "ejemplo": "El partido se pospuso debido al mal clima."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "a causa de",
+        "ejemplo": "El retraso del vuelo fue a causa de un problema técnico."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "gracias a",
+        "ejemplo": "Ganamos el campeonato gracias al esfuerzo del equipo."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "con",
+        "ejemplo": "Cocinamos la cena con mucho cuidado."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "sin",
+        "ejemplo": "No puedo trabajar sin música."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "como",
+        "ejemplo": "Hice la ensalada como me indicaste."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "a través de",
+        "ejemplo": "El agua fluye a través de la tubería hasta llegar al grifo."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "de",
+        "ejemplo": "El abrigo de lana es muy abrigado."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "con",
+        "ejemplo": "El niño jugaba con el balón de su hermano."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "sin",
+        "ejemplo": "No puedo cocinar sin los ingredientes."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "a",
+        "ejemplo": "El regalo es para ti."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "con",
+        "ejemplo": "Corté la carne con un cuchillo afilado."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "usando",
+        "ejemplo": "Aprendí a coser usando una máquina de coser."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "por",
+        "ejemplo": "Viajé por avión."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "en",
+        "ejemplo": "Leí la noticia en el periódico."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "a través de",
+        "ejemplo": "Hablamos a través del teléfono."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "mediante",
+        "ejemplo": "Resolvimos el problema mediante la colaboración."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "como",
+        "ejemplo": "Ella es rápida como un rayo."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "igual que",
+        "ejemplo": "El vestido que lleva es igual que el mío."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "diferente de",
+        "ejemplo": "El libro que leíste es diferente del que yo leí."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "mejor que",
+        "ejemplo": "El chocolate es mejor que la vainilla."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "para",
+        "ejemplo": "Compré el pastel para celebrar mi cumpleaños."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "con el fin de",
+        "ejemplo": "Estudio con el fin de obtener una buena nota."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "a fin de",
+        "ejemplo": "La reunión se realizó a fin de discutir el presupuesto."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "con objeto de",
+        "ejemplo": "El taller se organiza con objeto de fomentar la creatividad."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "en",
+        "ejemplo": "Vivo en Madrid."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "sobre",
+        "ejemplo": "El avión voló sobre el océano."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "entre",
+        "ejemplo": "Me senté entre mis amigos."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "desde",
+        "ejemplo": "Trabajo desde las ocho de la mañana."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "hasta",
+        "ejemplo": "La tienda está abierta hasta las diez de la noche."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "durante",
+        "ejemplo": "Hace mucho frío durante el invierno."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por",
+        "ejemplo": "Se retrasó por el tráfico."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "debido a",
+        "ejemplo": "El accidente ocurrió debido a la lluvia."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por culpa de",
+        "ejemplo": "Perdí mi teléfono por culpa de mi distracción."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "con",
+        "ejemplo": "Bailó con gracia."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "sin",
+        "ejemplo": "No puedo trabajar sin mi computadora."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "a la manera de",
+        "ejemplo": "Cocinó el plato a la manera de su abuela."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "a pesar de",
+        "ejemplo": "A pesar de la lluvia, fuimos a la fiesta."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "aunque",
+        "ejemplo": "Aunque estaba cansado, terminó el trabajo."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "por mucho que",
+        "ejemplo": "Por mucho que lo intentes, no podrás cambiar el pasado."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "por",
+        "ejemplo": "El libro fue escrito por Gabriel García Márquez."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "de parte de",
+        "ejemplo": "Recibí una carta de parte de mi amigo."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "por cuenta de",
+        "ejemplo": "El envío fue hecho por cuenta de la empresa."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "a",
+        "ejemplo": "Vamos a la playa."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "por encima de",
+        "ejemplo": "El avión voló por encima de las nubes."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "cerca de",
+        "ejemplo": "La tienda está cerca del parque."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "antes de",
+        "ejemplo": "Debes llegar antes de las 9 de la mañana."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "después de",
+        "ejemplo": "Salimos de la oficina después de las 6 de la tarde."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "hace",
+        "ejemplo": "Hace un mes que no voy al gimnasio."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "gracias a",
+        "ejemplo": "Logré aprobar el examen gracias a mi esfuerzo."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por falta de",
+        "ejemplo": "No pude terminar el proyecto por falta de tiempo."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por razón de",
+        "ejemplo": "Lo hice por razón de justicia."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "como",
+        "ejemplo": "Lo hice como me dijiste."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "según",
+        "ejemplo": "Según el pronóstico, va a llover hoy."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "sin embargo",
+        "ejemplo": "Trabajó duro, sin embargo no logró el objetivo."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "pese a",
+        "ejemplo": "Pese al frío, salí a correr."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "sin importar",
+        "ejemplo": "Sin importar el costo, ella compró el vestido."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "aunque",
+        "ejemplo": "Aunque estaba cansado, decidió seguir adelante."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "por medio de",
+        "ejemplo": "Recibí el correo por medio de mi asistente."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "a nombre de",
+        "ejemplo": "El paquete llegó a nombre de la empresa."
+    },
+    {
+        "tipo": "agente",
+        "preposicion": "a través de",
+        "ejemplo": "Me comuniqué con ella a través de WhatsApp."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "para",
+        "ejemplo": "Compré este libro para mejorar mi español."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "con el fin de",
+        "ejemplo": "Estoy estudiando con el fin de conseguir un buen trabajo."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "con el propósito de",
+        "ejemplo": "Escribí este artículo con el propósito de informar a la gente."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "con",
+        "ejemplo": "Corté el papel con una tijera."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "mediante",
+        "ejemplo": "Resolvimos el problema mediante un software especial."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "por",
+        "ejemplo": "Viajé a Madrid por avión."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "en",
+        "ejemplo": "Leí el periódico en línea."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "a bordo de",
+        "ejemplo": "Viajamos a bordo de un crucero por el Mediterráneo."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "de",
+        "ejemplo": "El coche rojo es de mi hermano."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "del",
+        "ejemplo": "La llave del coche está en la mesa."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "para",
+        "ejemplo": "Compré un regalo para mi sobrina."
+    },
+    {
+        "tipo": "destino",
+        "preposicion": "a",
+        "ejemplo": "Mañana iré a la ciudad."
+    },
+    {
+        "tipo": "destino",
+        "preposicion": "hasta",
+        "ejemplo": "Corrí hasta el final de la calle."
+    },
+    {
+        "tipo": "destino",
+        "preposicion": "para",
+        "ejemplo": "El paquete es para mi vecino."
+    },
+    {
+        "tipo": "medida",
+        "preposicion": "conforme a",
+        "ejemplo": "Actuaremos conforme a las normas."
+    },
+    {
+        "tipo": "medida",
+        "preposicion": "según",
+        "ejemplo": "El precio varía según la calidad."
+    },
+    {
+        "tipo": "medida",
+        "preposicion": "sin",
+        "ejemplo": "No puedo cocinar sin agua."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "como",
+        "ejemplo": "Ella canta como un ángel."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "más que",
+        "ejemplo": "Me gusta el té más que el café."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "menos que",
+        "ejemplo": "El perro ladra menos que el gato."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "por",
+        "ejemplo": "No pude ir al concierto por la lluvia."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "debido a",
+        "ejemplo": "Perdí el tren debido al tráfico."
+    },
+    {
+        "tipo": "causa",
+        "preposicion": "a causa de",
+        "ejemplo": "El partido se canceló a causa de la tormenta."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "a pesar de",
+        "ejemplo": "Aprobé el examen a pesar de que no estudié mucho."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "aunque",
+        "ejemplo": "Iría al cine contigo aunque no me guste la película."
+    },
+    {
+        "tipo": "concesión",
+        "preposicion": "si bien",
+        "ejemplo": "El resultado fue positivo, si bien el proceso fue difícil."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "desde",
+        "ejemplo": "Trabajo en esta empresa desde hace 5 años."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "hasta",
+        "ejemplo": "La tienda está abierta hasta las 9 de la noche."
+    },
+    {
+        "tipo": "tiempo",
+        "preposicion": "durante",
+        "ejemplo": "Durante el invierno, me gusta esquiar."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "como",
+        "ejemplo": "Voy a vestirme como un pirata para la fiesta."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "a lo largo de",
+        "ejemplo": "A lo largo de mi carrera, he tenido muchas experiencias."
+    },
+    {
+        "tipo": "modo",
+        "preposicion": "según",
+        "ejemplo": "Haré el trabajo según tus instrucciones."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "sobre",
+        "ejemplo": "Puse la toalla sobre la silla."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "debajo de",
+        "ejemplo": "El perro se escondió debajo de la cama."
+    },
+    {
+        "tipo": "lugar",
+        "preposicion": "junto a",
+        "ejemplo": "Me senté junto a mi amigo en la cafetería."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "para",
+        "ejemplo": "Estudio todos los días para mejorar mi nivel de inglés."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "con el fin de",
+        "ejemplo": "Compré los ingredientes con el fin de cocinar una cena especial."
+    },
+    {
+        "tipo": "finalidad",
+        "preposicion": "a fin de",
+        "ejemplo": "A fin de evitar retrasos, llegué temprano al aeropuerto."
+    },
+    {
+        "tipo": "acompañamiento",
+        "preposicion": "con",
+        "ejemplo": "Salgo a correr con mi perro todas las mañanas."
+    },
+    {
+        "tipo": "acompañamiento",
+        "preposicion": "junto con",
+        "ejemplo": "El pastel de manzana va muy bien con una bola de helado, junto con un poco de canela."
+    },
+    {
+        "tipo": "acompañamiento",
+        "preposicion": "además de",
+        "ejemplo": "Quiero comprar una botella de vino además de la cena."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "por medio de",
+        "ejemplo": "Me comuniqué con ella por medio de un mensaje de texto."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "a través de",
+        "ejemplo": "Puedo ver el mar a través de la ventana."
+    },
+    {
+        "tipo": "medio",
+        "preposicion": "mediante",
+        "ejemplo": "Puedes enviar tu solicitud mediante correo electrónico."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "de",
+        "ejemplo": "El coche rojo es de mi hermano."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "en posesión de",
+        "ejemplo": "El sospechoso fue encontrado en posesión de drogas."
+    },
+    {
+        "tipo": "posesión",
+        "preposicion": "poseedor de",
+        "ejemplo": "El empresario es el poseedor de la patente de la nueva tecnología."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "con",
+        "ejemplo": "Corté la carne con un cuchillo muy afilado."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "usando",
+        "ejemplo": "Arreglé la bicicleta usando una llave inglesa."
+    },
+    {
+        "tipo": "instrumento",
+        "preposicion": "mediante",
+        "ejemplo": "Puedes resolver el problema mediante el uso de la tecnología."
+    },
+    {
+        "tipo": "oposición",
+        "preposicion": "en contra de",
+        "ejemplo": "Me manifesté en contra de la política del gobierno."
+    },
+    {
+        "tipo": "oposición",
+        "preposicion": "contra",
+        "ejemplo": "El equipo local jugará contra el equipo visitante."
+    },
+    {
+        "tipo": "oposición",
+        "preposicion": "frente a",
+        "ejemplo": "Hay un parque frente a mi casa."
+    },
+    {
+        "tipo": "condición",
+        "preposicion": "bajo",
+        "ejemplo": "Bajo ciertas condiciones, podemos llegar a un acuerdo."
+    },
+    {
+        "tipo": "condición",
+        "preposicion": "si",
+        "ejemplo": "Si estudias, aprobarás el examen."
+    },
+    {
+        "tipo": "condición",
+        "preposicion": "en caso de",
+        "ejemplo": "En caso de emergencia, llama al número de emergencia."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "como",
+        "ejemplo": "Ella es tan alta como su madre."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "más que",
+        "ejemplo": "El chocolate es más dulce que la vainilla."
+    },
+    {
+        "tipo": "comparación",
+        "preposicion": "menos que",
+        "ejemplo": "El gato es menos amigable que el perro."
+    }
+]

@@ -1,0 +1,247 @@
+[
+    [
+        {
+            "palabra": "fecundacion"
+        },
+        {
+            "palabra": "gameto"
+        },
+        {
+            "palabra": "zigoto"
+        },
+        {
+            "palabra": "meiosis"
+        },
+        {
+            "palabra": "mitosis"
+        },
+        {
+            "palabra": "ovulo"
+        },
+        {
+            "palabra": "espermatozoide"
+        },
+        {
+            "palabra": "asexual"
+        },
+        {
+            "palabra": "sexual"
+        },
+        {
+            "palabra": "genetica"
+        },
+        {
+            "palabra": "haploide"
+        },
+        {
+            "palabra": "diploide"
+        },
+        {
+            "palabra": "gestacion"
+        },
+        {
+            "palabra": "placenta"
+        },
+        {
+            "palabra": "ovulacion"
+        },
+        {
+            "palabra": "espermatogenesis"
+        },
+        {
+            "palabra": "menstrual"
+        },
+        {
+            "palabra": "fertilizacion"
+        },
+        {
+            "palabra": "blastocisto"
+        },
+        {
+            "palabra": "parto"
+        }
+    ],
+    [
+        {
+            "palabra": "Bosque"
+        },
+        {
+            "palabra": "Desierto"
+        },
+        {
+            "palabra": "Tundra"
+        },
+        {
+            "palabra": "Pantano"
+        },
+        {
+            "palabra": "Cienaga"
+        },
+        {
+            "palabra": "Manglar"
+        },
+        {
+            "palabra": "Coral"
+        },
+        {
+            "palabra": "Oceano"
+        },
+        {
+            "palabra": "Rio"
+        },
+        {
+            "palabra": "Lago"
+        },
+        {
+            "palabra": "Glaciar"
+        },
+        {
+            "palabra": "Estuario"
+        },
+        {
+            "palabra": "Pradera"
+        },
+        {
+            "palabra": "Savana"
+        },
+        {
+            "palabra": "Costa"
+        },
+        {
+            "palabra": "Arrecife"
+        },
+        {
+            "palabra": "Humedal"
+        },
+        {
+            "palabra": "Acuifero"
+        },
+        {
+            "palabra": "Matorral"
+        }
+    ],
+    [
+        {
+            "palabra": "Hidrogeno"
+        },
+        {
+            "palabra": "Helio"
+        },
+        {
+            "palabra": "Litio"
+        },
+        {
+            "palabra": "Carbono"
+        },
+        {
+            "palabra": "Oxigeno"
+        },
+        {
+            "palabra": "Hierro"
+        },
+        {
+            "palabra": "Cobre"
+        },
+        {
+            "palabra": "Zinc"
+        },
+        {
+            "palabra": "Plata"
+        },
+        {
+            "palabra": "Oro"
+        },
+        {
+            "palabra": "Mercurio"
+        },
+        {
+            "palabra": "Sodio"
+        },
+        {
+            "palabra": "Magnesio"
+        },
+        {
+            "palabra": "Aluminio"
+        },
+        {
+            "palabra": "Cloro"
+        },
+        {
+            "palabra": "Fluor"
+        },
+        {
+            "palabra": "Nitrogeno"
+        },
+        {
+            "palabra": "Neon"
+        },
+        {
+            "palabra": "Argon"
+        },
+        {
+            "palabra": "Kripton"
+        }
+    ],
+    [
+        {
+            "palabra": "Metro"
+        },
+        {
+            "palabra": "Kilogramo"
+        },
+        {
+            "palabra": "Segundo"
+        },
+        {
+            "palabra": "Amperio"
+        },
+        {
+            "palabra": "Kelvin"
+        },
+        {
+            "palabra": "Mol"
+        },
+        {
+            "palabra": "Candela"
+        },
+        {
+            "palabra": "Frecuencia"
+        },
+        {
+            "palabra": "Longitud"
+        },
+        {
+            "palabra": "Amplitud"
+        },
+        {
+            "palabra": "Fase"
+        },
+        {
+            "palabra": "Periodo"
+        },
+        {
+            "palabra": "Transversal"
+        },
+        {
+            "palabra": "Longitudinal"
+        },
+        {
+            "palabra": "Velocidad"
+        },
+        {
+            "palabra": "Reflexion"
+        },
+        {
+            "palabra": "Refraccion"
+        },
+        {
+            "palabra": "Interferencia"
+        },
+        {
+            "palabra": "Difraccion"
+        },
+        {
+            "palabra": "Doppler"
+        }
+    ]
+]

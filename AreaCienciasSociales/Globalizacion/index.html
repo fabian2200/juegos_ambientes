@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="../../bootstrap/all.css">
+        <link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+        <script src="../../bootstrap/jquery.min.js"></script>
+        <script src="../../bootstrap/sweetalert.js"></script>
+        <link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="trivia.css">
+        <script src="TweenMax.min.js"></script>
+	<script src="Winwheel.min.js"></script>
+    </head>
+
+    <body>
+        <div style="display: none" class="overlay">
+            <div class="nube">
+                <p class="borde2" id="bienvenida"></p>
+            </div>
+            <div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+                <button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning" style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: black;">Omitir
+                    <i style="color: black" class="fa fa-forward" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+
+        <div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;" id="fondo_blanco"></div>
+
+        <div style="display: none; text-align: center;" id="final" class="final">
+            <h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+            <hr>
+            <div class="row">
+                <div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+                    <h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+                </div>
+                <div class="col-3"></div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;" onclick="window.location.reload(1)" class="btn btn-success">Si, jugar</button>
+                </div>
+                <div class="col-3 text-center">
+                    <button style="width: 80%; height: 50px !important; border-radius: 20pt; font-size: 23px;" onclick="history.back()" class="btn btn-danger">No, Salir</button>
+                </div>
+                <div class="col-3"></div>
+            </div>
+        </div>
+
+        <div style="margin-top: 5pt; height: 100%;" id="principal">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8" style="display: flex; justify-content: center; align-items: center">
+                    <h1 style="text-align: center" class="borde" id="tipo">La Globalización</h1>
+                </div>
+                <div class="col-2">
+                    <button onclick="history.back()" class="btn btn-danger">
+                        <i class="fa-solid fa-arrow-left"></i>
+                    </button>
+                </div>
+            </div>
+                   
+           
+            <div id="opcion1" class="row">
+                <div class="col-12 text-center">
+                    <div class="centra-isla">
+                        <div id="isla">
+                            <div id="puntoIsla0" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla1" class="puntoIsla">
+                               
+                            </div>
+                            <div id="puntoIsla2" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla3" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla4" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla5" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla6" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla7" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla8" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla9" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla10" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla11" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla12" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla13" class="puntoIsla">
+                                
+                            </div>
+                            <div id="puntoIsla14" class="puntoIslaFin">
+                                
+                            </div>
+
+                            <div id="player" class="playerDer"></div>
+
+                            <!-- isla separada -->
+
+                            <div id="divBase">
+                            </div>
+                            <div id="divCalvas">
+                                <canvas id="canvas" height="200" width="200"></canvas>
+                            </div>
+                           
+                            <div style="cursor: pointer;" onclick="miRuleta.startAnimation();" id="divGirar">
+                               
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+        </div>
+        <div class="md" id="modal">
+            <div class="md-content">
+                <header class="md-header">
+                    <h2 class="md-title" id="npreg"></h2>
+
+                </header>
+                <div class="md-body">
+                    <div>
+                        <!-- start Quiz button -->
+                        <!-- Info Box -->
+                            <div class="info_box"> <div class="info-title">
+                                <span>Some Rules of this Quiz</span>
+                            </div>
+                            <div class="info-list">
+                                <div class="info">1. You will have only
+                                    <span>15 seconds</span>
+                                    per each question.</div>
+                                <div class="info">2. Once you select your answer, it can't be undone.</div>
+                                <div class="info">3. You can't select any option once time goes off.</div>
+                                <div class="info">4. You can't exit from the Quiz while you're playing.</div>
+                                <div class="info">5. You'll get points on the basis of your correct answers.</div>
+                            </div>
+                            <div class="buttons">
+                                <button class="quit">Exit Quiz</button>
+                                <button class="restart">Continue</button>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Box -->
+                        <div class="quiz_box">
+                            <header>
+                                <div class="title" id="tituTema"></div>
+                                <div class="timer">
+                                    <div class="time_left_txt">Tiempo</div>
+                                    <div class="timer_sec">30</div>
+                                </div>
+                                <div class="time_line"></div>
+                            </header>
+                            <section>
+                                <div
+                                    class="que_text"><!-- Here I've inserted question from JavaScript -->
+                                </div>
+                                <div
+                                    class="option_list"><!-- Here I've inserted options from JavaScript -->
+                                </div>
+                            </section>
+
+                            <!-- footer of Quiz Box -->
+                            <footer>
+                                <div
+                                    class="total_que"><!-- Here I've inserted Question Count Number from JavaScript -->
+                                </div>
+                                <button class="next_btn">Siguiente</button>
+                            </footer>
+                        </div>
+
+                        <!-- Result Box -->
+                        <div class="result_box">
+                            <div class="icon">
+                                <i class="fas fa-crown"></i>
+                            </div>
+                            <div class="complete_text">Has completado la Prueba!</div>
+                            <div
+                                class="score_text"><!-- Here I've inserted Score Result from JavaScript -->
+                            </div>
+                            <div class="buttons">
+                                <button class="restart">Repetir</button>
+                                <button class="quit">Finalizar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="md-overlay"></div>
+
+        <script src="script.js"></script>
+        <script src="functions.js"></script>
+        <script src="preguntas.js" defer></script>
+
+        <script src="trivia.js" defer></script>
+    </body>
+
+</html>

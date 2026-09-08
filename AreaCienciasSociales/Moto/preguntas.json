@@ -1,0 +1,44 @@
+[ 
+    {
+        "tipo": 1,
+        "pregunta": "¿Qué es el ADN?",
+        "opciones": [
+            {
+                "opcion": "Un tipo de célula",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Una molécula que almacena información genética",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "¿Con que nucleótido  se relaciona la siguiente imagen?",
+        "opciones": [
+            {
+                "opcion": "img/timina.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "img/citosina.png",
+                "es_correcta": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,732 @@
+[
+    {
+        "pregunta": "¿En qué año comenzó la lucha por la independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "1810",
+                "es_correcta": true
+            },
+            {
+                "opcion": "1815",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1820",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1825",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder de la campaña militar que llevó a la victoria en la Batalla de Boyacá?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Rafael Uribe Uribe",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el acuerdo que se firmó el 7 de agosto de 1819 para unir a los territorios de la Nueva Granada, Venezuela y Ecuador?",
+        "opciones": [
+            {
+                "opcion": "Tratado de Guayaquil",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Tratado de Cúcuta",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Madrid",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Versalles",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué es la Ley de Manumisión?",
+        "opciones": [
+            {
+                "opcion": "La ley que abolió la esclavitud en Colombia",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La ley que estableció el régimen de libertad de vientres",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La ley que permitió la emancipación de los esclavos a través del pago de una suma de dinero",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La ley que estableció la libertad de los esclavos al cumplir cierta edad",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue la batalla en la que las fuerzas independentistas fueron derrotadas por el ejército español?",
+        "opciones": [
+            {
+                "opcion": "Batalla de Cartagena",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Boyacá",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de la Cuchilla del Tambo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de La Candelaria",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué líder independentista fue exiliado a Jamaica tras la caída de la Segunda República de Colombia?",
+        "opciones": [
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Camilo Torres",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Manuel Rodríguez Torices",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tratado puso fin a la Guerra de Independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "Tratado de Madrid",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Guayaquil",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Córdoba",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Santa Fe",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué evento histórico marcó el comienzo de la lucha por la independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "El Grito de Dolores en México",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Revolución de Haití",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El Cabildo Abierto en Bogotá",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La Revolución de Quito",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué papel jugó el líder independentista José Antonio Galán en la lucha por la independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "Lideró la insurrección de los comuneros en 1781",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Fue el primer presidente de la Gran Colombia",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Participó en la Batalla de Boyacá",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Lideró la rebelión de los Comuneros en 1781",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué figuras de la independencia colombiana se consideran los 'Padres de la Patria'?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar, Francisco de Paula Santander y Antonio Nariño",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Manuel Belgrano, José de San Martín y Bernardo O'Higgins",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Miguel Hidalgo, José María Morelos y Vicente Guerrero",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Pedro Camejo, Rafael Urdaneta y José AntonioPáez",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué evento marcó la culminación de la Guerra de Independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "La Batalla de Ayacucho en Perú",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La firma del Tratado de Córdoba",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Batalla de Boyacá en Colombia",
+                "es_correcta": true
+            },
+            {
+                "opcion": "La toma de la Ciudad de México",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder indígena que lideró una rebelión contra los españoles en el siglo XVI?",
+        "opciones": [
+            {
+                "opcion": "Túpac Amaru II",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Atahualpa",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Lempira",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Gonzalo Jiménez de Quesada",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué importante documento político fue redactado por Antonio Nariño durante la lucha por la independencia?",
+        "opciones": [
+            {
+                "opcion": "La Declaración de Independencia de los Estados Unidos",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Declaración de los Derechos del Hombre y del Ciudadano",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Constitución de Cádiz",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Los Derechos del Hombre y del Ciudadano",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué importante batalla independentista fue liderada por el general español Pablo Morillo?",
+        "opciones": [
+            {
+                "opcion": "La Batalla de Boyacá",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Batalla de Pichincha",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Batalla de Carabobo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Reconquista de Nueva Granada",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de Colombia después de su independencia?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Manuel Belgrano",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año se declaró la independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "1810",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1819",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1821",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1813",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del líder independentista que lideró la revolución de los Comuneros en 1781?",
+        "opciones": [
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José Antonio Galán",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién lideró la Campaña Libertadora de Nueva Granada?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del importante líder independentista que lideró la rebelión en la región de los llanos orientales de Colombia?",
+        "opciones": [
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José Antonio Páez",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Manuel Belgrano",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quiénes fueron los líderes independentistas que lideraron la Batalla del Puente de Boyacá en 1819?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar y Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Simón Bolívar y José Antonio Páez",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Simón Bolívar y Francisco de Paula Santander",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Simón Bolívar y José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder independentista que lideró la revuelta de los esclavos en Cartagena de Indias en 1811?",
+        "opciones": [
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Pedro Camejo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Benkos Biohó",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del importante líder independentista que lideró la revuelta en la región de los llanos orientales de Colombia?",
+        "opciones": [
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José Antonio Páez",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Manuel Belgrano",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder independentista que lideró la expedición libertadora del Sur en 1813?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año fue fusilado el líder independentista Antonio Nariño?",
+        "opciones": [
+            {
+                "opcion": "1823",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1825",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1828",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1823",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del líder independentista que lideró la Batalla de Boyacá en 1819?",
+        "opciones": [
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué tratado de paz puso fin a la Guerra de Independencia de Colombia en 1819?",
+        "opciones": [
+            {
+                "opcion": "Tratado de Córdoba",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Versalles",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Madrid",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Libre Comercio de Colombia con Estados Unidos",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Tratado de Armisticio y Regularización de la Guerra",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del importante líder independentista que lideró la región de Cundinamarca?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año se proclamó la independencia de Colombia?",
+        "opciones": [
+            {
+                "opcion": "1810",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1813",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1819",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1821",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1810",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Qué documento importante se firmó el 20 de julio de 1810 en Santa Fe de Bogotá?",
+        "opciones": [
+            {
+                "opcion": "El Acta de Independencia de Colombia",
+                "es_correcta": false
+            },
+            {
+                "opcion": "La Constitución de Colombia",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El Tratado de Libre Comercio de Colombia con España",
+                "es_correcta": false
+            },
+            {
+                "opcion": "El Acta de la Revolución del 20 de Julio",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Quién fue el líder independentista que lideró la Campaña Admirable en Venezuela en 1813?",
+        "opciones": [
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué batalla murió el líder independentista colombiano José María Córdova?",
+        "opciones": [
+            {
+                "opcion": "Batalla de Ayacucho",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Carabobo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Boyacá",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Rancagua",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Ayacucho",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿En qué año fue capturado y fusilado el líder independentista colombiano Antonio Nariño?",
+        "opciones": [
+            {
+                "opcion": "1812",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1815",
+                "es_correcta": true
+            },
+            {
+                "opcion": "1819",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1821",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre de la importante batalla que libró el ejército independentista colombiano en la región de Boyacá?",
+        "opciones": [
+            {
+                "opcion": "Batalla de Ayacucho",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Rancagua",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Junín",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Carabobo",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Batalla de Boyacá",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "pregunta": "¿Cuál fue el nombre del importante líder independentista que lideró la región de la Nueva Granada?",
+        "opciones": [
+            {
+                "opcion": "Simón Bolívar",
+                "es_correcta": true
+            },
+            {
+                "opcion": "Francisco de Paula Santander",
+                "es_correcta": false
+            },
+            {
+                "opcion": "Antonio Nariño",
+                "es_correcta": false
+            },
+            {
+                "opcion": "José de San Martín",
+                "es_correcta": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+{
+  "personajes": [
+    {
+      "nombre": "Genio",
+      "gif_idle": "../../images/normal1.gif",
+      "gif_hablando": "../../images/normal2.gif"
+    },
+    {
+      "nombre": "Estudiante",
+      "gif_idle": "../../images/ciencia/normal1.gif",
+      "gif_hablando": "../../images/ciencia/normal2.gif"
+    }
+  ],
+  "conversacion": [
+    {
+      "personaje": 0,
+      "texto": "Hola, soy Genio. <br> Bienvenido al juego de Multiplos y Divisores."
+    },
+    {
+      "personaje": 1,
+      "texto": "¿Cómo se juega?"
+    },
+    {
+      "personaje": 0,
+      "texto": "Selecciona una categoría: multiplos o divisores. <br> Luego haz clic en los números correctos que aparezcan en pantalla."
+    },
+    {
+      "personaje": 1,
+      "texto": "¡Entendido! <br> ¡Vamos a jugar!"
+    },
+    {
+      "personaje": 0,
+      "texto": "¡Buena suerte!"
+    }
+  ],
+  "configuracion": {
+    "intervalo": 50,
+    "pausaEntreLineas": 2000,
+    "pausaFinal": 3000
+  }
+}

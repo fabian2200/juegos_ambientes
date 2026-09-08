@@ -1,0 +1,982 @@
+[
+  {
+    "pregunta": "I _________ go to work.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ follow the rules.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ study for the exam.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ finish her project by tomorrow.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be at the airport by 6 AM.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ complete the task before the deadline.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ apologize for my mistake.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be careful while driving.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ attend the meeting tomorrow.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take her medicine regularly.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ finish the project on time.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ wear a helmet while riding a motorcycle.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ call my parents every week.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be at the meeting by 9 AM.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ finish his homework before going out to play.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ submit the report by the end of the day.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ study for the exam.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ arrive early for the concert.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ take my dog for a walk every day.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ turn off the lights before leaving the room.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ wear a uniform to school.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ cook dinner tonight.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ pay the bills by the end of the month.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ clean their room every week.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ attend the meeting tomorrow morning.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ finish your homework before watching TV.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ arrive on time for the appointment.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ study for the test.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be quiet in the library.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ follow the instructions carefully.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ finish your homework before watching TV.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ arrive on time for the appointment.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ study for the test.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be quiet in the library.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ follow the instructions carefully.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ always wear a seatbelt in the car.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ respect our elders.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ stop at the red light.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ be at the airport two hours before the flight.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ double-check your work for errors.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ finish this report by tomorrow.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be careful when crossing the street.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ wear a suit to the job interview.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ arrive on time for the meeting.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ study for the exam if we want to pass.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ turn off their cell phones in the movie theater.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be at least 18 years old to vote.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his rude behavior.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take her medication three times a day.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be respectful to our teachers.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ study for the exam.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ complete the assignment by tomorrow.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ arrive on time for the meeting.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ follow the instructions carefully.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ wear protective gear for safety.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ pay attention to detail.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his mistake.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take her medication regularly.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ respect others' opinions.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ be honest in their communication.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "I _________ finish my homework before going out.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be careful when handling sharp objects.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ wear a seatbelt in the car.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ practice playing the piano every day.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be responsible for our actions.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ follow the traffic rules while driving.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ submit your application before the deadline.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ arrive on time for the appointment.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ listen carefully during the lecture.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ take care of our environment.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ turn off the lights before leaving the room.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ follow the doctor's advice for a speedy recovery.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ wear a helmet while riding a bicycle.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be respectful to our elders.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ be punctual for the meeting.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ exercise regularly for good health.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his mistake.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take responsibility for her actions.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be honest with ourselves and others.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ show kindness to others.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ wear a seatbelt in the car.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ study for the exam if he wants to pass.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ arrive on time for the meeting.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ finish the project by the end of the week.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ follow the safety regulations at all times.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be respectful to your teachers.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his behavior.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take her medicine three times a day.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ attend the meeting tomorrow morning.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ be quiet in the library.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ submit your application before the deadline.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ wear a suit for the job interview.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ be careful while handling fragile items.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ take the bus to get to the office.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ study for the final exam.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be present at the meeting.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ follow the rules of the game.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ complete the report by the end of the day.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ respect the privacy of others.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ arrive on time for the concert.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ turn off your cell phone during the movie.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his mistake.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take her medication as prescribed.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be on time for the appointment.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ complete the project before the deadline.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ wear a helmet while riding a motorcycle.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ follow the recipe to bake the cake.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ take the necessary precautions to avoid accidents.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ pay the bills before the due date.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ brush their teeth twice a day.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ attend the training session tomorrow.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ arrive at the airport at least two hours before the flight.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ be present during the conference call.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ follow the traffic rules while driving.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ complete the project on time.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ take responsibility for your actions.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his rude behavior.",
+    "opciones": [
+      ["has to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ be punctual for the appointment.",
+    "opciones": [
+      ["must", true],
+      ["has to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ respect the privacy of others.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ attend the team meeting tomorrow.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ wear a uniform to school.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ study for the exam to pass it.",
+    "opciones": [
+      ["has to", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ finish her work before leaving the office.",
+    "opciones": [
+      ["has to", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ pay our bills on time.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ take their shoes off before entering the house.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ be on time for the meeting.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ attend the training session tomorrow.",
+    "opciones": [
+      ["has to", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ follow the instructions carefully.",
+    "opciones": [
+      ["has to", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ respect other people's opinions.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ clean their room every week.",
+    "opciones": [
+      ["have to", true],
+      ["must", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ follow the instructions carefully.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ complete the task before the deadline.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ make a reservation in advance.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ be respectful to others.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ follow the safety guidelines.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "You _________ double-check your work for errors.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "He _________ apologize for his mistake.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "She _________ be present at the meeting.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "We _________ take responsibility for our actions.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  },
+  {
+    "pregunta": "They _________ show respect to their elders.",
+    "opciones": [
+      ["must", true],
+      ["have to", false]
+    ]
+  }
+]

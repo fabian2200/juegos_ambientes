@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Bingo</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<link rel="stylesheet" href="../../bootstrap/all.css">
+	<link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+	<script src="../../bootstrap/jquery.min.js"></script>
+	<link rel="stylesheet" href="../../fontawesome/css/all.min.css">
+	<script src="../../bootstrap/sweetalert.js"></script>
+</head>
+
+<body>
+	<div style="display: none" class="overlay">
+		<div class="nube">
+			<p class="borde2" id="bienvenida"></p>
+		</div>
+		<div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+			<button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning"
+				style="width: auto !important; padding: 4pt !important; border-radius: 8pt !important; font-size: 30px; color: black;">Omitir
+				<i style="color: black" class="fa fa-forward" aria-hidden="true"></i></button>
+		</div>
+	</div>
+
+	<div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;"
+		id="fondo_blanco">
+
+	</div>
+
+	<div style="display: none; text-align: center;" id="final" class="final">
+		<h1 style="font-size: 25pt; padding-top: 326pt; padding-bottom: 0px;" class="borde2" id="texto_final"></h1>
+		<hr>
+		<div class="row" style="background-color: white">
+			<div class="col-12" style="padding-bottom: 0pt; margin-top: 0px;">
+				<h1 style="font-size: 25pt; padding: 12px;" class="borde2">¿Quieres jugar nuevamente?</h1>
+			</div>
+			<div class="col-3"></div>
+			<div class="col-3 text-center">
+				<button style="width: 80%;border-radius: 20pt; font-size: 23px;" onclick="window.location.reload(1)"
+					class="btn btn-success">Si, jugar</button>
+			</div>
+			<div class="col-3 text-center">
+				<button style="width: 80%; border-radius: 20pt; font-size: 23px;" onclick="history.back()"
+					class="btn btn-danger">No,
+					salir</button>
+			</div>
+			<div class="col-3"></div>
+		</div>
+	</div>
+	<div id="principal" style="padding: 20px">
+		<div class="row" style="background-color: transparent">
+			<div class="col-7 text-center" style="display: flex; align-items: center; justify-content: center;">
+				<h1 class="titulo borde"><span id="tipo_t"></span></h1>
+			</div>
+			<div class="col-2" style="display: flex; align-items: center; justify-content: center;">
+				<h2 id="score" class="borde"></h2>
+			</div>
+			<div class="col-2" style="display: flex; justify-content: space-around;">
+				<button style="display: flex;align-items: center;justify-content: center;" onclick="history.back()"
+					class="btnw btn btn-danger">
+					<i class="fa fa-arrow-left fa-2x" aria-hidden="true"></i>
+				</button>
+				<button style="display: flex;align-items: center;justify-content: center;"
+					onclick=" window.location.reload(1);" class="btnw btn btn-warning">
+					<i class="fa fa-refresh fa-2x" aria-hidden="true"></i>
+				</button>
+			</div>
+			<div class="col-1"></div>
+		</div>
+		<div id="outer-container">
+			<div id="container">
+				<div class="row" style="border: 2px solid #ffbb00;">
+					<div class="title">
+						<h1>B</h1></div>
+					<div class="title">
+						<h1>I</h1></div>
+					<div class="title">
+						<h1>N</h1></div>
+					<div class="title">
+						<h1>G</h1></div>
+					<div class="title">
+						<h1>O</h1></div>
+				</div>
+				<div class="row">
+					<div class="box a B" onclick="marker(this);"><canvas id="miCanvas0"></canvas></div>
+					<div class="box b I" onclick="marker(this);"><canvas id="miCanvas1"></canvas></div>
+					<div class="box c N" onclick="marker(this);"><canvas id="miCanvas2"></canvas></div>
+					<div class="box d G" onclick="marker(this);"><canvas id="miCanvas3"></canvas></div>
+					<div class="box e O" onclick="marker(this);"><canvas id="miCanvas4"></canvas></div>
+				</div>
+				<div class="row">
+					<div class="box a B" onclick="marker(this);"><canvas id="miCanvas5"></canvas></div>
+					<div class="box b I" onclick="marker(this);"><canvas id="miCanvas6"></canvas></div>
+					<div class="box c N" onclick="marker(this);"><canvas id="miCanvas7"></canvas></div>
+					<div class="box d G" onclick="marker(this);"><canvas id="miCanvas8"></canvas></div>
+					<div class="box e O" onclick="marker(this);"><canvas id="miCanvas9"></canvas></div>
+				</div>
+				<div class="row">
+					<div class="box a B" onclick="marker(this);"><canvas id="miCanvas10"></canvas></div>
+					<div class="box b I" onclick="marker(this);"><canvas id="miCanvas11"></canvas></div>
+					<div class="box c N" onclick="marker(this);"><canvas id="miCanvas12"></canvas></div>
+					<div class="box d G" onclick="marker(this);"><canvas id="miCanvas13"></canvas></div>
+					<div class="box e O" onclick="marker(this);"><canvas id="miCanvas14"></canvas></div>
+				</div>
+				<div class="row">
+					<div class="box a B" onclick="marker(this);"><canvas id="miCanvas15"></canvas></div>
+					<div class="box b I" onclick="marker(this);"><canvas id="miCanvas16"></canvas></div>
+					<div class="box c N" onclick="marker(this);"><canvas id="miCanvas17"></canvas></div>
+					<div class="box d G" onclick="marker(this);"><canvas id="miCanvas18"></canvas></div>
+					<div class="box e O" onclick="marker(this);"><canvas id="miCanvas19"></canvas></div>
+				</div>
+				<div class="row">
+					<div class="box a B" onclick="marker(this);"><canvas id="miCanvas20"></canvas></div>
+					<div class="box b I" onclick="marker(this);"><canvas id="miCanvas21"></canvas></div>
+					<div class="box c N" onclick="marker(this);"><canvas id="miCanvas22"></canvas></div>
+					<div class="box d G" onclick="marker(this);"><canvas id="miCanvas23"></canvas></div>
+					<div class="box e O" onclick="marker(this);"><canvas id="miCanvas24"></canvas></div>
+				</div>
+			</div>
+			<div id="user-panel">
+				<div id="div_num" class="esfera">
+					<h2 class="borde" id="numerador_gen"></h2>
+					<hr class="borde" id="linea">
+					<h2 class="borde" id="denominador_gen"></h2>
+				</div>
+				<hr>
+				<h3>Últimas 5 balotas</h3>
+				<br>
+				<div id="balotas" style="width: 400px; height: 90px; display: flex;">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="main.js"></script>
+</body>
+
+</html>

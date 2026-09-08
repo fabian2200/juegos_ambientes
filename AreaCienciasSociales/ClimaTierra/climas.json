@@ -1,0 +1,22 @@
+[
+    {"img": "1.png", "clima": "El clima está soleado."},
+    {"img": "2.png", "clima": "Está nublado y frío."},
+    {"img": "3.png", "clima": "Hay tormenta eléctrica y fuertes vientos."},
+    {"img": "4.png", "clima": "Está nevando y hace mucho frío."},
+    {"img": "5.png", "clima": "Hace mucho calor y está seco."},
+    {"img": "6.png", "clima": "Hay una ligera brisa y el cielo está despejado."},
+    {"img": "7.png", "clima": "Está lloviendo y hace bastante frío."},
+    {"img": "8.png", "clima": "Está nublado con posibilidad de lluvia."},
+    {"img": "9.png", "clima": "Hay una niebla densa y la visibilidad es baja."},
+    {"img": "10.png", "clima": "Está parcialmente nublado y la temperatura es agradable."},
+    {"img": "11.png", "clima": "Hay una fuerte tormenta de nieve y hace mucho frío."},
+    {"img": "12.png", "clima": "Está húmedo y hace mucho calor."},
+    {"img": "13.png", "clima": "Hay vientos fuertes y el clima está cambiando rápidamente."},
+    {"img": "14.png", "clima": "Hay una tormenta tropical en la zona y se espera mucha lluvia."},
+    {"img": "15.png", "clima": "Está nublado y hace fresco."},
+    {"img": "16.png", "clima":  "El clima está seco y la humedad es baja."},
+    {"img": "17.png", "clima": "Hay un frente frío que está llegando y se espera una caída en la temperatura."},
+    {"img": "18.png", "clima": "Está lloviznando y hay mucha niebla."},
+    {"img": "19.png", "clima": "Hace mucho viento y la sensación térmica es baja."},
+    {"img": "20.png", "clima": "El clima es agradable, con sol y temperatura templada."}
+]

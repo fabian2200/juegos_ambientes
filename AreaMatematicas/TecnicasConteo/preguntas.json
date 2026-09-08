@@ -1,0 +1,353 @@
+[
+  {
+    "tipo": "permutacion",
+    "ejemplos": [
+      {
+        "enunciado": "¿De cuántas formas se pueden organizar las letras de la palabra 'CASA'?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden acomodar 5 libros en un estante?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden sentar 8 personas alrededor de una mesa redonda?",
+        "respuesta": "5040"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden seleccionar 3 ganadores en una carrera de 10 corredores?",
+        "respuesta": "720"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden ordenar las cartas de una baraja de póker?",
+        "respuesta": "8320"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden acomodar los colores rojo, verde y azul en una cadena de luces de Navidad con 6 bombillas?",
+        "respuesta": "360"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden organizar los números 1, 2, 3 y 4 en una secuencia?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden acomodar 7 estudiantes en una fila?",
+        "respuesta": "5040"
+      },
+      {
+        "enunciado": "¿De cuántas formas se pueden seleccionar 2 cartas de una baraja de 52 cartas sin reemplazo?",
+        "respuesta": "2652"
+      },
+      {
+        "enunciado": "¿Cuántas permutaciones se pueden hacer con 4 elementos distintos?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿Cuántas formas diferentes se pueden ordenar las letras de la palabra 'CASA'?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿Cuántos arreglos distintos se pueden formar con las letras A, B, C y D?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden sentar 6 personas alrededor de una mesa redonda?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántos números de tres dígitos se pueden formar utilizando los dígitos 1, 2, 3, 4, 5 y sin repetir ninguno?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántos anagramas distintos se pueden formar con las letras de la palabra 'ROMA'?",
+        "respuesta": "12"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 3 cartas de un mazo de 52 cartas?",
+        "respuesta": "22100"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden ordenar las letras de la palabra 'EJERCICIO'?",
+        "respuesta": "40320"
+      },
+      {
+        "enunciado": "¿Cuántas permutaciones se pueden hacer con 5 elementos distintos?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántas formas diferentes se pueden ordenar las letras de la palabra 'BARCO'?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántos arreglos distintos se pueden formar con las letras A, B, C, D y E?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden sentar 7 personas en un banco sin restricciones?",
+        "respuesta": "5040"
+      },
+      {
+        "enunciado": "¿Cuántos números de cuatro dígitos se pueden formar utilizando los dígitos 1, 2, 3 y 4 sin repetir ninguno?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿Cuántos anagramas distintos se pueden formar con las letras de la palabra 'TORTA'?",
+        "respuesta": "60"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 4 cartas de un mazo de 52 cartas?",
+        "respuesta": "270725"
+      },
+      {
+        "enunciado": "¿Cuántos arreglos distintos se pueden formar con los números 1, 2, 2, 3 y 3?",
+        "respuesta": "20"
+      },
+      {
+        "enunciado": "¿Cuántos anagramas distintos se pueden formar con las letras de la palabra 'EXAMEN'?",
+        "respuesta": "720"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden ordenar las letras de la palabra 'PROGRAMA'?",
+        "respuesta": "40320"
+      }
+    ]
+  },
+  {
+    "tipo": "combinacion",
+    "ejemplos": [
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 2 elementos de un conjunto de 15 elementos?",
+        "respuesta": "105"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 3 cartas de un mazo de 52 cartas sin importar el orden?",
+        "respuesta": "22100"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 4 letras se pueden formar con las letras A, B, C y D?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 2 personas se pueden formar con un conjunto de 5 personas?",
+        "respuesta": "10"
+      },
+      {
+        "enunciado": "¿Cuántas formas diferentes se pueden seleccionar 5 elementos de un conjunto de 10 elementos?",
+        "respuesta": "252"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 3 sabores de helado de un menú de 7 sabores?",
+        "respuesta": "35"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 3 colores se pueden formar con los colores rojo, verde, azul y amarillo?",
+        "respuesta": "4"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 4 libros de una biblioteca con 8 libros?",
+        "respuesta": "70"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 3 jugadores se pueden formar con un equipo de 8 jugadores?",
+        "respuesta": "56"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 2 ingredientes de un conjunto de 6 ingredientes?",
+        "respuesta": "15"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 2 números de un conjunto de 10 números?",
+        "respuesta": "45"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 4 amigos se pueden formar con un grupo de 7 personas?",
+        "respuesta": "35"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 3 frutas de un conjunto de 5 frutas?",
+        "respuesta": "10"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 2 juguetes de un conjunto de 8 juguetes?",
+        "respuesta": "28"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 2 números se pueden formar con los números 1, 2, 3, 4 y 5?",
+        "respuesta": "10"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 3 letras se pueden formar con las letras A, B, C, D y E?",
+        "respuesta": "10"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 4 objetos de un conjunto de 20 objetos?",
+        "respuesta": "4845"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 3 colores de un conjunto de 12 colores?",
+        "respuesta": "220"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 2 elementos se pueden formar con los números 1, 2, 3 y 4?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 3 elementos de un conjunto de 20 elementos?",
+        "respuesta": "20"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 4 cartas de un mazo de 52 cartas sin importar el orden?",
+        "respuesta": "270725"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 3 letras se pueden formar con las letras A, B, C, D, E, F, G, H y I?",
+        "respuesta": "84"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 2 personas se pueden formar con un conjunto de 7 personas?",
+        "respuesta": "21"
+      },
+      {
+        "enunciado": "¿Cuántas formas diferentes se pueden seleccionar 6 elementos de un conjunto de 10 elementos?",
+        "respuesta": "210"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 4 sabores de helado de un menú de 8 sabores?",
+        "respuesta": "70"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones de 2 colores se pueden formar con los colores rojo, verde, azul, negro, violeta, rosado, morado y amarillo?",
+        "respuesta": "28"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden seleccionar 3 libros de una biblioteca con 10 libros?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántos grupos de 4 jugadores se pueden formar con un equipo de 9 jugadores?",
+        "respuesta": "126"
+      },
+      {
+        "enunciado": "¿Cuántas combinaciones se pueden hacer al elegir 3 ingredientes de un conjunto de 7 ingredientes?",
+        "respuesta": "35"
+      }
+    ]
+  },
+  {
+    "tipo": "ordenacion",
+    "ejemplos": [
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con las palabras 'Rojo', 'Azul', 'Verde' tomadas de 2 en 2?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden organizar los dígitos 1, 2, 3, 4, 5 en números de 5 dígitos sin repetición?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con los números 1, 2, 3, 4 tomados de 2 en 2?",
+        "respuesta": "12"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden distribuir 6 libros en 3 estantes si cada estante puede contener todos los libros?",
+        "respuesta": "720"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C, D tomadas de 2 en 2?",
+        "respuesta": "12"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden ordenar las cifras 1, 2, 3, 4 en números de 3 dígitos sin repetición?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con las palabras 'Hola', 'Mundo' tomadas de 1 en 1?",
+        "respuesta": "10"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden sentar 5 personas en una fila si hay 8 asientos disponibles?",
+        "respuesta": "6720"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C, D, E tomadas de 3 en 3?",
+        "respuesta": "60"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C tomadas de 2 en 2?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden organizar los números 1, 2, 3 en una lista de 3 elementos sin repetición?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con las palabras 'Hola', 'Amigo' tomadas de 1 en 1?",
+        "respuesta": "9"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden sentar 4 personas en un banco si hay 6 asientos disponibles?",
+        "respuesta": "360"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C, D tomadas de 3 en 3?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con las palabras 'Rojo', 'Azul', 'Verde' tomadas de 3 en 3?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden distribuir 5 libros en 2 estantes si cada estante puede contener todos los libros?",
+        "respuesta": "20"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con los números 1, 2, 3, 4 tomados de 3 en 3?",
+        "respuesta": "24"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden asignar 4 tareas a 3 empleados si cada empleado puede realizar todas las tareas?",
+        "respuesta": "81"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, A, B tomadas de 2 en 2?",
+        "respuesta": "3"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden organizar las cifras 1, 2, 3, 4 en números de 2 dígitos sin repetición?",
+        "respuesta": "12"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con las palabras 'Hola', 'Amigo' tomadas de 2 en 2?",
+        "respuesta": "12"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden sentar 6 personas en un banco si hay 8 asientos disponibles?",
+        "respuesta": "40320"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C, D, E tomadas de 4 en 4?",
+        "respuesta": "120"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden ordenar las letras de la palabra 'MATEMATICA'?",
+        "respuesta": "9720"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden hacer con los números 1, 1, 2, 3 tomados de 2 en 2?",
+        "respuesta": "6"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden distribuir 8 regalos en 5 niños si cada niño puede recibir cualquier número de regalos?",
+        "respuesta": "32768"
+      },
+      {
+        "enunciado": "¿Cuántas variaciones se pueden formar con las letras A, B, C, D tomadas de 1 en 1?",
+        "respuesta": "4"
+      },
+      {
+        "enunciado": "¿De cuántas formas diferentes se pueden organizar los números 1, 2, 3, 4 en una lista de 4 elementos sin repetición?",
+        "respuesta": "24"
+      }
+    ]
+  }
+]

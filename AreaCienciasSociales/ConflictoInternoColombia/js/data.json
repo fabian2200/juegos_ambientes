@@ -1,0 +1,412 @@
+[
+    {
+        "pregunta": "¿Cuándo comenzó el conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "En 1950",
+            "B": "En 1964",
+            "C": "En 1972",
+            "D": "En 1982"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el principal grupo guerrillero involucrado en el conflicto armado interno de Colombia?",
+        "respuestas": {
+            "A": "Las FARC",
+            "B": "ELN",
+            "C": "M-19",
+            "D": "AUC"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue el objetivo original de las FARC al surgir como grupo guerrillero?",
+        "respuestas": {
+            "A": "Derrocar al gobierno",
+            "B": "Promover la justicia social",
+            "C": "Defender los derechos indígenas",
+            "D": "Proteger los intereses de las élites"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el significado de las siglas ELN?",
+        "respuestas": {
+            "A": "Ejército de Liberación Nacional",
+            "B": "Ejército de Liberación de Nueva Granada",
+            "C": "Ejército de Liberación del Norte",
+            "D": "Ejército Libertador Nacional"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el principal motivo detrás del conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "Diferencias étnicas",
+            "B": "Lucha por el poder político",
+            "C": "Disputas territoriales",
+            "D": "Religión y fanatismo"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del acuerdo de paz firmado entre el gobierno colombiano y las FARC?",
+        "respuestas": {
+            "A": "Acuerdo de Cartagena",
+            "B": "Acuerdo de La Habana",
+            "C": "Acuerdo de Bogotá",
+            "D": "Acuerdo de Medellín"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuándo se firmó el acuerdo de paz entre el gobierno colombiano y las FARC?",
+        "respuestas": {
+            "A": "En 2012",
+            "B": "En 2014",
+            "C": "En 2016",
+            "D": "En 2018"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál fue el papel de Juan Manuel Santos en el proceso de paz con las FARC?",
+        "respuestas": {
+            "A": "Líder de las FARC",
+            "B": "Presidente de Colombia que lideró las negociaciones",
+            "C": "Comandante militar del ejército colombiano",
+            "D": "Líder del ELN"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el principal problema derivado del conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "Desplazamiento forzado de la población",
+            "B": "Corrupción política",
+            "C": "Drogas ilícitas",
+            "D": "Inflación económica"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuántas víctimas aproximadas ha dejado el conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "Más de 100,000",
+            "B": "Más de 250,000",
+            "C": "Más de 500,000",
+            "D": "Más de 1,000,000"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "pregunta": "¿Cuál es el principal método utilizado por los grupos guerrilleros para financiarse en el conflicto armado interno de Colombia?",
+        "respuestas": {
+            "A": "Secuestros",
+            "B": "Extorsiones",
+            "C": "Tráfico de drogas",
+            "D": "Robos a bancos"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del proceso mediante el cual los excombatientes de las FARC se reincorporan a la sociedad civil?",
+        "respuestas": {
+            "A": "Reintegración social",
+            "B": "Reconciliación armada",
+            "C": "Reconstrucción nacional",
+            "D": "Reeducación cívica"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué organismo internacional ha brindado apoyo al proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Naciones Unidas",
+            "B": "Organización de Estados Americanos (OEA)",
+            "C": "Banco Mundial",
+            "D": "Fondo Monetario Internacional (FMI)"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué es el paramilitarismo en el contexto del conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "Un grupo político de derecha",
+            "B": "Una rama del ejército colombiano",
+            "C": "Grupos armados ilegales que operan al margen de la ley",
+            "D": "Un movimiento de resistencia campesina"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el principal objetivo de los grupos paramilitares en el conflicto armado interno de Colombia?",
+        "respuestas": {
+            "A": "Luchar por la independencia",
+            "B": "Proteger los derechos indígenas",
+            "C": "Defender la justicia social",
+            "D": "Combatir a los grupos guerrilleros"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del máximo líder de las FARC durante el conflicto armado interno en Colombia?",
+        "respuestas": {
+            "A": "Alfonso Cano",
+            "B": "Manuel Marulanda",
+            "C": "Iván Márquez",
+            "D": "Timochenko"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del máximo líder del ELN?",
+        "respuestas": {
+            "A": "Gabino",
+            "B": "Guillermo León Sáenz",
+            "C": "Pablo Beltrán",
+            "D": "Antonio García"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el papel de las fuerzas armadas colombianas en el conflicto armado interno?",
+        "respuestas": {
+            "A": "Defender a la población civil",
+            "B": "Apoyar a los grupos guerrilleros",
+            "C": "Mantener el control político",
+            "D": "Combatir a los grupos armados ilegales"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "pregunta": "¿Cuál fue el principal enfoque del gobierno colombiano para abordar el conflicto armado interno?",
+        "respuestas": {
+            "A": "Negociaciones diplomáticas",
+            "B": "Ofensiva militar",
+            "C": "Aislamiento internacional",
+            "D": "Construcción de muros fronterizos"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre de la ley aprobada en Colombia para buscar reparación a las víctimas del conflicto armado?",
+        "respuestas": {
+            "A": "Ley de Amnistía",
+            "B": "Ley de Reconciliación",
+            "C": "Ley de Víctimas y Restitución de Tierras",
+            "D": "Ley de Pacificación"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el término utilizado para describir el proceso de desmovilización de los grupos guerrilleros?",
+        "respuestas": {
+            "A": "Desarme",
+            "B": "Desmovilización",
+            "C": "Desplazamiento",
+            "D": "Desconocimiento"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en Colombia en la economía del país?",
+        "respuestas": {
+            "A": "Incremento en la inversión extranjera",
+            "B": "Reducción de la pobreza",
+            "C": "Deterioro de la infraestructura",
+            "D": "Aumento del empleo"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de las organizaciones de derechos humanos en el conflicto armado interno de Colombia?",
+        "respuestas": {
+            "A": "Apoyar a los grupos guerrilleros",
+            "B": "Brindar asistencia humanitaria a las víctimas",
+            "C": "Participar en actividades de sabotaje",
+            "D": "Promover el reclutamiento de combatientes"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la población desplazada de Colombia?",
+        "respuestas": {
+            "A": "Aumento de oportunidades económicas",
+            "B": "Mejora en el acceso a la educación",
+            "C": "Pérdida de viviendas y tierras",
+            "D": "Fortalecimiento de la cohesión comunitaria"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la comunidad internacional en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Intervención militar directa",
+            "B": "Apoyo político y financiero",
+            "C": "Boicot económico",
+            "D": "Promoción de la violencia"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el enfoque principal de los acuerdos de paz en Colombia?",
+        "respuestas": {
+            "A": "Reconstrucción del aparato militar",
+            "B": "Reparación integral a las víctimas",
+            "C": "Persecución de los grupos armados",
+            "D": "Inversión en el sector financiero"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en el medio ambiente de Colombia?",
+        "respuestas": {
+            "A": "Preservación de los recursos naturales",
+            "B": "Incremento de la biodiversidad",
+            "C": "Deforestación y contaminación",
+            "D": "Restauración de los ecosistemas"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la justicia transicional en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Impunidad para los responsables de crímenes",
+            "B": "Reparación a las víctimas y búsqueda de la verdad",
+            "C": "Persecución selectiva de los grupos armados",
+            "D": "Promoción de la venganza y retaliación"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la educación de Colombia?",
+        "respuestas": {
+            "A": "Expansión de la infraestructura educativa",
+            "B": "Mejora en la calidad de la enseñanza",
+            "C": "Cierre de escuelas y dificultades de acceso",
+            "D": "Fortalecimiento de la investigación científica"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la sociedad civil en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Apoyo incondicional al gobierno",
+            "B": "Promoción de la violencia y el conflicto",
+            "C": "Participación activa en la construcción de la paz",
+            "D": "Indiferencia y desinterés en el tema"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la salud de la población colombiana?",
+        "respuestas": {
+            "A": "Mejora en el acceso a servicios médicos",
+            "B": "Disminución de enfermedades y epidemias",
+            "C": "Aumento de la violencia y la inseguridad",
+            "D": "Fortalecimiento del sistema de salud"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la migración en Colombia?",
+        "respuestas": {
+            "A": "Reducción de la migración interna",
+            "B": "Aumento de la migración internacional",
+            "C": "Estabilidad en los flujos migratorios",
+            "D": "Cierre de las fronteras"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la reconciliación en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Fomentar la división y el resentimiento",
+            "B": "Promover el olvido de los crímenes cometidos",
+            "C": "Buscar la reparación y la convivencia pacífica",
+            "D": "Deslegitimar el proceso de paz"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la infraestructura en Colombia?",
+        "respuestas": {
+            "A": "Modernización y expansión de la infraestructura",
+            "B": "Destrucción y deterioro de la infraestructura",
+            "C": "Mejora en la conectividad y el transporte",
+            "D": "Aumento de la inversión en obras públicas"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la verdad en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Ocultar los crímenes y la historia del conflicto",
+            "B": "Garantizar la impunidad a los responsables",
+            "C": "Buscar la justicia y el esclarecimiento de los hechos",
+            "D": "Manipular la información para fines políticos"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la industria agrícola de Colombia?",
+        "respuestas": {
+            "A": "Impulso y fortalecimiento del sector agrícola",
+            "B": "Disminución de la producción agrícola",
+            "C": "Mejora en las condiciones de trabajo en el campo",
+            "D": "Aumento de la exportación de productos agrícolas"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la participación política en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Exclusión de los actores políticos del conflicto",
+            "B": "Negociación y diálogo con los actores políticos",
+            "C": "Supresión de los derechos políticos de los ciudadanos",
+            "D": "Promoción de la violencia y la confrontación política"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la estabilidad social de Colombia?",
+        "respuestas": {
+            "A": "Fortalecimiento de la cohesión y la convivencia social",
+            "B": "Aumento de la segregación y la polarización social",
+            "C": "Mejora en las condiciones de vida de la población",
+            "D": "Disminución de la desigualdad y la pobreza"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la comunidad internacional en la protección de los derechos humanos en el conflicto armado interno de Colombia?",
+        "respuestas": {
+            "A": "Apoyo y colaboración con los grupos armados",
+            "B": "Vigilancia y denuncia de las violaciones a los derechos humanos",
+            "C": "Intervención militar en el territorio colombiano",
+            "D": "Promoción de la impunidad y el encubrimiento"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál es el impacto del conflicto armado interno en la vida cultural de Colombia?",
+        "respuestas": {
+            "A": "Preservación y enriquecimiento de la diversidad cultural",
+            "B": "Pérdida y deterioro del patrimonio cultural",
+            "C": "Aumento de la inversión en el sector cultural",
+            "D": "Promoción del turismo cultural en el país"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "pregunta": "¿Cuál ha sido el papel de la educación en el proceso de paz en Colombia?",
+        "respuestas": {
+            "A": "Promoción de la ideología de los grupos armados",
+            "B": "Generación de conciencia y formación en valores de paz",
+            "C": "Manipulación de la información y la historia del conflicto",
+            "D": "Supresión de la educación como derecho fundamental"
+        },
+        "respuesta_correcta": "B"
+    }
+]

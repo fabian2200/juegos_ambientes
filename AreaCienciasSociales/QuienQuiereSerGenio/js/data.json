@@ -1,0 +1,263 @@
+[
+
+    {
+        "pregunta": "¿Qué civilización prehispánica fue conquistada por Hernán Cortés en 1521?",
+        "respuestas": {
+            "A": "El Imperio Azteca",
+            "B": "El Imperio Inca",
+            "C": "La civilización Maya",
+            "D": "La cultura Moche"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el conquistador español que llegó a México en 1519?",
+        "respuestas": {
+            "A": "Hernán Cortés",
+            "B": "Francisco Pizarro",
+            "C": "Juan Ponce de León",
+            "D": "Vasco Núñez de Balboa"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué imperio precolombino ocupaba la mayor parte de Sudamérica antes de la llegada de los españoles?",
+        "respuestas": {
+            "A": "El Imperio Inca",
+            "B": "El Imperio Azteca",
+            "C": "El Reino de los Muiscas",
+            "D": "La cultura Tairona"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la principal lengua de la civilización Inca?",
+        "respuestas": {
+            "A": "Quechua",
+            "B": "Náhuatl",
+            "C": "Maya clásico",
+            "D": "Aymara"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué enfermedad introdujeron los españoles a América y que causó una gran mortandad entre los pueblos indígenas?",
+        "respuestas": {
+            "A": "La viruela",
+            "B": "El sarampión",
+            "C": "La peste bubónica",
+            "D": "La tuberculosis"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el conquistador que lideró la expedición que llevó a la caída del Imperio Inca?",
+        "respuestas": {
+            "A": "Francisco Pizarro",
+            "B": "Hernán Cortés",
+            "C": "Diego de Almagro",
+            "D": "Pedro de Valdivia"
+        },
+        "correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la principal herramienta que utilizaron los españoles para conquistar América?",
+        "respuestas": {
+            "A": "La superioridad tecnológica y militar",
+            "B": "La habilidad diplomática",
+            "C": "La evangelización",
+            "D": "La ayuda de los indígenas"
+        },
+        "correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué imperio fue conquistado por Hernán Cortés en México?",
+        "respuestas": {
+            "A": "El Imperio Azteca",
+            "B": "El Imperio Inca",
+            "C": "El Imperio Maya",
+            "D": "El Imperio Tolteca"
+        },
+        "correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue el principal objetivo de los españoles en la colonización de América?",
+        "respuestas": {
+            "A": "Obtener riquezas",
+            "B": "Expandir el territorio español",
+            "C": "Convertir a los indígenas al cristianismo",
+            "D": "Crear un sistema político estable"
+        },
+        "correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué impacto tuvo la llegada de los españoles en la población indígena de América?",
+        "respuestas": {
+            "A": "Una gran disminución de la población",
+            "B": "Un aumento significativo de la población",
+            "C": "Un cambio en las costumbres y tradiciones",
+            "D": "Ningún impacto significativo"
+        },
+        "correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la primera isla del Caribe en ser descubierta por Cristóbal Colón en su primer viaje a América?",
+        "respuestas": {
+            "A": "San Salvador",
+            "B": "Cuba",
+            "C": "La Española",
+            "D": "Jamaica"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué famoso navegante portugués llegó a Brasil en el año 1500?",
+        "respuestas": {
+            "A": "Pedro Álvares Cabral",
+            "B": "Fernando de Magallanes",
+            "C": "Vasco da Gama",
+            "D": "Juan Sebastián Elcano"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América en su primer viaje?",
+        "respuestas": {
+            "A": "1492",
+            "B": "1494",
+            "C": "1496",
+            "D": "1498"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la expedición que, comandada por Hernán Cortés, conquistó el Imperio Azteca?",
+        "respuestas": {
+            "A": "La Conquista de México",
+            "B": "La Noche Triste",
+            "C": "La Malinche",
+            "D": "La Batalla de Otumba"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la principal razón por la que Cristóbal Colón emprendió su viaje hacia el oeste en busca de las Indias?",
+        "respuestas": {
+            "A": "Encontrar una nueva ruta hacia las Indias",
+            "B": "Demostrar que la Tierra era redonda",
+            "C": "Explorar nuevas tierras desconocidas",
+            "D": "Buscar oro y riquezas"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el navegante que llegó a América en 1492?",
+        "respuestas": {
+            "A": "Cristóbal Colón",
+            "B": "Fernando de Magallanes",
+            "C": "Vasco da Gama",
+            "D": "Juan Sebastián Elcano"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿En qué año llegó Colón al continente americano?",
+        "respuestas": {
+            "A": "1492",
+            "B": "1519",
+            "C": "1588",
+            "D": "1607"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Qué país financió el primer viaje de Colón?",
+        "respuestas": {
+            "A": "España",
+            "B": "Portugal",
+            "C": "Francia",
+            "D": "Inglaterra"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la primera isla que Colón descubrió en su primer viaje?",
+        "respuestas": {
+            "A": "Guana",
+            "B": "La Española",
+            "C": "Cuba",
+            "D": "Jamaica"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Cómo llamó Colón a los habitantes que encontró en América?",
+        "respuestas": {
+            "A": "Indios",
+            "B": "Nativos",
+            "C": "Americanos",
+            "D": "Aztecas"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el primer virrey de Nueva España?",
+        "respuestas": {
+            "A": "Antonio de Mendoza",
+            "B": "Francisco de Almeida",
+            "C": "Diego de Almagro",
+            "D": "Pedro de Valdivia"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue la capital del Virreinato del Perú?",
+        "respuestas": {
+            "A": "Lima",
+            "B": "Bogotá",
+            "C": "Santiago de Chile",
+            "D": "La Paz"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el primer virrey del Virreinato de Nueva Granada?",
+        "respuestas": {
+            "A": "Antonio José Amar y Borbón",
+            "B": "Sebastián de Eslava",
+            "C": "Juan Francisco de Güemes y Horcasitas",
+            "D": "José Solís Folch de Cardona"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿En qué año se creó el Virreinato del Río de la Plata?",
+        "respuestas": {
+            "A": "1776",
+            "B": "1535",
+            "C": "1607",
+            "D": "1825"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Quién fue el último virrey de Nueva Granada?",
+        "respuestas": {
+            "A": "Juan de Sámano",
+            "B": "Juan Francisco de Güemes y Horcasitas",
+            "C": "Antonio Amar y Borbón",
+            "D": "Pedro Antonio de Cevallos"
+        },
+        "respuesta": "A"
+    },
+    {
+        "pregunta": "¿Cuál fue el primer virrey de Perú?",
+        "respuestas": {
+            "A": "Blasco Núñez Vela",
+            "B": "Diego de Almagro",
+            "C": "Francisco Pizarro",
+            "D": "Pedro de la Gasca"
+        },
+        "respuesta": "A"
+    }
+]

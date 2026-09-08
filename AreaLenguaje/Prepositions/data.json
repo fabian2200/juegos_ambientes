@@ -1,0 +1,1014 @@
+[
+    {
+        "tipo": 1,
+        "pregunta": "I'm going __ the store.",
+        "opciones": [
+            {
+                "opcion": "to",
+                "es_correcta": true
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "She sat __ her desk.",
+        "opciones": [
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The book is __ the table.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": true
+            },
+            {
+                "opcion": "above",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "He walked __ the park.",
+        "opciones": [
+            {
+                "opcion": "through",
+                "es_correcta": true
+            },
+            {
+                "opcion": "over",
+                "es_correcta": false
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            },
+            {
+                "opcion": "into",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "She lives __ New York City.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "to",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "We went __ the movies last night.",
+        "opciones": [
+            {
+                "opcion": "to",
+                "es_correcta": true
+            },
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The cat jumped __ the table.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They arrived __ the airport at 6 p.m.",
+        "opciones": [
+            {
+                "opcion": "to",
+                "es_correcta": false
+            },
+            {
+                "opcion": "at",
+                "es_correcta": true
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The book is __ the shelf.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on top of",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The concert starts __ 8 p.m.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": true
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "to",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "He drove __ the bridge to get to the other side.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "over",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The keys are __ the table.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They met __ a restaurant for lunch.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "at",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "She walked __ the street to reach the bookstore.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "down",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The cat is __ the roof.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They went __ a vacation to Hawaii.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "to",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The ball rolled __ the hill.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "down",
+                "es_correcta": true
+            },
+            {
+                "opcion": "up",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "He looked __ the window and saw a beautiful sunset.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "out",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The keys are __ the car.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "inside",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They arrived __ the party late.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "to",
+                "es_correcta": false
+            },
+            {
+                "opcion": "at",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The book is __ the shelf.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on top of",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The dog is __ the garden.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "He fell __ the stairs and hurt his leg.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "down",
+                "es_correcta": true
+            },
+            {
+                "opcion": "up",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "We sat __ the table and had dinner together.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "around",
+                "es_correcta": true
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The cat is hiding __ the bed.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "She walked __ the street and entered the building.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "down",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The keys are __ the pocket of his jacket.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The computer is __ the desk.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They live __ a small house near the beach.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "inside",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The cat is hiding __ the bed.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "She walked __ the street and entered the building.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "down",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The keys are __ the pocket of his jacket.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": false
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "The computer is __ the desk.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "under",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 1,
+        "pregunta": "They live __ a small house near the beach.",
+        "opciones": [
+            {
+                "opcion": "at",
+                "es_correcta": false
+            },
+            {
+                "opcion": "in",
+                "es_correcta": true
+            },
+            {
+                "opcion": "on",
+                "es_correcta": false
+            },
+            {
+                "opcion": "inside",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "on the box",
+        "opciones": [
+            {
+                "opcion": "1.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "2.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "3.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "4.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "above the box",
+        "opciones": [
+            {
+                "opcion": "2.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "3.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "4.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "5.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "in / inside the box",
+        "opciones": [
+            {
+                "opcion": "3.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "4.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "5.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "6.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "under the box",
+        "opciones": [
+            {
+                "opcion": "4.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "5.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "6.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "7.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "in front of the box",
+        "opciones": [
+            {
+                "opcion": "5.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "6.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "7.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "8.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "between of the box",
+        "opciones": [
+            {
+                "opcion": "6.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "7.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "8.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "9.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "beside of the box",
+        "opciones": [
+            {
+                "opcion": "7.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "8.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "9.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "10.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "behind the box",
+        "opciones": [
+            {
+                "opcion": "8.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "9.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "10.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "11.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "near the box",
+        "opciones": [
+            {
+                "opcion": "9.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "10.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "11.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "12.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "through the box",
+        "opciones": [
+            {
+                "opcion": "10.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "11.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "12.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "into the box",
+        "opciones": [
+            {
+                "opcion": "11.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "12.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "1.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "2.png",
+                "es_correcta": false
+            }
+        ]
+    },
+    {
+        "tipo": 2,
+        "pregunta": "out of the box",
+        "opciones": [
+            {
+                "opcion": "12.png",
+                "es_correcta": true
+            },
+            {
+                "opcion": "1.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "2.png",
+                "es_correcta": false
+            },
+            {
+                "opcion": "3.png",
+                "es_correcta": false
+            }
+        ]
+    }
+]

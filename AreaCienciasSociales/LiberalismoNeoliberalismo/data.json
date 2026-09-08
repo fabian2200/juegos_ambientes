@@ -1,0 +1,387 @@
+[
+    {
+        "pregunta": "¿Cuál es la corriente económica que promueve la no intervención del Estado en la economía?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente defiende la reducción de las regulaciones y restricciones en los mercados?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se opone al proteccionismo y promueve el libre comercio internacional?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente aboga por la privatización de empresas y servicios públicos?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se centra en la libertad individual y la no interferencia del Estado en asuntos personales?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente pone énfasis en la eficiencia y productividad económica?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente defiende el Estado de Bienestar y la redistribución de la riqueza?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente propugna por una mínima intervención estatal y la libre competencia en los mercados?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se originó en el siglo XVIII con figuras como Adam Smith y John Locke?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente económica se desarrolló como una respuesta a la crisis del keynesianismo?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente defiende la libre empresa y la propiedad privada de los medios de producción?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente económica se caracteriza por su enfoque en la maximización del beneficio individual?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente aboga por la reducción de impuestos y la mínima intervención del Estado en la economía?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se basa en la teoría del valor-trabajo y la crítica a la acumulación de capital?",
+        "opciones": [
+            ["Neoliberalismo", false],
+            ["Liberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se centra en la libertad de mercado y la autorregulación de los precios?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente propugna por la eliminación de barreras comerciales y la apertura de fronteras?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se asocia con la reducción del tamaño y la influencia del Estado en la economía?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente enfatiza la igualdad de oportunidades y la meritocracia?",
+        "opciones": [
+            ["Neoliberalismo", false],
+            ["Liberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente promueve la competencia y la libertad de elección en el mercado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se opone al control estatal de los precios y salarios?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente económica se asocia con la desregulación financiera y la liberalización de los mercados de capitales?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente defiende la propiedad privada como un derecho fundamental?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente pone énfasis en la libre iniciativa y la autonomía individual?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se opone a la planificación económica centralizada y promueve la coordinación descentralizada del mercado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente aboga por la flexibilización del mercado laboral y la reducción de la protección laboral?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se basa en el principio de que los individuos son los mejores jueces de sus propios intereses?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente económica defiende la privatización de la seguridad social y los sistemas de pensiones?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se opone a la intervención estatal en la fijación de precios y la regulación del mercado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente defiende la libertad de expresión y la tolerancia hacia diferentes puntos de vista?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente se asocia con la reducción del gasto público y la austeridad fiscal?",
+        "opciones": [
+            ["Neoliberalismo", true],
+            ["Liberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál movimiento filosófico y político se desarrolló durante el siglo XVIII y promovía la libertad individual y los derechos individuales?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué corriente de pensamiento económico promueve la libre competencia y la propiedad privada?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política se basa en la limitación del poder estatal y defiende la autonomía individual?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué corriente política busca reducir la intervención del Estado en la economía y promueve la liberalización de los mercados?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento político y económico promueve la desregulación y privatización de la economía?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico defiende la reducción de barreras comerciales y la promoción del libre comercio internacional?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento político se enfoca en la protección de las libertades civiles y políticas?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque político se asocia con políticas de ajuste estructural y reducción del gasto público?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política se opone a la interferencia estatal en la economía y defiende la autorregulación del mercado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico promueve la competencia como mecanismo para lograr la eficiencia y la asignación de recursos?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política defiende la protección de los derechos individuales y la igualdad de oportunidades?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico promueve la reducción de impuestos y la incentivación de la inversión privada?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento se asocia con la separación de poderes y la defensa de la democracia representativa?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque político se basa en la idea de que el libre mercado es la mejor manera de asignar recursos y generar riqueza?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política defiende la autonomía individual y la no interferencia del Estado en la vida personal?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico se centra en la flexibilización laboral y la liberalización del comercio internacional?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento político y económico se opone a los monopolios y favorece la competencia en el mercado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque político defiende la reducción del gasto público y la austeridad fiscal?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política se enfoca en la promoción de los derechos humanos y la diversidad cultural?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico se asocia con la liberalización financiera y la apertura de los mercados de capitales?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento político aboga por la igualdad de género y la no discriminación?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque político se basa en la idea de que la libertad individual es un valor fundamental para el desarrollo de la sociedad?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente política promueve la responsabilidad individual y la meritocracia?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    },
+    {
+        "pregunta": "¿Qué enfoque económico se asocia con la desregulación de los mercados financieros y la liberalización del comercio?",
+        "opciones": [
+            ["Liberalismo", false],
+            ["Neoliberalismo", true]
+        ]
+    },
+    {
+        "pregunta": "¿Cuál corriente de pensamiento político defiende la separación entre Iglesia y Estado?",
+        "opciones": [
+            ["Liberalismo", true],
+            ["Neoliberalismo", false]
+        ]
+    }
+]
