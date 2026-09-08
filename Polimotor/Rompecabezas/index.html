@@ -46,20 +46,15 @@
 
 	<div id="principal">
 		<div class="hud-top">
-			<div class="hud-acciones">
-				<button type="button" id="btn-ver" class="btn btn-hud btn-ver" title="Ver de nuevo" hidden><i class="fa-solid fa-eye"></i> Ver de nuevo</button>
-			</div>
-			<div class="hud-centro">
-				<h1 class="borde" id="enunciado"></h1>
-			</div>
 			<div class="hud-nav">
 				<div id="progreso" class="hud-progreso" hidden></div>
+				<button type="button" id="btn-ver" class="btn btn-success btn-round" title="Pista" hidden><i class="fa-solid fa-eye"></i></button>
 				<button onclick="location.reload()" class="btn btn-warning btn-round"><i class="fa-solid fa-rotate"></i></button>
 				<button onclick="history.back()" class="btn btn-danger btn-round"><i class="fa-solid fa-arrow-left"></i></button>
 			</div>
 		</div>
 
-		<div class="escenario" id="escenario">
+		<div class="escenario" id="escenario" style="padding-top: 15px;">
 			<div class="lienzo-wrap">
 				<div id="lienzo">
 					<img id="img-silueta" alt="Silueta guía" hidden>

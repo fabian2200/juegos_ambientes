@@ -681,7 +681,7 @@ function actualizarProgreso() {
     const total = piezasEstado.length;
     const hechas = piezasEstado.filter(function (p) { return p.colocada; }).length;
     el.hidden = !acc().mostrarProgreso || !tableroListo || !total;
-    el.textContent = hechas + " / " + total;
+    el.innerHTML = '<i class="fa-solid fa-puzzle-piece"></i> ' + hechas + " / " + total;
 }
 
 function aplicarAccesibilidadInicial() {
