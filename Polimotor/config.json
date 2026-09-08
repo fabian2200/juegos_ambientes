@@ -46,7 +46,7 @@
       "svg": {
         "5": {
           "lienzo": { "w": 389, "h": 522 },
-          "escala": 57,
+          "escala": 53,
           "piezas": [
             { "id": "cabeza", "archivo": "cabeza.svg", "x": -18, "y": -51, "w": 389, "h": 522 },
             { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
@@ -63,7 +63,7 @@
       "svg": {
         "5": {
           "lienzo": { "w": 389, "h": 522 },
-          "escala": 57,
+          "escala": 53,
           "piezas": [
             { "id": "cabeza", "archivo": "cabeza.svg", "x": 0, "y": -62, "w": 389, "h": 522 },
             { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },

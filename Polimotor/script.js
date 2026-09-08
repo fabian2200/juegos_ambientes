@@ -376,7 +376,7 @@ async function reproducirConversacion() {
 function iniciarIntro() {
     agendarIntro(function () {
         if (cerrardo || conversacionCancelada) return;
-        $("#principal").fadeToggle(1000);
+        $("#principal").fadeOut(1000);
         $("#fondo_blanco").fadeToggle(3000);
         agendarIntro(function () {
             if (cerrardo || conversacionCancelada) return;
@@ -401,7 +401,7 @@ function cerrar_anuncio() {
         nube.style.display = "none";
         salirPersonajes(function () {
             document.querySelector(".overlay").style.display = "none";
-            $("#principal").fadeToggle(1000);
+            $("#principal").css("display", "flex").hide().fadeIn(1000);
             elegirCuerpo();
         });
     }, 2000);
@@ -826,7 +826,6 @@ async function mostrarFiguraCompleta() {
     await sleep(gameConfig.tiempoMostrarCompleto || 2000);
     if (modoSvgActivo()) restaurarSombraSvg();
     armarTablero();
-    mostrarInstruccion();
 }
 
 function armarTablero() {
@@ -881,13 +880,6 @@ function armarTablero() {
     requestAnimationFrame(function () {
         requestAnimationFrame(sizePiezasAHuecos);
     });
-}
-
-function mostrarInstruccion() {
-    const enunciado = document.getElementById("enunciado");
-    if (enunciado) {
-        enunciado.innerHTML = gameConfig.textos.instruccion;
-    }
 }
 
 function feedbackActivo() {
@@ -1428,7 +1420,7 @@ function terminarJuego() {
     reproducirAudio(gameConfig.audios && gameConfig.audios.cierre);
 
     setTimeout(function () {
-        $("#principal").fadeToggle(500);
+        $("#principal").fadeOut(500);
         setTimeout(function () {
             document.getElementById("final").style.backgroundImage = "url(../images/victoria.gif)";
             document.getElementById("texto_final").innerText = gameConfig.textos.cierre;
