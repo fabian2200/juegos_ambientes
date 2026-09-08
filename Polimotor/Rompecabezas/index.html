@@ -1,46 +1,27 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Polimotor</title>
+	<title>Rompecabezas del cuerpo humano</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<style>
-		body {
-			margin: 0;
-			min-height: 100vh;
-			display: flex;
-			align-items: center;
-			justify-content: center;
-			font-family: Arial, sans-serif;
-			background: #f7fbff;
-		}
-		.box {
-			text-align: center;
-			padding: 32px;
-		}
-		h1 { margin: 0 0 24px; color: #1a237e; }
-		a {
-			display: block;
-			margin: 12px auto;
-			max-width: 420px;
-			padding: 18px 24px;
-			border-radius: 16px;
-			text-decoration: none;
-			font-size: 22px;
-			font-weight: bold;
-			color: #111;
-			border: 3px solid #fff;
-		}
-		a.rompecabezas { background: #ffd54f; }
-		a.reconocimiento { background: #81d4fa; }
-	</style>
+	<link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
+	<script src="../../bootstrap/jquery.min.js"></script>
+	<script src="../../bootstrap/sweetalert.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="../../fontawesome/css/all.min.css">
 </head>
 <body>
-	<div class="box">
-		<h1>Polimotor</h1>
-		<a class="rompecabezas" href="Rompecabezas/">Rompecabezas del cuerpo</a>
-		<a class="reconocimiento" href="Reconocimiento/">Reconocimiento de partes</a>
+	<div style="display: none" class="overlay">
+		<div id="personajes-container"></div>
+		<div class="nube nube-centro">
+			<div class="nube-contenido">
+				<p class="borde2" id="bienvenida"></p>
+			</div>
+		</div>
+		<div style="z-index: 1003;position: absolute;top: 20pt;left: 20pt;">
+			<button onclick="cerrar_anuncio()" id="btnomitir" class="btn btn-warning" style="width: auto; padding: 4pt; border-radius: 8pt; font-size: 30px; color: black;">Omitir <i style="color: black" class="fa fa-forward" aria-hidden="true"></i></button>
+		</div>
 	</div>
 
 	<div style="display: none; background-color: rgba(255, 255, 255, 0.664); width: 100%; height: 100%; position: fixed; z-index: 100;" id="fondo_blanco"></div>
@@ -65,15 +46,20 @@
 
 	<div id="principal">
 		<div class="hud-top">
+			<div class="hud-acciones">
+				<button type="button" id="btn-ver" class="btn btn-hud btn-ver" title="Ver de nuevo" hidden><i class="fa-solid fa-eye"></i> Ver de nuevo</button>
+			</div>
+			<div class="hud-centro">
+				<h1 class="borde" id="enunciado"></h1>
+			</div>
 			<div class="hud-nav">
 				<div id="progreso" class="hud-progreso" hidden></div>
-				<button type="button" id="btn-ver" class="btn btn-success btn-round" title="Pista" hidden><i class="fa-solid fa-eye"></i></button>
 				<button onclick="location.reload()" class="btn btn-warning btn-round"><i class="fa-solid fa-rotate"></i></button>
 				<button onclick="history.back()" class="btn btn-danger btn-round"><i class="fa-solid fa-arrow-left"></i></button>
 			</div>
 		</div>
 
-		<div class="escenario" id="escenario" style="padding-top: 15px;">
+		<div class="escenario" id="escenario">
 			<div class="lienzo-wrap">
 				<div id="lienzo">
 					<img id="img-silueta" alt="Silueta guía" hidden>

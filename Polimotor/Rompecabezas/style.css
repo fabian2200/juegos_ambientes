@@ -1,6 +1,6 @@
 @font-face {
   font-family: nunito_bold;
-  src: url(../nunito/Nunito-ExtraBold.ttf);
+  src: url(../../nunito/Nunito-ExtraBold.ttf);
 }
 
 html,
@@ -469,7 +469,7 @@ body.viendo-completo #piezas-colocadas {
   z-index: -1;
   pointer-events: none;
   opacity: 0;
-  content: url("../images/normal1.gif") url("../images/normal2.gif") url("../images/ciencia/normal1.gif") url("../images/ciencia/normal2.gif");
+  content: url("../../images/normal1.gif") url("../../images/normal2.gif") url("../../images/ciencia/normal1.gif") url("../../images/ciencia/normal2.gif");
 }
 
 .preload-gifs {
@@ -562,7 +562,7 @@ body.viendo-completo #piezas-colocadas {
 }
 
 .nube {
-  background-image: url(../images/nube.png);
+  background-image: url(../../images/nube.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: min(510px);

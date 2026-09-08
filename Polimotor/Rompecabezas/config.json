@@ -9,11 +9,11 @@
     "duracion": 2000,
     "acierto": {
       "texto": "¡Muy bien! Esa parte va ahí.",
-      "gif": "../images/correcto.gif"
+      "gif": "../../images/correcto.gif"
     },
     "error": {
       "texto": "¡Inténtalo otra vez! Observa dónde puede ir.",
-      "gif": "../images/incorrecto.gif"
+      "gif": "../../images/incorrecto.gif"
     }
   },
   "accesibilidad": {
@@ -34,10 +34,10 @@
     "cierre": "¡Excelente! Completaste el rompecabezas del cuerpo humano."
   },
   "audios": {
-    "acierto": "../sounds/ok.mp3",
-    "error": "../sounds/over.mp3",
-    "cierre": "../sounds/victory.mp3",
-    "fondo": "../sounds/fondo.mp3"
+    "acierto": "../../sounds/ok.mp3",
+    "error": "../../sounds/over.mp3",
+    "cierre": "../../sounds/victory.mp3",
+    "fondo": "../../sounds/fondo.mp3"
   },
   "cuerpos": {
     "nina": {
