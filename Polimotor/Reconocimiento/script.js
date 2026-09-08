@@ -507,7 +507,7 @@ function elegirCuerpo() {
 function confirmarCuerpo(tipo) {
     cuerpoElegido = tipo;
     Swal.close();
-    elegirNivel();
+    setTimeout(elegirNivel, 50);
 }
 window.confirmarCuerpo = confirmarCuerpo;
 
@@ -536,7 +536,7 @@ function elegirNivel() {
 function confirmarNivel(id) {
     nivelElegido = gameConfig.niveles.find(function (n) { return n.id === id; });
     Swal.close();
-    iniciarEscenario();
+    setTimeout(iniciarEscenario, 50);
 }
 window.confirmarNivel = confirmarNivel;
 
