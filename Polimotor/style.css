@@ -158,30 +158,6 @@ body {
   display: none !important;
 }
 
-.panel-acc {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin: 0 0 8px;
-}
-
-.panel-acc button {
-  font-size: 12px;
-  font-weight: bold;
-  min-height: 34px;
-  padding: 4px 10px;
-  border-radius: 10px;
-  border: 2px solid #fff;
-  background: #cfd8dc;
-  color: #222;
-  cursor: pointer;
-}
-
-.panel-acc button.activo {
-  background: #66bb6a;
-  color: #fff;
-}
-
 .escenario {
   flex: 1;
   display: flex;
@@ -236,44 +212,25 @@ body.modo-svg #lienzo {
   transform-origin: 0 0;
 }
 
-#figura-svg .svg-parte-trazo,
-#figura-svg mask {
+#figura-svg .svg-parte.sombra .svg-parte-color,
+#figura-svg .svg-parte:not(.sombra) .svg-parte-gris {
+  visibility: hidden;
   pointer-events: none;
 }
 
-#figura-svg .svg-parte-mask :is(path, circle, ellipse, polygon, polyline, rect) {
-  fill: #000 !important;
-  fill-opacity: 1 !important;
-  stroke: #000 !important;
-  stroke-opacity: 1 !important;
-  stroke-width: 3px;
-  stroke-dasharray: none;
-  vector-effect: non-scaling-stroke;
-}
-
-#figura-svg .svg-parte:not(.sombra) .svg-parte-trazo,
-body.sin-punteado #figura-svg .svg-parte-trazo {
-  display: none;
-}
-
-#figura-svg .svg-parte.sombra .svg-parte-fill :is(path, circle, ellipse, polygon, polyline, rect) {
-  fill: #3a3a3a !important;
-  fill-opacity: 1 !important;
-  stroke: #3a3a3a !important;
-  stroke-opacity: 1 !important;
-  stroke-width: 2px;
-  stroke-dasharray: none;
-  vector-effect: non-scaling-stroke;
-}
-
-body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-trazo :is(path, circle, ellipse, polygon, polyline, rect) {
-  fill: none !important;
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris path,
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris circle,
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris ellipse,
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris polygon,
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris polyline,
+body:not(.sin-punteado) #figura-svg .svg-parte.sombra .svg-parte-gris rect {
   stroke: var(--borde-silueta) !important;
-  stroke-width: 7px;
-  stroke-dasharray: 8 5;
+  stroke-width: 5px;
+  stroke-dasharray: 14 8;
   stroke-linejoin: round;
   stroke-linecap: round;
   vector-effect: non-scaling-stroke;
+  paint-order: fill stroke;
 }
 
 body.alto-contraste #figura-svg {
@@ -347,6 +304,14 @@ body.viendo-completo #piezas-colocadas {
   box-shadow: 0 0 18px #ffd54f;
 }
 
+#figura-svg .svg-parte.resalte .svg-parte-gris {
+  filter: drop-shadow(0 0 14px #ffd54f);
+}
+
+#figura-svg .svg-parte.resalte .svg-parte-gris :is(path, circle, ellipse, polygon, polyline, rect) {
+  fill: #ffe082 !important;
+}
+
 .zona-drop.pista-1 {
   box-shadow: 0 0 14px #66bb6a;
   background: rgba(102, 187, 106, 0.25);
@@ -356,15 +321,30 @@ body.viendo-completo #piezas-colocadas {
   animation: pistaGlow 1s ease-in-out infinite;
 }
 
-.zona-drop.ampliada::after {
-  content: "";
-  position: absolute;
-  inset: -12px;
+#figura-svg .svg-parte.pista-1 .svg-parte-gris {
+  filter: drop-shadow(0 0 10px #66bb6a);
+}
+
+#figura-svg .svg-parte.pista-1 .svg-parte-gris :is(path, circle, ellipse, polygon, polyline, rect) {
+  fill: #81c784 !important;
+}
+
+#figura-svg .svg-parte.pista-2 .svg-parte-gris {
+  animation: pistaGlowSvg 1s ease-in-out infinite;
+}
+
+#figura-svg .svg-parte.pista-2 .svg-parte-gris :is(path, circle, ellipse, polygon, polyline, rect) {
+  fill: #ffcc80 !important;
 }
 
 @keyframes pistaGlow {
   0%, 100% { box-shadow: 0 0 10px #ffeb3b; }
   50% { box-shadow: 0 0 28px #ff9800; }
+}
+
+@keyframes pistaGlowSvg {
+  0%, 100% { filter: drop-shadow(0 0 8px #ffeb3b); }
+  50% { filter: drop-shadow(0 0 22px #ff9800); }
 }
 
 .pieza-colocada {
@@ -396,10 +376,6 @@ body.viendo-completo #piezas-colocadas {
   background: rgba(255, 255, 255, 0.55);
   border-radius: 20px;
   border: 3px solid #fff;
-}
-
-body.zoom-piezas .bandeja {
-  gap: 20px;
 }
 
 .pieza {
@@ -442,8 +418,6 @@ body.zoom-piezas .bandeja {
   transform: scale(1.04);
 }
 
-body.zoom-piezas .pieza.seleccionada,
-body.zoom-piezas .pieza.arrastrando,
 .pieza.encaje {
   transform: none;
   outline-offset: 2px;
@@ -756,4 +730,103 @@ body.modo-tap .zona-drop {
 
 body.modo-tap .pieza {
   cursor: pointer;
+}
+
+.menu-acc {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 1500;
+}
+
+.menu-acc-fab {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  background: #1565c0;
+  color: #fff;
+  font-size: 28px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.28);
+}
+
+.menu-acc-fab:focus {
+  outline: 3px solid #ffd54f;
+  outline-offset: 2px;
+}
+
+.menu-acc-panel {
+  position: absolute;
+  right: 0;
+  bottom: 76px;
+  width: min(320px, calc(100vw - 32px));
+  max-height: min(70vh, 480px);
+  overflow: auto;
+  background: #fff;
+  color: #222;
+  border: 3px solid #1565c0;
+  border-radius: 16px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.28);
+  padding: 10px 12px 12px;
+}
+
+.menu-acc-cab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.menu-acc-cerrar {
+  width: 36px;
+  height: 36px;
+  border: 0;
+  background: transparent;
+  font-size: 28px;
+  line-height: 1;
+  cursor: pointer;
+  color: #222;
+}
+
+.menu-acc-ops {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.menu-acc-op {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 6px 4px;
+  border-radius: 8px;
+}
+
+.menu-acc-op input {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  accent-color: #1565c0;
+}
+
+body.alto-contraste .menu-acc-fab {
+  background: #000;
+  border-color: #ffeb3b;
+  color: #ffeb3b;
+}
+
+body.alto-contraste .menu-acc-panel {
+  background: #111;
+  color: #fff;
+  border-color: #ffeb3b;
+}
+
+body.alto-contraste .menu-acc-cerrar {
+  color: #fff;
 }

@@ -17,6 +17,7 @@ let audioFondo = null;
 let tableroListo = false;
 let verDeNuevoTimer = null;
 let siluetaOcultaAntes = false;
+let pistaPiezaId = null;
 
 const COLORES = {
     cabeza: "#f4a261",
@@ -421,8 +422,10 @@ function reproducirAudio(ruta, volumen, loop) {
     }
 }
 
-function rutaPieza(archivo) {
-    return gameConfig.cuerpos[cuerpoElegido].carpeta + "/" + nivelElegido.id + "/" + archivo;
+function rutaPieza(archivo, variante) {
+    const base = gameConfig.cuerpos[cuerpoElegido].carpeta + "/" + nivelElegido.id;
+    if (variante) return base + "/" + variante + "/" + archivo;
+    return base + "/" + archivo;
 }
 
 function layoutSvg() {
@@ -504,6 +507,16 @@ function extraerHijosSvg(texto) {
     return hijos;
 }
 
+function appendCapaSvg(destino, archivo, variante, clase) {
+    const capa = document.createElementNS(destino.namespaceURI, "g");
+    capa.setAttribute("class", clase);
+    extraerHijosSvg(readText(rutaPieza(archivo, variante))).forEach(function (nodo) {
+        capa.appendChild(document.importNode(nodo, true));
+    });
+    destino.appendChild(capa);
+    return capa;
+}
+
 function armarSiluetaSvg(layout) {
     if (!layout || !layout.lienzo) return;
     const lienzo = document.getElementById("lienzo");
@@ -526,38 +539,8 @@ function armarSiluetaSvg(layout) {
         g.setAttribute("class", "svg-parte");
         g.setAttribute("data-id", p.id);
         g.style.transform = "translate(" + Number(p.x || 0) + "%, " + Number(p.y || 0) + "%)";
-
-        const fill = document.createElementNS(NS, "g");
-        fill.setAttribute("class", "svg-parte-fill");
-        extraerHijosSvg(readText(rutaPieza(p.archivo))).forEach(function (nodo) {
-            fill.appendChild(document.importNode(nodo, true));
-        });
-
-        const maskId = "silueta-mask-" + p.id;
-        const mask = document.createElementNS(NS, "mask");
-        mask.setAttribute("id", maskId);
-        mask.setAttribute("maskUnits", "userSpaceOnUse");
-        mask.setAttribute("maskContentUnits", "userSpaceOnUse");
-
-        const fondo = document.createElementNS(NS, "rect");
-        fondo.setAttribute("x", String(-W));
-        fondo.setAttribute("y", String(-H));
-        fondo.setAttribute("width", String(W * 3));
-        fondo.setAttribute("height", String(H * 3));
-        fondo.setAttribute("fill", "#ffffff");
-        mask.appendChild(fondo);
-
-        const knock = fill.cloneNode(true);
-        knock.setAttribute("class", "svg-parte-mask");
-        mask.appendChild(knock);
-
-        const trazo = fill.cloneNode(true);
-        trazo.setAttribute("class", "svg-parte-trazo");
-        trazo.setAttribute("mask", "url(#" + maskId + ")");
-
-        g.appendChild(mask);
-        g.appendChild(trazo);
-        g.appendChild(fill);
+        appendCapaSvg(g, p.archivo, "gris", "svg-parte-gris");
+        appendCapaSvg(g, p.archivo, "color", "svg-parte-color");
         svg.appendChild(g);
     });
 
@@ -604,58 +587,76 @@ function acc() {
     return gameConfig.accesibilidad || {};
 }
 
-const ACC_BOTONES = [
-    { key: "altoContraste", label: "Contraste" },
-    { key: "modoTap", label: "Toque" },
-    { key: "zoomPiezas", label: "Zoom fichas" },
-    { key: "zoomLongPress", label: "Zoom mantener" },
-    { key: "huecosPunteados", label: "Punteado" },
-    { key: "grillaFija", label: "Grilla" },
-    { key: "resaltarDestino", label: "Resaltar" },
-    { key: "verBotonVerDeNuevo", label: "Botón ver" },
-    { key: "pistaPorFallos", label: "Pistas" },
-    { key: "mostrarProgreso", label: "Progreso" },
-    { key: "hitboxExtra", label: "Hitbox", valores: [0, 12, 24] }
+const ACC_OPCIONES = [
+    { key: "altoContraste", label: "Alto contraste" },
+    { key: "modoTap", label: "Tocar en vez de arrastrar" },
+    { key: "zoomLongPress", label: "Ampliar pieza al mantener" },
+    { key: "huecosPunteados", label: "Borde punteado" },
+    { key: "grillaFija", label: "Piezas en grilla" },
+    { key: "resaltarDestino", label: "Resaltar destino" },
+    { key: "verBotonVerDeNuevo", label: "Botón ver de nuevo" },
+    { key: "pistaPorFallos", label: "Pistas por errores" },
+    { key: "mostrarProgreso", label: "Mostrar progreso" }
 ];
 
-function accActiva(item) {
-    const a = acc();
-    if (item.valores) return Number(a[item.key] || 0) > 0;
-    return !!a[item.key];
+function setMenuAcc(abierto) {
+    const wrap = document.getElementById("menu-acc");
+    const panel = document.getElementById("menu-acc-panel");
+    const btn = document.getElementById("btn-menu-acc");
+    if (!wrap || !panel || !btn) return;
+    panel.hidden = !abierto;
+    btn.setAttribute("aria-expanded", abierto ? "true" : "false");
+    wrap.classList.toggle("abierto", abierto);
 }
 
-function textoBotonAcc(item) {
-    if (item.valores) return item.label + " " + (acc()[item.key] || 0);
-    return item.label;
-}
-
-function pintarPanelAcc() {
-    const panel = document.getElementById("panel-acc");
-    if (!panel) return;
-    panel.innerHTML = "";
-    ACC_BOTONES.forEach(function (item) {
-        const btn = document.createElement("button");
-        btn.type = "button";
-        btn.dataset.key = item.key;
-        btn.textContent = textoBotonAcc(item);
-        btn.classList.toggle("activo", accActiva(item));
-        btn.addEventListener("click", function () {
-            alternarAcc(item);
+function pintarMenuAcc() {
+    const caja = document.getElementById("menu-acc-ops");
+    if (!caja) return;
+    if (!caja.dataset.listo) {
+        ACC_OPCIONES.forEach(function (item) {
+            const lab = document.createElement("label");
+            lab.className = "menu-acc-op";
+            const inp = document.createElement("input");
+            inp.type = "checkbox";
+            inp.dataset.acc = item.key;
+            inp.addEventListener("change", function () {
+                if (!gameConfig.accesibilidad) gameConfig.accesibilidad = {};
+                gameConfig.accesibilidad[item.key] = inp.checked;
+                aplicarAccesibilidadInicial();
+            });
+            const texto = document.createElement("span");
+            texto.textContent = item.label;
+            lab.appendChild(inp);
+            lab.appendChild(texto);
+            caja.appendChild(lab);
         });
-        panel.appendChild(btn);
+        caja.dataset.listo = "1";
+    }
+    caja.querySelectorAll("input[data-acc]").forEach(function (inp) {
+        inp.checked = !!acc()[inp.dataset.acc];
     });
 }
 
-function alternarAcc(item) {
-    if (!gameConfig.accesibilidad) gameConfig.accesibilidad = {};
-    if (item.valores) {
-        const actual = Number(acc()[item.key] || 0);
-        const i = item.valores.indexOf(actual);
-        gameConfig.accesibilidad[item.key] = item.valores[(i + 1) % item.valores.length];
-    } else {
-        gameConfig.accesibilidad[item.key] = !acc()[item.key];
+function enlazarMenuAcc() {
+    const btn = document.getElementById("btn-menu-acc");
+    const cerrar = document.getElementById("btn-cerrar-acc");
+    if (btn) {
+        btn.addEventListener("click", function (ev) {
+            ev.stopPropagation();
+            const panel = document.getElementById("menu-acc-panel");
+            setMenuAcc(panel && panel.hidden);
+        });
     }
-    aplicarAccesibilidadInicial();
+    if (cerrar) {
+        cerrar.addEventListener("click", function () {
+            setMenuAcc(false);
+        });
+    }
+    document.addEventListener("pointerdown", function (ev) {
+        const menu = document.getElementById("menu-acc");
+        if (menu && !menu.contains(ev.target)) setMenuAcc(false);
+    });
+    pintarMenuAcc();
 }
 
 function aplicarGrillaBandeja() {
@@ -687,7 +688,6 @@ function aplicarAccesibilidadInicial() {
     const a = acc();
     document.body.classList.toggle("alto-contraste", !!a.altoContraste);
     document.body.classList.toggle("modo-tap", !!a.modoTap);
-    document.body.classList.toggle("zoom-piezas", !!a.zoomPiezas);
     document.body.classList.toggle("sin-punteado", a.huecosPunteados === false);
     document.body.classList.toggle("grilla-fija", a.grillaFija !== false);
 
@@ -698,7 +698,7 @@ function aplicarAccesibilidadInicial() {
     aplicarGrillaBandeja();
     actualizarProgreso();
     mostrarReferenciaAyuda();
-    pintarPanelAcc();
+    pintarMenuAcc();
     if (tableroListo) sizePiezasAHuecos();
 }
 
@@ -758,6 +758,7 @@ window.confirmarNivel = confirmarNivel;
 
 function iniciarEscenario() {
     tableroListo = false;
+    pistaPiezaId = null;
     ocultarVistaCompleta();
     const piezas = piezasDelNivel();
     piezasEstado = piezas.map(function (p) {
@@ -833,14 +834,12 @@ function armarTablero() {
     const bandeja = document.getElementById("bandeja");
     zonas.innerHTML = "";
     bandeja.innerHTML = "";
-    const extra = acc().hitboxExtra || 0;
     const svg = modoSvgActivo();
 
     piezasEstado.forEach(function (pieza) {
         if (!svg && pieza.zona) {
             const zona = document.createElement("div");
             zona.className = "zona-drop";
-            if (extra) zona.classList.add("ampliada");
             zona.dataset.id = pieza.id;
             zona.style.left = pieza.zona.x + "%";
             zona.style.top = pieza.zona.y + "%";
@@ -988,17 +987,12 @@ function enlazarPieza(el, pieza) {
     });
 }
 
-function destinoFill(id) {
-    const parte = destinoEl(id);
-    if (!parte) return null;
-    return parte.querySelector(".svg-parte-fill") || parte;
-}
-
 function bboxPiezaSvg(id) {
-    const parte = destinoFill(id);
-    if (!parte || typeof parte.getBBox !== "function") return null;
+    const parte = destinoEl(id);
+    const capa = parte && (parte.querySelector(".svg-parte-color") || parte);
+    if (!capa || typeof capa.getBBox !== "function") return null;
     try {
-        const bb = parte.getBBox();
+        const bb = capa.getBBox();
         if (!bb.width || !bb.height) return null;
         return bb;
     } catch (e) {
@@ -1020,7 +1014,7 @@ function pintarFichaSvg(ficha, pieza) {
     const svg = document.createElementNS(NS, "svg");
     svg.setAttribute("viewBox", vx + " " + vy + " " + vw + " " + vh);
     svg.setAttribute("preserveAspectRatio", "xMidYMid meet");
-    extraerHijosSvg(readText(rutaPieza(archivo))).forEach(function (nodo) {
+    extraerHijosSvg(readText(rutaPieza(archivo, "color"))).forEach(function (nodo) {
         svg.appendChild(document.importNode(nodo, true));
     });
     ficha.innerHTML = "";
@@ -1030,7 +1024,7 @@ function pintarFichaSvg(ficha, pieza) {
 
 function tamanoZona(id) {
     if (modoSvgActivo()) {
-        const parte = destinoFill(id);
+        const parte = destinoEl(id);
         if (parte) {
             const r = parte.getBoundingClientRect();
             if (r.width > 1 && r.height > 1) {
@@ -1075,6 +1069,7 @@ function restaurarTamanoPiezas() {
 }
 
 function seleccionarPieza(id) {
+    avisarPiezaActiva(id);
     piezaSeleccionada = id;
     restaurarTamanoPiezas();
     document.querySelectorAll(".pieza").forEach(function (p) {
@@ -1086,6 +1081,7 @@ function seleccionarPieza(id) {
 }
 
 function iniciarArrastre(ev, el, pieza) {
+    avisarPiezaActiva(pieza.id);
     dragActivo = { id: pieza.id, el: el };
     el.classList.add("arrastrando");
     reducirParaEncaje(el, pieza.id);
@@ -1125,7 +1121,7 @@ function cancelarArrastre(el) {
 }
 
 function finalizarArrastre(ev, el, pieza) {
-    const zonaId = zonaBajoPunto(ev.clientX, ev.clientY);
+    const zonaId = zonaBajoPunto(ev.clientX, ev.clientY, pieza.id);
     cancelarArrastre(el);
     quitarResalte();
     if (!zonaId) {
@@ -1135,29 +1131,113 @@ function finalizarArrastre(ev, el, pieza) {
     intentarColocar(pieza.id, zonaId);
 }
 
-function zonaBajoPunto(x, y) {
-    const destinos = destinosDrop();
+function capaHitSvg(parte) {
+    if (!parte) return null;
+    if (parte.classList.contains("sombra")) {
+        return parte.querySelector(".svg-parte-gris") || parte;
+    }
+    return parte.querySelector(".svg-parte-color") || parte;
+}
+
+function puntoEnRect(rect, x, y) {
+    if (!rect || rect.width < 1 || rect.height < 1) return false;
+    return x >= rect.left && x <= rect.right && y >= rect.top && y <= rect.bottom;
+}
+
+function solapaRect(a, b) {
+    if (!a || !b || a.width < 1 || a.height < 1 || b.width < 1 || b.height < 1) return 0;
+    const w = Math.max(0, Math.min(a.right, b.right) - Math.max(a.left, b.left));
+    const h = Math.max(0, Math.min(a.bottom, b.bottom) - Math.max(a.top, b.top));
+    return (w * h) / (a.width * a.height);
+}
+
+function puntoEnPinturaSvg(parte, x, y) {
+    const svg = parte.closest("#figura-svg");
+    if (!svg) return false;
+    const hermanos = svg.querySelectorAll(".svg-parte");
+    const previo = [];
+    for (let i = 0; i < hermanos.length; i++) {
+        if (hermanos[i] === parte) continue;
+        previo.push([hermanos[i], hermanos[i].style.pointerEvents]);
+        hermanos[i].style.pointerEvents = "none";
+    }
+    const lista = document.elementsFromPoint(x, y);
+    for (let i = 0; i < previo.length; i++) {
+        previo[i][0].style.pointerEvents = previo[i][1];
+    }
+    for (let i = 0; i < lista.length; i++) {
+        const el = lista[i];
+        if (el.closest && el.closest(".svg-parte") === parte) return true;
+    }
+    return false;
+}
+
+function umbralSolape() {
+    const p = Number(gameConfig.porcentajeAcierto);
+    if (p > 0 && p <= 100) return p / 100;
+    return 0.6;
+}
+
+function rectCapaDestino(destino) {
+    if (!destino) return null;
+    if (destino.classList.contains("svg-parte")) {
+        const capa = capaHitSvg(destino);
+        return (capa || destino).getBoundingClientRect();
+    }
+    return destino.getBoundingClientRect();
+}
+
+function mejorDestinoPorSolape(fichaRect) {
+    let mejor = { id: null, solape: 0 };
+    if (!fichaRect || fichaRect.width < 1 || fichaRect.height < 1) return mejor;
+    destinosDrop().forEach(function (d) {
+        if (d.classList.contains("colocada") || d.style.visibility === "hidden") return;
+        const s = solapaRect(fichaRect, rectCapaDestino(d));
+        if (s > mejor.solape) mejor = { id: d.dataset.id, solape: s };
+    });
+    return mejor;
+}
+
+function zonaBajoPunto(x, y, piezaId) {
+    const umbral = umbralSolape();
+    if (fantasma) {
+        const fichaRect = fantasma.getBoundingClientRect();
+        if (piezaId) {
+            const correcta = destinoEl(piezaId);
+            if (correcta && !correcta.classList.contains("colocada")) {
+                const s = solapaRect(fichaRect, rectCapaDestino(correcta));
+                if (s > umbral) return piezaId;
+            }
+        }
+        const mejor = mejorDestinoPorSolape(fichaRect);
+        if (mejor.id && mejor.id !== piezaId && mejor.solape > umbral) return mejor.id;
+        return null;
+    }
+
     if (modoSvgActivo()) {
+        if (piezaId) {
+            const correcta = destinoEl(piezaId);
+            if (
+                correcta &&
+                !correcta.classList.contains("colocada") &&
+                (puntoEnPinturaSvg(correcta, x, y) || puntoEnRect(rectCapaDestino(correcta), x, y))
+            ) {
+                return piezaId;
+            }
+        }
         const lista = document.elementsFromPoint(x, y);
         for (let i = 0; i < lista.length; i++) {
             const el = lista[i];
             const parte = el.closest ? el.closest(".svg-parte") : null;
-            if (parte && parte.closest("#figura-svg")) return parte.dataset.id;
+            if (!parte || !parte.closest("#figura-svg") || parte.classList.contains("colocada")) continue;
+            return parte.dataset.id;
         }
         return null;
     }
+
     let encontrada = null;
-    const extra = acc().hitboxExtra || 0;
-    destinos.forEach(function (zona) {
-        const r = zona.getBoundingClientRect();
-        if (
-            x >= r.left - extra &&
-            x <= r.right + extra &&
-            y >= r.top - extra &&
-            y <= r.bottom + extra
-        ) {
-            encontrada = zona.dataset.id;
-        }
+    destinosDrop().forEach(function (zona) {
+        if (puntoEnRect(zona.getBoundingClientRect(), x, y)) encontrada = zona.dataset.id;
     });
     return encontrada;
 }
@@ -1165,7 +1245,7 @@ function zonaBajoPunto(x, y) {
 function resaltarZona(id) {
     if (!acc().resaltarDestino) return;
     destinosDrop().forEach(function (z) {
-        z.classList.toggle("resalte", z.dataset.id === id);
+        z.classList.toggle("resalte", z.dataset.id === id && !z.classList.contains("colocada"));
     });
 }
 
@@ -1195,6 +1275,7 @@ function intentarColocar(piezaId, zonaId) {
 
 function colocarPieza(pieza) {
     pieza.colocada = true;
+    if (pistaPiezaId === pieza.id) pistaPiezaId = null;
     const ficha = document.querySelector('.pieza[data-id="' + pieza.id + '"]');
     if (ficha) ficha.remove();
 
@@ -1202,7 +1283,7 @@ function colocarPieza(pieza) {
         const parte = destinoEl(pieza.id);
         if (parte) {
             parte.classList.add("colocada");
-            parte.classList.remove("sombra");
+            parte.classList.remove("sombra", "pista-1", "pista-2");
         }
     } else if (pieza.zona) {
         const colocada = document.createElement("div");
@@ -1227,21 +1308,55 @@ function colocarPieza(pieza) {
     });
 }
 
+function intentosPista(nivel) {
+    if (nivel === 2) {
+        const n = Number(gameConfig.fallosPista2);
+        return n > 0 ? n : 3;
+    }
+    const n = Number(gameConfig.fallosPista1);
+    return n > 0 ? n : 2;
+}
+
+function quitarPistasVisuales() {
+    destinosDrop().forEach(function (z) {
+        z.classList.remove("pista-1");
+        z.classList.remove("pista-2");
+    });
+}
+
+function reiniciarPista() {
+    quitarPistasVisuales();
+    if (pistaPiezaId) {
+        const previa = piezasEstado.find(function (p) { return p.id === pistaPiezaId; });
+        if (previa) previa.fallos = 0;
+    }
+    pistaPiezaId = null;
+}
+
+function avisarPiezaActiva(id) {
+    if (pistaPiezaId && pistaPiezaId !== id) reiniciarPista();
+}
+
 function fallarPieza(pieza) {
+    if (pistaPiezaId && pistaPiezaId !== pieza.id) reiniciarPista();
     pieza.fallos += 1;
     const ficha = document.querySelector('.pieza[data-id="' + pieza.id + '"]');
     rebotar(ficha);
     mostrarFeedback("error");
     reproducirAudio(gameConfig.audios && gameConfig.audios.error);
 
-    const umbral = gameConfig.fallosParaPista || 2;
     const zona = destinoEl(pieza.id);
     if (!zona || acc().pistaPorFallos === false) return;
-    if (pieza.fallos >= umbral + 1) {
+    const n1 = intentosPista(1);
+    const n2 = intentosPista(2);
+    if (pieza.fallos >= n2) {
         zona.classList.add("pista-2");
         zona.classList.remove("pista-1");
-    } else if (pieza.fallos >= umbral) {
+        pistaPiezaId = pieza.id;
+    } else if (pieza.fallos >= n1) {
         zona.classList.add("pista-1");
+        zona.classList.remove("pista-2");
+        pistaPiezaId = pieza.id;
     }
 }
 
@@ -1326,6 +1441,7 @@ $(document).ready(function () {
     introConfig = JSON.parse(readText("intro.json"));
     gameConfig = JSON.parse(readText("config.json"));
     aplicarAccesibilidadInicial();
+    enlazarMenuAcc();
 
     document.getElementById("btn-ver").addEventListener("click", function () {
         if (!acc().verBotonVerDeNuevo) return;
@@ -1335,7 +1451,7 @@ $(document).ready(function () {
     document.getElementById("lienzo").addEventListener("pointerup", function (ev) {
         if (!acc().modoTap || !piezaSeleccionada || juegoTerminado) return;
         if (ev.target.closest && ev.target.closest(".pieza")) return;
-        const zonaId = zonaBajoPunto(ev.clientX, ev.clientY);
+        const zonaId = zonaBajoPunto(ev.clientX, ev.clientY, piezaSeleccionada);
         if (zonaId) {
             intentarColocar(piezaSeleccionada, zonaId);
         }

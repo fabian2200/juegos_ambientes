@@ -58,7 +58,6 @@
 				<button onclick="history.back()" class="btn btn-danger btn-round"><i class="fa-solid fa-arrow-left"></i></button>
 			</div>
 		</div>
-		<div id="panel-acc" class="panel-acc"></div>
 
 		<div class="escenario" id="escenario">
 			<div class="lienzo-wrap">
@@ -77,6 +76,19 @@
 	</div>
 
 	<div id="zoom-pieza" class="zoom-pieza" hidden></div>
+
+	<div id="menu-acc" class="menu-acc">
+		<button type="button" id="btn-menu-acc" class="menu-acc-fab" aria-expanded="false" aria-controls="menu-acc-panel" title="Accesibilidad">
+			<i class="fa-solid fa-universal-access"></i>
+		</button>
+		<div id="menu-acc-panel" class="menu-acc-panel" hidden>
+			<div class="menu-acc-cab">
+				<strong>Accesibilidad</strong>
+				<button type="button" id="btn-cerrar-acc" class="menu-acc-cerrar" aria-label="Cerrar">×</button>
+			</div>
+			<div id="menu-acc-ops" class="menu-acc-ops"></div>
+		</div>
+	</div>
 
 	<script src="script.js"></script>
 </body>

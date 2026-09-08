@@ -1,8 +1,9 @@
 {
   "tiempoMostrarCompleto": 2000,
   "tiempoVerDeNuevo": 2000,
-  "umbralAcierto": 0.35,
-  "fallosParaPista": 2,
+  "porcentajeAcierto": 60,
+  "fallosPista1": 2,
+  "fallosPista2": 3,
   "mostrarFeedBack": true,
   "feedback": {
     "duracion": 2000,
@@ -18,11 +19,9 @@
   "accesibilidad": {
     "altoContraste": false,
     "modoTap": false,
-    "zoomPiezas": false,
     "zoomLongPress": false,
-    "huecosPunteados": true,
+    "huecosPunteados": false,
     "grillaFija": true,
-    "hitboxExtra": 12,
     "resaltarDestino": false,
     "verBotonVerDeNuevo": true,
     "pistaPorFallos": true,
@@ -35,8 +34,8 @@
     "cierre": "¡Excelente! Completaste el rompecabezas del cuerpo humano."
   },
   "audios": {
-    "acierto": "",
-    "error": "",
+    "acierto": "../sounds/ok.mp3",
+    "error": "../sounds/over.mp3",
     "cierre": "../sounds/victory.mp3",
     "fondo": "../sounds/fondo.mp3"
   },
@@ -44,14 +43,23 @@
     "nina": {
       "nombre": "Niña",
       "carpeta": "img/nina",
-      "silueta": "silueta.png",
-      "completo": "completo.png"
+      "svg": {
+        "5": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 57,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": -18, "y": -51, "w": 389, "h": 522 },
+            { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 23, "w": 260, "h": 231 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 23, "w": 261, "h": 231 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 12, "w": 389, "h": 522 }
+          ]
+        }
+      }
     },
     "nino": {
       "nombre": "Niño",
       "carpeta": "img/nino",
-      "silueta": "silueta.png",
-      "completo": "completo.png",
       "svg": {
         "5": {
           "lienzo": { "w": 389, "h": 522 },
@@ -59,8 +67,8 @@
           "piezas": [
             { "id": "cabeza", "archivo": "cabeza.svg", "x": 0, "y": -62, "w": 389, "h": 522 },
             { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
-            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 22, "w": 260, "h": 231 },
-            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 22, "w": 261, "h": 231 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 23, "w": 260, "h": 231 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 23, "w": 261, "h": 231 },
             { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 12, "w": 389, "h": 522 }
           ]
         }
