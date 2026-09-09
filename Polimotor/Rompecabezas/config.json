@@ -1,22 +1,23 @@
 {
-  "tiempoMostrarCompleto": 2000,
-  "tiempoVerDeNuevo": 2000,
-  "porcentajeAcierto": 60,
-  "fallosPista1": 2,
-  "fallosPista2": 3,
-  "mostrarFeedBack": true,
-  "feedback": {
-    "duracion": 2000,
-    "acierto": {
-      "texto": "¡Muy bien! Esa parte va ahí.",
-      "gif": "../../images/correcto.gif"
-    },
-    "error": {
-      "texto": "¡Inténtalo otra vez! Observa dónde puede ir.",
-      "gif": "../../images/incorrecto.gif"
-    }
-  },
   "accesibilidad": {
+    "piezasVisibles": 3,
+    "tiempoMostrarCompleto": 2000,
+    "tiempoVerDeNuevo": 2000,
+    "porcentajeAcierto": 60,
+    "fallosPista1": 2,
+    "fallosPista2": 3,
+    "mostrarFeedBack": true,
+    "feedback": {
+      "duracion": 2000,
+      "acierto": {
+        "texto": "¡Muy bien! Esa parte va ahí.",
+        "gif": "../../images/correcto.gif"
+      },
+      "error": {
+        "texto": "¡Inténtalo otra vez! Observa dónde puede ir.",
+        "gif": "../../images/incorrecto.gif"
+      }
+    },
     "altoContraste": false,
     "modoTap": false,
     "zoomLongPress": false,

@@ -772,6 +772,7 @@ function iniciarEscenario() {
             w: p.w,
             h: p.h,
             colocada: false,
+            enBandeja: false,
             fallos: 0,
             color: COLORES[p.id] || "#90caf9"
         };
@@ -823,9 +824,99 @@ function restaurarSombraSvg() {
 async function mostrarFiguraCompleta() {
     document.getElementById("escenario").style.visibility = "visible";
     if (modoSvgActivo()) mostrarColorSvg();
-    await sleep(gameConfig.tiempoMostrarCompleto || 2000);
+    await sleep(acc().tiempoMostrarCompleto || 2000);
     if (modoSvgActivo()) restaurarSombraSvg();
     armarTablero();
+}
+
+function piezasVisiblesConfig() {
+    const n = Number(acc().piezasVisibles);
+    if (!n || n < 1) return 1;
+    if (n > 10) return 10;
+    return Math.floor(n);
+}
+
+function piezasPendientesBandeja() {
+    return piezasEstado.filter(function (p) {
+        return !p.colocada && !p.enBandeja;
+    });
+}
+
+function piezasActivasEnBandeja() {
+    return piezasEstado.filter(function (p) {
+        return !p.colocada && p.enBandeja;
+    });
+}
+
+function animarEntradaFichas(selector) {
+    document.querySelectorAll(selector).forEach(function (ficha, i) {
+        setTimeout(function () {
+            ficha.classList.add("pieza-visible");
+            ficha.classList.remove("pieza-entrada");
+        }, 90 * i);
+    });
+}
+
+function posicionarFichasSuelta(fichas) {
+    if (acc().grillaFija !== false) return;
+    fichas.forEach(function (ficha) {
+        ficha.style.left = Math.floor(Math.random() * 55) + "%";
+        ficha.style.top = Math.floor(Math.random() * 55) + "%";
+    });
+}
+
+function crearFichaBandeja(pieza) {
+    const bandeja = document.getElementById("bandeja");
+    const svg = modoSvgActivo();
+    const ficha = document.createElement("div");
+
+    pieza.enBandeja = true;
+    ficha.className = "pieza pieza-entrada";
+    ficha.dataset.id = pieza.id;
+    ficha.setAttribute("aria-label", pieza.nombre);
+
+    if (svg) {
+        pintarFichaSvg(ficha, pieza);
+    } else {
+        aplicarImagenFondo(ficha, pieza.archivo, pieza.nombre, pieza.color);
+    }
+
+    enlazarPieza(ficha, pieza);
+    bandeja.appendChild(ficha);
+    return ficha;
+}
+
+function agregarPiezasABandeja(cantidad) {
+    const pendientes = piezasPendientesBandeja();
+    const aMostrar = pendientes.slice(0, cantidad);
+    if (!aMostrar.length) return;
+
+    const bandeja = document.getElementById("bandeja");
+    bandeja.classList.toggle("bandeja-soltada", acc().grillaFija === false);
+
+    const nuevasFichas = aMostrar.map(function (pieza) {
+        return crearFichaBandeja(pieza);
+    });
+
+    posicionarFichasSuelta(nuevasFichas);
+
+    requestAnimationFrame(function () {
+        requestAnimationFrame(function () {
+            nuevasFichas.forEach(function (ficha) {
+                aplicarTamanoHueco(ficha, ficha.dataset.id);
+            });
+            animarEntradaFichas("#bandeja .pieza.pieza-entrada");
+        });
+    });
+}
+
+function verificarSiguienteLote() {
+    if (juegoTerminado || piezasActivasEnBandeja().length > 0) return;
+
+    const pendientes = piezasPendientesBandeja();
+    if (!pendientes.length) return;
+
+    agregarPiezasABandeja(Math.min(piezasVisiblesConfig(), pendientes.length));
 }
 
 function armarTablero() {
@@ -836,6 +927,8 @@ function armarTablero() {
     const svg = modoSvgActivo();
 
     piezasEstado.forEach(function (pieza) {
+        pieza.enBandeja = false;
+
         if (!svg && pieza.zona) {
             const zona = document.createElement("div");
             zona.className = "zona-drop";
@@ -851,43 +944,21 @@ function armarTablero() {
             });
             zonas.appendChild(zona);
         }
-
-        const ficha = document.createElement("div");
-        ficha.className = "pieza";
-        ficha.dataset.id = pieza.id;
-        ficha.setAttribute("aria-label", pieza.nombre);
-        if (svg) {
-            pintarFichaSvg(ficha, pieza);
-        } else {
-            aplicarImagenFondo(ficha, pieza.archivo, pieza.nombre, pieza.color);
-        }
-        enlazarPieza(ficha, pieza);
-        bandeja.appendChild(ficha);
     });
 
-    bandeja.classList.toggle("bandeja-soltada", acc().grillaFija === false);
-    if (acc().grillaFija === false) {
-        const fichas = bandeja.querySelectorAll(".pieza");
-        fichas.forEach(function (ficha) {
-            ficha.style.left = Math.floor(Math.random() * 55) + "%";
-            ficha.style.top = Math.floor(Math.random() * 55) + "%";
-        });
-    }
+    agregarPiezasABandeja(piezasVisiblesConfig());
 
     mostrarReferenciaAyuda();
     tableroListo = true;
     actualizarProgreso();
-    requestAnimationFrame(function () {
-        requestAnimationFrame(sizePiezasAHuecos);
-    });
 }
 
 function feedbackActivo() {
-    return !gameConfig || gameConfig.mostrarFeedBack !== false;
+    return acc().mostrarFeedBack !== false;
 }
 
 function cfgFeedback(tipo) {
-    const fb = (gameConfig && gameConfig.feedback) || {};
+    const fb = acc().feedback || {};
     const item = fb[tipo] || {};
     const defaults = {
         acierto: { texto: "¡Muy bien! Esa parte va ahí.", gif: "../../images/correcto.gif" },
@@ -1165,7 +1236,7 @@ function puntoEnPinturaSvg(parte, x, y) {
 }
 
 function umbralSolape() {
-    const p = Number(gameConfig.porcentajeAcierto);
+    const p = Number(acc().porcentajeAcierto);
     if (p > 0 && p <= 100) return p / 100;
     return 0.6;
 }
@@ -1267,9 +1338,19 @@ function intentarColocar(piezaId, zonaId) {
 
 function colocarPieza(pieza) {
     pieza.colocada = true;
+    pieza.enBandeja = false;
     if (pistaPiezaId === pieza.id) pistaPiezaId = null;
     const ficha = document.querySelector('.pieza[data-id="' + pieza.id + '"]');
-    if (ficha) ficha.remove();
+    if (ficha) {
+        ficha.classList.remove("pieza-visible", "pieza-entrada", "seleccionada", "arrastrando");
+        ficha.classList.add("pieza-saliendo");
+        setTimeout(function () {
+            if (ficha.parentNode) ficha.remove();
+            verificarSiguienteLote();
+        }, 300);
+    } else {
+        verificarSiguienteLote();
+    }
 
     if (modoSvgActivo()) {
         const parte = destinoEl(pieza.id);
@@ -1302,10 +1383,10 @@ function colocarPieza(pieza) {
 
 function intentosPista(nivel) {
     if (nivel === 2) {
-        const n = Number(gameConfig.fallosPista2);
+        const n = Number(acc().fallosPista2);
         return n > 0 ? n : 3;
     }
-    const n = Number(gameConfig.fallosPista1);
+    const n = Number(acc().fallosPista1);
     return n > 0 ? n : 2;
 }
 
@@ -1393,14 +1474,14 @@ function verDeNuevo() {
         mostrarColorSvg();
         document.body.classList.add("viendo-completo");
         clearTimeout(verDeNuevoTimer);
-        verDeNuevoTimer = setTimeout(ocultarVistaCompleta, gameConfig.tiempoVerDeNuevo || 2000);
+        verDeNuevoTimer = setTimeout(ocultarVistaCompleta, acc().tiempoVerDeNuevo || 2000);
         return;
     }
     const silueta = document.getElementById("img-silueta");
     if (silueta) silueta.hidden = true;
     document.body.classList.add("viendo-completo");
     clearTimeout(verDeNuevoTimer);
-    verDeNuevoTimer = setTimeout(ocultarVistaCompleta, gameConfig.tiempoVerDeNuevo || 2000);
+    verDeNuevoTimer = setTimeout(ocultarVistaCompleta, acc().tiempoVerDeNuevo || 2000);
 }
 
 function ocultarVistaCompleta() {
