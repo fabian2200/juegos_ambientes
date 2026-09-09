@@ -46,13 +46,42 @@
       "svg": {
         "5": {
           "lienzo": { "w": 389, "h": 522 },
-          "escala": 53,
+          "escala": 65,
           "piezas": [
-            { "id": "cabeza", "archivo": "cabeza.svg", "x": -18, "y": -51, "w": 389, "h": 522 },
-            { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
-            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 23, "w": 260, "h": 231 },
-            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 23, "w": 261, "h": 231 },
-            { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 12, "w": 389, "h": 522 }
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": -12, "y": -50 },
+            { "id": "piernas", "archivo": "piernas.svg", "x": 5, "y": 88 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -18, "y": 16 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 61, "y": 16 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": 8, "y": 12 }
+          ]
+        },
+        "7": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 69,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": -14, "y": -42 },
+            { "id": "pierna_der", "archivo": "pierna_der.svg", "x": 10, "y": 71 },
+            { "id": "pierna_izq", "archivo": "pierna_izq.svg", "x": 41, "y": 71 },
+            { "id": "pies", "archivo": "pies.svg", "x": 7.7, "y": 116 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -21, "y": 24 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 59, "y": 24 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": 18, "y": 23 }
+          ]
+        },
+        "10": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 69,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": -14, "y": -42 },
+            { "id": "pierna_der", "archivo": "pierna_der.svg", "x": 10, "y": 71 },
+            { "id": "pierna_izq", "archivo": "pierna_izq.svg", "x": 41, "y": 71 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -8, "y": 26 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 26 },
+            { "id": "mano_der", "archivo": "mano_der.svg", "x": -20, "y": 53 },
+            { "id": "mano_izq", "archivo": "mano_izq.svg", "x": 96, "y": 53 },
+            { "id": "pie_izq", "archivo": "pie_izq.svg", "x": 57.6, "y": 117 },
+            { "id": "pie_der", "archivo": "pie_der.svg", "x": 3.7, "y": 117 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": 18, "y": 23 }
           ]
         }
       }
@@ -63,13 +92,42 @@
       "svg": {
         "5": {
           "lienzo": { "w": 389, "h": 522 },
-          "escala": 53,
+          "escala": 59,
           "piezas": [
-            { "id": "cabeza", "archivo": "cabeza.svg", "x": 0, "y": -62, "w": 389, "h": 522 },
-            { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 91, "w": 382, "h": 303 },
-            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -31, "y": 23, "w": 260, "h": 231 },
-            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 60, "y": 23, "w": 261, "h": 231 },
-            { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 12, "w": 389, "h": 522 }
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": 0, "y": -55 },
+            { "id": "piernas", "archivo": "piernas.svg", "x": 0, "y": 98 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -29, "y": 29 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 59, "y": 29 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": -2, "y": 19 }
+          ]
+        }, 
+        "7": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 64,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": 5, "y": -45 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -25, "y": 27 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 57, "y": 27 },
+            { "id": "pierna_izq", "archivo": "pierna_izq.svg", "x": 40, "y": 76 },
+            { "id": "pierna_der", "archivo": "pierna_der.svg", "x": 5, "y": 76 },
+            { "id": "pies", "archivo": "pies.svg", "x": 4.3, "y": 125 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": 15, "y": 27 }
+          ]
+        },
+        "10": {
+          "lienzo": { "w": 389, "h": 522 },
+          "escala": 64,
+          "piezas": [
+            { "id": "cabeza", "archivo": "cabeza.svg", "x": 5, "y": -45 },
+            { "id": "brazo_der", "archivo": "brazo_der.svg", "x": -11, "y": 29 },
+            { "id": "brazo_izq", "archivo": "brazo_izq.svg", "x": 58, "y": 29 },
+            { "id": "mano_der", "archivo": "mano_der.svg", "x": -23, "y": 56 },
+            { "id": "mano_izq", "archivo": "mano_izq.svg", "x": 94, "y": 56 },
+            { "id": "pierna_izq", "archivo": "pierna_izq.svg", "x": 40, "y": 76 },
+            { "id": "pie_izq", "archivo": "pie_izq.svg", "x": 55.6, "y": 122 },
+            { "id": "pierna_der", "archivo": "pierna_der.svg", "x": 5, "y": 76 },
+            { "id": "pie_der", "archivo": "pie_der.svg", "x": -0.5, "y": 122 },
+            { "id": "tronco", "archivo": "tronco.svg", "x": 15, "y": 27 }
           ]
         }
       }
@@ -87,9 +145,9 @@
       "titulo": "7 piezas"
     },
     {
-      "id": "9",
+      "id": "10",
       "edad": "5-6 años",
-      "titulo": "9 piezas"
+      "titulo": "10 piezas"
     }
   ]
 }
